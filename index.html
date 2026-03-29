@@ -37,7 +37,7 @@
             padding: 48px 24px;
         }
 
-        /* Header - 杂志风格大标题 */
+        /* Header */
         header {
             text-align: center;
             margin-bottom: 56px;
@@ -67,112 +67,76 @@
             font-style: italic;
         }
 
-        /* 日期导航 */
-        .date-nav {
+        /* Section 区块 - GitHub / HN / Twitter */
+        .section {
+            margin-bottom: 32px;
+        }
+
+        .section-header {
             display: flex;
             align-items: center;
-            justify-content: center;
-            gap: 16px;
-            margin-top: 24px;
-        }
-
-        .nav-btn {
-            background: none;
-            border: 1px solid var(--light);
-            width: 40px;
-            height: 40px;
-            border-radius: 50%;
-            cursor: pointer;
-            font-size: 1rem;
-            color: var(--muted);
-            transition: all 0.2s;
-        }
-
-        .nav-btn:hover {
-            border-color: var(--ink);
-            color: var(--ink);
-        }
-
-        .current-date {
-            font-size: 0.9rem;
-            font-weight: 500;
-            min-width: 140px;
-            text-align: center;
-        }
-
-        /* Tab 切换 */
-        .tabs {
-            display: flex;
-            justify-content: center;
-            gap: 8px;
-            margin-bottom: 48px;
-            flex-wrap: wrap;
-        }
-
-        .tab {
-            padding: 10px 24px;
-            border: none;
-            background: var(--light);
-            color: var(--muted);
-            font-size: 0.875rem;
-            font-weight: 500;
-            cursor: pointer;
-            border-radius: 24px;
-            transition: all 0.2s;
-            font-family: inherit;
-        }
-
-        .tab:hover { color: var(--ink); }
-
-        .tab.active {
-            background: var(--ink);
-            color: var(--paper);
-        }
-
-        .tab.active[data-type="github"] { background: var(--github); }
-        .tab.active[data-type="hn"] { background: var(--hn); }
-        .tab.active[data-type="twitter"] { background: var(--twitter); }
-
-        /* 文章卡片 - 杂志风格 */
-        .articles {
-            display: flex;
-            flex-direction: column;
-            gap: 24px;
-        }
-
-        .article {
+            gap: 12px;
+            padding: 16px 20px;
             background: #fff;
             border: 1px solid var(--light);
-            padding: 28px 32px;
-            transition: all 0.3s ease;
-            position: relative;
+            cursor: pointer;
+            transition: all 0.2s;
         }
 
-        .article:hover {
-            box-shadow: var(--shadow-hover);
-            transform: translateY(-2px);
+        .section-header:hover {
+            border-color: var(--ink);
         }
 
-        .article-rank {
-            position: absolute;
-            top: 20px;
-            left: 24px;
-            font-family: 'Noto Serif SC', serif;
-            font-size: 2rem;
-            font-weight: 700;
-            color: var(--light);
-            line-height: 1;
+        .section-header.github { border-left: 4px solid var(--github); }
+        .section-header.hn { border-left: 4px solid var(--hn); }
+        .section-header.twitter { border-left: 4px solid var(--twitter); }
+
+        .section-icon {
+            font-size: 1.5rem;
         }
 
-        .article-content {
-            padding-left: 48px;
-        }
-
-        .article-title {
+        .section-title {
             font-family: 'Noto Serif SC', Georgia, serif;
             font-size: 1.25rem;
             font-weight: 600;
-            margin-bottom: 8px;
+            flex: 1;
+        }
+
+        .section-toggle {
+            font-size: 0.8rem;
+            color: var(--muted);
+        }
+
+        .section-content {
+            display: none;
+            background: #fff;
+            border: 1px solid var(--light);
+            border-top: none;
+        }
+
+        .section-content.expanded {
+            display: block;
+        }
+
+        /* 文章列表 */
+        .article {
+            padding: 20px 24px;
+            border-bottom: 1px solid var(--light);
+            transition: background 0.2s;
+        }
+
+        .article:last-child {
+            border-bottom: none;
+        }
+
+        .article:hover {
+            background: #fafafa;
+        }
+
+        .article-title {
+            font-size: 1rem;
+            font-weight: 500;
+            margin-bottom: 6px;
             line-height: 1.4;
         }
 
@@ -184,22 +148,22 @@
 
         .article-title a:hover {
             color: var(--accent);
+            text-decoration: underline;
         }
 
         .article-meta {
             display: flex;
             align-items: center;
             gap: 12px;
-            font-size: 0.8rem;
+            font-size: 0.75rem;
             color: var(--muted);
-            margin-bottom: 12px;
+            margin-bottom: 8px;
         }
 
         .article-lang {
             background: var(--light);
-            padding: 2px 8px;
+            padding: 2px 6px;
             border-radius: 4px;
-            font-size: 0.7rem;
             font-family: 'JetBrains Mono', monospace;
         }
 
@@ -209,16 +173,9 @@
         }
 
         .article-summary {
+            font-size: 0.875rem;
             color: var(--muted);
-            font-size: 0.95rem;
-            line-height: 1.7;
-        }
-
-        /* 加载状态 */
-        .loading, .empty {
-            text-align: center;
-            padding: 80px 20px;
-            color: var(--muted);
+            line-height: 1.6;
         }
 
         /* Footer */
@@ -240,14 +197,18 @@
             text-decoration: underline;
         }
 
+        /* Loading / Empty */
+        .loading, .empty, .error {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--muted);
+        }
+
         /* 响应式 */
         @media (max-width: 640px) {
             .container { padding: 32px 16px; }
-            .article { padding: 20px; }
-            .article-content { padding-left: 0; }
-            .article-rank { position: static; margin-bottom: 12px; }
-            .tabs { gap: 6px; }
-            .tab { padding: 8px 16px; font-size: 0.8rem; }
+            .section-header { padding: 12px 16px; }
+            .article { padding: 16px; }
         }
     </style>
 </head>
@@ -257,22 +218,9 @@
             <div class="date-label">Daily Tech Report</div>
             <h1>技术日报</h1>
             <p class="tagline">每日技术资讯精选 · 洞悉行业脉搏</p>
-            
-            <div class="date-nav">
-                <button class="nav-btn" id="prevDay">←</button>
-                <span class="current-date" id="currentDate"></span>
-                <button class="nav-btn" id="nextDay">→</button>
-            </div>
         </header>
 
-        <div class="tabs">
-            <button class="tab active" data-type="all">全部</button>
-            <button class="tab" data-type="github">GitHub</button>
-            <button class="tab" data-type="hn">Hacker News</button>
-            <button class="tab" data-type="twitter">AI Twitter</button>
-        </div>
-
-        <main class="articles" id="articles">
+        <main id="content">
             <div class="loading">加载中...</div>
         </main>
 
@@ -282,127 +230,158 @@
     </div>
 
     <script>
-        // 状态
-        let currentDate = new Date();
-        let currentType = 'all';
         let reportsData = {};
-
-        // 初始化
-        document.addEventListener('DOMContentLoaded', () => {
-            initTabs();
-            initDateNav();
-            loadData();
-        });
-
-        function initTabs() {
-            document.querySelectorAll('.tab').forEach(tab => {
-                tab.addEventListener('click', () => {
-                    document.querySelector('.tab.active').classList.remove('active');
-                    tab.classList.add('active');
-                    currentType = tab.dataset.type;
-                    renderArticles();
-                });
-            });
-        }
-
-        function initDateNav() {
-            document.getElementById('prevDay').addEventListener('click', () => {
-                currentDate.setDate(currentDate.getDate() - 1);
-                loadData();
-            });
-            document.getElementById('nextDay').addEventListener('click', () => {
-                const tomorrow = new Date();
-                tomorrow.setDate(tomorrow.getDate() + 1);
-                if (currentDate < tomorrow) {
-                    currentDate.setDate(currentDate.getDate() + 1);
-                    loadData();
-                }
-            });
-            updateDateDisplay();
-        }
-
-        function updateDateDisplay() {
-            const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-            document.getElementById('currentDate').textContent = currentDate.toLocaleDateString('zh-CN', options);
-        }
-
-        function getDateKey(date) {
-            return date.toISOString().split('T')[0];
-        }
+        
+        // 自动加载当天数据
+        const today = new Date();
+        const dateKey = today.toISOString().split('T')[0];
 
         async function loadData() {
-            const container = document.getElementById('articles');
+            const container = document.getElementById('content');
             container.innerHTML = '<div class="loading">加载中...</div>';
-            
-            const dateKey = getDateKey(currentDate);
-            updateDateDisplay();
 
             try {
                 const response = await fetch(`data/${dateKey}.json`);
                 if (response.ok) {
                     reportsData = await response.json();
                 } else {
-                    reportsData = { reports: [] };
+                    renderEmpty(container, dateKey);
+                    return;
                 }
             } catch (e) {
-                reportsData = { reports: [] };
-            }
-
-            renderArticles();
-        }
-
-        function renderArticles() {
-            const container = document.getElementById('articles');
-            let reports = reportsData.reports || [];
-            
-            if (currentType !== 'all') {
-                reports = reports.filter(r => r.type === currentType);
-            }
-
-            if (reports.length === 0) {
-                container.innerHTML = `<div class="empty">暂无数据<br><small>${getDateKey(currentDate)}</small></div>`;
+                renderEmpty(container, dateKey);
                 return;
             }
 
-            container.innerHTML = reports.map((report, index) => {
-                const content = parseContent(report.content);
-                
-                return `
-                    <article class="article">
-                        <div class="article-rank">${index + 1}</div>
-                        <div class="article-content">
-                            <h2 class="article-title">
-                                <a href="${report.url || '#'}" target="_blank" rel="noopener">${report.title}</a>
-                            </h2>
-                            <div class="article-meta">
-                                <span class="source-badge">${getSourceLabel(report.type)}</span>
-                                ${report.stars ? `<span class="article-stars">⭐ ${report.stars}</span>` : ''}
-                            </div>
-                            <p class="article-summary">${report.summary || content}</p>
-                        </div>
-                    </article>
-                `;
-            }).join('');
+            renderSections(container);
         }
 
-        function getSourceLabel(type) {
-            const labels = {
-                github: 'GitHub Trending',
-                hn: 'Hacker News',
-                twitter: 'AI Twitter'
-            };
-            return labels[type] || type;
+        function renderSections(container) {
+            const reports = reportsData.reports || [];
+            
+            // 按类型分组
+            const github = reports.filter(r => r.type === 'github');
+            const hn = reports.filter(r => r.type === 'hn');
+            const twitter = reports.filter(r => r.type === 'twitter');
+
+            let html = '';
+
+            // GitHub 区块
+            if (github.length > 0) {
+                html += renderSection('github', '🔰', 'GitHub Trending', github);
+            }
+
+            // Hacker News 区块
+            if (hn.length > 0) {
+                html += renderSection('hn', '📰', 'Hacker News', hn);
+            }
+
+            // Twitter 区块
+            if (twitter.length > 0) {
+                html += renderSection('twitter', '🐦', 'AI Twitter', twitter);
+            }
+
+            if (!html) {
+                renderEmpty(container, dateKey);
+                return;
+            }
+
+            // 默认全部展开
+            document.querySelectorAll('.section-content').forEach(el => el.classList.add('expanded'));
+            
+            container.innerHTML = html;
+            
+            // 绑定点击事件
+            document.querySelectorAll('.section-header').forEach(header => {
+                header.addEventListener('click', () => {
+                    const content = header.nextElementSibling;
+                    content.classList.toggle('expanded');
+                    header.querySelector('.section-toggle').textContent = 
+                        content.classList.contains('expanded') ? '▼ 点击收起' : '▶ 点击展开';
+                });
+            });
+
+            // 初始状态文字
+            document.querySelectorAll('.section-header').forEach(header => {
+                header.querySelector('.section-toggle').textContent = '▼ 点击收起';
+            });
         }
 
-        function parseContent(markdown) {
-            if (!markdown) return '';
-            return markdown
-                .replace(/^#+ .+$/gm, '')
-                .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
-                .replace(/[*_`]/g, '')
-                .replace(/\n+/g, ' ')
-                .substring(0, 200);
+        function renderSection(type, icon, title, articles) {
+            if (!articles || articles.length === 0) return '';
+
+            const items = articles.map((article, idx) => `
+                <div class="article">
+                    <div class="article-title">
+                        <a href="${article.url || '#'}" target="_blank" rel="noopener">${article.title}</a>
+                    </div>
+                    <div class="article-meta">
+                        <span>${idx + 1}</span>
+                        ${article.stars ? `<span class="article-stars">⭐ ${article.stars}</span>` : ''}
+                    </div>
+                    ${article.summary ? `<p class="article-summary">${article.summary}</p>` : ''}
+                </div>
+            `).join('');
+
+            return `
+                <div class="section">
+                    <div class="section-header ${type}">
+                        <span class="section-icon">${icon}</span>
+                        <span class="section-title">${title}</span>
+                        <span class="section-toggle">▶ 点击展开</span>
+                    </div>
+                    <div class="section-content">
+                        ${items}
+                    </div>
+                </div>
+            `;
         }
+
+        function renderSections(container) {
+            const reports = reportsData.reports || [];
+            
+            const github = reports.filter(r => r.type === 'github');
+            const hn = reports.filter(r => r.type === 'hn');
+            const twitter = reports.filter(r => r.type === 'twitter');
+
+            let html = '';
+            html += renderSection('github', '🔰', 'GitHub Trending', github);
+            html += renderSection('hn', '📰', 'Hacker News', hn);
+            html += renderSection('twitter', '🐦', 'AI Twitter', twitter);
+
+            if (!html) {
+                renderEmpty(container, dateKey);
+                return;
+            }
+
+            container.innerHTML = html;
+
+            // 绑定点击事件 - 默认展开
+            document.querySelectorAll('.section-header').forEach(header => {
+                header.addEventListener('click', () => {
+                    const content = header.nextElementSibling;
+                    content.classList.toggle('expanded');
+                    const toggle = header.querySelector('.section-toggle');
+                    toggle.textContent = content.classList.contains('expanded') ? '▼ 点击收起' : '▶ 点击展开';
+                });
+            });
+
+            // 默认展开
+            document.querySelectorAll('.section-content').forEach(el => el.classList.add('expanded'));
+            document.querySelectorAll('.section-toggle').forEach(el => el.textContent = '▼ 点击收起');
+        }
+
+        function renderEmpty(container, dateKey) {
+            container.innerHTML = `
+                <div class="empty">
+                    <p>暂无数据</p>
+                    <small>${dateKey}</small>
+                </div>
+            `;
+        }
+
+        // 页面加载时获取当天数据
+        document.addEventListener('DOMContentLoaded', loadData);
     </script>
 </body>
 </html>
