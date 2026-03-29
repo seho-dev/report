@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>技术日报 | Daily Tech Report</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=DM+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --ink: #1a1a1a;
+            --paper: #fafaf8;
+            --muted: #6b6b6b;
+            --light: #e8e8e5;
+            --accent: #c9463d;
+            --github: #238636;
+            --hn: #ff6600;
+            --twitter: #1da1f2;
+            --shadow: 0 4px 20px rgba(0,0,0,0.08);
+            --shadow-hover: 0 8px 32px rgba(0,0,0,0.12);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'DM Sans', -apple-system, sans-serif;
+            background: var(--paper);
+            color: var(--ink);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 48px 24px;
+        }
+
+        /* Header - 杂志风格大标题 */
+        header {
+            text-align: center;
+            margin-bottom: 56px;
+            padding-bottom: 32px;
+            border-bottom: 2px solid var(--ink);
+        }
+
+        .date-label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            color: var(--muted);
+            margin-bottom: 12px;
+        }
+
+        h1 {
+            font-family: 'Noto Serif SC', Georgia, serif;
+            font-size: clamp(2rem, 5vw, 3rem);
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            margin-bottom: 8px;
+        }
+
+        .tagline {
+            font-size: 0.95rem;
+            color: var(--muted);
+            font-style: italic;
+        }
+
+        /* 日期导航 */
+        .date-nav {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 16px;
+            margin-top: 24px;
+        }
+
+        .nav-btn {
+            background: none;
+            border: 1px solid var(--light);
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 1rem;
+            color: var(--muted);
+            transition: all 0.2s;
+        }
+
+        .nav-btn:hover {
+            border-color: var(--ink);
+            color: var(--ink);
+        }
+
+        .current-date {
+            font-size: 0.9rem;
+            font-weight: 500;
+            min-width: 140px;
+            text-align: center;
+        }
+
+        /* Tab 切换 */
+        .tabs {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+            margin-bottom: 48px;
+            flex-wrap: wrap;
+        }
+
+        .tab {
+            padding: 10px 24px;
+            border: none;
+            background: var(--light);
+            color: var(--muted);
+            font-size: 0.875rem;
+            font-weight: 500;
+            cursor: pointer;
+            border-radius: 24px;
+            transition: all 0.2s;
+            font-family: inherit;
+        }
+
+        .tab:hover { color: var(--ink); }
+
+        .tab.active {
+            background: var(--ink);
+            color: var(--paper);
+        }
+
+        .tab.active[data-type="github"] { background: var(--github); }
+        .tab.active[data-type="hn"] { background: var(--hn); }
+        .tab.active[data-type="twitter"] { background: var(--twitter); }
+
+        /* 文章卡片 - 杂志风格 */
+        .articles {
+            display: flex;
+            flex-direction: column;
+            gap: 24px;
+        }
+
+        .article {
+            background: #fff;
+            border: 1px solid var(--light);
+            padding: 28px 32px;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+
+        .article:hover {
+            box-shadow: var(--shadow-hover);
+            transform: translateY(-2px);
+        }
+
+        .article-rank {
+            position: absolute;
+            top: 20px;
+            left: 24px;
+            font-family: 'Noto Serif SC', serif;
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--light);
+            line-height: 1;
+        }
+
+        .article-content {
+            padding-left: 48px;
+        }
+
+        .article-title {
+            font-family: 'Noto Serif SC', Georgia, serif;
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 8px;
+            line-height: 1.4;
+        }
+
+        .article-title a {
+            color: var(--ink);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .article-title a:hover {
+            color: var(--accent);
+        }
+
+        .article-meta {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-size: 0.8rem;
+            color: var(--muted);
+            margin-bottom: 12px;
+        }
+
+        .article-lang {
+            background: var(--light);
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .article-stars {
+            color: var(--accent);
+            font-weight: 500;
+        }
+
+        .article-summary {
+            color: var(--muted);
+            font-size: 0.95rem;
+            line-height: 1.7;
+        }
+
+        /* 加载状态 */
+        .loading, .empty {
+            text-align: center;
+            padding: 80px 20px;
+            color: var(--muted);
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 48px 0 24px;
+            margin-top: 48px;
+            border-top: 1px solid var(--light);
+            color: var(--muted);
+            font-size: 0.8rem;
+        }
+
+        footer a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        /* 响应式 */
+        @media (max-width: 640px) {
+            .container { padding: 32px 16px; }
+            .article { padding: 20px; }
+            .article-content { padding-left: 0; }
+            .article-rank { position: static; margin-bottom: 12px; }
+            .tabs { gap: 6px; }
+            .tab { padding: 8px 16px; font-size: 0.8rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="date-label">Daily Tech Report</div>
+            <h1>技术日报</h1>
+            <p class="tagline">每日技术资讯精选 · 洞悉行业脉搏</p>
+            
+            <div class="date-nav">
+                <button class="nav-btn" id="prevDay">←</button>
+                <span class="current-date" id="currentDate"></span>
+                <button class="nav-btn" id="nextDay">→</button>
+            </div>
+        </header>
+
+        <div class="tabs">
+            <button class="tab active" data-type="all">全部</button>
+            <button class="tab" data-type="github">GitHub</button>
+            <button class="tab" data-type="hn">Hacker News</button>
+            <button class="tab" data-type="twitter">AI Twitter</button>
+        </div>
+
+        <main class="articles" id="articles">
+            <div class="loading">加载中...</div>
+        </main>
+
+        <footer>
+            <p>© 2026 技术日报 · <a href="#">关于</a></p>
+        </footer>
+    </div>
+
+    <script>
+        // 状态
+        let currentDate = new Date();
+        let currentType = 'all';
+        let reportsData = {};
+
+        // 初始化
+        document.addEventListener('DOMContentLoaded', () => {
+            initTabs();
+            initDateNav();
+            loadData();
+        });
+
+        function initTabs() {
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.addEventListener('click', () => {
+                    document.querySelector('.tab.active').classList.remove('active');
+                    tab.classList.add('active');
+                    currentType = tab.dataset.type;
+                    renderArticles();
+                });
+            });
+        }
+
+        function initDateNav() {
+            document.getElementById('prevDay').addEventListener('click', () => {
+                currentDate.setDate(currentDate.getDate() - 1);
+                loadData();
+            });
+            document.getElementById('nextDay').addEventListener('click', () => {
+                const tomorrow = new Date();
+                tomorrow.setDate(tomorrow.getDate() + 1);
+                if (currentDate < tomorrow) {
+                    currentDate.setDate(currentDate.getDate() + 1);
+                    loadData();
+                }
+            });
+            updateDateDisplay();
+        }
+
+        function updateDateDisplay() {
+            const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+            document.getElementById('currentDate').textContent = currentDate.toLocaleDateString('zh-CN', options);
+        }
+
+        function getDateKey(date) {
+            return date.toISOString().split('T')[0];
+        }
+
+        async function loadData() {
+            const container = document.getElementById('articles');
+            container.innerHTML = '<div class="loading">加载中...</div>';
+            
+            const dateKey = getDateKey(currentDate);
+            updateDateDisplay();
+
+            try {
+                const response = await fetch(`data/${dateKey}.json`);
+                if (response.ok) {
+                    reportsData = await response.json();
+                } else {
+                    reportsData = { reports: [] };
+                }
+            } catch (e) {
+                reportsData = { reports: [] };
+            }
+
+            renderArticles();
+        }
+
+        function renderArticles() {
+            const container = document.getElementById('articles');
+            let reports = reportsData.reports || [];
+            
+            if (currentType !== 'all') {
+                reports = reports.filter(r => r.type === currentType);
+            }
+
+            if (reports.length === 0) {
+                container.innerHTML = `<div class="empty">暂无数据<br><small>${getDateKey(currentDate)}</small></div>`;
+                return;
+            }
+
+            container.innerHTML = reports.map((report, index) => {
+                const content = parseContent(report.content);
+                
+                return `
+                    <article class="article">
+                        <div class="article-rank">${index + 1}</div>
+                        <div class="article-content">
+                            <h2 class="article-title">
+                                <a href="${report.url || '#'}" target="_blank" rel="noopener">${report.title}</a>
+                            </h2>
+                            <div class="article-meta">
+                                <span class="source-badge">${getSourceLabel(report.type)}</span>
+                                ${report.stars ? `<span class="article-stars">⭐ ${report.stars}</span>` : ''}
+                            </div>
+                            <p class="article-summary">${report.summary || content}</p>
+                        </div>
+                    </article>
+                `;
+            }).join('');
+        }
+
+        function getSourceLabel(type) {
+            const labels = {
+                github: 'GitHub Trending',
+                hn: 'Hacker News',
+                twitter: 'AI Twitter'
+            };
+            return labels[type] || type;
+        }
+
+        function parseContent(markdown) {
+            if (!markdown) return '';
+            return markdown
+                .replace(/^#+ .+$/gm, '')
+                .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+                .replace(/[*_`]/g, '')
+                .replace(/\n+/g, ' ')
+                .substring(0, 200);
+        }
+    </script>
+</body>
+</html>

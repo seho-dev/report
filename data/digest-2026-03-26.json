@@ -1,0 +1,647 @@
+{
+  "status": "ok",
+  "generatedAt": "2026-03-26T01:02:09.548Z",
+  "config": {
+    "language": "en",
+    "frequency": "daily",
+    "delivery": {
+      "method": "stdout"
+    }
+  },
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "🔬There Is No AlphaFold for Materials — AI for Materials Discovery with Heather Kulik",
+      "videoId": "KSCCKCz2x04",
+      "url": "https://youtube.com/watch?v=KSCCKCz2x04",
+      "publishedAt": "2026-03-24T00:00:00.000Z",
+      "transcript": "There's a school of thought that why should I bother to learn chemistry or physics or whatever when TAGPT know has PhD level understanding of that. Anyway, [music] >> Chach GPT is super good at Wikipedia level chemistry knowledge. I'm really interested in molecular design. Like how do you find a new liant that can go into a transition metal complex? So what that means is [music] it's some combination of atoms and it's going to bind to the metal and it's going to change its properties. The [music] thing I constantly do every time an LLM is updated is I just ask it, please design me a lian that [music] has 22 atoms. I can never get an answer that has 22 atoms. >> All right, we're really excited to have um Heather Kulic here. She's a professor of chemical engineering at MIT. Uh Heather has done some like amazing work in material science and computational chemistry. Um but we're particularly excited to have her here today because she has for almost her entire career been working on the intersection of using datadriven methods AI and using applying them to improve materials um and understanding materials. and uh she has a lot of like really interesting opinions about what works and how do you approach these problems to get the most out of them. So um yeah, we're really excited to um have you here and um yeah, maybe to get started, can you just tell us about like one of the coolest things you've done in your opinion for a AI engineering audience? >> Yeah, so uh my my group we work a lot in accelerated discovery of new materials. When I first started out, we were just really using AI to make predictions we'd normally make with computational models, just make them faster. But the question I would often get when we were doing that was, okay, but what's what's surprising? What's what's sort of something from AI that like I wouldn't have already known if I were a really smart chemist or a really smart material scientist. And you know, you make all these computational predictions. Has anyone actually made in the lab something that you predicted? Recently I was I was able to do a really nice demonstration where the answer to both of those questions you know was very clear from the work. So we were able to screen with artificial intelligence a set of uh thousands tens of thousands of materials where uh each individual experiment if it were done in the lab would have taken months to years. And through AI, we uncovered this sort of unexpected chemical phenomenon that led to a emergent property in in what's known as a polymer network. So plastics um that would make the polymer about four times tougher. And when we showed uh the design that AI had come up with to the experimentalists, they were really surprised. They would have never come on this on their own. Um and then we were able to convince them to make it in the lab. And in fact, it was it was this tougher material. And where this has applications is if we can make plastics um tougher than we, you know, can get more use out of them and it'll ultimately address some of the problems we have with overall durability and use of plastics. Um so I think that's that's an example of some of the promise of AI and materials discovery. >> Cool. So can can you uh dig into that a little bit? Um what was the surprising chemical discovery there? So, it's sort of hard for me to think about how to how to explain it without getting too deep into the chemistry, but basically these are molecules that have to break apart. And when they break apart, they make the overall structure that they're in tougher. So, a little part of the material breaks and that helps to dissipate the force. Normally, the way you would think about making it easier to break apart these small molecular components might be to create a hinge so they can kind of peel open instead of sliding apart. But what we discovered was that there was a fully quantum mechanical phenomenon. There was really no way for us to predict this, you know, based on anything else where the electrons just move around in a different way so that at this moment where the molecule is going to break apart, it's a lot more stabilized. um these types of concepts, they're sort of similar to what's kind of known about how catalysts and enzymes work, but it had never before been shown in in uh these polymer materials. >> So, this is sort of like the the the fuse in the Bay Bridge that sort of like allows the the bridge to keep it structural integrity during a earthquake by having a controlled break. Is that kind of >> Yeah. Yeah. So, we weren't the first ones to discover that phenomenon on its own. the general phenomenon that putting little places that could break to make the network stronger that was published in science magazine a couple years ago but the specific way we came up with to design the material to do this that was that was our new contribution. >> How did you you mentioned that you know you started off in accelerating kind of existing methods using uh you know sort of enhanced computation. What caused you to take that leap to more machine learning based methods? >> [sighs] >> So, you know, I I was drawn to datadriven discovery pretty early on, sort of before I even knew the phrase machine learning. And I guess I was just really excited by what you could learn from patterns and data. back then we were trying to call it chemformatics and just sort of trying to think about um you know in what ways could you unearth trends in data because I I started my career actually working kind of one molecule at a time or one material at a time and I was just impatient. I wanted to be able to sort of understand not just one molecule at a time and write one paper about it, which is something people would have been happy to do back when I was starting my career in the mid-200s, um, but to actually kind of unearth broader trends in in how you understand how material is going to behave. Somewhere around 2015 2016, I realized it was a bad idea to call things chemiratics and it was a good idea to start calling things machine learning. Um and I had a brilliant student uh John Paul Jana who's now I think a assistant director at uh Astroenica in Sweden um running their um inverse design program. He and I originally talked about all sorts of ways of thinking about materials design and he very quickly adapted that into training neural networks. Um, and um, that's sort of when, you know, I thought we were in the first sort of hype cycle, the first wave, but I think compared to what's going on right now, it was a tiny baby wave. >> I read in your paper that that was actually a a class project or something. >> Yeah. Yeah, that's right. You know, he just said, \"I have to do something for my homework.\" And that's how we that's how we bound into got into it. I've also read in your paper that you've done a lot of work like slightly more recently on active learning and using can you talk a little bit about that? >> Yeah. Yeah. So even that polymer um example I was giving that would have been active learning in principle but we sort of stopped after one generation because um because we had exhausted the space but um I think one of the areas where machine learning kind of just with what's out there right now has the most promise in chemical sciences is in solving multi-dimensional challenges. So right now we're working on a project in um metal organic frameworks where we're trying to solve tradeoffs uh relevant for uh direct capture of uh CO2 from the air. And so in order to find a material that's good for that, we would worry about its cost, its stability in um say aquous humid environments. Um its ability to take in CO2 over other molecules, its mechanical stability, is it going to hold up um under force? Um is it thermally stable? Can you heat it up and will it be okay? Um I'm just naming a few but in total um right now in an active learning campaign we're working on seven different objectives and usually just even for a not so accurate machine learning model you get you know at least 100 to a thousandfold speed up for every dimension you're optimizing over. So the real promise is going to be in searching for that needle in a hay stack um with say seven objectives and and doing something where you're not waiting for the models to be accurate before you start doing that optimization. That's really the promise of active learning. Yeah, that has an interesting parallel in my mind to the the pharma world where you have a lot of a lot of computational work in in the discovery process, but that actually getting it the drug out to in people's hands is often the bottleneck for a drug. >> And also, you know, what happens to the drug when it sits on the shelf for 3 months? >> Um that kind of thing. Yeah. >> Are these um medical organic frameworks? What are the kind of things that um they're they're used for for? >> They're used most in gas storage, sensing um and separations. They're used in com combination with polymer composits. They have really uh strong promise for CO2 capture especially, but people have looked at them for um catalysis. The limitation on catalysis has been, you know, how stable are they? So, one of the things we've spent a lot of time on is trying to be able to predict their stability. Um, but they're used for all sorts of things, even uh drug delivery. Um, uh, you know, uh, what they have the opportunity to do is really place precise chemical groups in specific orientations that can ultimately allow for what's known as host guest interaction. So basically kind of create a glove to have a targeted interaction with a with a guest molecule in the metal organic framework. >> I see. And just uh for the for the non-chemist metal organic framework Legos for for for chemistry is that >> Yeah. Yeah. Metal organic frameworks I think are going to be a little bit more of a household name among some engineers because they um the the discoverers of those uh materials just won the Nobel Prize in chemistry this year. Um so as as much as that can make something in chemistry a household name, but they're basically um like tinker toys or uh Legos. Um, and they have different building blocks that can be combined in basically infinite ways to create very precise chemistry. >> I see. >> Maybe for context, could we can we step back in like what are the techniques you were using before um you started or maybe in parallel with machine learning and how does machine learning help you um advance those? Like what are the roles of the two? So, >> so I I started my career studying what's known as transition malc catalysis. If you look at the periodic table, the middle of it contains a bunch of metals. A good example would be iron. Um, and all of those things sitting in the middle of the periodic table, they have uh what's what's referred to as an open shell. So the electrons in those those materials are not paired and they're not um they're as a result more reactive. Uh normally like the the way that you understand how they're going to behave. So that for instance they give rise to you know different combinations of these metals give rise to the catalysts that are used in a large number of transformations including the things that say feed and sustain most of the world's population such as the habberos process for ammonia synthesis. Um and the way going back 20 30 50 years that people understood these materials and could enable their rational design is through quantum mechanical modeling. um quantum mechanical modeling by using approximations to the Schroinger equation can be very accurate but is very computationally costly and so a single quantum mechanical prediction depending on the level of fidelity used could take hours to days to weeks and that's what I would have normally been doing before I got started in AI some of what we do these days is accelerating those quantum mechanical predictions as well as looking at um you know an area that I'm particularly excited about is that not all quantum mechanical approximations are equal and you can actually use ML models to kind of predict what the best approximation to use is depending on the material studied. >> Is that like closer is better or is it it some is it it's not really distance related >> in terms of which method is the right method to use? >> So we it it actually turns out to be quite complex. can't just determine it from heristics. So we actually in one area use the quantum mechanical wave function as inputs to uh neural networks to actually predict what is the right method to use and learn that mapping. >> I see I have a spicy question I want to ask. And so there's a school of thought that why should I bother to learn chemistry or physics or whatever when TGBT know as PhD level understanding of that anyway and shouldn't I just focus on being really good at using AI for stuff? So I want to hear your thoughts. My personal experience is that um and this will date itself immediately is is that is that uh Chad GPT is super good at Wikipedia level chemistry knowledge but one of my favorite things to actually throw at GPT as as an anecdote is I'm really interested in molecular design like how do you find a new liant um that can go into a transition metal complex and what that means is it's some combination of atoms and it's going to bind to the metal at all and it's going to change its properties. And so the thing I constantly do every time an LLM is updated is I just ask it please design me a lian that has uh 22 atoms. So the first time I've I've done that there are many lians out there that have 22 atoms and then I say I wanted to bind to the metal with two nitrogen atoms. I can never get an answer that has 22 atoms. So then you could try a range and see how many times you can get a range. And so that's that's maybe a trivial thing, but that's something that a expert chemist, you know, could do in a do in a second. Um, so there are really good introductions to chemistry that I think you can get through conversations with an LLM. Um, you can get a lot of insight into an area you're unfamiliar with. And for sure things have improved a lot. Like when I first tried typing in, you know, which exchange correlation functional should I use for this type of chemistry? The answers were completely wrong. They looked right, but they were completely wrong. I think things have gotten better because that knowledge is out there on the internet. It's in the training data, but I think there's a lot of things that um probably backing up a moment um you should learn chemistry well enough to know when when these models are right or wrong. Um and if you don't know any chemistry at all, it's hard to know if you're if you're assessing correctly. But I think that there are a lot of things that you don't have time to do a deep dive into that you can now get from say an LLM that can augment knowledge. But I think you have to start from somewhere and then use it as a tool rather than starting from zero and relying blindly on what an LLM will say. But one of my favorite things if if someone can get in one shot an LLM to generate me a 22 atom ligan I I would I would love to see it. >> It's probably going to be sounds like a challenge. Yeah. [laughter] the benchmark >> in the next uh >> the cool like 22 Adam Lian challenge go. >> What do you think the biggest gaps that machine learning has from your experience that like if you were an aspiring um ML engineer with looking to take on a new problem from the machine learning side? What do you think someone could work on which would really help the chemistry side? there are a lot of challenges out there where the data sets aren't large enough or diverse enough and so I think they've attracted less interest um so the ones closest to my heart are uh reactivity prediction so predicting which reactions will occur and and why especially in complex uh phenomena uh like in um you know multiple elements and and sort of predicting those transformations another thing that I think um there's not enough data on is just more diverse chemical bonding and more diverse uh chemistry. Um for me that's transition metals, but there's also questions of warm dense materials, sort of exotic phenomenon. We have really good data sets out there for really boring chemistry. Um so we have you know probably even if you're not a chemist you're familiar with um organic molecule data sets and organic molecules binding to proteins. Those are the common data sets out there. There's lots of challenges out there where the physics is much more complex and the things like how does matter behave when uh you shine light on it and you excite it into excited states. all all sorts of things like that receive relatively little attention because you know there may not be a benchmark or a leaderboard yet for that and so maybe it's on us chemists to generate more data sets so those leaderboards are out there but there's definitely you know a lot of interest in chemistry for which there has been less attention >> so in the protein world there's CASP right and people have been working on that for a while and this led to alpha fold like kind of without CASP alphafold probably wouldn't exist Is there like an equivalent to CASP in the material science world? >> So there are all sorts of repositories of fairly lowfidelity DFT data on crystallin materials. So materials project um open catalyst project these do provide good leaderboards but some of the limitations of that are the data comes from not very high fidelity density functional theory. So, I'd say that's a second um challenge is that we're all all the smartest ML engineers right now are learning on data that is not going to be reflective of experiment. There aren't big experimental data sets. For example, um one of the advantages of things like CASP is that it comes from an experimental ground truth. Um whereas uh that aspect it just isn't available in materials as much. We talked about CASP and you know the role of CASP and AlphaFold. Do you think that there is um like a problem a way of phrasing this that we could start collecting data at scale that we could um you know really have a community challenge which breaks open some open problem in your mind and maybe like uh maybe actually even stepping back beyond that. What what would you want to have if there was like an alpha fold um for materials? What would you want it to do? >> One kind of murky area, so maybe I'm not going to directly answer answer this question. One murky area for us is electronic structure calculations are expensive and uh they should in principle give you the right answer. They should from first principles give you the right answer of how a material is going to behave. And a lot of people are scaling these up right now with uh machine learned inatomic potentials on training data. And every time someone comes out with kind of a new data set trained on a and they call it a foundation potential, foundation model, it looks really good. And then you get it into your lab and you say, \"Okay, I want to use it for this problem I'm really excited about.\" And it starts doing kind of wacky things like molecules fall apart. I won't name names, but um there was one that made a huge splash this summer and people started declaring, \"Oh, this method is dead. This method is dead. We're all going to just use these neural network models.\" Now, um it's only in my hands, uh the one I'm still not naming is only about five times faster than my fastest DFT calculation on a GPU. And it also doesn't work all the time. So I would say we need a more transparent way of of trying to figure out um if these models can really replace conventional physics-based modeling. Um if they could if I could just give up ever doing a DFT calculation again and just rely on machine learn potentials and if they were you know two orders of magnitude faster than the traditional approach that would change that would change how we're doing science. But there needs to be a little more rigor on what we consider, you know, just fitting data when that data maybe lacks quality or there needs to be a little bit tougher requirement for for how we say this this model can really replace the physics based modeling. >> Yeah. So I one of our thesis is that the the interface between bits and atoms is really the bottleneck, right? Where you have to the actually activity of trying things in the lab is the bottleneck and you've addressed that to some extent in active learning. Um but I think that there's also an extent to which that just pure uh process and automation good operational practice those are important things so that if you you can push to automation on the one side but on the other side that creates brittleleness. So, how do you think about kind of bridging that gap to experimental chemistry and and um using that sort of as a as a nature's computer um to figure out things for your design process? >> Yeah. So, so there are a lot of really smart people working in um high throughput synthesis and experimentation and autonomous labs. I think the thing that uh that's interesting to me in that space at least is that there are some types of experiments that at least as of the last conference I went to on this are really hard for autonomous uh high throughput experimentation but are really easy for a human and vice versa. And then there's, you know, the serendipity that a human might experience in the lab that a couple of people have tried to think about like, well, how do you how do you introduce that noise into high throughput experimentation? So, I think that's a challenge. Uh your question also brought to mind another point that I am by no means an expert on but most people who actually work on getting materials to the device scale say something that would um be in your television or something like that is they will tell you that it's not just the material it's the process and I think we're at we're at ground zero we're nowhere when it comes to like well how do we machine learn not just the structure and the properties but also the the role that processing plays. Um I don't think we know anything about how to do that. >> Maybe for non-experts like with protein structure it's really easy to imagine like oh you can see these proteins like and we can run some simulations and see them wiggling around and uh the structures looked really pretty. What does the data look like for material science? is there's the computations like DFT I think gives you something which looks like a a crystal structure you can imagine but then there's also like is there experimental data where you can observe that crystal structure or is this mostly sort of like kind of probes where you're measuring individual properties which are kind of collective and with not fine grained >> so experimental structures are available and the example I was giving is something we know is stable and we've seen a structure of it before and it will fall apart with some of these models The challenge here is that um what AlphaFold has done really well is is predict structures of globular proteins primarily with 20 um natural amino acids. I could actually point to lots of cases where alpha fold fails too for more interesting chemistry. Um the challenge is that you have a lot more than 20 building blocks when it comes to materials. Um, and so there's lots of different ways to think about chemical bonding. And right now, no um potentials are really robustly encoding all of that bonding, especially with respect to um metal organic bonding. >> You know, maybe a different way of saying it is like with alphaold, I mean, alphaold is solving ground state structures. It's not looking at dynamics. Um, which is I think consistent with like some of your statements about needing quantum mechanics for catalytic enzymes. Um so um but even you're saying even at like just kind of ground state properties you're saying that just there are too many uh parameters and there's not like a clear set of interactions which is limited to a small number of building blocks. >> The bonding is is highly variable across all of material space. Now there's simple regions of material space. You can pick aluminum. Aluminum is very boring and you can write down people in the 60s could write down on on paper, you know, how you need to model aluminum, that's something that is pretty easy to fit a neural network potential to. Um, but then if you want to get over to iron oxide and then if you want to get over to um high entropy alloys, there are definitely cases where people are using these methods. Um, but I'd say a big challenge is is that there's no real way to know if when you go to bigger lane scales and time scales, there's no real way to know if you're right or wrong. The experimental data is not there. Um, experiment even interpreting say looking at an image of an experiment uh uh surface which you would want to do. Um, it requires some degree of interpretation of that image. Um, so it's just it's just hard to know from experiment or from other computations if these types of models are are correct. And they're certainly not correct across all of chemical space. Um, and I'd say they could fail more catastrophically than AlphaFold obviously fails, though they're definitely failures of Alpha Fold, too. Switching gears a little bit, I I read in your paper also that you had done some work with integrating textual information from papers and into your um so it's kind of the AI that we all know and love right now. Um can you talk about what kind of lift that that gives uh the models and how did how did you actually do that integration? >> Yeah, so we started um I guess about five years ago. So when we first started doing it, we were just doing sort of standard natural language processing and graph digitization. Um these days we use LLMs. Um but just to try to extract from the literature data sets of properties uh wherever wherever people are widely reporting properties. And what we noticed is that there's a lot you can learn from these models. So you can you can even on the scale of a few thousand data points, you can then do things like predict the temperature at which a moth will break apart based on experimental reports. But one of the funniest things I think we noticed is that you can get the temperature at which a material will break down two ways. One, you can get it from the graph and two you can get it from what the authors say about how they interpret the graph. And those two things do not line up. So people, you know, one of the challenges I think with literature extraction from papers is one would be the obvious mistakes people make. You know, no one's perfect, but the other would be just, you know, people interpret their results in different ways. And so if we're building models based on those interpretations, that's a challenge. In terms of LLMs, um, they've come a long way in terms of literature extraction, but they're still definitely sensitive to false positives. And I think the amount of time we spend uh checking on LLMs to make sure that the data we're ingesting is is um accurate definitely is an overhead on those types of workflows. >> I see. And and what about um the way that it might bias the discovery process, right? Because you have this known literature, your job as a chemist kind of sort of is to find new stuff. But if so if you're emphasiz if your computational method is pulling in literature then maybe it's biasing you towards the previously reported results instead of something you know >> you know one of the ways we try to address that is we try to train a model on that literature but then apply it to new structures that have never been seen before and try to really look at how far we can extend the model. Um but we are trying to answer this in general. Uh there are repositories out there of experimental data um where you can have a sense of when it was published, what the structure is, um what it was used for, and we're really trying to build generative models on top of that now to try to be able to say, well, well, if I know about the first 30 years of a field, can a model trained on that predict the next 20? I think that's an that's an open question. and what model is best at you know and maybe it won't get all of them but maybe some of those discoveries that we think are new in the most recent 20 years maybe maybe some of them are trivial for a model to generalize to whereas others are are not I think in an ideal case where where we have the available literature data and we don't know we could use uncertainty quantification to then identify okay these would be the most interesting materials to get into our data set >> I see in those data sets just for people who are interested in getting involved what What are some of the what's the best ones to get to get started with? >> I don't know about the best. We we've we've curated a few thousand data points of metal organic framework thermal stability as well as metal organic framework activation stability, water stability. Uh other groups have curated other measures of stability. They're all out there. They're on our website. Um that kind of thing. >> Awesome. Do you imagine there being uh useful to like create an initiative or like a multi-institutional like funding source or something which really is trying to get data in a high throughput automated way? Um what would sort of like your dream be if you could organize something which like which really will drive the field forward in your mind? >> I think the National Science Foundation has one initiative. I've also heard about things with with um uh foundations before sort of being interested in in putting together cloud labs. So things that users can on demand make use of high throughput automation. I definitely think I think having user facilities where a computational researcher like me could design an experiment and have it executed would be awesome. Having all that data collected in sort of a public way would be great. You know, the way that research right now gets published into papers, it's very hard to then extract back out. We spend a lot of energy trying to get it back out. And so, some of this is a need also for, you know, maybe systematization of how results get reported so that uh they can be machine learning ready from from day one when they're published. some research sub fields are trying to do that but it's it's not really developed across material science but for sure you know I think there will be more sort of shared facilities where people can uh make use of data from higher experimentation and that would be really really awesome I don't know if it'll come from companies donating equipment from national science foundation or from uh you know private foundations >> yeah there is a large like philanthropic push in the biotech face. Um, it seems like people haven't quite picked up on this as such an important uh field like especially with things like materials for climate change. You can imagine a particular >> a very important problem that we could use a lot of cush on. >> Yeah, that that kind of brings up the question there's been a ton of re very recent materials investment for private companies uh startups. um where does that leave in your mind the role of the academic in chemistry? >> I ask myself that all the time or more recently in the past year. So in particular there's a lot of uh compute that companies have access to that academics don't. So I ask myself you know what can we do that's uh more creative that doesn't require just brute force compute. Um and I think there is there is like an a lot of stuff that we can still do. Um but we have to ask those questions. Um for sure Microsoft, Meta, those those ones are are kind of like the companies that have basically infinite resources and as an academic I don't have infinite resources, you know, but we have an interest in problems that, you know, haven't crossed the radar of those companies yet. And I think as long as we, you know, whenever someone poses a problem to me now versus a few years ago, I try to make sure that we're not just in the process of trying to do something that throwing a lot of compute at it would would would solve it. >> Yeah. I think we're kind of running out of time, but would like to give you an opportunity, call to action. what what would you uh like our listeners to know about do um what what should they do to get involved or something that you're really passionate about? >> I think I will stick to something kind of niche. Um >> great. >> So I think there is still a place for chemistry. I will say that. Um but uh my group develops a code for uh transition mal complex structure generation metal organic framework screening. It's called mole simplifier. When we're working on moths we call it moth simplify. There's website versions of it that you can look up and not install anything, but it's also on and GitHub. And if you do have an interest in transitional complexes, you know, just try it out. It includes machine learning predictions, but it also make novel structures. And I'm just really interested to hear ever if people are using it. I know a lot of companies are using it. Um, but we sort of find out sort of after the fact. So, um, if you're interested more in this material space, I'm I'm definitely interested and open to feedback. >> Grateful. Awesome. Get involved. Thank you very much. Take care, doctor."
+    }
+  ],
+  "x": [
+    {
+      "source": "x",
+      "name": "Andrej Karpathy",
+      "handle": "karpathy",
+      "bio": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.",
+      "tweets": [
+        {
+          "id": "2036487306585268612",
+          "text": "Software horror: litellm PyPI supply chain attack. \n\nSimple `pip install litellm` was enough to exfiltrate SSH keys, AWS/GCP/Azure creds, Kubernetes configs, git credentials, env vars (all your API keys), shell history, crypto wallets, SSL private keys, CI/CD secrets, database passwords.\n\nLiteLLM itself has 97 million downloads per month which is already terrible, but much worse, the contagion spreads to any project that depends on litellm. For example, if you did `pip install dspy` (which depended on litellm>=1.64.0), you'd also be pwnd. Same for any other large project that depended on litellm.\n\nAfaict the poisoned version was up for only less than ~1 hour. The attack had a bug which led to its discovery - Callum McMahon was using an MCP plugin inside Cursor that pulled in litellm as a transitive dependency. When litellm 1.82.8 installed, their machine ran out of RAM and crashed. So if the attacker didn't vibe code this attack it could have been undetected for many days or weeks.\n\nSupply chain attacks like this are basically the scariest thing imaginable in modern software. Every time you install any depedency you could be pulling in a poisoned package anywhere deep inside its entire depedency tree. This is especially risky with large projects that might have lots and lots of dependencies. The credentials that do get stolen in each attack can then be used to take over more accounts and compromise more packages.\n\nClassical software engineering would have you believe that dependencies are good (we're building pyramids from bricks), but imo this has to be re-evaluated, and it's why I've been so growingly averse to them, preferring to use LLMs to \"yoink\" functionality when it's simple enough and possible.",
+          "createdAt": "2026-03-24T16:56:24.000Z",
+          "url": "https://x.com/karpathy/status/2036487306585268612",
+          "likes": 21171,
+          "retweets": 4006,
+          "replies": 1004,
+          "isQuote": true,
+          "quotedTweetId": "2036414330267193815"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2036565584515899445",
+          "text": "seriously @walden_yan cooked, this thing legitimately saves my ass 3-8x a day, and yes it sounds weird that devin can catch devin's own mistakes, but this is basically the equivalent of \"sleeping on it\" and looking at a PR with fresh/more critical eyes.  btw you should also see the \"smart friend\" pattern he piloted in Windsurf, it is going to be the design pattern for smarter subagents (usually subagents are dumber) that others are only just catching on to",
+          "createdAt": "2026-03-24T22:07:27.000Z",
+          "url": "https://x.com/swyx/status/2036565584515899445",
+          "likes": 109,
+          "retweets": 3,
+          "replies": 20,
+          "isQuote": true,
+          "quotedTweetId": "2035142942009270405"
+        },
+        {
+          "id": "2036540782925193336",
+          "text": "https://t.co/rBYwFF4t5s https://t.co/i4lxZSxVB0",
+          "createdAt": "2026-03-24T20:28:54.000Z",
+          "url": "https://x.com/swyx/status/2036540782925193336",
+          "likes": 6,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2036532795984715896"
+        },
+        {
+          "id": "2036533647659143630",
+          "text": "first casualty of OpenAI’s crackdown on Side Quests:\n\nSora is dead :( https://t.co/sfQhNu3IQ5",
+          "createdAt": "2026-03-24T20:00:33.000Z",
+          "url": "https://x.com/swyx/status/2036533647659143630",
+          "likes": 122,
+          "retweets": 1,
+          "replies": 24,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2036513009661780291",
+          "text": "I've been at @Google since I was an intern, and there's never been a more exciting time. The place is pulsating.\n\nWe're hiring :)\n\n@GeminiApp or @GoogleAIStudio: https://t.co/otVHg9uuqo\n\n@GoogleLabs: https://t.co/e7zA6GJYDe https://t.co/9J4UFJyWPy",
+          "createdAt": "2026-03-24T18:38:32.000Z",
+          "url": "https://x.com/joshwoodward/status/2036513009661780291",
+          "likes": 1483,
+          "retweets": 103,
+          "replies": 79,
+          "isQuote": true,
+          "quotedTweetId": "2036447400508731817"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "tweets": [
+        {
+          "id": "2036669221363761456",
+          "text": "Nooo they can't talk to each other? Come on @telegram https://t.co/47t4ZjGCgw",
+          "createdAt": "2026-03-25T04:59:16.000Z",
+          "url": "https://x.com/petergyang/status/2036669221363761456",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036664048700600706",
+          "text": "My Telegram is just chats with my OpenClaw and now Claude bots. Haven't talked to a single human yet.",
+          "createdAt": "2026-03-25T04:38:43.000Z",
+          "url": "https://x.com/petergyang/status/2036664048700600706",
+          "likes": 25,
+          "retweets": 3,
+          "replies": 16,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036621615086309468",
+          "text": "I hope AI agents will help us all stop obsessing about:\n\n- Specs\n- Designs\n- Issues\n- Roadmaps\n- Strategy docs\n- Spreadsheets\n\nand instead let us all obsess about improving the end user product and rapid iteration loops with users.\n\nProduct development is much more fun that way. https://t.co/vGcLnCTJOn",
+          "createdAt": "2026-03-25T01:50:06.000Z",
+          "url": "https://x.com/petergyang/status/2036621615086309468",
+          "likes": 71,
+          "retweets": 6,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2036502198062821842"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "tweets": [
+        {
+          "id": "2036631571118084476",
+          "text": "My incentives were to get this agent thing to work so I didn’t have to do annoying work anymore!\n\nhttps://t.co/vI6hR0CVvq",
+          "createdAt": "2026-03-25T02:29:39.000Z",
+          "url": "https://x.com/thenanyu/status/2036631571118084476",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2036620681161703449"
+        },
+        {
+          "id": "2036619356730204395",
+          "text": "Gemini always getting wrecked in these screenshots https://t.co/SjzUe148WU",
+          "createdAt": "2026-03-25T01:41:07.000Z",
+          "url": "https://x.com/thenanyu/status/2036619356730204395",
+          "likes": 5,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2036523116105441563"
+        },
+        {
+          "id": "2036549647267709110",
+          "text": "I haven’t written a PRD by hand, filed an issue through a form, or hand-written any code in months. \n\nBut the volume of work I’m producing and the quality bar have never been higher. https://t.co/dSyyn7yzwg",
+          "createdAt": "2026-03-24T21:04:07.000Z",
+          "url": "https://x.com/thenanyu/status/2036549647267709110",
+          "likes": 266,
+          "retweets": 11,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2036502198062821842"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "tweets": [
+        {
+          "id": "2036594646370210229",
+          "text": "Excited to see everyone at Code with Claude! What would you like to hear from us at this year's sessions? https://t.co/RxWLfs4kFo",
+          "createdAt": "2026-03-25T00:02:56.000Z",
+          "url": "https://x.com/_catwu/status/2036594646370210229",
+          "likes": 211,
+          "retweets": 10,
+          "replies": 28,
+          "isQuote": true,
+          "quotedTweetId": "2034308517964956051"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+      "tweets": [
+        {
+          "id": "2036515949617037711",
+          "text": "only available on Teams right now, but working on scaling it https://t.co/YlJU3OKrew",
+          "createdAt": "2026-03-24T18:50:13.000Z",
+          "url": "https://x.com/trq212/status/2036515949617037711",
+          "likes": 46,
+          "retweets": 0,
+          "replies": 13,
+          "isQuote": true,
+          "quotedTweetId": "2036503584943034643"
+        },
+        {
+          "id": "2036513038983995820",
+          "text": "turns out being an AI safety company is useful for when you need to make sure AIs can run safely https://t.co/DjJZjPrZn4",
+          "createdAt": "2026-03-24T18:38:39.000Z",
+          "url": "https://x.com/trq212/status/2036513038983995820",
+          "likes": 1180,
+          "retweets": 35,
+          "replies": 116,
+          "isQuote": true,
+          "quotedTweetId": "2036503582166393240"
+        },
+        {
+          "id": "2036442894777594248",
+          "text": "I’ll be covering how to make the most of this in my livestream on March 31st with Figma! \n\nYou can sign up here: https://t.co/G32hMTFUR4 https://t.co/9owzK6bjWF",
+          "createdAt": "2026-03-24T13:59:56.000Z",
+          "url": "https://x.com/trq212/status/2036442894777594248",
+          "likes": 190,
+          "retweets": 10,
+          "replies": 15,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2036427267296067875",
+          "text": "If you’re a content creator you need to watch this. No hype or marketing. Nick is sharing is his genuine journey on how learning to make software transformed their business. https://t.co/YiZ89b36PW",
+          "createdAt": "2026-03-24T12:57:50.000Z",
+          "url": "https://x.com/amasad/status/2036427267296067875",
+          "likes": 552,
+          "retweets": 36,
+          "replies": 24,
+          "isQuote": true,
+          "quotedTweetId": "2036060436487926111"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2036584870995173678",
+          "text": "Vercel can now intelligently pick the right hardware for your build.\n\nWith new Rust-based compilers like Turbopack &amp; Rolldown, build performance now scales with 𝒪(cpus).\n\nBut too many CPUs and you waste money. Too few and agents waste time. Elastic build machines fixes this 😌 https://t.co/W5oQ906TxX",
+          "createdAt": "2026-03-24T23:24:05.000Z",
+          "url": "https://x.com/rauchg/status/2036584870995173678",
+          "likes": 153,
+          "retweets": 2,
+          "replies": 14,
+          "isQuote": true,
+          "quotedTweetId": "2036580207507939381"
+        },
+        {
+          "id": "2036447879985037495",
+          "text": "Almost every SaaS app inside Vercel has now been replaced with a generated app or agent interface, deployed on Vercel.\n\nSupport, sales, marketing, PM, HR, dataviz, even design and video workflows. It’s shocking.\n\nThe SaaSpocalypse is both understated and overstated. Over because the key systems of record and storage are still there (Salesforce, Snowflake, etc.)\n\nUnderstated because the software we are generating is more beautiful, personalized, and crucially, fits our business problems better. \n\nWe struggled for years to represent the health of a Vercel customer properly inside Salesforce. Too much data (trillions of consumption data points), the ontology of Vercel was a mismatch to the built-in assumptions, and the resulting UI was bizarre. We generated what we needed instead. When you don’t need a UI, you just ask an agent with natural language.\n\nWe’ve also been moving off legacy systems with poor, slow, outdated, and inconsistent APIs, as well as just dropping abstraction down to more traditional databases. UI is a function 𝑓 of data (always has been), and that 𝑓 is increasingly becoming the LLM.",
+          "createdAt": "2026-03-24T14:19:44.000Z",
+          "url": "https://x.com/rauchg/status/2036447879985037495",
+          "likes": 1654,
+          "retweets": 119,
+          "replies": 212,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Alex Albert",
+      "handle": "alexalbert__",
+      "bio": "Research @AnthropicAI. Opinions are my own!",
+      "tweets": [
+        {
+          "id": "2036510206155432293",
+          "text": "Goodbye --dangerously-skip-permissions, hello auto mode https://t.co/1r2nUd3O7P",
+          "createdAt": "2026-03-24T18:27:24.000Z",
+          "url": "https://x.com/alexalbert__/status/2036510206155432293",
+          "likes": 1972,
+          "retweets": 72,
+          "replies": 108,
+          "isQuote": true,
+          "quotedTweetId": "2036503582166393240"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2036478998667207012",
+          "text": "“We’ve also been moving off legacy systems with poor, slow, outdated, and inconsistent APIs.”\n\nIf you’re building software that can’t work fully headlessly in a way that agents want to use, you’re not prepared for what the future of software is going to look like. \n\nAgents will use software 100X more than people, and people will more and more interact with their data and workflows via agents across many different platforms.\n\nThis is the real risk but also opportunity for platforms right now. Software doesn’t go away, but it becomes the guardrails and business logic for what agents are able to operate on. But if you can’t connect to wherever the agents want to do that work, you’re DOA.",
+          "createdAt": "2026-03-24T16:23:23.000Z",
+          "url": "https://x.com/levie/status/2036478998667207012",
+          "likes": 361,
+          "retweets": 31,
+          "replies": 52,
+          "isQuote": true,
+          "quotedTweetId": "2036447879985037495"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
+      "tweets": [
+        {
+          "id": "2036675789819953347",
+          "text": "It is actually going to be 90x my 2013 output 👀 https://t.co/xa6mAy5SFJ",
+          "createdAt": "2026-03-25T05:25:22.000Z",
+          "url": "https://x.com/garrytan/status/2036675789819953347",
+          "likes": 17,
+          "retweets": 2,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2036674943942054033"
+        },
+        {
+          "id": "2036674510133617041",
+          "text": "He just like me https://t.co/UBoVpvrDqc",
+          "createdAt": "2026-03-25T05:20:17.000Z",
+          "url": "https://x.com/garrytan/status/2036674510133617041",
+          "likes": 47,
+          "retweets": 2,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2036662609915924980"
+        },
+        {
+          "id": "2036674371855823153",
+          "text": "Once you say “replace developers” it’s the wrong ideaspace\n\nCars didn’t replace walking, you still have to walk a little bit AND\n\nIt let people go to places you can’t go to on foot alone https://t.co/ap8gMBg9eB",
+          "createdAt": "2026-03-25T05:19:44.000Z",
+          "url": "https://x.com/garrytan/status/2036674371855823153",
+          "likes": 68,
+          "retweets": 8,
+          "replies": 21,
+          "isQuote": true,
+          "quotedTweetId": "2036673557070246279"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2036488357077717094",
+          "text": "Typo, before: you did sloppy work!  That's bad\n\nTypo, today: you wrote authentic, non-AI generated content! That's awesome",
+          "createdAt": "2026-03-24T17:00:35.000Z",
+          "url": "https://x.com/mattturck/status/2036488357077717094",
+          "likes": 42,
+          "retweets": 3,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "tweets": [
+        {
+          "id": "2036675965003411514",
+          "text": "GitHub is the new Substack\n\nCode is a form of self-expression",
+          "createdAt": "2026-03-25T05:26:04.000Z",
+          "url": "https://x.com/zarazhangrui/status/2036675965003411514",
+          "likes": 42,
+          "retweets": 4,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036590721927618988",
+          "text": "Something shifted in January...\nLast year I barely knew how GitHub worked; now I have 13k+ stars on GitHub \n(and I'm not even a technical person, but then again how do you define technical these days?) https://t.co/tpqvp2eanG",
+          "createdAt": "2026-03-24T23:47:20.000Z",
+          "url": "https://x.com/zarazhangrui/status/2036590721927618988",
+          "likes": 377,
+          "retweets": 12,
+          "replies": 37,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036552689673445847",
+          "text": "Frontend-slides now supports deploying your deck as a URL &amp; exporting as PDF! \n\nSo you can share your vibe coded slides with others easily\n\nHere's an example of a deployed deck: https://t.co/ZBolDpPMTV https://t.co/zNFl6fpEKL https://t.co/L6RgRTDVOU",
+          "createdAt": "2026-03-24T21:16:13.000Z",
+          "url": "https://x.com/zarazhangrui/status/2036552689673445847",
+          "likes": 101,
+          "retweets": 3,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2016337615843434646"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2036685399448527263",
+          "text": "@NotionHQ @RamP @brexHQ @harvey @EvidenceOpen @perplexity_ai @conductor_build @Railway @claudeai Obligatory - if you are building AI native infrastructure that will end up in these subprocessor lists a year from now, I'd love to chat. DMs open!",
+          "createdAt": "2026-03-25T06:03:33.000Z",
+          "url": "https://x.com/nikunj/status/2036685399448527263",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036573898289086895",
+          "text": "See what infra companies like @NotionHQ, @ramp, @brexHQ, @harvey, @EvidenceOpen, @perplexity_ai are using according to their subprocessor lists. \n\nHad SO much fun building this using @conductor_build, @Railway &amp; @claudeai Code. \n\nWebsite: https://t.co/ucM0yWPMfB",
+          "createdAt": "2026-03-24T22:40:29.000Z",
+          "url": "https://x.com/nikunj/status/2036573898289086895",
+          "likes": 49,
+          "retweets": 3,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036572222081606065",
+          "text": "SOC II is in the news right now for being security theater..\n\nYou know what SOC II is *actually* good for? Subprocessor lists. \n\nI scraped 417 companies subprocessors to investigate what AI native companies are using for their infrastructure. \n\nIntroducing DeployGraph dot com 🥞 https://t.co/Zhg2B8elke",
+          "createdAt": "2026-03-24T22:33:50.000Z",
+          "url": "https://x.com/nikunj/status/2036572222081606065",
+          "likes": 394,
+          "retweets": 15,
+          "replies": 54,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+      "tweets": [
+        {
+          "id": "2036486352964035013",
+          "text": "Messaged a friend on WhatsApp, got greeted by the OpenClaw doorman 🤣\n\n(use separate number + WA Business to avoid this, see the docs, or use a message platform that is friendlier for agents such as Telegram) https://t.co/9iVu6lb1tf",
+          "createdAt": "2026-03-24T16:52:37.000Z",
+          "url": "https://x.com/steipete/status/2036486352964035013",
+          "likes": 835,
+          "retweets": 19,
+          "replies": 54,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2036540956053234118",
+          "text": "whoa! really interesting https://t.co/BUaIOqYSGt",
+          "createdAt": "2026-03-24T20:29:35.000Z",
+          "url": "https://x.com/danshipper/status/2036540956053234118",
+          "likes": 18,
+          "retweets": 0,
+          "replies": 10,
+          "isQuote": true,
+          "quotedTweetId": "2036532795984715896"
+        },
+        {
+          "id": "2036503833497436173",
+          "text": "this is cool!!! https://t.co/z87xCM2vJt",
+          "createdAt": "2026-03-24T18:02:04.000Z",
+          "url": "https://x.com/danshipper/status/2036503833497436173",
+          "likes": 57,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2036503582166393240"
+        },
+        {
+          "id": "2036501111394148578",
+          "text": "new @every stickers for your mac mini running openclaw https://t.co/oPk8SlE01X",
+          "createdAt": "2026-03-24T17:51:15.000Z",
+          "url": "https://x.com/danshipper/status/2036501111394148578",
+          "likes": 109,
+          "retweets": 4,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2036426693930291334",
+          "text": "It is increasing clear that the hardware for robotics is ready.\n\nWe just need to get the software to a point where it is reliable and scalable.\n\nThis actually makes me very bullish on 🇺🇸.\n\nWe are good at software. And increasingly getting at hardware and supply chains as well.",
+          "createdAt": "2026-03-24T12:55:33.000Z",
+          "url": "https://x.com/adityaag/status/2036426693930291334",
+          "likes": 85,
+          "retweets": 4,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "tweets": [
+        {
+          "id": "2036489823792607273",
+          "text": "I would like a single word for this phrase: \"throw it into the maw with every bit of context I can think of\". https://t.co/xwG9pgtEnM",
+          "createdAt": "2026-03-24T17:06:24.000Z",
+          "url": "https://x.com/sama/status/2036489823792607273",
+          "likes": 2394,
+          "retweets": 96,
+          "replies": 785,
+          "isQuote": true,
+          "quotedTweetId": "2036136822099628173"
+        },
+        {
+          "id": "2036488729230295399",
+          "text": "More details here:\n\nhttps://t.co/OT0cPOCGO4",
+          "createdAt": "2026-03-24T17:02:03.000Z",
+          "url": "https://x.com/sama/status/2036488729230295399",
+          "likes": 393,
+          "retweets": 32,
+          "replies": 54,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036488680769241223",
+          "text": "AI will help discover new science, such as cures for diseases, which is perhaps the most important way to increase quality of life long-term.\n\nAI will also present new threats to society that we have to address. No company can sufficiently mitigate these on their own; we will need a society-wide response to things like novel bio threats, a massive and fast change to the economy, extremely capable models causing complex emergent effects across society, and more.\n\nThese are the areas the OpenAI Foundation will initially focus on, and in my opinion are some of the most important ones for us to get right. The Foundation will spend at least $1 billion over the next year.\n\n@woj_zaremba, co-founder of OpenAI, will transition to Head of AI Resilience. I believe that shifting how the world thinks about safety to include a Resilience-style approach is critical, and I am extremely grateful to Wojciech for taking on this role.\n\nWojciech has been my cofounder for the last decade; anyone who knows him will understand what I mean when I say he is one of a kind. He has a lot of ideas about how we build a new kind of AI safety.\n\n@JacobTref is joining as Head of Life Sciences and Curing Diseases.\n\n@annaadeola, our VP of Global Impact, will transition to Head of AI for Civil Society and Philanthropy.\n\n@robert_kaiden is joining as Chief Financial Officer.\n\n@jeffarnold is joining as Director of Operations.",
+          "createdAt": "2026-03-24T17:01:52.000Z",
+          "url": "https://x.com/sama/status/2036488680769241223",
+          "likes": 5437,
+          "retweets": 449,
+          "replies": 1386,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "tweets": [
+        {
+          "id": "2036503584943034643",
+          "text": "Available now as a research preview on the Team plan. Enterprise and API access rolling out in the coming days.\n\nEnable with claude --enable-auto-mode, then cycle to it with Shift+Tab.\n\nLearn more: https://t.co/eOurVAnoKc",
+          "createdAt": "2026-03-24T18:01:05.000Z",
+          "url": "https://x.com/claudeai/status/2036503584943034643",
+          "likes": 1085,
+          "retweets": 39,
+          "replies": 57,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036503583667933400",
+          "text": "Before each tool call, a classifier reviews it for potentially destructive actions. Safe actions proceed automatically. Risky ones get blocked, and Claude takes a different approach.\n\nThis reduces risk but doesn't eliminate it. We recommend using it in isolated environments.",
+          "createdAt": "2026-03-24T18:01:05.000Z",
+          "url": "https://x.com/claudeai/status/2036503583667933400",
+          "likes": 1544,
+          "retweets": 29,
+          "replies": 46,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036503582166393240",
+          "text": "New in Claude Code: auto mode.\n\nInstead of approving every file write and bash command, or skipping permissions entirely, auto mode lets Claude make permission decisions on your behalf.\n\nSafeguards check each action before it runs. https://t.co/kHbTN2jrWw",
+          "createdAt": "2026-03-24T18:01:05.000Z",
+          "url": "https://x.com/claudeai/status/2036503582166393240",
+          "likes": 31516,
+          "retweets": 2235,
+          "replies": 1742,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "podcastEpisodes": 1,
+    "xBuilders": 20,
+    "totalTweets": 41,
+    "feedGeneratedAt": "2026-03-25T07:00:14.590Z"
+  },
+  "prompts": {
+    "summarize_podcast": "# Podcast Remix Prompt\n\nYou are remixing a podcast episode transcript for a busy professional who wants\nthe key insights without watching the full episode.\n\n## Instructions\n\n- Write a remix of 200-400 words\n- Start with a one-sentence \"The Takeaway\" — what's the single most important takeaway?\n- Introduce the context and the speaker's information (name, role/company, background) and why the audience should care\n- Prioritizes insights that are counterintuitive, contrarian, or refreshingly specific to the speaker's experience. Avoid generic wisdom\n- Include at least one direct quote from the source that captures (find the most memorable quote)\n- Stands alone as a complete piece — avoids references like \"this interview,\" \"this video,\" \"in this conversation,\" \"the host asks,\" or \"in this episode.\" Write as if distilling lessons from a person's philosophy, not summarizing a specific piece of content\n- Assume your audience is curious adults who are not specialized experts. If the original source contains specialized knowledge that only experts in a field would understand, translate it into language understandable to a general audience\n- Keep the tone sharp and conversational — like a smart friend briefing you\n- Do NOT include filler like \"In this episode...\" or \"The host and guest discussed...\"\n- Jump straight into the substance\n",
+    "summarize_tweets": "# X/Twitter Summary Prompt\n\nYou are summarizing recent posts from an AI builder for a busy professional who wants\nto know what this person is thinking and building.\n\n## Instructions\n\n- Start by introducing the author with their full name AND role/company\n  (e.g. \"Replit CEO Amjad Masad\", \"Box CEO Aaron Levie\", \"a]6z partner Justine Moore\")\n  Do NOT use just their last name. Do NOT use their Twitter handle with @.\n- Only include substantive content: original opinions, insights, product announcements,\n  technical discussions, industry analysis, or lessons learned\n- SKIP: mundane personal tweets, retweets without commentary, promotional content,\n  \"great event!\" type posts, engagement bait\n- For threads: summarize the full thread as one cohesive piece, not individual tweets\n- For quote tweets: include the context of what they're responding to\n- Write 2-4 sentences per builder summarizing their key points\n- If they made a bold prediction or shared a contrarian take, lead with that\n- If they shared a tool, demo, or resource, mention it by name with the link\n- If there's nothing substantive to report, say \"No notable posts\" rather than\n  padding with fluff\n",
+    "digest_intro": "# Digest Intro Prompt\n\nYou are assembling the final digest from individual source summaries.\n\n## Format\n\nStart with this header (replace [Date] with today's date):\n\nAI Builders Digest — [Date]\n\nThen organize content in this order:\n\n1. OFFICIAL BLOGS section — list each blog post from AI company blogs (OpenAI, Anthropic, etc.)\n2. X / TWITTER section — list each builder with new posts\n3. PODCASTS section — list each podcast with new episodes\n\n## Rules\n\n- Only include sources that have new content\n- Skip any source with nothing new\n- Under each source, paste the individual summary you generated\n\n### Podcast links\n- After each podcast summary, include the specific video URL from the JSON `url` field\n  (e.g. https://youtube.com/watch?v=Iu4gEnZFQz8)\n- NEVER link to the channel page. Always link to the specific video.\n- Include the exact episode title from the JSON `title` field in the heading\n\n### Tweet author formatting\n- Use the author's full name and role/company, not just their last name\n  (e.g. \"Box CEO Aaron Levie\" not \"Levie\")\n- NEVER write Twitter handles with @ in the digest. On Telegram, @handle becomes\n  a clickable link to a Telegram user, which is wrong. Instead write handles\n  without @ (e.g. \"Aaron Levie (levie on X)\" or just use their full name)\n- Include the direct link to each tweet from the JSON `url` field\n\n### Blog post formatting\n- Use the blog name as a section header (e.g. \"Anthropic Engineering\", \"OpenAI News\", \"Claude Blog\")\n- Under each blog, list each new post with its title and summary\n- Include the author name if available\n- Include the direct link to the original article\n\n### Mandatory links\n- Every single piece of content MUST have an original source link\n- Blog posts: the direct article URL (e.g. https://www.anthropic.com/engineering/...)\n- Podcasts: the YouTube video URL (e.g. https://youtube.com/watch?v=xxx)\n- Tweets: the direct tweet URL (e.g. https://x.com/levie/status/xxx)\n- If you don't have a link for something, do NOT include it in the digest.\n  No link = not real = do not include.\n\n### No fabrication\n- Only include content that came from the feed JSON (blogs, podcasts, and tweets)\n- NEVER make up quotes, opinions, or content you think someone might have said\n- NEVER speculate about someone's silence or what they might be working on\n- If you have nothing real for a builder, skip them entirely\n\n### General\n- At the very end, add a line: \"Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders\"\n- Keep formatting clean and scannable — this will be read on a phone screen\n",
+    "translate": "# Translation Prompt\n\nYou are translating an AI industry digest from English to Chinese.\n\n## Instructions\n\n- Translate the full digest into natural, fluent Mandarin Chinese (simplified characters). The translated version must sound like it was originally written in Chinese, instead of translated\n- Keep technical terms in English where Chinese professionals typically use them:\n  AI, LLM, GPU, API, fine-tuning, RAG, token, prompt, agent, transformer, etc.\n- Keep all proper nouns in English: names of people, companies, products, tools\n- Keep all URLs unchanged\n- Maintain the same structure and formatting as the English version\n- The tone should be professional but conversational — 像是一位懂行的朋友在跟你聊天\n- For bilingual mode: interleave English and Chinese paragraph by paragraph.\n  After each builder's English summary, place the Chinese translation directly below\n  (separated by a blank line), then move to the next builder. Same for podcasts.\n  Do NOT output all English first then all Chinese.\n- Never use em-dashes\n"
+  }
+}

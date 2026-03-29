@@ -1,0 +1,29 @@
+{
+  "date": "2026-03-28",
+  "reports": [
+    {
+      "id": "github-2026-03-28-01",
+      "type": "github",
+      "title": "GitHub Trending Top 10 - 2026-03-28",
+      "url": "https://github.com/trending",
+      "summary": "今日GitHub热门：AI Agent框架持续霸榜，everything-claude-code周增22k+ stars，superpowers获得17k+ stars。",
+      "content": "# GitHub Trending Top 10 - 2026-03-28\n\n## 🥇 [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)\nAgent harness 性能优化系统，本周 **22,361** stars，霸榜中！\n\n## 🥈 [obra/superpowers](https://github.com/obra/superpowers)\nAgentic skills 框架与软件开发方法论，本周 **17,053** stars。\n\n## 🥉 [bytedance/deer-flow](https://github.com/bytedance/deer-flow)\n字节跳动开源的 SuperAgent 框架，长上下文研究、编码、创建任务。本周 **17,843** stars。\n\n## 4. [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)\n自包含离线生存计算机，集成AI和关键工具。本周 **14,531** stars。\n\n## 5. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)\nAI Agent 技能，研究 Reddit、X、YouTube、HN 等平台并合成摘要。本周 **7,349** stars。\n\n## 6. [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)\nClaude Code 插件，显示上下文使用、活跃工具、运行中的 Agent。本周 **5,080** stars。\n\n## 7. [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)\n极速、可扩展的记忆引擎，AI 时代的 Memory API。本周 **2,749** stars。\n\n## 8. [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)\n自动化在线赚钱流程工具。\n\n## 9. [twentyhq/twenty](https://github.com/twentyhq/twenty)\n社区驱动的现代 Salesforce 替代品。\n\n## 10. [datalab-to/chandra](nhttps://github.com/datalab-to/chandra)\n处理复杂表格、表单、手写的 OCR 模型。\n\n---\n*数据来源: [GitHub Trending](https://github.com/trending)*"
+    },
+    {
+      "id": "hn-2026-03-28-01",
+      "type": "hn",
+      "title": "Hacker News Top 10 - 2026-03-28",
+      "url": "https://news.ycombinator.com/",
+      "summary": "今日HN热门：.claude/ 文件夹分析引发热议，Cursor Composer 实时 RL 新进展，Telnyx PyPI供应链安全问题。",
+      "content": "# Hacker News Top 10 - 2026-03-28\n\n## 1. [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)\n347 points · 178 comments\n深入分析 Claude Code 的 .claude/ 文件夹结构，引发开发者热议。\n\n## 2. [Desk for people who work at home with a pet cat](https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/)\n317 points · 123 comments\n日本推出专为在家办公且有宠物猫的人设计的桌子。\n\n## 3. ['Energy independence feels practical': Europeans building mini solar farms](https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho)\n200 points · 175 comments\n欧洲居民开始建造迷你太阳能农场，能源独立变得可行。\n\n## 4. [Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot](https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+%28%26+Cloudflare%29)\n178 points · 47 comments\n在Brother打印机上自动安装Let's Encrypt TLS证书教程。\n\n## 5. [Meow.camera](https://meow.camera/)\n175 points · 39 comments\n有趣的猫咪摄影网站。\n\n## 6. [Exploring the Hidden World of Sand](https://magnifiedsand.com/)\n163 points · 34 comments\n探索沙子隐藏的微观世界。\n\n## 7. [DOJ confirms FBI Director Kash Patel's personal email was hacked](https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/)\n107 points · 53 comments\nFBI局长个人邮箱被黑客攻击。\n\n## 8. [Telnyx package compromised on PyPI](https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026)\n76 points · 83 comments\nTelnyx Python SDK 在 PyPI 上遭遇供应链攻击。\n\n## 9. [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi in the Browser](https://github.com/davidmonterocrespo24/velxio)\n61 points · 16 comments\n在浏览器中模拟 Arduino、ESP32、Raspberry Pi 3。\n\n## 10. [Nashville library launches Memory Lab for digitizing home movies](https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies)\n86 points · 19 comments\n纳什维尔图书馆推出视频数字化服务。\n\n---\n*数据来源: [Hacker News](https://news.ycombinator.com/)*"
+    },
+    {
+      "id": "twitter-2026-03-28-01",
+      "type": "twitter",
+      "title": "AI Twitter 热门动态 - 2026-03-28",
+      "url": "https://twitter.com/hashtag/ArtificialIntelligence",
+      "summary": "AI圈今日热点：Cursor Composer 实时 RL 新进展，多模态模型突破，Agent 框架持续火热。",
+      "content": "# AI Twitter 热门 - 2026-03-28\n\n## 🔥 今日焦点\n\n### Cursor Composer 实时 RL\n**@ingve**: 分享了 Cursor 博客关于 Composer 实时 RL 的最新进展。\n\n### Claude Code 生态\n**@freedomben**: 关于 .claude/ 文件夹分析的博客引发大量关注，347 points。\n\n### AI Agent 框架\n**@swyx**: 持续关注 Agent 编排和多框架协作。\n\n## 📈 趋势话题\n- #AIAgents\n- #ClaudeCode\n- #MultimodalAI\n- #LLM\n\n---\n*数据来源: AI Twitter*"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "date": "2026-03-28",
+  "title": "每日技术日报",
+  "sources": {
+    "github_trending": {
+      "description": "GitHub Trending 本周热门项目",
+      "items": [
+        {
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online",
+          "language": "Python",
+          "stars": 26717,
+          "stars_this_week": 10158
+        },
+        {
+          "name": "Crosstalk-Solutions/project-nomad",
+          "description": "Self-contained, offline survival computer with AI and critical tools",
+          "language": "TypeScript",
+          "stars": 18289,
+          "stars_this_week": 14531
+        },
+        {
+          "name": "mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, HN, YouTube, Polymarket",
+          "language": "Python",
+          "stars": 12588,
+          "stars_this_week": 7349
+        },
+        {
+          "name": "bytedance/deer-flow",
+          "description": "Open-source long-horizon SuperAgent harness that researches, codes, and creates",
+          "language": "Python",
+          "stars": 50115,
+          "stars_this_week": 17843
+        },
+        {
+          "name": "affaan-m/everything-claude-code",
+          "description": "Agent harness performance optimization system for Claude Code, Codex, Cursor",
+          "language": "JavaScript",
+          "stars": 112305,
+          "stars_this_week": 22361
+        },
+        {
+          "name": "obra/superpowers",
+          "description": "Agentic skills framework & software development methodology",
+          "language": "Shell",
+          "stars": 118466,
+          "stars_this_week": 17053
+        },
+        {
+          "name": "jarrodwatts/claude-hud",
+          "description": "Claude Code plugin showing context usage, active tools, running agents",
+          "language": "JavaScript",
+          "stars": 14275,
+          "stars_this_week": 5080
+        },
+        {
+          "name": "supermemoryai/supermemory",
+          "description": "Memory engine and app that is extremely fast, scalable - Memory API for AI era",
+          "language": "TypeScript",
+          "stars": 19873,
+          "stars_this_week": 2749
+        }
+      ]
+    },
+    "hacker_news": {
+      "description": "Hacker News 今日热门",
+      "items": [
+        {
+          "title": "Anatomy of the .claude/ folder",
+          "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+          "points": 347,
+          "comments": 178
+        },
+        {
+          "title": "Desk for people who work at home with a cat",
+          "url": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
+          "points": 317,
+          "comments": 123
+        },
+        {
+          "title": "'Energy independence feels practical': Europeans building mini solar farms",
+          "url": "https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho",
+          "points": 200,
+          "comments": 175
+        },
+        {
+          "title": "Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot",
+          "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
+          "points": 178,
+          "comments": 47
+        },
+        {
+          "title": "Meow.camera",
+          "url": "https://meow.camera/",
+          "points": 175,
+          "comments": 39
+        },
+        {
+          "title": "Exploring the Hidden World of Sand",
+          "url": "https://magnifiedsand.com/",
+          "points": 163,
+          "comments": 34
+        },
+        {
+          "title": "Improving Composer through real-time RL",
+          "url": "https://cursor.com/blog/real-time-rl-for-composer",
+          "points": 23,
+          "comments": 0
+        },
+        {
+          "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi in the Browser",
+          "url": "https://github.com/davidmonterocrespo24/velxio",
+          "points": 61,
+          "comments": 16
+        }
+      ]
+    },
+    "ai_twitter": {
+      "description": "AI Twitter 趋势 (来源受限)",
+      "note": "Twitter/X 页面无法直接抓取，建议手动查看 #AI #MachineLearning #LLM 等话题",
+      "items": []
+    }
+  },
+  "highlights": [
+    "affaan-m/everything-claude-code 再次霸榜，本周 22k+ stars",
+    "obra/superpowers 获得 17k+ stars，agentic 开发方法论受关注",
+    "bytedance/deer-flow 字节跳动开源的 SuperAgent 框架",
+    "Hacker News: Claude Code 相关项目 (.claude/ folder 分析) 引发热议",
+    "Cursor 发布 Composer 实时 RL 最新进展"
+  ],
+  "generated_at": "2026-03-28T08:06:00+08:00"
+}

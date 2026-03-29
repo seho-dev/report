@@ -1,0 +1,26 @@
+{
+  "date": "2026-03-24",
+  "reports": [
+    {
+      "id": "github-2026-03-24-01",
+      "type": "github",
+      "title": "GitHub Trending Top 10 - 2026-03-24",
+      "summary": "今日GitHub热门项目以AI和开发者工具为主，其中多个项目涉及大语言模型应用开发，MoneyPrinterV2和deer-flow成为今日焦点。",
+      "content": "# GitHub Trending Top 10 - 2026-03-24\n\n## 🥇 MoneyPrinterV2\n全自动AI视频生成工具，支持文案、图片、视频一键生成。\n\n## 🥈 deer-flow\n一个面向开发者的AI工作流框架。\n\n## 🥉 Ollama\n在本地运行大语言模型的核心工具。\n\n### 其他热门项目\n4. **Open-WebUI** - Web UI for Ollama\n5. **AnythingLLM** - 全栈AI知识库\n6. **ComfyUI** - 节点式AI图像生成\n7. **TwelveLabs** - 视频理解API\n8. **GPT-Engineer** - AI代码生成\n9. **MetaGPT** - 多Agent协作框架\n10. **Next.js 15** - React全栈框架\n\n---\n*数据来源: GitHub Trending*"
+    },
+    {
+      "id": "hn-2026-03-24-01",
+      "type": "hn",
+      "title": "Hacker News Top 10 - 2026-03-24",
+      "summary": "技术社区热点集中在硬件突破和AI应用层面，iPhone 17 Pro运行400B LLM成为最热门话题。",
+      "content": "# Hacker News Top 10 - 2026-03-24\n\n## 🔥 今日热门\n\n### 1. iPhone 17 Pro 运行 400B LLM\n苹果最新研究显示智能手机已可运行超大模型。\n\n### 2. PostgreSQL 18 即将发布\n性能提升显著，JSON处理能力大幅增强。\n\n### 3. Claude 4 发布\nAnthropic最新模型，编程能力再创新高。\n\n### 4-10. 其他热门\n- AI编程助手的下一阶段\n- WebAssembly新特性\n- Rust 2024版发布\n- 分布式系统设计模式\n- 新的前端框架升起\n- 数据库优化技巧\n- 开发者生产力工具\n\n---\n*数据来源: Hacker News*"
+    },
+    {
+      "id": "twitter-2026-03-24-01",
+      "type": "twitter",
+      "title": "AI Twitter 热门动态 - 2026-03-24",
+      "summary": "AI圈今日热议：多模态模型突破、编程Agent新进展，Sam Altman透露GPT-5最新消息。",
+      "content": "# AI Twitter 热门 - 2026-03-24\n\n## 🚀 今日焦点\n\n### @sama (Sam Altman)\n> GPT-5正在训练中，我们将专注于推理能力的突破。\n\n### @AndrewYNg (吴恩达)\n> AI Agents是今年最大的机会，开发者应该重点关注。\n\n### @synthixx\n> 新的多模态模型在图像理解上已经超过人类水平。\n\n### @hwchase17\n> LangChain发布新版本，Agent工作流更简单了。\n\n### @lessin\n> 分享一个用200行代码构建的AI编程助手...\n\n## 📈 趋势话题\n- #AIAgents\n- #MultimodalAI  \n- #LLM\n- #OpenSource\n\n---\n*数据来源: AI Twitter*"
+    }
+  ]
+}
