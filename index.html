@@ -67,7 +67,7 @@
             font-style: italic;
         }
 
-        /* Section 区块 - GitHub / HN / Twitter */
+        /* Section 区块 */
         .section {
             margin-bottom: 32px;
         }
@@ -105,6 +105,15 @@
         .section-toggle {
             font-size: 0.8rem;
             color: var(--muted);
+            margin-right: 12px;
+        }
+
+        .section-count {
+            font-size: 0.75rem;
+            color: var(--muted);
+            background: var(--light);
+            padding: 2px 8px;
+            border-radius: 10px;
         }
 
         .section-content {
@@ -178,6 +187,51 @@
             line-height: 1.6;
         }
 
+        /* 分页 */
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 8px;
+            padding: 20px;
+            background: #fff;
+            border: 1px solid var(--light);
+            border-top: none;
+        }
+
+        .pagination button {
+            background: var(--light);
+            border: none;
+            color: var(--muted);
+            padding: 8px 14px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.85rem;
+            font-family: inherit;
+            transition: all 0.2s;
+        }
+
+        .pagination button:hover:not(:disabled) {
+            background: var(--ink);
+            color: var(--paper);
+        }
+
+        .pagination button:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        .pagination button.active {
+            background: var(--ink);
+            color: var(--paper);
+        }
+
+        .pagination-info {
+            font-size: 0.8rem;
+            color: var(--muted);
+            margin: 0 12px;
+        }
+
         /* Footer */
         footer {
             text-align: center;
@@ -197,18 +251,17 @@
             text-decoration: underline;
         }
 
-        /* Loading / Empty */
-        .loading, .empty, .error {
+        .loading, .empty {
             text-align: center;
             padding: 60px 20px;
             color: var(--muted);
         }
 
-        /* 响应式 */
         @media (max-width: 640px) {
             .container { padding: 32px 16px; }
             .section-header { padding: 12px 16px; }
             .article { padding: 16px; }
+            .pagination { flex-wrap: wrap; }
         }
     </style>
 </head>
@@ -230,9 +283,14 @@
     </div>
 
     <script>
+        const ITEMS_PER_PAGE = 10;
         let reportsData = {};
+        let paginationState = {
+            github: { page: 1 },
+            hn: { page: 1 },
+            twitter: { page: 1 }
+        };
         
-        // 自动加载当天数据
         const today = new Date();
         const dateKey = today.toISOString().split('T')[0];
 
@@ -259,87 +317,6 @@
         function renderSections(container) {
             const reports = reportsData.reports || [];
             
-            // 按类型分组
-            const github = reports.filter(r => r.type === 'github');
-            const hn = reports.filter(r => r.type === 'hn');
-            const twitter = reports.filter(r => r.type === 'twitter');
-
-            let html = '';
-
-            // GitHub 区块
-            if (github.length > 0) {
-                html += renderSection('github', '🔰', 'GitHub Trending', github);
-            }
-
-            // Hacker News 区块
-            if (hn.length > 0) {
-                html += renderSection('hn', '📰', 'Hacker News', hn);
-            }
-
-            // Twitter 区块
-            if (twitter.length > 0) {
-                html += renderSection('twitter', '🐦', 'AI Twitter', twitter);
-            }
-
-            if (!html) {
-                renderEmpty(container, dateKey);
-                return;
-            }
-
-            // 默认全部展开
-            document.querySelectorAll('.section-content').forEach(el => el.classList.add('expanded'));
-            
-            container.innerHTML = html;
-            
-            // 绑定点击事件
-            document.querySelectorAll('.section-header').forEach(header => {
-                header.addEventListener('click', () => {
-                    const content = header.nextElementSibling;
-                    content.classList.toggle('expanded');
-                    header.querySelector('.section-toggle').textContent = 
-                        content.classList.contains('expanded') ? '▼ 点击收起' : '▶ 点击展开';
-                });
-            });
-
-            // 初始状态文字
-            document.querySelectorAll('.section-header').forEach(header => {
-                header.querySelector('.section-toggle').textContent = '▼ 点击收起';
-            });
-        }
-
-        function renderSection(type, icon, title, articles) {
-            if (!articles || articles.length === 0) return '';
-
-            const items = articles.map((article, idx) => `
-                <div class="article">
-                    <div class="article-title">
-                        <a href="${article.url || '#'}" target="_blank" rel="noopener">${article.title}</a>
-                    </div>
-                    <div class="article-meta">
-                        <span>${idx + 1}</span>
-                        ${article.stars ? `<span class="article-stars">⭐ ${article.stars}</span>` : ''}
-                    </div>
-                    ${article.summary ? `<p class="article-summary">${article.summary}</p>` : ''}
-                </div>
-            `).join('');
-
-            return `
-                <div class="section">
-                    <div class="section-header ${type}">
-                        <span class="section-icon">${icon}</span>
-                        <span class="section-title">${title}</span>
-                        <span class="section-toggle">▶ 点击展开</span>
-                    </div>
-                    <div class="section-content">
-                        ${items}
-                    </div>
-                </div>
-            `;
-        }
-
-        function renderSections(container) {
-            const reports = reportsData.reports || [];
-            
             const github = reports.filter(r => r.type === 'github');
             const hn = reports.filter(r => r.type === 'hn');
             const twitter = reports.filter(r => r.type === 'twitter');
@@ -356,9 +333,10 @@
 
             container.innerHTML = html;
 
-            // 绑定点击事件 - 默认展开
+            // 绑定展开/收起事件
             document.querySelectorAll('.section-header').forEach(header => {
-                header.addEventListener('click', () => {
+                header.addEventListener('click', (e) => {
+                    if (e.target.classList.contains('page-btn')) return;
                     const content = header.nextElementSibling;
                     content.classList.toggle('expanded');
                     const toggle = header.querySelector('.section-toggle');
@@ -371,6 +349,78 @@
             document.querySelectorAll('.section-toggle').forEach(el => el.textContent = '▼ 点击收起');
         }
 
+        function renderSection(type, icon, title, articles) {
+            if (!articles || articles.length === 0) return '';
+
+            const totalPages = Math.ceil(articles.length / ITEMS_PER_PAGE);
+            const currentPage = paginationState[type].page || 1;
+            const start = (currentPage - 1) * ITEMS_PER_PAGE;
+            const end = start + ITEMS_PER_PAGE;
+            const pageArticles = articles.slice(start, end);
+
+            const items = pageArticles.map((article, idx) => `
+                <div class="article">
+                    <div class="article-title">
+                        <a href="${article.url || '#'}" target="_blank" rel="noopener">${article.title}</a>
+                    </div>
+                    <div class="article-meta">
+                        <span>${start + idx + 1}</span>
+                        ${article.stars ? `<span class="article-stars">⭐ ${article.stars}</span>` : ''}
+                    </div>
+                    ${article.summary ? `<p class="article-summary">${article.summary}</p>` : ''}
+                </div>
+            `).join('');
+
+            let pagination = '';
+            if (totalPages > 1) {
+                pagination = `<div class="pagination">`;
+                
+                // 上一页
+                pagination += `<button class="page-btn" onclick="changePage('${type}', ${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''}>上一页</button>`;
+                
+                // 页码
+                for (let i = 1; i <= totalPages; i++) {
+                    if (i === 1 || i === totalPages || (i >= currentPage - 1 && i <= currentPage + 1)) {
+                        pagination += `<button class="page-btn ${i === currentPage ? 'active' : ''}" onclick="changePage('${type}', ${i})">${i}</button>`;
+                    } else if (i === currentPage - 2 || i === currentPage + 2) {
+                        pagination += `<span class="pagination-info">...</span>`;
+                    }
+                }
+                
+                // 下一页
+                pagination += `<button class="page-btn" onclick="changePage('${type}', ${currentPage + 1})" ${currentPage === totalPages ? 'disabled' : ''}>下一页</button>`;
+                
+                pagination += `<span class="pagination-info">${currentPage}/${totalPages} 页</span>`;
+                pagination += `</div>`;
+            }
+
+            return `
+                <div class="section">
+                    <div class="section-header ${type}">
+                        <span class="section-icon">${icon}</span>
+                        <span class="section-title">${title}</span>
+                        <span class="section-count">${articles.length} 条</span>
+                        <span class="section-toggle">▼ 点击收起</span>
+                    </div>
+                    <div class="section-content expanded">
+                        ${items}
+                        ${pagination}
+                    </div>
+                </div>
+            `;
+        }
+
+        function changePage(type, page) {
+            const reports = reportsData.reports || [];
+            const articles = reports.filter(r => r.type === type);
+            const totalPages = Math.ceil(articles.length / ITEMS_PER_PAGE);
+            
+            if (page < 1 || page > totalPages) return;
+            
+            paginationState[type].page = page;
+            renderSections(document.getElementById('content'));
+        }
+
         function renderEmpty(container, dateKey) {
             container.innerHTML = `
                 <div class="empty">
@@ -380,7 +430,6 @@
             `;
         }
 
-        // 页面加载时获取当天数据
         document.addEventListener('DOMContentLoaded', loadData);
     </script>
 </body>
