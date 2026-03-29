@@ -167,15 +167,24 @@
             overflow: hidden;
         }
 
-        .date-toggle {
+        .date-toggle-btn {
             font-size: 0.8rem;
             color: var(--muted);
-            transition: transform 0.2s;
+            background: var(--light);
+            border: none;
+            padding: 6px 12px;
+            border-radius: 6px;
+            cursor: pointer;
             flex-shrink: 0;
-            padding-top: 4px;
+            transition: all 0.2s;
         }
 
-        .date-item.expanded .date-toggle {
+        .date-toggle-btn:hover {
+            background: var(--ink);
+            color: var(--paper);
+        }
+
+        .date-item.expanded .date-toggle-btn {
             transform: rotate(180deg);
         }
 
@@ -438,8 +447,8 @@
                 const fullContent = list.map(a => a.content || '').join('\n\n---\n\n');
 
                 html += `
-                    <div class="date-item" onclick="toggleDate(this, event)">
-                        <div class="date-header">
+                    <div class="date-item">
+                        <div class="date-header" onclick="toggleDate(this.parentElement)">
                             <div class="date-left">
                                 <div class="date-info">
                                     <span class="date-icon">📅</span>
@@ -448,7 +457,7 @@
                                 </div>
                                 <div class="date-summary">${summaryText}</div>
                             </div>
-                            <span class="date-toggle">▼</span>
+                            <button class="date-toggle-btn" onclick="event.stopPropagation(); toggleDate(this.closest('.date-item'))">▼ 展开</button>
                         </div>
                         <div class="date-content">
                             <div class="markdown-body">${parseMarkdown(fullContent)}</div>
@@ -480,12 +489,12 @@
             container.innerHTML = html;
         }
 
-        function toggleDate(el, event) {
-            // 如果点击的是链接或按钮，不触发收起
-            if (event && (event.target.tagName === 'A' || event.target.tagName === 'BUTTON')) {
-                return;
-            }
+        function toggleDate(el) {
             el.classList.toggle('expanded');
+            const btn = el.querySelector('.date-toggle-btn');
+            if (btn) {
+                btn.textContent = el.classList.contains('expanded') ? '▲ 收起' : '▼ 展开';
+            }
         }
 
         function changePage(page) {
