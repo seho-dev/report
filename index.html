@@ -37,8 +37,8 @@
 
         header {
             text-align: center;
-            margin-bottom: 56px;
-            padding-bottom: 32px;
+            margin-bottom: 40px;
+            padding-bottom: 24px;
             border-bottom: 2px solid var(--ink);
         }
 
@@ -64,60 +64,74 @@
             font-style: italic;
         }
 
-        /* Section */
-        .section {
+        /* Tab 切换 */
+        .tabs {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
             margin-bottom: 32px;
         }
 
-        .section-header {
+        .tab {
+            padding: 12px 28px;
+            border: none;
+            background: var(--light);
+            color: var(--muted);
+            font-size: 0.95rem;
+            font-weight: 500;
+            cursor: pointer;
+            border-radius: 24px;
+            transition: all 0.2s;
+            font-family: inherit;
+        }
+
+        .tab:hover { color: var(--ink); }
+
+        .tab.active {
+            background: var(--ink);
+            color: var(--paper);
+        }
+
+        .tab.active[data-type="github"] { background: var(--github); }
+        .tab.active[data-type="hn"] { background: var(--hn); }
+        .tab.active[data-type="twitter"] { background: var(--twitter); }
+
+        /* 日期列表 */
+        .date-list {
             display: flex;
-            align-items: center;
+            flex-direction: column;
             gap: 12px;
-            padding: 16px 20px;
+        }
+
+        .date-item {
             background: #fff;
             border: 1px solid var(--light);
-            cursor: pointer;
+            border-radius: 8px;
+            overflow: hidden;
             transition: all 0.2s;
         }
 
-        .section-header:hover { border-color: var(--ink); }
-        .section-header.github { border-left: 4px solid var(--github); }
-        .section-header.hn { border-left: 4px solid var(--hn); }
-        .section-header.twitter { border-left: 4px solid var(--twitter); }
-
-        .section-icon { font-size: 1.5rem; }
-        .section-title {
-            font-family: 'Noto Serif SC', Georgia, serif;
-            font-size: 1.25rem;
-            font-weight: 600;
-            flex: 1;
+        .date-item:hover {
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
         }
-        .section-toggle { font-size: 0.8rem; color: var(--muted); }
-
-        .section-content {
-            display: none;
-            background: #fff;
-            border: 1px solid var(--light);
-            border-top: none;
-        }
-        .section-content.expanded { display: block; }
-
-        /* 日期卡片 */
-        .date-card {
-            border-bottom: 1px solid var(--light);
-        }
-        .date-card:last-child { border-bottom: none; }
 
         .date-header {
-            padding: 16px 24px;
-            background: #fafafa;
+            padding: 18px 20px;
             cursor: pointer;
             display: flex;
             align-items: center;
             justify-content: space-between;
-            transition: background 0.2s;
         }
-        .date-header:hover { background: #f0f0ed; }
+
+        .date-info {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .date-icon {
+            font-size: 1.2rem;
+        }
 
         .date-title {
             font-family: 'Noto Serif SC', Georgia, serif;
@@ -135,20 +149,30 @@
             font-size: 0.75rem;
             color: var(--muted);
             background: var(--light);
-            padding: 2px 10px;
+            padding: 3px 10px;
             border-radius: 10px;
         }
 
         .date-toggle {
-            font-size: 0.75rem;
+            font-size: 0.8rem;
             color: var(--muted);
+            transition: transform 0.2s;
         }
 
+        .date-item.expanded .date-toggle {
+            transform: rotate(180deg);
+        }
+
+        /* 展开的内容 */
         .date-content {
             display: none;
-            padding: 0 24px 20px;
+            padding: 0 20px 20px;
+            border-top: 1px solid var(--light);
         }
-        .date-content.expanded { display: block; }
+
+        .date-item.expanded .date-content {
+            display: block;
+        }
 
         /* 文章列表 */
         .article-list {
@@ -160,9 +184,10 @@
             padding: 14px 0;
             border-bottom: 1px solid var(--light);
         }
+
         .article-item:last-child { border-bottom: none; }
 
-        .article-main {
+        .article-row {
             display: flex;
             align-items: flex-start;
             gap: 12px;
@@ -190,12 +215,15 @@
             transition: color 0.2s;
         }
 
-        .article-title a:hover { color: var(--accent); }
+        .article-title a:hover {
+            color: var(--accent);
+            text-decoration: underline;
+        }
 
         .article-meta {
             display: flex;
             align-items: center;
-            gap: 12px;
+            gap: 10px;
             font-size: 0.75rem;
             color: var(--muted);
             flex-wrap: wrap;
@@ -225,10 +253,8 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            gap: 8px;
-            padding: 16px;
-            background: #fafafa;
-            border-top: 1px solid var(--light);
+            gap: 6px;
+            padding: 24px;
         }
 
         .pagination button {
@@ -248,9 +274,21 @@
             color: var(--paper);
         }
 
-        .pagination button:disabled { opacity: 0.4; cursor: not-allowed; }
-        .pagination button.active { background: var(--ink); color: var(--paper); }
-        .pagination-info { font-size: 0.8rem; color: var(--muted); margin: 0 12px; }
+        .pagination button:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        .pagination button.active {
+            background: var(--ink);
+            color: var(--paper);
+        }
+
+        .pagination-info {
+            font-size: 0.8rem;
+            color: var(--muted);
+            margin: 0 12px;
+        }
 
         footer {
             text-align: center;
@@ -260,14 +298,21 @@
             color: var(--muted);
             font-size: 0.8rem;
         }
+
         footer a { color: var(--accent); text-decoration: none; }
         footer a:hover { text-decoration: underline; }
-        .loading, .empty { text-align: center; padding: 60px 20px; color: var(--muted); }
+
+        .loading, .empty {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--muted);
+        }
 
         @media (max-width: 640px) {
             .container { padding: 32px 16px; }
-            .section-header { padding: 12px 16px; }
-            .date-header { padding: 12px 16px; }
+            .tabs { gap: 6px; }
+            .tab { padding: 10px 18px; font-size: 0.85rem; }
+            .date-header { padding: 14px 16px; }
             .date-content { padding: 0 16px 16px; }
         }
     </style>
@@ -279,6 +324,12 @@
             <h1>技术日报</h1>
             <p class="tagline">每日技术资讯精选 · 洞悉行业脉搏</p>
         </header>
+
+        <div class="tabs">
+            <button class="tab active" data-type="github">🔰 GitHub</button>
+            <button class="tab" data-type="hn">📰 Hacker News</button>
+            <button class="tab" data-type="twitter">🐦 AI Twitter</button>
+        </div>
 
         <main id="content">
             <div class="loading">加载最近30天数据...</div>
@@ -292,8 +343,18 @@
     <script>
         const DAYS_PER_PAGE = 10;
         let allData = { github: [], hn: [], twitter: [] };
-        let paginationState = { github: { page: 1 }, hn: { page: 1 }, twitter: { page: 1 } };
-        let expandState = {}; // 记录每个日期的展开状态
+        let currentType = 'github';
+        let paginationState = { github: 1, hn: 1, twitter: 1 };
+
+        // Tab 切换
+        document.querySelectorAll('.tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.querySelector('.tab.active').classList.remove('active');
+                tab.classList.add('active');
+                currentType = tab.dataset.type;
+                renderContent();
+            });
+        });
 
         async function loadData() {
             const container = document.getElementById('content');
@@ -320,63 +381,20 @@
                 });
             });
 
-            renderSections(container);
+            renderContent();
         }
 
-        function renderSections(container) {
-            let html = '';
-            html += renderSection('github', '🔰', 'GitHub Trending', allData.github);
-            html += renderSection('hn', '📰', 'Hacker News', allData.hn);
-            html += renderSection('twitter', '🐦', 'AI Twitter', allData.twitter);
-
-            if (!html) {
+        function renderContent() {
+            const container = document.getElementById('content');
+            const articles = allData[currentType] || [];
+            
+            if (articles.length === 0) {
                 container.innerHTML = '<div class="empty"><p>暂无数据</p></div>';
                 return;
             }
 
-            container.innerHTML = html;
-
-            // 绑定分类展开/收起
-            document.querySelectorAll('.section-header').forEach(header => {
-                header.addEventListener('click', (e) => {
-                    if (e.target.classList.contains('page-btn')) return;
-                    const content = header.nextElementSibling;
-                    content.classList.toggle('expanded');
-                    header.querySelector('.section-toggle').textContent = 
-                        content.classList.contains('expanded') ? '▼ 点击收起' : '▶ 点击展开';
-                });
-            });
-
-            // 绑定日期展开/收起
-            document.querySelectorAll('.date-header').forEach(header => {
-                header.addEventListener('click', () => {
-                    const date = header.dataset.date;
-                    const content = header.nextElementSibling;
-                    content.classList.toggle('expanded');
-                    header.querySelector('.date-toggle').textContent = 
-                        content.classList.contains('expanded') ? '▲ 收起' : '▼ 展开';
-                    expandState[date] = content.classList.contains('expanded');
-                });
-            });
-
-            // 恢复展开状态
-            Object.keys(expandState).forEach(date => {
-                if (expandState[date]) {
-                    const header = document.querySelector(`.date-header[data-date="${date}"]`);
-                    const content = header?.nextElementSibling;
-                    if (content) {
-                        content.classList.add('expanded');
-                        header.querySelector('.date-toggle').textContent = '▲ 收起';
-                    }
-                }
-            });
-        }
-
-        function renderSection(type, icon, title, articles) {
-            if (!articles || articles.length === 0) return '';
-
             const totalPages = Math.ceil(articles.length / DAYS_PER_PAGE);
-            const currentPage = paginationState[type].page || 1;
+            const currentPage = paginationState[currentType] || 1;
             const start = (currentPage - 1) * DAYS_PER_PAGE;
             const end = start + DAYS_PER_PAGE;
             const pageArticles = articles.slice(start, end);
@@ -390,15 +408,14 @@
             });
 
             const sortedDates = Object.keys(byDate).sort((a, b) => b.localeCompare(a[0]));
+
+            let html = '<div class="date-list">';
             
-            const dateCards = sortedDates.map(date => {
+            sortedDates.forEach(date => {
                 const list = byDate[date];
-                const isExpanded = expandState[date] ? 'expanded' : '';
-                const toggleText = expandState[date] ? '▲ 收起' : '▼ 展开';
-                
                 const items = list.map((article, idx) => `
                     <li class="article-item">
-                        <div class="article-main">
+                        <div class="article-row">
                             <span class="article-num">${idx + 1}.</span>
                             <div class="article-info">
                                 <div class="article-title">
@@ -416,66 +433,64 @@
                     </li>
                 `).join('');
 
-                return `
-                    <div class="date-card">
-                        <div class="date-header" data-date="${date}">
-                            <span class="date-title">📅 ${date}</span>
+                html += `
+                    <div class="date-item" onclick="toggleDate(this)">
+                        <div class="date-header">
+                            <div class="date-info">
+                                <span class="date-icon">📅</span>
+                                <span class="date-title">${date}</span>
+                            </div>
                             <div class="date-meta">
                                 <span class="date-count">${list.length} 条</span>
-                                <span class="date-toggle">${toggleText}</span>
+                                <span class="date-toggle">▼</span>
                             </div>
                         </div>
-                        <div class="date-content ${isExpanded}">
+                        <div class="date-content">
                             <ul class="article-list">${items}</ul>
                         </div>
                     </div>
                 `;
-            }).join('');
+            });
 
-            let pagination = '';
+            html += '</div>';
+
+            // 分页
             if (totalPages > 1) {
-                pagination = `<div class="pagination">
-                    <button class="page-btn" onclick="changePage('${type}', ${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''}>上一页</button>`;
+                html += `<div class="pagination">
+                    <button onclick="changePage(${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''}>上一页</button>`;
                 
                 for (let i = 1; i <= totalPages; i++) {
                     if (i === 1 || i === totalPages || (i >= currentPage - 1 && i <= currentPage + 1)) {
-                        pagination += `<button class="page-btn ${i === currentPage ? 'active' : ''}" onclick="changePage('${type}', ${i})">${i}</button>`;
+                        html += `<button class="${i === currentPage ? 'active' : ''}" onclick="changePage(${i})">${i}</button>`;
                     } else if (i === currentPage - 2 || i === currentPage + 2) {
-                        pagination += `<span class="pagination-info">...</span>`;
+                        html += `<span class="pagination-info">...</span>`;
                     }
                 }
                 
-                pagination += `<button class="page-btn" onclick="changePage('${type}', ${currentPage + 1})" ${currentPage === totalPages ? 'disabled' : ''}>下一页</button>
+                html += `<button onclick="changePage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled' : ''}>下一页</button>
                     <span class="pagination-info">${currentPage}/${totalPages} 页</span>
                 </div>`;
             }
 
-            return `
-                <div class="section">
-                    <div class="section-header ${type}">
-                        <span class="section-icon">${icon}</span>
-                        <span class="section-title">${title}</span>
-                        <span class="section-toggle">▼ 点击收起</span>
-                    </div>
-                    <div class="section-content expanded">
-                        ${dateCards}
-                        ${pagination}
-                    </div>
-                </div>
-            `;
+            container.innerHTML = html;
+        }
+
+        function toggleDate(el) {
+            el.classList.toggle('expanded');
+        }
+
+        function changePage(page) {
+            const articles = allData[currentType];
+            const totalPages = Math.ceil(articles.length / DAYS_PER_PAGE);
+            if (page < 1 || page > totalPages) return;
+            paginationState[currentType] = page;
+            renderContent();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
         function formatStars(n) {
             if (n >= 1000) return (n / 1000).toFixed(1) + 'k';
             return n;
-        }
-
-        function changePage(type, page) {
-            const articles = allData[type];
-            const totalPages = Math.ceil(articles.length / DAYS_PER_PAGE);
-            if (page < 1 || page > totalPages) return;
-            paginationState[type].page = page;
-            renderSections(document.getElementById('content'));
         }
 
         document.addEventListener('DOMContentLoaded', loadData);
