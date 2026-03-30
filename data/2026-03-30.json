@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-30",
+  "github": [
+    {"title": "larksuite/cli", "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents.", "language": "Go", "stars": 2913, "url": "https://github.com/larksuite/cli"},
+    {"title": "HKUDS/OpenSpace", "description": "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving", "language": "Python", "stars": 2444, "url": "https://github.com/HKUDS/OpenSpace"},
+    {"title": "magnum6actual/flipoff", "description": "Free split-flap display emulator for any TV.", "language": "JavaScript", "stars": 2408, "url": "https://github.com/magnum6actual/flipoff"},
+    {"title": "elder-plinius/G0DM0D3", "description": "LIBERATED AI CHAT", "language": "TypeScript", "stars": 1986, "url": "https://github.com/elder-plinius/G0DM0D3"},
+    {"title": "alvinunreal/awesome-opensource-ai", "description": "Curated list of the best truly open-source AI projects", "language": null, "stars": 1926, "url": "https://github.com/alvinunreal/awesome-opensource-ai"},
+    {"title": "nashsu/opencli-rs", "description": "Blazing fast, memory-safe command-line tool for fetching website info", "language": "Rust", "stars": 979, "url": "https://github.com/nashsu/opencli-rs"},
+    {"title": "facebookresearch/tribev2", "description": "Multimodal model for brain response prediction", "language": "Jupyter Notebook", "stars": 885, "url": "https://github.com/facebookresearch/tribev2"},
+    {"title": "jxnxts/mcp-brasil", "description": "MCP Server para 41 APIs públicas brasileiras", "language": "Python", "stars": 872, "url": "https://github.com/jxnxts/mcp-brasil"},
+    {"title": "LimHyungTae/Awesome-PhD-CV", "description": "Curated academic CV templates for PhD students", "language": "TeX", "stars": 849, "url": "https://github.com/LimHyungTae/Awesome-PhD-CV"},
+    {"title": "oaker-io/wewrite", "description": "公众号文章全流程 AI Skill for Claude Code", "language": "Python", "stars": 841, "url": "https://github.com/oaker-io/wewrite"}
+  ],
+  "hn": [
+    {"title": "There is No Spoon. A software engineers primer for demystified ML", "url": "https://github.com/dreddnafious/thereisnospoon"},
+    {"title": "Coding Agents Could Make Free Software Matter Again", "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/"},
+    {"title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins", "url": "https://github.com/anthropics/claude-code/issues/40710"},
+    {"title": "Show HN: Crazierl – An Erlang Operating System", "url": "https://crazierl.org/demo/"},
+    {"title": "The road signs that teach travellers about France", "url": "https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france"},
+    {"title": "ChatGPT won't let you type until Cloudflare reads your React state", "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/"},
+    {"title": "Sky Wins Irish Court Order to Unmask 300 Pirate IPTV Users via Revolut Bank", "url": "https://torrentfreak.com/sky-wins-irish-court-order-to-unmask-300-pirate-iptv-users-via-revolut-bank/"},
+    {"title": "Midnight train from GA: A view of America from the tracks", "url": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a"},
+    {"title": "The Cognitive Dark Forest", "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/"},
+    {"title": "More on Version Control", "url": "https://bramcohen.com/p/more-on-version-control"}
+  ],
+  "builders": [
+    {"source": "x", "name": "Andrej Karpathy", "handle": "karpathy", "bio": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.", "tweets": [{"text": "Drafted a blog post, used an LLM to improve the argument over 4 hours, then asked it to argue the opposite and it demolished the entire argument. LLMs are extremely competent in arguing almost any direction - useful for forming opinions.", "likes": 23516, "retweets": 1786}]},
+    {"source": "x", "name": "Swyx", "handle": "swyx", "bio": "achieve ambition with intentionality", "tweets": [{"text": "False equivalence is a trap - carefully bet on a very small set of things. Don't hedge. Set triggers to monitor if wrong. Tests to double down early if more right.", "likes": 255, "retweets": 21}]},
+    {"source": "x", "name": "Josh Woodward", "handle": "joshwoodward", "bio": "VP, @Google @GoogleLabs", "tweets": [{"text": "Seeing great uptake on Gemini - give it a try this weekend!", "likes": 212, "retweets": 10}]},
+    {"source": "x", "name": "Peter Yang", "handle": "petergyang", "bio": "I share extremely practical AI tutorials and interviews", "tweets": [{"text": "Would really love to talk to @grok about all the posts I have bookmarked", "likes": 84, "retweets": 3}]}
+  ]
+}
