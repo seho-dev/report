@@ -357,6 +357,10 @@
             <button class="tab" data-type="twitter">🐦 AI Twitter</button>
         </div>
 
+        <div id="translate-bar" style="text-align: right; margin-bottom: 16px;">
+            <button onclick="toggleTranslate()" style="background: var(--light); border: 1px solid var(--muted); padding: 6px 12px; border-radius: 6px; cursor: pointer; font-size: 0.85rem;">🌐 翻译</button>
+        </div>
+
         <main id="content">
             <div class="loading">加载最近30天数据...</div>
         </main>
@@ -371,6 +375,8 @@
         let allData = { github: [], hn: [], twitter: [] };
         let currentType = 'github';
         let paginationState = { github: 1, hn: 1, twitter: 1 };
+        let isTranslated = false;
+        let translatedCache = {}; // 翻译缓存
 
         // Tab 切换
         document.querySelectorAll('.tab').forEach(tab => {
@@ -456,22 +462,38 @@
                 let fullContent = '';
 
                 if (currentType === 'twitter') {
-                    // Twitter: 显示作者和推文摘要
-                    summaryText = list.map(a => `@${a.handle}: ${a.tweets?.[0]?.text?.substring(0, 80) || ''}...`).join(' | ');
+                    // Twitter: 显示作者和推文摘要，加上链接
+                    summaryText = list.map(a => {
+                        const key = `twitter-${a.date}-${a.handle}`;
+                        const translated = isTranslated ? translatedCache[key] : null;
+                        const text = translated || a.tweets?.[0]?.text?.substring(0, 60) || '';
+                        return `🐦 [@${a.handle}](https://x.com/${a.handle}): ${text}...`;
+                    }).join(' | ');
                     fullContent = list.map(a => {
-                        const tweets = a.tweets?.map(t => `> ${t.text}\n\n❤️ ${t.likes} | 🔁 ${t.retweets}`).join('\n\n---\n\n') || '';
-                        return `### @${a.handle} (${a.name})\n\n${tweets}`;
+                        const key = `twitter-${a.date}-${a.handle}`;
+                        const translated = isTranslated ? translatedCache[key] : null;
+                        const tweets = a.tweets?.map(t => {
+                            const tweetText = translated || t.text;
+                            return `> ${tweetText}\n\n❤️ ${t.likes} | 🔁 ${t.retweets}`;
+                        }).join('\n\n---\n\n') || '';
+                        return `### [🐦 @${a.handle}](https://x.com/${a.handle}) (${a.name})\n\n${tweets}`;
                     }).join('\n\n---\n\n');
                 } else {
                     // GitHub/HN: 使用 description
                     const items = list.map(a => {
+                        const key = `${currentType}-${a.date}-${a.title}`;
+                        const translated = isTranslated ? translatedCache[key] : null;
+                        const title = translated || a.title;
                         if (currentType === 'github') {
-                            return `- **[${a.title}](${a.url})** ⭐ ${a.stars}\n  ${a.description || ''}`;
+                            return `- **[${title}](${a.url})** ⭐ ${a.stars}\n  ${translated ? '' : (a.description || '')}`;
                         } else {
-                            return `- [${a.title}](${a.url})`;
+                            return `- [${title}](${a.url})`;
                         }
                     }).join('\n');
-                    summaryText = list.map(a => a.title).join(', ').substring(0, 120) + '...';
+                    summaryText = list.map(a => {
+                        const key = `${currentType}-${a.date}-${a.title}`;
+                        return isTranslated ? (translatedCache[key] || a.title) : a.title;
+                    }).join(', ').substring(0, 120) + '...';
                     fullContent = items;
                 }
                 
@@ -551,6 +573,53 @@
                 breaks: true,
                 gfm: true
             });
+        }
+
+        async function toggleTranslate() {
+            isTranslated = !isTranslated;
+            const btn = document.querySelector('#translate-bar button');
+            btn.textContent = isTranslated ? '🌐 原文' : '🌐 翻译';
+            btn.style.background = isTranslated ? 'var(--ink)' : 'var(--light)';
+            btn.style.color = isTranslated ? 'var(--paper)' : 'var(--ink)';
+            
+            if (isTranslated) {
+                // 批量翻译所有内容
+                await translateAllContent();
+            }
+            renderContent();
+        }
+
+        async function translateAllContent() {
+            const items = [...allData.github, ...allData.hn, ...allData.twitter];
+            for (const item of items) {
+                const key = `${item.type}-${item.date}-${item.title || item.handle}`;
+                if (!translatedCache[key]) {
+                    let textToTranslate = '';
+                    if (item.type === 'github') {
+                        textToTranslate = `${item.title}. ${item.description || ''}`;
+                    } else if (item.type === 'hn') {
+                        textToTranslate = item.title;
+                    } else if (item.type === 'twitter') {
+                        textToTranslate = item.tweets?.map(t => t.text).join(' ') || '';
+                    }
+                    if (textToTranslate) {
+                        try {
+                            const translated = await callTranslateAPI(textToTranslate);
+                            translatedCache[key] = translated;
+                        } catch (e) {
+                            translatedCache[key] = textToTranslate; // 失败时使用原文
+                        }
+                        await new Promise(r => setTimeout(r, 200)); // 限速
+                    }
+                }
+            }
+        }
+
+        async function callTranslateAPI(text) {
+            const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|zh`;
+            const res = await fetch(url);
+            const data = await res.json();
+            return data.responseData?.translatedText || text;
         }
 
         document.addEventListener('DOMContentLoaded', loadData);
