@@ -399,12 +399,25 @@
             const results = await Promise.all(promises);
             
             results.forEach(data => {
-                if (!data || !data.reports) return;
-                data.reports.forEach(report => {
-                    if (report.type === 'github') allData.github.push({ ...report, date: data.date });
-                    else if (report.type === 'hn') allData.hn.push({ ...report, date: data.date });
-                    else if (report.type === 'twitter') allData.twitter.push({ ...report, date: data.date });
-                });
+                if (!data) return;
+                // github 数据
+                if (data.github && Array.isArray(data.github)) {
+                    data.github.forEach(item => {
+                        allData.github.push({ ...item, date: data.date, type: 'github' });
+                    });
+                }
+                // hn 数据
+                if (data.hn && Array.isArray(data.hn)) {
+                    data.hn.forEach(item => {
+                        allData.hn.push({ ...item, date: data.date, type: 'hn' });
+                    });
+                }
+                // twitter/builders 数据
+                if (data.builders && Array.isArray(data.builders)) {
+                    data.builders.forEach(item => {
+                        allData.twitter.push({ ...item, date: data.date, type: 'twitter' });
+                    });
+                }
             });
 
             renderContent();
@@ -439,13 +452,29 @@
             
             sortedDates.forEach(date => {
                 const list = byDate[date];
-                // 合并所有 content 作为缩略
-                const allContent = list.map(a => a.content || a.summary || '').join('\n\n');
-                const summaryText = stripMarkdown(allContent).substring(0, 150) + '...';
-                
-                // 合并完整的 markdown 内容
-                const fullContent = list.map(a => a.content || '').join('\n\n---\n\n');
+                let summaryText = '';
+                let fullContent = '';
 
+                if (currentType === 'twitter') {
+                    // Twitter: 显示作者和推文摘要
+                    summaryText = list.map(a => `@${a.handle}: ${a.tweets?.[0]?.text?.substring(0, 80) || ''}...`).join(' | ');
+                    fullContent = list.map(a => {
+                        const tweets = a.tweets?.map(t => `> ${t.text}\n\n❤️ ${t.likes} | 🔁 ${t.retweets}`).join('\n\n---\n\n') || '';
+                        return `### @${a.handle} (${a.name})\n\n${tweets}`;
+                    }).join('\n\n---\n\n');
+                } else {
+                    // GitHub/HN: 使用 description
+                    const items = list.map(a => {
+                        if (currentType === 'github') {
+                            return `- **[${a.title}](${a.url})** ⭐ ${a.stars}\n  ${a.description || ''}`;
+                        } else {
+                            return `- [${a.title}](${a.url})`;
+                        }
+                    }).join('\n');
+                    summaryText = list.map(a => a.title).join(', ').substring(0, 120) + '...';
+                    fullContent = items;
+                }
+                
                 html += `
                     <div class="date-item">
                         <div class="date-header" onclick="toggleDate(this.parentElement)">
@@ -455,7 +484,7 @@
                                     <span class="date-title">${date}</span>
                                     <span class="date-count">${list.length} 条</span>
                                 </div>
-                                <div class="date-summary">${summaryText}</div>
+                                <div class="date-summary">${summaryText.substring(0, 150)}</div>
                             </div>
                             <button class="date-toggle-btn" onclick="event.stopPropagation(); toggleDate(this.closest('.date-item'))">▼ 展开</button>
                         </div>
