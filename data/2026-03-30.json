@@ -1,33 +1,213 @@
 {
   "date": "2026-03-30",
   "github": [
-    {"title": "larksuite/cli", "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents.", "language": "Go", "stars": 2913, "url": "https://github.com/larksuite/cli"},
-    {"title": "HKUDS/OpenSpace", "description": "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving", "language": "Python", "stars": 2444, "url": "https://github.com/HKUDS/OpenSpace"},
-    {"title": "magnum6actual/flipoff", "description": "Free split-flap display emulator for any TV.", "language": "JavaScript", "stars": 2408, "url": "https://github.com/magnum6actual/flipoff"},
-    {"title": "elder-plinius/G0DM0D3", "description": "LIBERATED AI CHAT", "language": "TypeScript", "stars": 1986, "url": "https://github.com/elder-plinius/G0DM0D3"},
-    {"title": "alvinunreal/awesome-opensource-ai", "description": "Curated list of the best truly open-source AI projects", "language": null, "stars": 1926, "url": "https://github.com/alvinunreal/awesome-opensource-ai"},
-    {"title": "nashsu/opencli-rs", "description": "Blazing fast, memory-safe command-line tool for fetching website info", "language": "Rust", "stars": 979, "url": "https://github.com/nashsu/opencli-rs"},
-    {"title": "facebookresearch/tribev2", "description": "Multimodal model for brain response prediction", "language": "Jupyter Notebook", "stars": 885, "url": "https://github.com/facebookresearch/tribev2"},
-    {"title": "jxnxts/mcp-brasil", "description": "MCP Server para 41 APIs públicas brasileiras", "language": "Python", "stars": 872, "url": "https://github.com/jxnxts/mcp-brasil"},
-    {"title": "LimHyungTae/Awesome-PhD-CV", "description": "Curated academic CV templates for PhD students", "language": "TeX", "stars": 849, "url": "https://github.com/LimHyungTae/Awesome-PhD-CV"},
-    {"title": "oaker-io/wewrite", "description": "公众号文章全流程 AI Skill for Claude Code", "language": "Python", "stars": 841, "url": "https://github.com/oaker-io/wewrite"}
+    {
+      "title": "larksuite/cli",
+      "description": "Lark/Feishu开放平台的命令行工具—专为人类和人工智能代理构建。",
+      "language": "Go",
+      "stars": 2913,
+      "url": "https://github.com/larksuite/cli",
+      "title_en": "larksuite/cli",
+      "description_en": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents."
+    },
+    {
+      "title": "HKUDS/OpenSpace",
+      "description": "OpenSpace ：让您的代理：更智能、低成本、自我进化",
+      "language": "Python",
+      "stars": 2444,
+      "url": "https://github.com/HKUDS/OpenSpace",
+      "title_en": "HKUDS/OpenSpace",
+      "description_en": "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving"
+    },
+    {
+      "title": "magnum6actual/flipoff",
+      "description": "适用于任何电视的免费分体式翻板显示模拟器。",
+      "language": "JavaScript",
+      "stars": 2408,
+      "url": "https://github.com/magnum6actual/flipoff",
+      "title_en": "magnum6actual/flipoff",
+      "description_en": "Free split-flap display emulator for any TV."
+    },
+    {
+      "title": "elder-plinius/G0DM0D3",
+      "description": "解放AI聊天",
+      "language": "TypeScript",
+      "stars": 1986,
+      "url": "https://github.com/elder-plinius/G0DM0D3",
+      "title_en": "elder-plinius/G0DM0D3",
+      "description_en": "LIBERATED AI CHAT"
+    },
+    {
+      "title": "alvinunreal/awesome-opensource-ai",
+      "description": "精心策划的最佳真正开源人工智能项目列表",
+      "language": null,
+      "stars": 1926,
+      "url": "https://github.com/alvinunreal/awesome-opensource-ai",
+      "title_en": "alvinunreal/awesome-opensource-ai",
+      "description_en": "Curated list of the best truly open-source AI projects"
+    },
+    {
+      "title": "nashsu/opencli-rs",
+      "description": "快速、内存安全的命令行工具，用于获取网站信息",
+      "language": "Rust",
+      "stars": 979,
+      "url": "https://github.com/nashsu/opencli-rs",
+      "title_en": "nashsu/opencli-rs",
+      "description_en": "Blazing fast, memory-safe command-line tool for fetching website info"
+    },
+    {
+      "title": "facebookresearch/tribev2",
+      "description": "用于大脑反应预测的多模态模型",
+      "language": "Jupyter Notebook",
+      "stars": 885,
+      "url": "https://github.com/facebookresearch/tribev2",
+      "title_en": "facebookresearch/tribev2",
+      "description_en": "Multimodal model for brain response prediction"
+    },
+    {
+      "title": "jxnxts/mcp-brasil",
+      "description": "MCP Server para 41 APIs públicas brasileiras",
+      "language": "Python",
+      "stars": 872,
+      "url": "https://github.com/jxnxts/mcp-brasil",
+      "title_en": "jxnxts/mcp-brasil",
+      "description_en": "MCP Server para 41 APIs públicas brasileiras"
+    },
+    {
+      "title": "LimHyungTae/Awesome-PhD-CV",
+      "description": "为博士生精心策划的学术简历模板",
+      "language": "TeX",
+      "stars": 849,
+      "url": "https://github.com/LimHyungTae/Awesome-PhD-CV",
+      "title_en": "LimHyungTae/Awesome-PhD-CV",
+      "description_en": "Curated academic CV templates for PhD students"
+    },
+    {
+      "title": "oaker-io/wewrite",
+      "description": "Claude Code公众号文章全流程的人工智能技能",
+      "language": "Python",
+      "stars": 841,
+      "url": "https://github.com/oaker-io/wewrite",
+      "title_en": "oaker-io/wewrite",
+      "description_en": "公众号文章全流程 AI Skill for Claude Code"
+    }
   ],
   "hn": [
-    {"title": "There is No Spoon. A software engineers primer for demystified ML", "url": "https://github.com/dreddnafious/thereisnospoon"},
-    {"title": "Coding Agents Could Make Free Software Matter Again", "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/"},
-    {"title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins", "url": "https://github.com/anthropics/claude-code/issues/40710"},
-    {"title": "Show HN: Crazierl – An Erlang Operating System", "url": "https://crazierl.org/demo/"},
-    {"title": "The road signs that teach travellers about France", "url": "https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france"},
-    {"title": "ChatGPT won't let you type until Cloudflare reads your React state", "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/"},
-    {"title": "Sky Wins Irish Court Order to Unmask 300 Pirate IPTV Users via Revolut Bank", "url": "https://torrentfreak.com/sky-wins-irish-court-order-to-unmask-300-pirate-iptv-users-via-revolut-bank/"},
-    {"title": "Midnight train from GA: A view of America from the tracks", "url": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a"},
-    {"title": "The Cognitive Dark Forest", "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/"},
-    {"title": "More on Version Control", "url": "https://bramcohen.com/p/more-on-version-control"}
+    {
+      "title": "没有勺子。揭秘机器学习的软件工程师入门",
+      "url": "https://github.com/dreddnafious/thereisnospoon",
+      "title_en": "There is No Spoon. A software engineers primer for demystified ML"
+    },
+    {
+      "title": "编码代理可以让自由软件再次发挥作用",
+      "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+      "title_en": "Coding Agents Could Make Free Software Matter Again"
+    },
+    {
+      "title": "Claude Code每10分钟针对项目存储库运行Git reset –hard origin/main",
+      "url": "https://github.com/anthropics/claude-code/issues/40710",
+      "title_en": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins"
+    },
+    {
+      "title": "Show HN: Crazierl – Erlang操作系统",
+      "url": "https://crazierl.org/demo/",
+      "title_en": "Show HN: Crazierl – An Erlang Operating System"
+    },
+    {
+      "title": "向旅行者介绍法国的路标",
+      "url": "https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france",
+      "title_en": "The road signs that teach travellers about France"
+    },
+    {
+      "title": "在Cloudflare读取您的React状态之前， ChatGPT不会允许您键入",
+      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+      "title_en": "ChatGPT won't let you type until Cloudflare reads your React state"
+    },
+    {
+      "title": "Sky赢得爱尔兰法院命令，通过Revolut Bank揭露300名盗版IPTV用户",
+      "url": "https://torrentfreak.com/sky-wins-irish-court-order-to-unmask-300-pirate-iptv-users-via-revolut-bank/",
+      "title_en": "Sky Wins Irish Court Order to Unmask 300 Pirate IPTV Users via Revolut Bank"
+    },
+    {
+      "title": "来自乔治亚州的午夜列车：从轨道上俯瞰美国",
+      "url": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a",
+      "title_en": "Midnight train from GA: A view of America from the tracks"
+    },
+    {
+      "title": "认知黑暗森林",
+      "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
+      "title_en": "The Cognitive Dark Forest"
+    },
+    {
+      "title": "有关版本控制的更多信息",
+      "url": "https://bramcohen.com/p/more-on-version-control",
+      "title_en": "More on Version Control"
+    }
   ],
   "builders": [
-    {"source": "x", "name": "Andrej Karpathy", "handle": "karpathy", "bio": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.", "tweets": [{"text": "Drafted a blog post, used an LLM to improve the argument over 4 hours, then asked it to argue the opposite and it demolished the entire argument. LLMs are extremely competent in arguing almost any direction - useful for forming opinions.", "likes": 23516, "retweets": 1786}]},
-    {"source": "x", "name": "Swyx", "handle": "swyx", "bio": "achieve ambition with intentionality", "tweets": [{"text": "False equivalence is a trap - carefully bet on a very small set of things. Don't hedge. Set triggers to monitor if wrong. Tests to double down early if more right.", "likes": 255, "retweets": 21}]},
-    {"source": "x", "name": "Josh Woodward", "handle": "joshwoodward", "bio": "VP, @Google @GoogleLabs", "tweets": [{"text": "Seeing great uptake on Gemini - give it a try this weekend!", "likes": 212, "retweets": 10}]},
-    {"source": "x", "name": "Peter Yang", "handle": "petergyang", "bio": "I share extremely practical AI tutorials and interviews", "tweets": [{"text": "Would really love to talk to @grok about all the posts I have bookmarked", "likes": 84, "retweets": 3}]}
+    {
+      "source": "x",
+      "name": "Andrej <g id=\"76457\">Karpathy</g>",
+      "handle": "karpathy",
+      "bio": "我喜欢训练大型深度神经网络。曾任AI @ Tesla总监，创始团队@ OpenAI ，博士@ Stanford。",
+      "tweets": [
+        {
+          "text": "起草了一篇博客文章，使用LLM在4个小时内改进了论点，然后要求它提出相反的论点，并推翻了整个论点。LLM在论证几乎任何方向方面都非常有能力，这对于形成意见非常有用。",
+          "likes": 23516,
+          "retweets": 1786,
+          "text_en": "Drafted a blog post, used an LLM to improve the argument over 4 hours, then asked it to argue the opposite and it demolished the entire argument. LLMs are extremely competent in arguing almost any direction - useful for forming opinions."
+        }
+      ],
+      "name_en": "Andrej Karpathy",
+      "bio_en": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford."
+    },
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "以意向性实现目标",
+      "tweets": [
+        {
+          "text": "虚假等同是一个陷阱--小心地押注于一小部分事情。不要对冲。设置触发器以监控是否出错。如果更正确，则提前加倍测试。",
+          "likes": 255,
+          "retweets": 21,
+          "text_en": "False equivalence is a trap - carefully bet on a very small set of things. Don't hedge. Set triggers to monitor if wrong. Tests to double down early if more right."
+        }
+      ],
+      "name_en": "Swyx",
+      "bio_en": "achieve ambition with intentionality"
+    },
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "@ Google @ GoogleLabs副总裁",
+      "tweets": [
+        {
+          "text": "在双子座上看到了巨大的吸收-这个周末试试吧！",
+          "likes": 212,
+          "retweets": 10,
+          "text_en": "Seeing great uptake on Gemini - give it a try this weekend!"
+        }
+      ],
+      "name_en": "Josh Woodward",
+      "bio_en": "VP, @Google @GoogleLabs"
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "我分享了非常实用的人工智能教程和访谈",
+      "tweets": [
+        {
+          "text": "非常乐意与@ grok讨论我收藏的所有帖子",
+          "likes": 84,
+          "retweets": 3,
+          "text_en": "Would really love to talk to @grok about all the posts I have bookmarked"
+        }
+      ],
+      "name_en": "Peter Yang",
+      "bio_en": "I share extremely practical AI tutorials and interviews"
+    }
   ]
 }
