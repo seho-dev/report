@@ -357,10 +357,6 @@
             <button class="tab" data-type="twitter">🐦 AI Twitter</button>
         </div>
 
-        <div id="translate-bar" style="text-align: right; margin-bottom: 16px;">
-            <button onclick="toggleTranslate()" style="background: var(--light); border: 1px solid var(--muted); padding: 6px 12px; border-radius: 6px; cursor: pointer; font-size: 0.85rem;">🌐 显示英文</button>
-        </div>
-
         <main id="content">
             <div class="loading">加载最近30天数据...</div>
         </main>
@@ -375,8 +371,6 @@
         let allData = { github: [], hn: [], twitter: [] };
         let currentType = 'github';
         let paginationState = { github: 1, hn: 1, twitter: 1 };
-        let showEnglish = false; // 默认显示中文
-
         // Tab 切换
         document.querySelectorAll('.tab').forEach(tab => {
             tab.addEventListener('click', () => {
@@ -461,29 +455,27 @@
                 let fullContent = '';
 
                 if (currentType === 'twitter') {
-                    // Twitter: 显示作者和推文摘要，加上链接
+                    // Twitter: 显示作者和推文摘要
                     summaryText = list.map(a => {
-                        const text = getTweetText(a.tweets?.[0] || '').substring(0, 60);
+                        const text = (a.tweets?.[0]?.text || '').substring(0, 60);
                         return `🐦 [@${a.handle}](https://x.com/${a.handle}): ${text}...`;
                     }).join(' | ');
                     fullContent = list.map(a => {
                         const tweets = a.tweets?.map(t => {
-                            return `> ${getTweetText(t)}\n\n❤️ ${t.likes} | 🔁 ${t.retweets}`;
+                            return `> ${t.text}\n\n❤️ ${t.likes} | 🔁 ${t.retweets}`;
                         }).join('\n\n---\n\n') || '';
-                        return `### [🐦 @${a.handle}](https://x.com/${a.handle}) (${a.name_en || a.name})\n\n${tweets}`;
+                        return `### [🐦 @${a.handle}](https://x.com/${a.handle}) (${a.name})\n\n${tweets}`;
                     }).join('\n\n---\n\n');
                 } else {
                     // GitHub/HN: 使用 description
                     const items = list.map(a => {
-                        const title = getTitle(a);
-                        const desc = getDesc(a);
                         if (currentType === 'github') {
-                            return `- **[${title}](${a.url})** ⭐ ${a.stars}\n  ${desc}`;
+                            return `- **[${a.title}](${a.url})** ⭐ ${a.stars}\n  ${a.description || ''}`;
                         } else {
-                            return `- [${title}](${a.url})`;
+                            return `- [${a.title}](${a.url})`;
                         }
                     }).join('\n');
-                    summaryText = list.map(a => getTitle(a)).join(', ').substring(0, 120) + '...';
+                    summaryText = list.map(a => a.title).join(', ').substring(0, 120) + '...';
                     fullContent = items;
                 }
                 
@@ -563,30 +555,6 @@
                 breaks: true,
                 gfm: true
             });
-        }
-
-        async function toggleTranslate() {
-            showEnglish = !showEnglish;
-            const btn = document.querySelector('#translate-bar button');
-            btn.textContent = showEnglish ? '🌐 显示中文' : '🌐 显示英文';
-            btn.style.background = showEnglish ? 'var(--ink)' : 'var(--light)';
-            btn.style.color = showEnglish ? 'var(--paper)' : 'var(--ink)';
-            renderContent();
-        }
-
-        function getTitle(item) {
-            if (showEnglish) return item.title_en || item.title;
-            return item.title || item.title_en || '';
-        }
-
-        function getDesc(item) {
-            if (showEnglish) return item.description_en || item.description;
-            return item.description || item.description_en || '';
-        }
-
-        function getTweetText(tweet) {
-            if (showEnglish) return tweet.text_en || tweet.text;
-            return tweet.text || tweet.text_en || '';
         }
 
         document.addEventListener('DOMContentLoaded', loadData);
