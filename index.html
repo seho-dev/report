@@ -399,23 +399,37 @@
             
             results.forEach(data => {
                 if (!data) return;
-                // github 数据
-                if (data.github && Array.isArray(data.github)) {
-                    data.github.forEach(item => {
-                        allData.github.push({ ...item, date: data.date, type: 'github' });
+                
+                // 新格式: reports 数组
+                if (data.reports && Array.isArray(data.reports)) {
+                    data.reports.forEach(item => {
+                        const type = item.type || 'github';
+                        if (type === 'github') {
+                            allData.github.push({ ...item, date: data.date, type: 'github' });
+                        } else if (type === 'hn') {
+                            allData.hn.push({ ...item, date: data.date, type: 'hn' });
+                        } else if (type === 'twitter') {
+                            allData.twitter.push({ ...item, date: data.date, type: 'twitter' });
+                        }
                     });
                 }
-                // hn 数据
-                if (data.hn && Array.isArray(data.hn)) {
-                    data.hn.forEach(item => {
-                        allData.hn.push({ ...item, date: data.date, type: 'hn' });
-                    });
-                }
-                // twitter/builders 数据
-                if (data.builders && Array.isArray(data.builders)) {
-                    data.builders.forEach(item => {
-                        allData.twitter.push({ ...item, date: data.date, type: 'twitter' });
-                    });
+                // 兼容旧格式: 直接的 github/hn/builders 字段
+                else {
+                    if (data.github && Array.isArray(data.github)) {
+                        data.github.forEach(item => {
+                            allData.github.push({ ...item, date: data.date, type: 'github' });
+                        });
+                    }
+                    if (data.hn && Array.isArray(data.hn)) {
+                        data.hn.forEach(item => {
+                            allData.hn.push({ ...item, date: data.date, type: 'hn' });
+                        });
+                    }
+                    if (data.builders && Array.isArray(data.builders)) {
+                        data.builders.forEach(item => {
+                            allData.twitter.push({ ...item, date: data.date, type: 'twitter' });
+                        });
+                    }
                 }
             });
 
