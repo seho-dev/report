@@ -445,25 +445,27 @@
                 return;
             }
 
-            const totalPages = Math.ceil(articles.length / DAYS_PER_PAGE);
-            const currentPage = paginationState[currentType] || 1;
-            const start = (currentPage - 1) * DAYS_PER_PAGE;
-            const end = start + DAYS_PER_PAGE;
-            const pageArticles = articles.slice(start, end);
-
             // 按日期分组
             const byDate = {};
-            pageArticles.forEach(article => {
+            articles.forEach(article => {
                 const date = article.date || '未知日期';
                 if (!byDate[date]) byDate[date] = [];
                 byDate[date].push(article);
             });
 
-            const sortedDates = Object.keys(byDate).sort((a, b) => b.localeCompare(a[0]));
+            // 按日期排序（最新在前）
+            const sortedDates = Object.keys(byDate).sort((a, b) => b.localeCompare(a));
+
+            // 每页固定显示10天
+            const totalPages = Math.ceil(sortedDates.length / DAYS_PER_PAGE);
+            const currentPage = paginationState[currentType] || 1;
+            const start = (currentPage - 1) * DAYS_PER_PAGE;
+            const end = start + DAYS_PER_PAGE;
+            const pageDates = sortedDates.slice(start, end);
 
             let html = '<div class="date-list">';
             
-            sortedDates.forEach(date => {
+            pageDates.forEach(date => {
                 const list = byDate[date];
                 let summaryText = '';
                 let fullContent = '';
