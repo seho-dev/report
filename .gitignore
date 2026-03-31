@@ -1,0 +1,14 @@
+# 忽略所有文件
+*
+
+# 除了日报网站核心文件
+!index.html
+!README.md
+!translate_data.py
+!translate_llm.py
+!data/
+!data/*.json
+
+# data 目录下只保留 json
+data/*
+!data/*.json
