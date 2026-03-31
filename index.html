@@ -98,6 +98,7 @@
         .tab.active[data-type="github"] { background: var(--github); }
         .tab.active[data-type="hn"] { background: var(--hn); }
         .tab.active[data-type="twitter"] { background: var(--twitter); }
+        .tab.active[data-type="ai"] { background: #9333ea; }
 
         /* 日期卡片 */
         .date-list {
@@ -355,6 +356,7 @@
             <button class="tab active" data-type="github">🔰 GitHub</button>
             <button class="tab" data-type="hn">📰 Hacker News</button>
             <button class="tab" data-type="twitter">🐦 AI Twitter</button>
+            <button class="tab" data-type="ai">🤖 AI 精选</button>
         </div>
 
         <main id="content">
@@ -368,9 +370,9 @@
 
     <script>
         const DAYS_PER_PAGE = 10;
-        let allData = { github: [], hn: [], twitter: [] };
+        let allData = { github: [], hn: [], twitter: [], ai: [] };
         let currentType = 'github';
-        let paginationState = { github: 1, hn: 1, twitter: 1 };
+        let paginationState = { github: 1, hn: 1, twitter: 1, ai: 1 };
         // Tab 切换
         document.querySelectorAll('.tab').forEach(tab => {
             tab.addEventListener('click', () => {
@@ -410,6 +412,8 @@
                             allData.hn.push({ ...item, date: data.date, type: 'hn' });
                         } else if (type === 'twitter') {
                             allData.twitter.push({ ...item, date: data.date, type: 'twitter' });
+                        } else if (type === 'ai') {
+                            allData.ai.push({ ...item, date: data.date, type: 'ai' });
                         }
                     });
                 }
@@ -482,6 +486,13 @@
                         }).join('\n\n---\n\n') || '';
                         return `### [🐦 @${a.handle}](https://x.com/${a.handle}) (${a.name})\n\n${tweets}`;
                     }).join('\n\n---\n\n');
+                } else if (currentType === 'ai') {
+                    // AI: 显示 summary
+                    const items = list.map(a => {
+                        return `- **[${a.title}](${a.url})**\n  ${a.summary || ''}`;
+                    }).join('\n');
+                    summaryText = list.map(a => a.title).join(', ').substring(0, 120) + '...';
+                    fullContent = items;
                 } else {
                     // GitHub/HN: 使用 description
                     const items = list.map(a => {
