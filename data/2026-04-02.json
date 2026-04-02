@@ -1,0 +1,525 @@
+{
+  "date": "2026-04-02",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "content": "",
+      "language": "Shell",
+      "stars": 101455,
+      "starsToday": 10749,
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "title_en": "anthropics/claude-code",
+      "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "summary": "Open-Source Frontier Voice AI",
+      "content": "",
+      "language": "Python",
+      "stars": 34507,
+      "starsToday": 1685,
+      "description": "Open-Source Frontier Voice AI",
+      "title_en": "microsoft/VibeVoice",
+      "description_en": "Open-Source Frontier Voice AI"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "summary": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "content": "",
+      "language": "Python",
+      "stars": 12209,
+      "starsToday": 380,
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "title_en": "google-research/timesfm",
+      "description_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "summary": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "content": "",
+      "language": "Python",
+      "stars": 15729,
+      "starsToday": 3301,
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "title_en": "luongnv89/claude-howto",
+      "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "axios",
+      "url": "https://github.com/axios/axios",
+      "summary": "Promise based HTTP client for the browser and node.js",
+      "content": "",
+      "language": "JavaScript",
+      "stars": 108879,
+      "starsToday": 93,
+      "description": "Promise based HTTP client for the browser and node.js",
+      "title_en": "axios/axios",
+      "description_en": "Promise based HTTP client for the browser and node.js"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "codex",
+      "url": "https://github.com/openai/codex",
+      "summary": "Lightweight coding agent that runs in your terminal",
+      "content": "",
+      "language": "Rust",
+      "stars": 71824,
+      "starsToday": 2390,
+      "description": "Lightweight coding agent that runs in your terminal",
+      "title_en": "openai/codex",
+      "description_en": "Lightweight coding agent that runs in your terminal"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "content": "",
+      "language": "HTML",
+      "stars": 156083,
+      "starsToday": 398,
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "title_en": "f/prompts.chat",
+      "description_en": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy."
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "prompts-chat-2",
+      "url": "https://github.com/f/prompts.chat",
+      "summary": "Awesome ChatGPT Prompts repository - second entry for top trending",
+      "content": "",
+      "language": "HTML",
+      "stars": 156083,
+      "starsToday": 398,
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community.",
+      "title_en": "f/prompts.chat",
+      "description_en": "f.k.a. Awesome ChatGPT Prompts."
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "claude-code-2",
+      "url": "https://github.com/anthropics/claude-code",
+      "summary": "Claude Code trending - additional mention",
+      "content": "",
+      "language": "Shell",
+      "stars": 101455,
+      "starsToday": 10749,
+      "description": "Claude Code agentic coding tool",
+      "title_en": "anthropics/claude-code",
+      "description_en": "Claude Code agentic coding tool"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "claude-howto-2",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "summary": "Claude Howto guide - second trending entry",
+      "content": "",
+      "language": "Python",
+      "stars": 15729,
+      "starsToday": 3301,
+      "description": "Claude Code visual guide",
+      "title_en": "luongnv89/claude-howto",
+      "description_en": "Claude Code visual guide"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Live: Artemis II Launch Day Updates",
+      "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+      "summary": "",
+      "content": "",
+      "points": 645,
+      "comments": 616,
+      "title_en": "Live: Artemis II Launch Day Updates"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "A new C++ back end for ocamlc",
+      "url": "https://github.com/ocaml/ocaml/pull/14701",
+      "summary": "",
+      "content": "",
+      "points": 94,
+      "comments": 4,
+      "title_en": "A new C++ back end for ocamlc"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Quantum computing bombshells that are not April Fools",
+      "url": "https://scottaaronson.blog/?p=9665",
+      "summary": "",
+      "content": "",
+      "points": 26,
+      "comments": 0,
+      "title_en": "Quantum computing bombshells that are not April Fools"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "DRAM pricing is killing the hobbyist SBC market",
+      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+      "summary": "",
+      "content": "",
+      "points": 310,
+      "comments": 243,
+      "title_en": "DRAM pricing is killing the hobbyist SBC market"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
+      "url": "https://blog.cloudflare.com/emdash-wordpress/",
+      "summary": "",
+      "content": "",
+      "points": 467,
+      "comments": 333,
+      "title_en": "EmDash – A spiritual successor to WordPress that solves plugin security"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Fast and Gorgeous Erosion Filter",
+      "url": "https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html",
+      "summary": "",
+      "content": "",
+      "points": 71,
+      "comments": 12,
+      "title_en": "Fast and Gorgeous Erosion Filter"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "IPv6 address, as a sentence you can remember",
+      "url": "https://sentence2ipv6.tib3rius.com/",
+      "summary": "",
+      "content": "",
+      "points": 32,
+      "comments": 26,
+      "title_en": "IPv6 address, as a sentence you can remember"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
+      "url": "https://github.com/hauntsaninja/git_bayesect",
+      "summary": "",
+      "content": "",
+      "points": 206,
+      "comments": 27,
+      "title_en": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Set the Line Before It's Crossed",
+      "url": "https://nomagicpill.substack.com/p/set-the-line-before-its-crossed",
+      "summary": "",
+      "content": "",
+      "points": 31,
+      "comments": 9,
+      "title_en": "Set the Line Before It's Crossed"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "AI for American-produced cement and concrete",
+      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "summary": "",
+      "content": "",
+      "points": 153,
+      "comments": 108,
+      "title_en": "AI for American-produced cement and concrete"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Data Driven NYC - Can One Person Build a Billion-Dollar Startup?",
+      "url": "https://youtube.com/watch?v=rX3CxlGm-00",
+      "summary": "Andrew from The General Intelligence Company presents CTO, a fully autonomous engineering department that can code, test, and deploy features autonomously using AI agents. The system uses Claude for code generation, browser agents for testing, and Vercel for deployment. Teams using CTO average 25 PRs per engineer per day.",
+      "content": "[Transcript available in full digest]",
+      "source": "podcast",
+      "handle": "",
+      "name": "Data Driven NYC",
+      "bio": "Data Driven NYC podcast",
+      "tweets": [],
+      "name_en": "Data Driven NYC",
+      "bio_en": "Data Driven NYC podcast",
+      "summary_en": "Andrew from The General Intelligence Company presents CTO, a fully autonomous engineering department that can code, test, and deploy features autonomously using AI agents."
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Swyx on X",
+      "url": "https://x.com/swyx/status/2039222156815716437",
+      "summary": "Swyx questions why Codex didn't grow in March, referencing growth chart data.",
+      "content": "",
+      "source": "x",
+      "handle": "swyx",
+      "name": "Swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: @dxtipshq, @cognition, @temporalio, @aidotengineer, @latentspacepod",
+      "tweets": [
+        {
+          "text": "hmm. what happened? no Codex growth in March? https://t.co/F0RmgUx8qE",
+          "likes": 6,
+          "retweets": 0,
+          "text_en": "hmm. what happened? no Codex growth in March? https://t.co/F0RmgUx8qE"
+        }
+      ],
+      "name_en": "Swyx",
+      "bio_en": "achieve ambition with intentionality, intensity, integrity & insanity.",
+      "summary_en": "Swyx questions why Codex didn't grow in March, referencing growth chart data."
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Kevin Weil on X",
+      "url": "https://x.com/kevinweil/status/2039200605672284572",
+      "summary": "Kevin Weil (VP Science @OpenAI) notes that AI is not only solving more open problems, but its proofs are becoming more elegant as models improve.",
+      "content": "",
+      "source": "x",
+      "handle": "kevinweil",
+      "name": "Kevin Weil",
+      "bio": "VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve. Ex: Pres @Planet, Head of Product @Instagram @Twitter",
+      "tweets": [
+        {
+          "text": "Not only is AI solving more open problems—its proofs are getting more elegant as the models improve https://t.co/rV5oDAf0gy",
+          "likes": 116,
+          "retweets": 7,
+          "text_en": "Not only is AI solving more open problems—its proofs are getting more elegant as the models improve https://t.co/rV5oDAf0gy"
+        }
+      ],
+      "name_en": "Kevin Weil",
+      "bio_en": "VP Science @OpenAI",
+      "summary_en": "Kevin Weil notes that AI is not only solving more open problems, but its proofs are becoming more elegant as models improve."
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Nan Yu (Head of Product @Linear) on X",
+      "url": "https://x.com/thenanyu/status/2039169970278400157",
+      "summary": "Nan Yu (Head of Product @Linear) shares an older tweet about Linear being 'the tool that finally got software development right', reaffirming it still holds true today.",
+      "content": "",
+      "source": "x",
+      "handle": "thenanyu",
+      "name": "Nan Yu",
+      "bio": "head of product @linear",
+      "tweets": [
+        {
+          "text": "Still true\n\nhttps://t.co/EKsXhE4i5E",
+          "likes": 0,
+          "retweets": 0,
+          "text_en": "Still true\n\nhttps://t.co/EKsXhE4i5E"
+        },
+        {
+          "text": "Everyone apologize to DHH https://t.co/rs6iSabuD9",
+          "likes": 38,
+          "retweets": 0,
+          "text_en": "Everyone apologize to DHH https://t.co/rs6iSabuD9"
+        }
+      ],
+      "name_en": "Nan Yu",
+      "bio_en": "head of product @linear",
+      "summary_en": "Nan Yu reaffirms that Linear is still the tool that 'finally got software development right'."
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Thariq (Claude Code @Anthropic) on X",
+      "url": "https://x.com/trq212/status/2039201498996035924",
+      "summary": "Thariq (Claude Code team @Anthropic) posts a tweet with a buddy meme that went viral, getting 1814 likes and 68 retweets.",
+      "content": "",
+      "source": "x",
+      "handle": "trq212",
+      "name": "Thariq",
+      "bio": "Claude Code @anthropicai. prev YC W20, mit media lab. towards machines of loving grace",
+      "tweets": [
+        {
+          "text": "/buddy https://t.co/ALjE6i3tN8",
+          "likes": 1814,
+          "retweets": 68,
+          "text_en": "/buddy https://t.co/ALjE6i3tN8"
+        },
+        {
+          "text": "cant believe I got a SNAIL @alistaiir pls",
+          "likes": 93,
+          "retweets": 0,
+          "text_en": "cant believe I got a SNAIL @alistaiir pls"
+        }
+      ],
+      "name_en": "Thariq",
+      "bio_en": "Claude Code @anthropicai",
+      "summary_en": "Thariq from the Claude Code team posted a viral /buddy meme."
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Amjad Masad (CEO @Replit) on X",
+      "url": "https://x.com/amasad/status/2039194288777478259",
+      "summary": "Replit CEO Amjad Masad reacts to a 'new psyop' post with 'new psyop just dropped', and shares excitement about a demo with 'Sick!'",
+      "content": "",
+      "source": "x",
+      "handle": "amasad",
+      "name": "Amjad Masad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "text": "new psyop just dropped https://t.co/U5cGjXWdC8",
+          "likes": 259,
+          "retweets": 29,
+          "text_en": "new psyop just dropped https://t.co/U5cGjXWdC8"
+        },
+        {
+          "text": "Sick! https://t.co/xd00nnfCR2",
+          "likes": 37,
+          "retweets": 3,
+          "text_en": "Sick! https://t.co/xd00nnfCR2"
+        }
+      ],
+      "name_en": "Amjad Masad",
+      "bio_en": "ceo @replit",
+      "summary_en": "Replit CEO Amjad Masad reacts to industry news with characteristic humor."
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Aaron Levie (CEO @Box) on X",
+      "url": "https://x.com/levie/status/2039216522028257549",
+      "summary": "Box CEO Aaron Levie argues that the ultimate rate limiter on AI productivity gains will be security, compliance, and governance—not technology. Companies won't take on every risk of every piece of AI-generated code in enterprise environments.",
+      "content": "",
+      "source": "x",
+      "handle": "levie",
+      "name": "Aaron Levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "text": "The ultimate rate limiter on productivity gains from agents will be on critical stuff like security, compliance, governance, the ability to review the work of the agent, ensure that it's compatible with regulations, and so on.\n\nWe've been living in a little bit of la-la land around how much software enterprises are going to ultimately want to vibe code themselves. The last 48 hours represents a good example of why you won't take on every risk of every piece of technology in your enterprise.\n\nThere's no free lunch with AI productivity.",
+          "likes": 96,
+          "retweets": 19,
+          "text_en": "The ultimate rate limiter on productivity gains from agents will be on critical stuff like security, compliance, governance..."
+        }
+      ],
+      "name_en": "Aaron Levie",
+      "bio_en": "ceo @box",
+      "summary_en": "Box CEO Aaron Levie argues that security, compliance, and governance—not technology—will be the ultimate rate limiter on AI productivity gains in enterprise."
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Garry Tan (President & CEO @Y Combinator) on X",
+      "url": "https://x.com/garrytan/status/2039240608435572881",
+      "summary": "Y Combinator President Garry Tan shares 'Many such cases' reaction and posts about boiling an ocean.",
+      "content": "",
+      "source": "x",
+      "handle": "garrytan",
+      "name": "Garry Tan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders",
+      "tweets": [
+        {
+          "text": "Many such cases https://t.co/Pn3KpzVDE7",
+          "likes": 1,
+          "retweets": 0,
+          "text_en": "Many such cases https://t.co/Pn3KpzVDE7"
+        },
+        {
+          "text": "OK well let's boil an ocean here https://t.co/lEkJvlbqam",
+          "likes": 3,
+          "retweets": 0,
+          "text_en": "OK well let's boil an ocean here https://t.co/lEkJvlbqam"
+        }
+      ],
+      "name_en": "Garry Tan",
+      "bio_en": "President & CEO @ycombinator",
+      "summary_en": "Garry Tan reacts with 'Many such cases' and 'let's boil an ocean' posts."
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Peter Steinberger on X",
+      "url": "https://x.com/steipete/status/2039156882041123035",
+      "summary": "Peter Steinberger (OpenClaw founder) jokes about 'vibing takedown requests' in response to AI copyright debates.",
+      "content": "",
+      "source": "x",
+      "handle": "steipete",
+      "name": "Peter Steinberger",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw",
+      "tweets": [
+        {
+          "text": "are they vibing the takedown requests too? https://t.co/DMTY08ekvF",
+          "likes": 300,
+          "retweets": 14,
+          "text_en": "are they vibing the takedown requests too? https://t.co/DMTY08ekvF"
+        }
+      ],
+      "name_en": "Peter Steinberger",
+      "bio_en": "OpenClaw founder",
+      "summary_en": "Peter Steinberger jokes about 'vibing takedown requests' in response to AI copyright debates."
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "Dan Shipper (CEO @Every) on X",
+      "url": "https://x.com/danshipper/status/2039149696166318320",
+      "summary": "Dan Shipper (CEO @Every) promotes Proof, an AI writing/productivity tool, sharing it with his audience.",
+      "content": "",
+      "source": "x",
+      "handle": "danshipper",
+      "name": "Dan Shipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "text": "if you haven't tried proof, you should! https://t.co/JfAd0xIoh5 https://t.co/NrfCawcdLh",
+          "likes": 56,
+          "retweets": 0,
+          "text_en": "if you haven't tried proof, you should! https://t.co/JfAd0xIoh5 https://t.co/NrfCawcdLh"
+        }
+      ],
+      "name_en": "Dan Shipper",
+      "bio_en": "ceo @every",
+      "summary_en": "Dan Shipper promotes Proof, recommending it to his audience."
+    },
+    {
+      "id": "ai-11",
+      "type": "ai",
+      "title": "Aditya Agarwal (GP @SouthPkCommons) on X",
+      "url": "https://x.com/adityaag/status/2039198010681565665",
+      "summary": "Aditya Agarwal (Ex-Facebook/Dropbox, GP @SouthPkCommons) muses that the modern version of Facebook's 'fixing bugs in production' philosophy might be making source code public, given how dynamic software has become.",
+      "content": "",
+      "source": "x",
+      "handle": "adityaag",
+      "name": "Aditya Agarwal",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart",
+      "tweets": [
+        {
+          "text": "Looking back, early Facebook's philosophy of 'fixing bugs in production' sounded crazy to most people.\n\nMaybe the modern version of that is, just let your source code be public.\n\nIf software is so dynamic, maybe this isn't so crazy.\n\nOr maybe it is totally batshit crazy.",
+          "likes": 15,
+          "retweets": 0,
+          "text_en": "Looking back, early Facebook's philosophy of 'fixing bugs in production' sounded crazy... Maybe the modern version is just let your source code be public."
+        }
+      ],
+      "name_en": "Aditya Agarwal",
+      "bio_en": "GP @SouthPkCommons, Ex-Facebook/Dropbox",
+      "summary_en": "Aditya Agarwal muses that making source code public might be the modern equivalent of 'fixing bugs in production'."
+    }
+  ]
+}
