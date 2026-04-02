@@ -388,19 +388,27 @@
 
             allData = { github: [], hn: [], ai: [] };
             
-            const promises = [];
             const dateKeys = [];
             for (let i = 0; i < 30; i++) {
                 const d = new Date();
                 d.setDate(d.getDate() - i);
-                const dateKey = d.toISOString().split('T')[0];
-                dateKeys.push(dateKey);
-                promises.push(fetch(`data/${dateKey}.json`).then(r => r.ok ? r.json() : null));
+                dateKeys.push(d.toISOString().split('T')[0]);
             }
 
-            const results = await Promise.all(promises);
+            // 用 allSettled 避免一个失败导致全部失败
+            const fetchPromises = dateKeys.map((dateKey, idx) =>
+                fetch(`data/${dateKey}.json`)
+                    .then(r => r.ok ? r.json() : null)
+                    .catch(() => null)
+            );
+
+            const settleResults = await Promise.allSettled(fetchPromises);
             
-            results.forEach((data, idx) => {
+            settleResults.forEach((result, idx) => {
+                let data = null;
+                if (result.status === 'fulfilled') {
+                    data = result.value;
+                }
                 if (!data) return;
                 const fileDate = dateKeys[idx];
                 
