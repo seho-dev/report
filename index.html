@@ -386,31 +386,34 @@
             const container = document.getElementById('content');
             container.innerHTML = '<div class="loading">加载最近30天数据...</div>';
 
-            allData = { github: [], hn: [], twitter: [] };
+            allData = { github: [], hn: [], ai: [] };
             
             const promises = [];
+            const dateKeys = [];
             for (let i = 0; i < 30; i++) {
                 const d = new Date();
                 d.setDate(d.getDate() - i);
                 const dateKey = d.toISOString().split('T')[0];
+                dateKeys.push(dateKey);
                 promises.push(fetch(`data/${dateKey}.json`).then(r => r.ok ? r.json() : null));
             }
 
             const results = await Promise.all(promises);
             
-            results.forEach(data => {
+            results.forEach((data, idx) => {
                 if (!data) return;
+                const fileDate = dateKeys[idx];
                 
                 // 新格式: reports 数组
                 if (data.reports && Array.isArray(data.reports)) {
                     data.reports.forEach(item => {
                         const type = item.type || 'github';
                         if (type === 'github') {
-                            allData.github.push({ ...item, date: data.date, type: 'github' });
+                            allData.github.push({ ...item, date: item.date || fileDate, type: 'github' });
                         } else if (type === 'hn') {
-                            allData.hn.push({ ...item, date: data.date, type: 'hn' });
+                            allData.hn.push({ ...item, date: item.date || fileDate, type: 'hn' });
                         } else if (type === 'ai') {
-                            allData.ai.push({ ...item, date: data.date, type: 'ai' });
+                            allData.ai.push({ ...item, date: item.date || fileDate, type: 'ai' });
                         }
                     });
                 }
@@ -418,17 +421,17 @@
                 else {
                     if (data.github && Array.isArray(data.github)) {
                         data.github.forEach(item => {
-                            allData.github.push({ ...item, date: data.date, type: 'github' });
+                            allData.github.push({ ...item, date: item.date || fileDate, type: 'github' });
                         });
                     }
                     if (data.hn && Array.isArray(data.hn)) {
                         data.hn.forEach(item => {
-                            allData.hn.push({ ...item, date: data.date, type: 'hn' });
+                            allData.hn.push({ ...item, date: item.date || fileDate, type: 'hn' });
                         });
                     }
                     if (data.builders && Array.isArray(data.builders)) {
                         data.builders.forEach(item => {
-                            allData.twitter.push({ ...item, date: data.date, type: 'twitter' });
+                            allData.ai.push({ ...item, date: item.date || fileDate, type: 'ai' });
                         });
                     }
                 }
