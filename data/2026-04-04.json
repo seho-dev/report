@@ -1,0 +1,500 @@
+{
+  "date": "2026-04-04",
+  "reports": [
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "简单的自蒸馏改进了代码生成",
+      "url": "https://arxiv.org/abs/2604.01193",
+      "summary": "",
+      "content": "",
+      "points": 213,
+      "comments": 56,
+      "title_en": "Simple self-distillation improves code generation"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "告诉HN ： Anthropic不再允许Claude Code订阅使用OpenClaw",
+      "url": "https://news.ycombinator.com/item?id=47633396",
+      "summary": "",
+      "content": "",
+      "points": 850,
+      "comments": 657,
+      "title_en": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "异树",
+      "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
+      "summary": "",
+      "content": "",
+      "points": 102,
+      "comments": 30,
+      "title_en": "Some Unusual Trees"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "CMS已经死亡。内容管理系统万岁",
+      "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
+      "summary": "",
+      "content": "",
+      "points": 51,
+      "comments": 27,
+      "title_en": "The CMS is dead. Long live the CMS"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Artemis II工作人员拍摄壮观的地球图像",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "summary": "",
+      "content": "",
+      "points": 865,
+      "comments": 296,
+      "title_en": "Artemis II crew take spectacular image of Earth"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "iNaturalist",
+      "url": "https://www.inaturalist.org/",
+      "summary": "",
+      "content": "",
+      "points": 471,
+      "comments": 111,
+      "title_en": "iNaturalist"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "OpenClaw权限提升漏洞",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+      "summary": "",
+      "content": "",
+      "points": 446,
+      "comments": 214,
+      "title_en": "OpenClaw privilege escalation vulnerability"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Claude Code发现隐藏了23年的Linux漏洞",
+      "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+      "summary": "",
+      "content": "",
+      "points": 131,
+      "comments": 83,
+      "title_en": "Claude Code Found a Linux Vulnerability Hidden for 23 Years"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "在Android上运行Linux容器，无需root",
+      "url": "https://github.com/ExTV/Podroid",
+      "summary": "",
+      "content": "",
+      "points": 169,
+      "comments": 55,
+      "title_en": "Run Linux containers on Android, no root required"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "我们将RAG替换为AI文档助理的虚拟文件系统",
+      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "summary": "",
+      "content": "",
+      "points": 348,
+      "comments": 131,
+      "title_en": "We replaced RAG with a virtual filesystem for our AI documentation assistant"
+    },
+    {
+      "id": "hn-11",
+      "type": "hn",
+      "title": "继续学习嵌入式系统和WebAssembly",
+      "url": "https://tinygo.org/",
+      "summary": "",
+      "content": "",
+      "points": 180,
+      "comments": 24,
+      "title_en": "Go on Embedded Systems and WebAssembly"
+    },
+    {
+      "id": "hn-12",
+      "type": "hn",
+      "title": "使用Raspberry Pi构建自己的拨号ISP",
+      "url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
+      "summary": "",
+      "content": "",
+      "points": 180,
+      "comments": 32,
+      "title_en": "Build your own Dial-up ISP with a Raspberry Pi"
+    },
+    {
+      "id": "hn-13",
+      "type": "hn",
+      "title": "F-15E喷气式飞机在伊朗上空被击落",
+      "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
+      "summary": "",
+      "content": "",
+      "points": 534,
+      "comments": 1194,
+      "title_en": "F-15E jet shot down over Iran"
+    },
+    {
+      "id": "hn-14",
+      "type": "hn",
+      "title": "已从Y Combinator中删除Delve",
+      "url": "https://www.ycombinator.com/companies/delve",
+      "summary": "",
+      "content": "",
+      "points": 393,
+      "comments": 249,
+      "title_en": "Delve removed from Y Combinator"
+    },
+    {
+      "id": "hn-15",
+      "type": "hn",
+      "title": "为什么我们仍在使用Markdown ？",
+      "url": "https://bgslabs.org/blog/why-are-we-using-markdown/",
+      "summary": "",
+      "content": "",
+      "points": 164,
+      "comments": 234,
+      "title_en": "Why are we still using Markdown?"
+    },
+    {
+      "id": "gh-TypeScript-2026-04-04",
+      "type": "github",
+      "title": "OpenScreen - 开源屏幕录制工具",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "summary": "免费创建精美演示视频的开源工具，无需订阅、无水印、可商用的 Screen Studio 替代品。",
+      "content": "",
+      "language": "TypeScript",
+      "stars": 15984,
+      "starsToday": 2573,
+      "description": "免费创建精美演示视频的开源工具，无需订阅、无水印、可商用的 Screen Studio 替代品。",
+      "title_en": "OpenScreen",
+      "description_en": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio."
+    },
+    {
+      "id": "gh-TypeScript-2026-04-04",
+      "type": "github",
+      "title": "oh-my-codex - 代码助手扩展框架",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "summary": "OmX - Oh My codeX：让你的代码助手不再孤单。支持钩子、代理团队、HUD 等丰富扩展功能。",
+      "content": "",
+      "language": "TypeScript",
+      "stars": 11817,
+      "starsToday": 2867,
+      "description": "OmX - Oh My codeX：让你的代码助手不再孤单。支持钩子、代理团队、HUD 等丰富扩展功能。",
+      "title_en": "oh-my-codex",
+      "description_en": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more."
+    },
+    {
+      "id": "gh--2026-04-04",
+      "type": "github",
+      "title": "system_prompts_leaks - AI系统提示词泄露集合",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "summary": "从 ChatGPT、Claude、Gemini、Grok、Perplexity 等AI产品中提取的系统提示词，持续更新。",
+      "content": "",
+      "language": "",
+      "stars": 0,
+      "starsToday": 0,
+      "description": "从 ChatGPT、Claude、Gemini、Grok、Perplexity 等AI产品中提取的系统提示词，持续更新。",
+      "title_en": "system_prompts_leaks",
+      "description_en": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly."
+    },
+    {
+      "id": "gh-Python-2026-04-04",
+      "type": "github",
+      "title": "sherlock - 社交媒体账号搜索工具",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "summary": "通过用户名在各大社交网络上追踪用户的在线账号。",
+      "content": "",
+      "language": "Python",
+      "stars": 0,
+      "starsToday": 0,
+      "description": "通过用户名在各大社交网络上追踪用户的在线账号。",
+      "title_en": "sherlock",
+      "description_en": "Hunt down social media accounts by username across social networks"
+    },
+    {
+      "id": "gh-Rust-2026-04-04",
+      "type": "github",
+      "title": "claw-code - 历史最快突破10万星的仓库",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "summary": "历史上最快突破10万星的开源项目。使用 Rust 构建的更好用的代码辅助工具。",
+      "content": "",
+      "language": "Rust",
+      "stars": 151117,
+      "starsToday": 0,
+      "description": "历史上最快突破10万星的开源项目。使用 Rust 构建的更好用的代码辅助工具。",
+      "title_en": "claw-code",
+      "description_en": "The fastest repo in history to surpass 100K stars. Better Harness Tools that make real things done. Built in Rust using oh-my-codex."
+    },
+    {
+      "id": "gh-Python-2026-04-04",
+      "type": "github",
+      "title": "autoresearch - Karpathy 的自动研究代理",
+      "url": "https://github.com/karpathy/autoresearch",
+      "summary": "在单GPU上自动运行研究任务的AI代理，进行nanochat训练。",
+      "content": "",
+      "language": "Python",
+      "stars": 64367,
+      "starsToday": 0,
+      "description": "在单GPU上自动运行研究任务的AI代理，进行nanochat训练。",
+      "title_en": "autoresearch",
+      "description_en": "AI agents running research on single-GPU nanochat training automatically"
+    },
+    {
+      "id": "gh-TypeScript-2026-04-04",
+      "type": "github",
+      "title": "gstack - Garry Tan 的Claude Code配置集合",
+      "url": "https://github.com/garrytan/gstack",
+      "summary": "使用Garry Tan的精确Claude Code配置：23个固执己见的工具，充当CEO、设计师、工程经理、发布经理、文档工程师和QA。",
+      "content": "",
+      "language": "TypeScript",
+      "stars": 62212,
+      "starsToday": 0,
+      "description": "使用Garry Tan的精确Claude Code配置：23个固执己见的工具，充当CEO、设计师、工程经理、发布经理、文档工程师和QA。",
+      "title_en": "gstack",
+      "description_en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
+    },
+    {
+      "id": "gh--2026-04-04",
+      "type": "github",
+      "title": "gemma-4 - Google DeepMind开源模型",
+      "url": "https://github.com/deepmind/gemma",
+      "summary": "Google DeepMind发布的Gemma 4开源模型。",
+      "content": "",
+      "language": "",
+      "stars": 0,
+      "starsToday": 0,
+      "description": "Google DeepMind发布的Gemma 4开源模型。",
+      "title_en": "gemma-4",
+      "description_en": "Gemma 4 open models released by Google DeepMind"
+    },
+    {
+      "id": "gh--2026-04-04",
+      "type": "github",
+      "title": "lemonade - AMD开源本地LLM服务器",
+      "url": "https://github.com/lemonade-server/lemonade",
+      "summary": "使用GPU和NPU的快速开源本地LLM服务器。",
+      "content": "",
+      "language": "",
+      "stars": 0,
+      "starsToday": 0,
+      "description": "使用GPU和NPU的快速开源本地LLM服务器。",
+      "title_en": "lemonade",
+      "description_en": "A fast and open source local LLM server using GPU and NPU"
+    },
+    {
+      "id": "gh--2026-04-04",
+      "type": "github",
+      "title": "qwen3.6 - 通向真实世界Agent",
+      "url": "https://github.com/QwenLM/Qwen",
+      "summary": "Qwen3.6-Plus：面向真实世界Agent的大模型。",
+      "content": "",
+      "language": "",
+      "stars": 0,
+      "starsToday": 0,
+      "description": "Qwen3.6-Plus：面向真实世界Agent的大模型。",
+      "title_en": "qwen3.6",
+      "description_en": "Qwen3.6-Plus: Towards real world agents"
+    },
+    {
+      "id": "ai-2026-04-04-latentspacepod",
+      "type": "ai",
+      "title": "Mistral Voxtral TTS、Forge、Leanstral与Mistral 4发布",
+      "url": "https://youtube.com/watch?v=SUjA25ijcNs",
+      "summary": "Latent Space播客访谈Mistral团队，讨论Voxtral TTS语音生成模型、Forge平台、Leanstral形式化证明以及Mistral 4模型。Voxtral是Mistral首个音频模型，采用自回归流匹配架构，支持9种语言，3B参数。讨论了开源战略、AI for Science方向、以及在形式化验证领域的探索。",
+      "content": "",
+      "source": "podcast",
+      "handle": "latentspacepod",
+      "name": "Latent Space",
+      "bio": "Latent Space播客 - AI行业访谈与讨论",
+      "tweets": [],
+      "name_en": "Latent Space",
+      "bio_en": "The Latent Space podcast - AI industry interviews and discussions",
+      "summary_en": "Latent Space podcast interview with Mistral team discussing Voxtral TTS, Forge, Leanstral, and Mistral 4. Voxtral is Mistral's first audio model with auto-regressive flow matching architecture, supporting 9 languages, 3B parameters. Discussion covered open source strategy, AI for Science direction, and exploration in formal verification."
+    },
+    {
+      "id": "ai-2026-04-04-swyx",
+      "type": "ai",
+      "title": "Swyx (@swyx) X动态",
+      "url": "https://x.com/swyx",
+      "summary": "Swyx分享了AI工具推荐、本周关注列表、以及肯尼迪演讲名句。",
+      "content": "",
+      "source": "x",
+      "handle": "swyx",
+      "name": "Swyx",
+      "bio": "有意识地、强烈地、诚信地、疯狂地追求雄心。\n affiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "text": "@aiDotEngineer 收藏这个页面下周用 https://t.co/Q660nLKtwE",
+          "likes": 2,
+          "retweets": 0,
+          "text_en": "@aiDotEngineer bookmark this page for next week https://t.co/Q660nLKtwE"
+        },
+        {
+          "text": "@latentspacepod https://t.co/E9fx0LmOfS 这里有有趣的三角形",
+          "likes": 4,
+          "retweets": 0,
+          "text_en": "@latentspacepod https://t.co/E9fx0LmOfS interesting triangles here"
+        },
+        {
+          "text": "我们决定在这十年内登月并做其他事情，不是因为它们容易，而是因为它们难...",
+          "likes": 68,
+          "retweets": 5,
+          "text_en": "We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard..."
+        }
+      ],
+      "name_en": "Swyx",
+      "bio_en": "achieve ambition with intentionality, intensity, integrity & insanity.\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "summary_en": "Swyx shared content about AI tools, bookmark recommendations, and Kennedy speech quotes."
+    },
+    {
+      "id": "ai-2026-04-04-petergyang",
+      "type": "ai",
+      "title": "Peter Yang (@petergyang) X动态",
+      "url": "https://x.com/petergyang",
+      "summary": "Peter Yang分享了移动端和短视频对年轻一代的影响，以及与OpenClaw和上海迪士尼的互动。",
+      "content": "",
+      "source": "x",
+      "handle": "petergyang",
+      "name": "Peter Yang",
+      "bio": "分享极其实用的AI教程和访谈 | https://t.co/XYKTmGVH14 有14万+读者 | Roblox产品经理",
+      "tweets": [
+        {
+          "text": "我觉得移动端和短视频的结合已经毁掉了一整代孩子的脑子。",
+          "likes": 24,
+          "retweets": 0,
+          "text_en": "I think the combination of mobile and short video has rotted the brains of an entire generation of kids."
+        },
+        {
+          "text": "天哪 https://t.co/TXlIAquaA4 https://t.co/EWs4SSE3pv",
+          "likes": 30,
+          "retweets": 0,
+          "text_en": "Oh dear https://t.co/TXlIAquaA4 https://t.co/EWs4SSE3pv"
+        },
+        {
+          "text": "我和我的OpenClaw准备好去上海迪士尼啦 https://t.co/IyfrvZiIEl",
+          "likes": 7,
+          "retweets": 0,
+          "text_en": "Me and my OpenClaw are ready for Disneyland Shanghai https://t.co/IyfrvZiIEl"
+        }
+      ],
+      "name_en": "Peter Yang",
+      "bio_en": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "summary_en": "Peter Yang shared thoughts on mobile and short video's impact on the younger generation, and interactions with OpenClaw and Disneyland Shanghai."
+    },
+    {
+      "id": "ai-2026-04-04-thenanyu",
+      "type": "ai",
+      "title": "Nan Yu (@thenanyu) X动态",
+      "url": "https://x.com/thenanyu",
+      "summary": "Nan Yu分享了Doona婴儿车是Notion式产品的观点，以及Linear Agent可以让非工程师直接读代码了解应用行为。",
+      "content": "",
+      "source": "x",
+      "handle": "thenanyu",
+      "name": "Nan Yu",
+      "bio": "Linear产品负责人",
+      "tweets": [
+        {
+          "text": "Doona就是婴儿车界的Notion https://t.co/nAAanA98vM",
+          "likes": 10,
+          "retweets": 0,
+          "text_en": "Doona is the Notion of strollers https://t.co/nAAanA98vM"
+        },
+        {
+          "text": "大声点 https://t.co/PRWbD9dHji",
+          "likes": 49,
+          "retweets": 0,
+          "text_en": "LOUDER https://t.co/PRWbD9dHji"
+        },
+        {
+          "text": "如果你是PM、销售或支持，有多少次你需要麻烦工程师来了解应用到底是怎么工作的？Linear Agent可以直接读代码告诉你。",
+          "likes": 45,
+          "retweets": 2,
+          "text_en": "If you're a PM or on sales or support, how many times have you needed to bother an engineer to find out exactly how the app works? Linear Agent can just read the code and tell you."
+        }
+      ],
+      "name_en": "Nan Yu",
+      "bio_en": "head of product @linear",
+      "summary_en": "Nan Yu shared thoughts on Doona being the Notion of strollers, and how Linear Agent can help non-engineers understand app behavior by reading code directly."
+    },
+    {
+      "id": "ai-2026-04-04-_catwu",
+      "type": "ai",
+      "title": "Cat Wu (@_catwu) X动态",
+      "url": "https://x.com/_catwu",
+      "summary": "Cat Wu分享了在Claude移动端App上随时迸发灵感，然后在笔记本上继续工作的体验，支持会话无缝同步到本地CLI。",
+      "content": "",
+      "source": "x",
+      "handle": "_catwu",
+      "name": "Cat Wu",
+      "bio": "Claude Code工程师 @anthropicai，前 @dagster、@scale_ai",
+      "tweets": [
+        {
+          "text": "我喜欢在Claude移动端App上随时迸发灵感，然后在笔记本上继续工作。我们支持轻松将会话同步到本地CLI。",
+          "likes": 143,
+          "retweets": 12,
+          "text_en": "I love using Claude Code on Claude mobile app to fire off ideas on the go, then pick them up on my laptop later. We support easily teleporting sessions to your local CLI."
+        }
+      ],
+      "name_en": "Cat Wu",
+      "bio_en": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "summary_en": "Cat Wu shared experience using Claude Code on mobile app to brainstorm on the go and pick up sessions on laptop later."
+    },
+    {
+      "id": "ai-2026-04-04-trq212",
+      "type": "ai",
+      "title": "Thariq (@trq212) X动态",
+      "url": "https://x.com/trq212",
+      "summary": "Thariq宣布Claude Code渲染器重写，使用虚拟视口，支持鼠标操作，提示词输入固定在底部等多项UX改进（不是愚人节玩笑）。",
+      "content": "",
+      "source": "x",
+      "handle": "trq212",
+      "name": "Thariq",
+      "bio": "Anthropic Claude Code工程师。前YC W20，MIT媒体实验室。\n迈向充满爱的机器",
+      "tweets": [
+        {
+          "text": "不是愚人节玩笑，我们重写了Claude Code渲染器使用虚拟视口 - 可以用鼠标了，提示词输入框固定在底部，还有很多人要求的UX改进",
+          "likes": 1483,
+          "retweets": 54,
+          "text_en": "not an April Fools joke, we rewrote the Claude Code renderer to use a virtual viewport\n\nyou can use your mouse, the prompt input stays at the bottom, and a lot more small UX wins people have been asking for\n\nit's experimental so give us your feedback https://t.co/VqXbsfSlTJ"
+        }
+      ],
+      "name_en": "Thariq",
+      "bio_en": "Claude Code @anthropicai.   prev YC W20, mit media lab. \ntowards machines of loving grace",
+      "summary_en": "Thariq announced Claude Code renderer rewrite using virtual viewport, supporting mouse operations, fixed prompt input at bottom, and many UX improvements."
+    },
+    {
+      "id": "ai-2026-04-04-amasad",
+      "type": "ai",
+      "title": "Amjad Masad (@amasad) X动态",
+      "url": "https://x.com/amasad",
+      "summary": "Amjad Masad分享了我们正处于前所未有的快速财富创造时代的观点。",
+      "content": "",
+      "source": "x",
+      "handle": "amasad",
+      "name": "Amjad Masad",
+      "bio": "Replit CEO。文明主义者",
+      "tweets": [
+        {
+          "text": "我们正处在前所未有的快速财富创造时代。",
+          "likes": 573,
+          "retweets": 47,
+          "text_en": "We're in an unprecedented era of rapid wealth creation."
+        }
+      ],
+      "name_en": "Amjad Masad",
+      "bio_en": "ceo @replit. civilizationist",
+      "summary_en": "Amjad Masad shared thoughts on being in an unprecedented era of rapid wealth creation."
+    }
+  ]
+}
