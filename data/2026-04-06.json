@@ -1,0 +1,167 @@
+{
+  "date": "2026-04-06",
+  "reports": [
+    {
+      "id": "github-2026-04-06-01",
+      "type": "github",
+      "title": "Google AI Edge Gallery",
+      "title_zh": "Google AI Edge 画廊",
+      "url": "https://github.com/google-ai-edge/gallery",
+      "summary": "展示设备端 ML/GenAI 用例的画廊，可本地试用模型",
+      "summary_zh": "展示设备端 ML/GenAI 用例的画廊，可本地试用模型"
+    },
+    {
+      "id": "github-2026-04-06-02",
+      "type": "github",
+      "title": "Blaizzy/mlx-vlm",
+      "title_zh": "MLX-VLM: Mac 上的视觉语言模型推理与微调",
+      "url": "https://github.com/Blaizzy/mlx-vlm",
+      "summary": "在 Mac 上使用 MLX 进行视觉语言模型(VLM)推理和微调的包",
+      "summary_zh": "在 Mac 上使用 MLX 进行视觉语言模型(VLM)推理和微调的包"
+    },
+    {
+      "id": "github-2026-04-06-03",
+      "type": "github",
+      "title": "openscreen - 开源屏幕录制",
+      "title_zh": "openscreen - 开源屏幕录制工具",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "summary": "免费创建精彩演示的开源工具，无订阅、无水印、商用免费",
+      "summary_zh": "免费创建精彩演示的开源工具，无订阅、无水印、商用免费"
+    },
+    {
+      "id": "github-2026-04-06-04",
+      "type": "github",
+      "title": "goose - 可扩展的 AI 代理",
+      "title_zh": "goose - 开源可扩展 AI 代理",
+      "url": "https://github.com/block/goose",
+      "summary": "开源可扩展 AI 代理，不仅限于代码建议 - 可安装、执行、编辑和测试",
+      "summary_zh": "开源可扩展 AI 代理，不仅限于代码建议 - 可安装、执行、编辑和测试"
+    },
+    {
+      "id": "github-2026-04-06-05",
+      "type": "github",
+      "title": "Onyx - 开源 AI 平台",
+      "title_zh": "Onyx - 开源 AI 平台",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "summary": "开源 AI 平台 - 支持所有 LLM 的 AI 聊天，带高级功能",
+      "summary_zh": "开源 AI 平台 - 支持所有 LLM 的 AI 聊天，带高级功能"
+    },
+    {
+      "id": "github-2026-04-06-06",
+      "type": "github",
+      "title": "pi-mono - AI 代理工具包",
+      "title_zh": "pi-mono - AI 代理工具包",
+      "url": "https://github.com/badlogic/pi-mono",
+      "summary": "AI 代理工具包：编码代理 CLI、统一 LLM API、TUI 和 Web UI 库、Slack 机器人、vLLM 集群",
+      "summary_zh": "AI 代理工具包：编码代理 CLI、统一 LLM API、TUI 和 Web UI 库、Slack 机器人、vLLM 集群"
+    },
+    {
+      "id": "github-2026-04-06-07",
+      "type": "github",
+      "title": "fff.nvim - 最快最准的文件搜索",
+      "title_zh": "fff.nvim - AI 代理最快最准的文件搜索工具",
+      "url": "https://github.com/dmtrKovalenko/fff.nvim",
+      "summary": "AI 代理、Neovim、Rust、C 和 NodeJS 最快最准的文件搜索工具包",
+      "summary_zh": "AI 代理、Neovim、Rust、C 和 NodeJS 最快最准的文件搜索工具包"
+    },
+    {
+      "id": "github-2026-04-06-08",
+      "type": "github",
+      "title": "LiteRT-LM",
+      "title_zh": "LiteRT-LM",
+      "url": "https://github.com/google-ai-edge/LiteRT-LM",
+      "summary": "Google AI Edge 的 LiteRT 语言模型",
+      "summary_zh": "Google AI Edge 的 LiteRT 语言模型"
+    },
+    {
+      "id": "hn-2026-04-06-01",
+      "type": "hn",
+      "title": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
+      "title_zh": "日本：机器人不是在抢你的工作，而是填补无人愿意做的岗位",
+      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "summary": "日本正在证明实验性物理 AI 已准备好进入现实世界",
+      "summary_zh": "日本正在证明实验性物理 AI 已准备好进入现实世界"
+    },
+    {
+      "id": "hn-2026-04-06-02",
+      "type": "hn",
+      "title": "Gemma 4 on iPhone",
+      "title_zh": "iPhone 上的 Gemma 4",
+      "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+      "summary": "Google Gemma 4 模型现可在 iPhone 上运行",
+      "summary_zh": "Google Gemma 4 模型现可在 iPhone 上运行"
+    },
+    {
+      "id": "hn-2026-04-06-03",
+      "type": "hn",
+      "title": "LÖVE: 2D Game Framework for Lua",
+      "title_zh": "LÖVE: Lua 的 2D 游戏框架",
+      "url": "https://github.com/love2d/love",
+      "summary": "Lua 编程语言的 2D 游戏框架",
+      "summary_zh": "Lua 编程语言的 2D 游戏框架"
+    },
+    {
+      "id": "hn-2026-04-06-04",
+      "type": "hn",
+      "title": "Artemis II crew see first glimpse of far side of Moon",
+      "title_zh": "Artemis II 宇航员首次看到月球背面",
+      "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
+      "summary": "阿尔忒弥斯二号任务宇航员首次看到月球远端",
+      "summary_zh": "阿尔忒弥斯二号任务宇航员首次看到月球远端"
+    },
+    {
+      "id": "hn-2026-04-06-05",
+      "type": "hn",
+      "title": "Eight years of wanting, three months of building with AI",
+      "title_zh": "八年的梦想，三个月的 AI 开发",
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "summary": "开发者分享如何用 AI 在三个月内完成八年来想要做的项目",
+      "summary_zh": "开发者分享如何用 AI 在三个月内完成八年来想要做的项目"
+    },
+    {
+      "id": "hn-2026-04-06-06",
+      "type": "hn",
+      "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+      "title_zh": "使用 LM Studio 无头 CLI 和 Claude Code 本地运行 Gemma 4",
+      "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+      "summary": "教程：如何在本地使用 LM Studio 和 Claude Code 运行 Google Gemma 4",
+      "summary_zh": "教程：如何在本地使用 LM Studio 和 Claude Code 运行 Google Gemma 4"
+    },
+    {
+      "id": "hn-2026-04-06-07",
+      "type": "hn",
+      "title": "Caveman: Why use many token when few token do trick",
+      "title_zh": "Caveman: 少 token 也能玩转 AI",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "summary": "一个极简的 AI 编程代理，用少量 token 达到惊人效果",
+      "summary_zh": "一个极简的 AI 编程代理，用少量 token 达到惊人效果"
+    },
+    {
+      "id": "hn-2026-04-06-08",
+      "type": "hn",
+      "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+      "title_zh": "Nanocode: 200美元在 TPU 上用纯 JAX 打造最强 Claude Code",
+      "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
+      "summary": "用 200 美元在 TPU 上用 JAX 实现高效代码生成",
+      "summary_zh": "用 200 美元在 TPU 上用 JAX 实现高效代码生成"
+    },
+    {
+      "id": "hn-2026-04-06-09",
+      "type": "hn",
+      "title": "The threat is comfortable drift toward not understanding what you're doing",
+      "title_zh": "威胁在于温水煮青蛙：逐渐不懂自己在做什么",
+      "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
+      "summary": "警惕技术舒适区：逐渐失去对工作原理的理解是最危险的",
+      "summary_zh": "警惕技术舒适区：逐渐失去对工作原理的理解是最危险的"
+    },
+    {
+      "id": "hn-2026-04-06-10",
+      "type": "hn",
+      "title": "LibreOffice – Let's put an end to the speculation",
+      "title_zh": "LibreOffice - 结束猜测",
+      "url": "https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/",
+      "summary": "LibreOffice 官方博客宣布重大更新，结束社区猜测",
+      "summary_zh": "LibreOffice 官方博客宣布重大更新，结束社区猜测"
+    }
+  ]
+}
