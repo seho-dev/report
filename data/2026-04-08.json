@@ -1,0 +1,205 @@
+{
+  "date": "2026-04-08",
+  "reports": [
+    {
+      "id": "gh-oh-my-codex",
+      "type": "github",
+      "title": "oh-my-codex",
+      "title_zh": "oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "description_zh": "OmX -哦，我的codeX ：您的codex并不孤单。添加挂钩、客服代表团队、HUD等。",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "stars": 14101,
+      "language": "TypeScript"
+    },
+    {
+      "id": "gh-openscreen",
+      "type": "github",
+      "title": "openscreen",
+      "title_zh": "openscreen",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "description_zh": "免费创建令人惊叹的演示。开源，无订阅，无水印，免费用于商业用途。Screen Studio的替代方案。",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "stars": 15921,
+      "language": "TypeScript"
+    },
+    {
+      "id": "gh-timesfm",
+      "type": "github",
+      "title": "timesfm",
+      "title_zh": "timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "description_zh": "TimesFM （时间序列基础模型）是由Google Research开发的用于时间序列预测的预训练时间序列基础模型。",
+      "url": "https://github.com/google-research/timesfm",
+      "stars": 4137,
+      "language": "Python"
+    },
+    {
+      "id": "gh-claude-howto",
+      "type": "github",
+      "title": "claude-howto",
+      "title_zh": "claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "description_zh": "以示例为导向的可视化Claude准则指南--从基本概念到高级客服代表，其中的复制粘贴模板可立即带来价值。",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "stars": 10745,
+      "language": "Python"
+    },
+    {
+      "id": "gh-google-ai-edge/gallery",
+      "type": "github",
+      "title": "google-ai-edge/gallery",
+      "title_zh": "google-ai-edge/gallery",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "description_zh": "展示设备上ML/GenAI用例的图库，并允许人们在本地尝试和使用模型。",
+      "url": "https://github.com/google-ai-edge/gallery",
+      "stars": 2934,
+      "language": "Kotlin"
+    },
+    {
+      "id": "gh-oh-my-claudecode",
+      "type": "github",
+      "title": "oh-my-claudecode",
+      "title_zh": "oh-my-claudecode",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "description_zh": "Claude Code的Teams-first多代理编排",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "stars": 7543,
+      "language": "TypeScript"
+    },
+    {
+      "id": "gh-hermes-agent",
+      "type": "github",
+      "title": "hermes-agent",
+      "title_zh": "hermes-agent",
+      "description": "The agent that grows with you",
+      "description_zh": "与您一起成长的客服代表",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "stars": 10487,
+      "language": "Python"
+    },
+    {
+      "id": "gh-VibeVoice",
+      "type": "github",
+      "title": "VibeVoice",
+      "title_zh": "VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "description_zh": "开源前沿语音AI",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "stars": 5025,
+      "language": "Python"
+    },
+    {
+      "id": "gh-onyx",
+      "type": "github",
+      "title": "onyx",
+      "title_zh": "條紋瑪瑙",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "description_zh": "开源人工智能平台-具有高级功能的人工智能聊天，适用于每个法学硕士",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "stars": 5449,
+      "language": "Python"
+    },
+    {
+      "id": "gh-sherlock",
+      "type": "github",
+      "title": "sherlock",
+      "title_zh": "私家侦探",
+      "description": "Hunt down social media accounts by username across social networks",
+      "description_zh": "通过社交网络中的用户名查找社交媒体帐户",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "stars": 5167,
+      "language": "Python"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "title_zh": "Project Glasswing ：保护人工智能时代的关键软件",
+      "url": "https://www.anthropic.com/glasswing",
+      "points": 802,
+      "comments": 350
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Lunar Flyby",
+      "title_zh": "月球飞越",
+      "url": "https://www.nasa.gov/gallery/lunar-flyby/",
+      "points": 235,
+      "comments": 61
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "System Card: Claude Mythos Preview",
+      "title_zh": "系统卡： Claude Mythos Preview",
+      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "points": 495,
+      "comments": 358
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "S3 Files",
+      "title_zh": "S3文件",
+      "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
+      "points": 164,
+      "comments": 46
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "GLM-5.1: Towards Long-Horizon Tasks",
+      "title_zh": "GLM-5.1 ：迈向长期任务",
+      "url": "https://z.ai/blog/glm-5.1",
+      "points": 392,
+      "comments": 112
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "How to get better at guitar",
+      "title_zh": "如何更好地弹吉他",
+      "url": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
+      "points": 146,
+      "comments": 61
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Cambodia unveils a statue of famous landmine-sniffing rat Magawa",
+      "title_zh": "柬埔寨推出著名的嗅雷鼠Magawa雕像",
+      "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
+      "points": 257,
+      "comments": 57
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "A truck driver spent 20 years making a scale model of every building in NYC",
+      "title_zh": "一位卡车司机花了20年时间为纽约市的每栋建筑制作比例模型",
+      "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
+      "points": 230,
+      "comments": 36
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
+      "title_zh": "Show HN ：适用于Apple Silicon的Gemma 4多模态微调器",
+      "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
+      "points": 110,
+      "comments": 10
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Ex-Meta worker investigated for downloading 30k private Facebook photos",
+      "title_zh": "前Meta员工因下载3万张私人Facebook照片而被调查",
+      "url": "https://www.bbc.com/news/articles/cvg049xz1ygo",
+      "points": 24,
+      "comments": 8
+    }
+  ]
+}
