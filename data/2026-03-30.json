@@ -22,7 +22,9 @@
         "url": "https://github.com/larksuite/cli",
         "title_en": "larksuite/cli",
         "description_en": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents."
-      }
+      },
+      "title_zh": "larksuite/cli",
+      "description_zh": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents."
     },
     {
       "id": "",
@@ -45,7 +47,9 @@
         "url": "https://github.com/HKUDS/OpenSpace",
         "title_en": "HKUDS/OpenSpace",
         "description_en": "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving"
-      }
+      },
+      "title_zh": "HKUDS/OpenSpace",
+      "description_zh": "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving"
     },
     {
       "id": "",
@@ -68,7 +72,9 @@
         "url": "https://github.com/magnum6actual/flipoff",
         "title_en": "magnum6actual/flipoff",
         "description_en": "Free split-flap display emulator for any TV."
-      }
+      },
+      "title_zh": "magnum6actual/flipoff",
+      "description_zh": "Free split-flap display emulator for any TV."
     },
     {
       "id": "",
@@ -91,7 +97,9 @@
         "url": "https://github.com/elder-plinius/G0DM0D3",
         "title_en": "elder-plinius/G0DM0D3",
         "description_en": "LIBERATED AI CHAT"
-      }
+      },
+      "title_zh": "elder-plinius/G0DM0D3",
+      "description_zh": "LIBERATED AI CHAT"
     },
     {
       "id": "",
@@ -114,7 +122,9 @@
         "url": "https://github.com/alvinunreal/awesome-opensource-ai",
         "title_en": "alvinunreal/awesome-opensource-ai",
         "description_en": "Curated list of the best truly open-source AI projects"
-      }
+      },
+      "title_zh": "alvinunreal/awesome-opensource-ai",
+      "description_zh": "Curated list of the best truly open-source AI projects"
     },
     {
       "id": "",
@@ -137,7 +147,9 @@
         "url": "https://github.com/nashsu/opencli-rs",
         "title_en": "nashsu/opencli-rs",
         "description_en": "Blazing fast, memory-safe command-line tool for fetching website info"
-      }
+      },
+      "title_zh": "nashsu/opencli-rs",
+      "description_zh": "Blazing fast, memory-safe command-line tool for fetching website info"
     },
     {
       "id": "",
@@ -160,7 +172,9 @@
         "url": "https://github.com/facebookresearch/tribev2",
         "title_en": "facebookresearch/tribev2",
         "description_en": "Multimodal model for brain response prediction"
-      }
+      },
+      "title_zh": "facebookresearch/tribev2",
+      "description_zh": "Multimodal model for brain response prediction"
     },
     {
       "id": "",
@@ -183,7 +197,9 @@
         "url": "https://github.com/jxnxts/mcp-brasil",
         "title_en": "jxnxts/mcp-brasil",
         "description_en": "MCP Server para 41 APIs públicas brasileiras"
-      }
+      },
+      "title_zh": "jxnxts/mcp-brasil",
+      "description_zh": "MCP Server para 41 APIs públicas brasileiras"
     },
     {
       "id": "",
@@ -206,7 +222,9 @@
         "url": "https://github.com/LimHyungTae/Awesome-PhD-CV",
         "title_en": "LimHyungTae/Awesome-PhD-CV",
         "description_en": "Curated academic CV templates for PhD students"
-      }
+      },
+      "title_zh": "LimHyungTae/Awesome-PhD-CV",
+      "description_zh": "Curated academic CV templates for PhD students"
     },
     {
       "id": "",
@@ -229,7 +247,9 @@
         "url": "https://github.com/oaker-io/wewrite",
         "title_en": "oaker-io/wewrite",
         "description_en": "公众号文章全流程 AI Skill for Claude Code"
-      }
+      },
+      "title_zh": "oaker-io/wewrite",
+      "description_zh": "公众号文章全流程 AI Skill for Claude Code"
     },
     {
       "id": "",
@@ -245,7 +265,8 @@
         "title": "没有勺子。揭秘机器学习的软件工程师入门",
         "url": "https://github.com/dreddnafious/thereisnospoon",
         "title_en": "There is No Spoon. A software engineers primer for demystified ML"
-      }
+      },
+      "title_zh": "There is No Spoon. A software engineers primer for demystified ML"
     },
     {
       "id": "",
@@ -261,7 +282,8 @@
         "title": "编码代理可以让自由软件再次发挥作用",
         "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
         "title_en": "Coding Agents Could Make Free Software Matter Again"
-      }
+      },
+      "title_zh": "Coding Agents Could Make Free Software Matter Again"
     },
     {
       "id": "",
@@ -277,7 +299,8 @@
         "title": "Claude Code每10分钟针对项目存储库运行Git reset –hard origin/main",
         "url": "https://github.com/anthropics/claude-code/issues/40710",
         "title_en": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins"
-      }
+      },
+      "title_zh": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins"
     },
     {
       "id": "",
@@ -293,7 +316,8 @@
         "title": "Show HN: Crazierl – Erlang操作系统",
         "url": "https://crazierl.org/demo/",
         "title_en": "Show HN: Crazierl – An Erlang Operating System"
-      }
+      },
+      "title_zh": "Show HN: Crazierl – An Erlang Operating System"
     },
     {
       "id": "",
@@ -309,7 +333,8 @@
         "title": "向旅行者介绍法国的路标",
         "url": "https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france",
         "title_en": "The road signs that teach travellers about France"
-      }
+      },
+      "title_zh": "The road signs that teach travellers about France"
     },
     {
       "id": "",
@@ -325,7 +350,8 @@
         "title": "在Cloudflare读取您的React状态之前， ChatGPT不会允许您键入",
         "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
         "title_en": "ChatGPT won't let you type until Cloudflare reads your React state"
-      }
+      },
+      "title_zh": "ChatGPT won't let you type until Cloudflare reads your React state"
     },
     {
       "id": "",
@@ -341,7 +367,8 @@
         "title": "Sky赢得爱尔兰法院命令，通过Revolut Bank揭露300名盗版IPTV用户",
         "url": "https://torrentfreak.com/sky-wins-irish-court-order-to-unmask-300-pirate-iptv-users-via-revolut-bank/",
         "title_en": "Sky Wins Irish Court Order to Unmask 300 Pirate IPTV Users via Revolut Bank"
-      }
+      },
+      "title_zh": "Sky Wins Irish Court Order to Unmask 300 Pirate IPTV Users via Revolut Bank"
     },
     {
       "id": "",
@@ -357,7 +384,8 @@
         "title": "来自乔治亚州的午夜列车：从轨道上俯瞰美国",
         "url": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a",
         "title_en": "Midnight train from GA: A view of America from the tracks"
-      }
+      },
+      "title_zh": "Midnight train from GA: A view of America from the tracks"
     },
     {
       "id": "",
@@ -373,7 +401,8 @@
         "title": "认知黑暗森林",
         "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
         "title_en": "The Cognitive Dark Forest"
-      }
+      },
+      "title_zh": "The Cognitive Dark Forest"
     },
     {
       "id": "",
@@ -389,7 +418,8 @@
         "title": "有关版本控制的更多信息",
         "url": "https://bramcohen.com/p/more-on-version-control",
         "title_en": "More on Version Control"
-      }
+      },
+      "title_zh": "More on Version Control"
     },
     {
       "id": "",
@@ -427,7 +457,11 @@
         ],
         "name_en": "Andrej Karpathy",
         "bio_en": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford."
-      }
+      },
+      "title_en": "Andrej <g id=\"76457\">Karpathy</g>",
+      "summary_en": "我喜欢训练大型深度神经网络。曾任AI @ Tesla总监，创始团队@ OpenAI ，博士@ Stanford。",
+      "title_zh": "Andrej <g id=\"76457\">Karpathy</g>",
+      "summary_zh": "我喜欢训练大型深度神经网络。曾任AI @ Tesla总监，创始团队@ OpenAI ，博士@ Stanford。"
     },
     {
       "id": "",
@@ -465,7 +499,11 @@
         ],
         "name_en": "Swyx",
         "bio_en": "achieve ambition with intentionality"
-      }
+      },
+      "title_en": "Swyx",
+      "summary_en": "以意向性实现目标",
+      "title_zh": "Swyx",
+      "summary_zh": "以意向性实现目标"
     },
     {
       "id": "",
@@ -503,7 +541,11 @@
         ],
         "name_en": "Josh Woodward",
         "bio_en": "VP, @Google @GoogleLabs"
-      }
+      },
+      "title_en": "Josh Woodward",
+      "summary_en": "@ Google @ GoogleLabs副总裁",
+      "title_zh": "Josh Woodward",
+      "summary_zh": "@ Google @ GoogleLabs副总裁"
     },
     {
       "id": "",
@@ -541,7 +583,11 @@
         ],
         "name_en": "Peter Yang",
         "bio_en": "I share extremely practical AI tutorials and interviews"
-      }
+      },
+      "title_en": "Peter Yang",
+      "summary_en": "我分享了非常实用的人工智能教程和访谈",
+      "title_zh": "Peter Yang",
+      "summary_zh": "我分享了非常实用的人工智能教程和访谈"
     }
   ]
 }

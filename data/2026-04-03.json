@@ -13,7 +13,9 @@
       "starsToday": 2573,
       "description": "免费创建精美演示视频的开源工具，无需订阅、无水印、可商用的 Screen Studio 替代品。",
       "title_en": "OpenScreen",
-      "description_en": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio."
+      "description_en": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "title_zh": "打开屏幕",
+      "description_zh": "免费创建令人惊叹的演示。开源、无订阅、无水印，可免费用于商业用途。Screen Studio的替代品。"
     },
     {
       "id": "gh-2",
@@ -27,7 +29,9 @@
       "starsToday": 2867,
       "description": "OmX - Oh My codeX：让你的代码助手不再孤单。支持钩子、代理团队、HUD 等丰富扩展功能。",
       "title_en": "oh-my-codex",
-      "description_en": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more."
+      "description_en": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "title_zh": "哦，我的法典",
+      "description_zh": "OmX - Oh My codeX: 你的codex不孤单。添加钩子、代理团队、HUDs，等等更多。"
     },
     {
       "id": "gh-3",
@@ -41,7 +45,9 @@
       "starsToday": 0,
       "description": "从 ChatGPT、Claude、Gemini、Grok、Perplexity 等AI产品中提取的系统提示词，持续更新。",
       "title_en": "system_prompts_leaks",
-      "description_en": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly."
+      "description_en": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
+      "title_zh": "系统提示泄露",
+      "description_zh": "提取的系统提示来自 ChatGPT (GPT-5.4, GPT-5.3, Codex)、Claude (Opus 4.6, Sonnet 4.6, Claude Code)、Gemini (3.1 Pro, 3 Flash, CLI)、Grok (4.2, 4)、Perplexity 等。定期更新。"
     },
     {
       "id": "gh-4",
@@ -55,7 +61,9 @@
       "starsToday": 0,
       "description": "通过用户名在各大社交网络上追踪用户的在线账号。",
       "title_en": "sherlock",
-      "description_en": "Hunt down social media accounts by username across social networks"
+      "description_en": "Hunt down social media accounts by username across social networks",
+      "title_zh": "夏洛克",
+      "description_zh": "通过用户名在社交网络上搜索社交媒体账户"
     },
     {
       "id": "gh-5",
@@ -69,7 +77,9 @@
       "starsToday": 0,
       "description": "历史上最快突破10万星的开源项目。使用 Rust 构建的更好用的代码辅助工具。",
       "title_en": "claw-code",
-      "description_en": "The fastest repo in history to surpass 100K stars. Better Harness Tools that make real things done. Built in Rust using oh-my-codex."
+      "description_en": "The fastest repo in history to surpass 100K stars. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.",
+      "title_zh": "爪代码",
+      "description_zh": "历史上最快达到100K星标的仓库。更好的Harness工具，真正完成实际工作。使用oh-my-codex构建，采用Rust语言。"
     },
     {
       "id": "gh-6",
@@ -83,7 +93,9 @@
       "starsToday": 0,
       "description": "在单GPU上自动运行研究任务的AI代理，进行nanochat训练。",
       "title_en": "autoresearch",
-      "description_en": "AI agents running research on single-GPU nanochat training automatically"
+      "description_en": "AI agents running research on single-GPU nanochat training automatically",
+      "title_zh": "自动研究",
+      "description_zh": "<think>用户要求将英文文本翻译成中文，每条翻译占一行，保持原顺序，只输出翻译结果，一行一条。"
     },
     {
       "id": "gh-7",
@@ -97,7 +109,9 @@
       "starsToday": 0,
       "description": "使用Garry Tan的精确Claude Code配置：23个固执己见的工具，充当CEO、设计师、工程经理、发布经理、文档工程师和QA。",
       "title_en": "gstack",
-      "description_en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
+      "description_en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "title_zh": "gstack工具",
+      "description_zh": "使用Garry Tan的精确Claude Code设置：23个个性化工具，充当CEO、设计师、工程经理、发布经理、文档工程师和QA"
     },
     {
       "id": "gh-8",
@@ -111,7 +125,9 @@
       "starsToday": 0,
       "description": "Google DeepMind发布的Gemma 4开源模型。",
       "title_en": "gemma-4",
-      "description_en": "Gemma 4 open models released by Google DeepMind"
+      "description_en": "Gemma 4 open models released by Google DeepMind",
+      "title_zh": "gemma-4",
+      "description_zh": "Google DeepMind 发布的 Gemma 4 开源模型"
     },
     {
       "id": "gh-9",
@@ -125,7 +141,9 @@
       "starsToday": 0,
       "description": "使用GPU和NPU的快速开源本地LLM服务器。",
       "title_en": "lemonade",
-      "description_en": "A fast and open source local LLM server using GPU and NPU"
+      "description_en": "A fast and open source local LLM server using GPU and NPU",
+      "title_zh": "柠檬水",
+      "description_zh": "<think>这是一段需要翻译的英文文本。让我逐条翻译，保持每条一行，只输出翻译结果。"
     },
     {
       "id": "gh-10",
@@ -139,7 +157,9 @@
       "starsToday": 0,
       "description": "Qwen3.6-Plus：面向真实世界Agent的大模型。",
       "title_en": "qwen3.6",
-      "description_en": "Qwen3.6-Plus: Towards real world agents"
+      "description_en": "Qwen3.6-Plus: Towards real world agents",
+      "title_zh": "通义千问3.6",
+      "description_zh": "Qwen3.6-Plus: 面向真实世界代理"
     },
     {
       "id": "hn-1",
@@ -150,7 +170,8 @@
       "content": "",
       "points": 1147,
       "comments": 342,
-      "title_en": "Google releases Gemma 4 open models"
+      "title_en": "Google releases Gemma 4 open models",
+      "title_zh": "<think>用户要求将英文文本翻译成中文，每条翻译占一行，保持原顺序，只输出翻译结果，一行一条，不要其他内容。"
     },
     {
       "id": "hn-2",
@@ -161,7 +182,8 @@
       "content": "",
       "points": 293,
       "comments": 93,
-      "title_en": "Decisions that eroded trust in Azure – by a former Azure Core engineer"
+      "title_en": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+      "title_zh": "There's only one line: \"Decisions that eroded trust in Azure – by a former Azure Core engineer\". The user wants \"每条翻译占一行，保持原顺序。只输出翻译结果，一行一条，不要其他内容。\" So we need to output a single line with translation. That is all."
     },
     {
       "id": "hn-3",
@@ -172,7 +194,8 @@
       "content": "",
       "points": 324,
       "comments": 168,
-      "title_en": "Tailscale's new macOS home"
+      "title_en": "Tailscale's new macOS home",
+      "title_zh": "Tailscale 的新 macOS 主页"
     },
     {
       "id": "hn-4",
@@ -183,7 +206,8 @@
       "content": "",
       "points": 136,
       "comments": 55,
-      "title_en": "Artemis II's toilet is a moon mission milestone"
+      "title_en": "Artemis II's toilet is a moon mission milestone",
+      "title_zh": "Artemis II的厕所是月球任务的一个里程碑"
     },
     {
       "id": "hn-5",
@@ -194,7 +218,8 @@
       "content": "",
       "points": 286,
       "comments": 243,
-      "title_en": "Cursor 3"
+      "title_en": "Cursor 3",
+      "title_zh": "They want each translation on a separate line, maintaining original order, and only output the translation results, one per line, no other content."
     },
     {
       "id": "hn-6",
@@ -205,7 +230,8 @@
       "content": "",
       "points": 428,
       "comments": 150,
-      "title_en": "Qwen3.6-Plus: Towards real world agents"
+      "title_en": "Qwen3.6-Plus: Towards real world agents",
+      "title_zh": "Qwen3.6-Plus：面向真实世界智能体"
     },
     {
       "id": "hn-7",
@@ -216,7 +242,8 @@
       "content": "",
       "points": 156,
       "comments": 73,
-      "title_en": "Good ideas do not need lots of lies in order to gain public acceptance (2008)"
+      "title_en": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+      "title_zh": "好主意不需要大量的谎言来获得公众认可（2008）"
     },
     {
       "id": "hn-8",
@@ -227,7 +254,8 @@
       "content": "",
       "points": 443,
       "comments": 97,
-      "title_en": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU"
+      "title_en": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "title_zh": "AMD的Lemonade：一个使用GPU和NPU的快速开源本地大语言模型服务器"
     },
     {
       "id": "hn-9",
@@ -238,7 +266,8 @@
       "content": "",
       "points": 13,
       "comments": 2,
-      "title_en": "Post Mortem: axios NPM supply chain compromise"
+      "title_en": "Post Mortem: axios NPM supply chain compromise",
+      "title_zh": "事后分析：axios NPM 供应链攻击"
     },
     {
       "id": "hn-10",
@@ -249,7 +278,8 @@
       "content": "",
       "points": 112,
       "comments": 20,
-      "title_en": "George Goble has died"
+      "title_en": "George Goble has died",
+      "title_zh": "The text to translate is:"
     },
     {
       "id": "ai-1",
@@ -265,7 +295,10 @@
       "tweets": [],
       "name_en": "Latent Space",
       "bio_en": "The Latent Space podcast - AI industry interviews and discussions",
-      "summary_en": "Latent Space podcast interview with Mistral team discussing Voxtral TTS, Forge, Leanstral, and Mistral 4. Voxtral is Mistral's first audio model with auto-regressive flow matching architecture, supporting 9 languages, 3B parameters. Discussion covered open source strategy, AI for Science direction, and exploration in formal verification."
+      "summary_en": "Latent Space podcast interview with Mistral team discussing Voxtral TTS, Forge, Leanstral, and Mistral 4. Voxtral is Mistral's first audio model with auto-regressive flow matching architecture, supporting 9 languages, 3B parameters. Discussion covered open source strategy, AI for Science direction, and exploration in formal verification.",
+      "title_en": "Mistral Voxtral TTS、Forge、Leanstral与Mistral 4发布",
+      "title_zh": "Mistral Voxtral TTS、Forge、Leanstral与Mistral 4发布",
+      "summary_zh": "They want only the translation results, one per line, without other content."
     },
     {
       "id": "ai-2",
@@ -279,13 +312,31 @@
       "name": "Swyx",
       "bio": "有意识地、强烈地、诚信地、疯狂地追求雄心。\n affiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
       "tweets": [
-        {"text": "@aiDotEngineer 收藏这个页面下周用 https://t.co/Q660nLKtwE", "likes": 2, "retweets": 0, "text_en": "@aiDotEngineer bookmark this page for next week https://t.co/Q660nLKtwE"},
-        {"text": "@latentspacepod https://t.co/E9fx0LmOfS 这里有有趣的三角形", "likes": 4, "retweets": 0, "text_en": "@latentspacepod https://t.co/E9fx0LmOfS interesting triangles here"},
-        {"text": "我们决定在这十年内登月并做其他事情，不是因为它们容易，而是因为它们难...", "likes": 68, "retweets": 5, "text_en": "We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard..."}
+        {
+          "text": "@aiDotEngineer 收藏这个页面下周用 https://t.co/Q660nLKtwE",
+          "likes": 2,
+          "retweets": 0,
+          "text_en": "@aiDotEngineer bookmark this page for next week https://t.co/Q660nLKtwE"
+        },
+        {
+          "text": "@latentspacepod https://t.co/E9fx0LmOfS 这里有有趣的三角形",
+          "likes": 4,
+          "retweets": 0,
+          "text_en": "@latentspacepod https://t.co/E9fx0LmOfS interesting triangles here"
+        },
+        {
+          "text": "我们决定在这十年内登月并做其他事情，不是因为它们容易，而是因为它们难...",
+          "likes": 68,
+          "retweets": 5,
+          "text_en": "We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard..."
+        }
       ],
       "name_en": "Swyx",
       "bio_en": "achieve ambition with intentionality, intensity, integrity & insanity.\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
-      "summary_en": "Swyx shared content about AI tools, bookmark recommendations, and Kennedy speech quotes."
+      "summary_en": "Swyx shared content about AI tools, bookmark recommendations, and Kennedy speech quotes.",
+      "title_en": "Swyx (@swyx) X动态",
+      "title_zh": "Swyx (@swyx) X动态",
+      "summary_zh": "Swyx 分享了有关 AI 工具、书签推荐以及肯尼迪演讲引语的内容。"
     },
     {
       "id": "ai-3",
@@ -299,13 +350,31 @@
       "name": "Peter Yang",
       "bio": "分享极其实用的AI教程和访谈 | https://t.co/XYKTmGVH14 有14万+读者 | Roblox产品经理",
       "tweets": [
-        {"text": "我觉得移动端和短视频的结合已经毁掉了一整代孩子的脑子。", "likes": 24, "retweets": 0, "text_en": "I think the combination of mobile and short video has rotted the brains of an entire generation of kids."},
-        {"text": "天哪 https://t.co/TXlIAquaA4 https://t.co/EWs4SSE3pv", "likes": 30, "retweets": 0, "text_en": "Oh dear https://t.co/TXlIAquaA4 https://t.co/EWs4SSE3pv"},
-        {"text": "我和我的OpenClaw准备好去上海迪士尼啦 https://t.co/IyfrvZiIEl", "likes": 7, "retweets": 0, "text_en": "Me and my OpenClaw are ready for Disneyland Shanghai https://t.co/IyfrvZiIEl"}
+        {
+          "text": "我觉得移动端和短视频的结合已经毁掉了一整代孩子的脑子。",
+          "likes": 24,
+          "retweets": 0,
+          "text_en": "I think the combination of mobile and short video has rotted the brains of an entire generation of kids."
+        },
+        {
+          "text": "天哪 https://t.co/TXlIAquaA4 https://t.co/EWs4SSE3pv",
+          "likes": 30,
+          "retweets": 0,
+          "text_en": "Oh dear https://t.co/TXlIAquaA4 https://t.co/EWs4SSE3pv"
+        },
+        {
+          "text": "我和我的OpenClaw准备好去上海迪士尼啦 https://t.co/IyfrvZiIEl",
+          "likes": 7,
+          "retweets": 0,
+          "text_en": "Me and my OpenClaw are ready for Disneyland Shanghai https://t.co/IyfrvZiIEl"
+        }
       ],
       "name_en": "Peter Yang",
       "bio_en": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
-      "summary_en": "Peter Yang shared thoughts on mobile and short video's impact on the younger generation, and interactions with OpenClaw and Disneyland Shanghai."
+      "summary_en": "Peter Yang shared thoughts on mobile and short video's impact on the younger generation, and interactions with OpenClaw and Disneyland Shanghai.",
+      "title_en": "Peter Yang (@petergyang) X动态",
+      "title_zh": "Peter Yang (@petergyang) X动态",
+      "summary_zh": "Peter Yang分享了他对手机和短视频对年轻一代影响的看法，以及与OpenClaw和上海迪士尼乐园的互动。"
     },
     {
       "id": "ai-4",
@@ -319,13 +388,31 @@
       "name": "Nan Yu",
       "bio": "Linear产品负责人",
       "tweets": [
-        {"text": "Doona就是婴儿车界的Notion https://t.co/nAAanA98vM", "likes": 10, "retweets": 0, "text_en": "Doona is the Notion of strollers https://t.co/nAAanA98vM"},
-        {"text": "大声点 https://t.co/PRWbD9dHji", "likes": 49, "retweets": 0, "text_en": "LOUDER https://t.co/PRWbD9dHji"},
-        {"text": "如果你是PM、销售或支持，有多少次你需要麻烦工程师来了解应用到底是怎么工作的？Linear Agent可以直接读代码告诉你。", "likes": 45, "retweets": 2, "text_en": "If you're a PM or on sales or support, how many times have you needed to bother an engineer to find out exactly how the app works? Linear Agent can just read the code and tell you."}
+        {
+          "text": "Doona就是婴儿车界的Notion https://t.co/nAAanA98vM",
+          "likes": 10,
+          "retweets": 0,
+          "text_en": "Doona is the Notion of strollers https://t.co/nAAanA98vM"
+        },
+        {
+          "text": "大声点 https://t.co/PRWbD9dHji",
+          "likes": 49,
+          "retweets": 0,
+          "text_en": "LOUDER https://t.co/PRWbD9dHji"
+        },
+        {
+          "text": "如果你是PM、销售或支持，有多少次你需要麻烦工程师来了解应用到底是怎么工作的？Linear Agent可以直接读代码告诉你。",
+          "likes": 45,
+          "retweets": 2,
+          "text_en": "If you're a PM or on sales or support, how many times have you needed to bother an engineer to find out exactly how the app works? Linear Agent can just read the code and tell you."
+        }
       ],
       "name_en": "Nan Yu",
       "bio_en": "head of product @linear",
-      "summary_en": "Nan Yu shared thoughts on Doona being the Notion of strollers, and how Linear Agent can help non-engineers understand app behavior by reading code directly."
+      "summary_en": "Nan Yu shared thoughts on Doona being the Notion of strollers, and how Linear Agent can help non-engineers understand app behavior by reading code directly.",
+      "title_en": "Nan Yu (@thenanyu) X动态",
+      "title_zh": "Nan Yu (@thenanyu) X动态",
+      "summary_zh": "Nan Yu分享了关于Doona是婴儿车的概念的想法，以及Linear Agent如何通过直接阅读代码来帮助非工程师理解应用程序的行为。"
     },
     {
       "id": "ai-5",
@@ -339,11 +426,19 @@
       "name": "Cat Wu",
       "bio": "Claude Code工程师 @anthropicai，前 @dagster、@scale_ai",
       "tweets": [
-        {"text": "我喜欢在Claude移动端App上随时迸发灵感，然后在笔记本上继续工作。我们支持轻松将会话同步到本地CLI。", "likes": 143, "retweets": 12, "text_en": "I love using Claude Code on Claude mobile app to fire off ideas on the go, then pick them up on my laptop later. We support easily teleporting sessions to your local CLI."}
+        {
+          "text": "我喜欢在Claude移动端App上随时迸发灵感，然后在笔记本上继续工作。我们支持轻松将会话同步到本地CLI。",
+          "likes": 143,
+          "retweets": 12,
+          "text_en": "I love using Claude Code on Claude mobile app to fire off ideas on the go, then pick them up on my laptop later. We support easily teleporting sessions to your local CLI."
+        }
       ],
       "name_en": "Cat Wu",
       "bio_en": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
-      "summary_en": "Cat Wu shared experience using Claude Code on mobile app to brainstorm on the go and pick up sessions on laptop later."
+      "summary_en": "Cat Wu shared experience using Claude Code on mobile app to brainstorm on the go and pick up sessions on laptop later.",
+      "title_en": "Cat Wu (@_catwu) X动态",
+      "title_zh": "<think>用户要求将英文文本翻译成中文，并且要求每条翻译占一行，保持原顺序，只输出翻译结果，一行一条，不要其他内容。",
+      "summary_zh": "They want each translation on a separate line, maintaining the original order, and only output the translation results - nothing else."
     },
     {
       "id": "ai-6",
@@ -357,11 +452,19 @@
       "name": "Thariq",
       "bio": "Anthropic Claude Code工程师。前YC W20，MIT媒体实验室。\n迈向充满爱的机器",
       "tweets": [
-        {"text": "不是愚人节玩笑，我们重写了Claude Code渲染器使用虚拟视口 - 可以用鼠标了，提示词输入框固定在底部，还有很多人要求的UX改进", "likes": 1483, "retweets": 54, "text_en": "not an April Fools joke, we rewrote the Claude Code renderer to use a virtual viewport\n\nyou can use your mouse, the prompt input stays at the bottom, and a lot more small UX wins people have been asking for\n\nit's experimental so give us your feedback https://t.co/VqXbsfSlTJ"}
+        {
+          "text": "不是愚人节玩笑，我们重写了Claude Code渲染器使用虚拟视口 - 可以用鼠标了，提示词输入框固定在底部，还有很多人要求的UX改进",
+          "likes": 1483,
+          "retweets": 54,
+          "text_en": "not an April Fools joke, we rewrote the Claude Code renderer to use a virtual viewport\n\nyou can use your mouse, the prompt input stays at the bottom, and a lot more small UX wins people have been asking for\n\nit's experimental so give us your feedback https://t.co/VqXbsfSlTJ"
+        }
       ],
       "name_en": "Thariq",
       "bio_en": "Claude Code @anthropicai.   prev YC W20, mit media lab. \ntowards machines of loving grace",
-      "summary_en": "Thariq announced Claude Code renderer rewrite using virtual viewport, supporting mouse operations, fixed prompt input at bottom, and many UX improvements."
+      "summary_en": "Thariq announced Claude Code renderer rewrite using virtual viewport, supporting mouse operations, fixed prompt input at bottom, and many UX improvements.",
+      "title_en": "Thariq (@trq212) X动态",
+      "title_zh": "Thariq (@trq212) X动态",
+      "summary_zh": "Thariq 宣布使用虚拟视口重写 Claude Code 渲染器，支持鼠标操作，修复了底部的提示输入，以及许多用户体验改进。"
     },
     {
       "id": "ai-7",
@@ -375,11 +478,19 @@
       "name": "Amjad Masad",
       "bio": "Replit CEO。文明主义者",
       "tweets": [
-        {"text": "我们正处在前所未有的快速财富创造时代。", "likes": 573, "retweets": 47, "text_en": "We're in an unprecedented era of rapid wealth creation."}
+        {
+          "text": "我们正处在前所未有的快速财富创造时代。",
+          "likes": 573,
+          "retweets": 47,
+          "text_en": "We're in an unprecedented era of rapid wealth creation."
+        }
       ],
       "name_en": "Amjad Masad",
       "bio_en": "ceo @replit. civilizationist",
-      "summary_en": "Amjad Masad shared thoughts on being in an unprecedented era of rapid wealth creation."
+      "summary_en": "Amjad Masad shared thoughts on being in an unprecedented era of rapid wealth creation.",
+      "title_en": "Amjad Masad (@amasad) X动态",
+      "title_zh": "Amjad Masad (@amasad) X动态",
+      "summary_zh": "<think>The user asks: \"将以下英文文本翻译成中文。每条翻译占一行，保持原顺序。只输出翻译结果，一行一条，不要其他内容。"
     }
   ]
 }

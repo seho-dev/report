@@ -8,7 +8,9 @@
       "title_en": "GitHub Trending Top Projects - 2026-04-05",
       "summary": "今日GitHub热门以AI工具和开源平台为主，OpenScreen开源录屏工具获得大量关注，Onyx开源AI平台持续火热。",
       "url": "https://github.com/trending",
-      "content": "# GitHub Trending 热门项目 - 2026-04-05\n\n## 🔥 今日热门\n\n### 1. OpenScreen\n开源录屏工具，可替代Screen Studio，完全免费无水印\n⭐ 1,591 stars today\n\n### 2. Onyx\n开源AI平台，支持多种大语言模型的高级AI聊天功能\n⭐ 1,197 stars today\n\n### 3. MLX-VLM\n在Mac上使用MLX进行视觉语言模型推理和微调的工具包\n⭐ 343 stars today\n\n### 4. Microsoft Agent Framework\n构建、编排和部署AI Agent及多Agent工作流的框架\n⭐ 72 stars today\n\n### 5. Telegram Desktop\nTelegram桌面版消息应用\n\n### 6. Goose\nBlock开发的开源可扩展AI Agent\n\n### 7. Sherlock\n通过用户名在各大社交平台搜索账号的开源工具\n\n---\n*数据来源: GitHub Trending*"
+      "content": "# GitHub Trending 热门项目 - 2026-04-05\n\n## 🔥 今日热门\n\n### 1. OpenScreen\n开源录屏工具，可替代Screen Studio，完全免费无水印\n⭐ 1,591 stars today\n\n### 2. Onyx\n开源AI平台，支持多种大语言模型的高级AI聊天功能\n⭐ 1,197 stars today\n\n### 3. MLX-VLM\n在Mac上使用MLX进行视觉语言模型推理和微调的工具包\n⭐ 343 stars today\n\n### 4. Microsoft Agent Framework\n构建、编排和部署AI Agent及多Agent工作流的框架\n⭐ 72 stars today\n\n### 5. Telegram Desktop\nTelegram桌面版消息应用\n\n### 6. Goose\nBlock开发的开源可扩展AI Agent\n\n### 7. Sherlock\n通过用户名在各大社交平台搜索账号的开源工具\n\n---\n*数据来源: GitHub Trending*",
+      "description_en": "",
+      "title_zh": "GitHub 趋势榜热门项目 - 2026-04-05"
     },
     {
       "id": "hn-2026-04-05-01",
@@ -17,7 +19,8 @@
       "title_en": "Hacker News Top Stories - 2026-04-05",
       "summary": "今日HN热门包括GPU开发游戏引发关注、Microsoft Copilot产品数量盘点、以及Apple批准Nvidia eGPU驱动等话题。",
       "url": "https://news.ycombinator.com/",
-      "content": "# Hacker News 热门话题 - 2026-04-05\n\n## 🔥 今日热门\n\n### 1. Show HN: 一款让你构建GPU的游戏\n756 points - 自己动手构建GPU的创新游戏体验\n\n### 2. Microsoft有多少款名叫'Copilot'的产品？\n642 points - 盘点微软Copilot产品线的深度分析\n\n### 3. Apple批准驱动让Nvidia eGPU可在Arm Mac上工作\n434 points - Mac用户期待的eGPU支持终于来了\n\n### 4. 开源替代Screen Studio: OpenScreen\n295 points - 免费无水印的开源录屏工具\n\n### 5. AWS工程师报告Linux 7.0导致PostgreSQL性能下降一半\n291 points - 内核升级带来的兼容性问题\n\n### 6. Components of a Coding Agent\n236 points - 编程Agent的组件解析\n\n### 7. LLM Wiki - Karpathy的\"idea file\"示例\n194 points - 大语言模型的维基百科概念解析\n\n### 8. Introduction to Computer Music [pdf]\n157 points - 计算机音乐导论经典教材\n\n### 9. sllm - 在GPU节点上与其他开发者共享\n159 points - 打破GPU资源瓶颈的解决方案\n\n### 10. Ruckus: iOS上的Racket实现\n130 points - 移动端函数式编程新尝试\n\n---\n*数据来源: Hacker News*"
+      "content": "# Hacker News 热门话题 - 2026-04-05\n\n## 🔥 今日热门\n\n### 1. Show HN: 一款让你构建GPU的游戏\n756 points - 自己动手构建GPU的创新游戏体验\n\n### 2. Microsoft有多少款名叫'Copilot'的产品？\n642 points - 盘点微软Copilot产品线的深度分析\n\n### 3. Apple批准驱动让Nvidia eGPU可在Arm Mac上工作\n434 points - Mac用户期待的eGPU支持终于来了\n\n### 4. 开源替代Screen Studio: OpenScreen\n295 points - 免费无水印的开源录屏工具\n\n### 5. AWS工程师报告Linux 7.0导致PostgreSQL性能下降一半\n291 points - 内核升级带来的兼容性问题\n\n### 6. Components of a Coding Agent\n236 points - 编程Agent的组件解析\n\n### 7. LLM Wiki - Karpathy的\"idea file\"示例\n194 points - 大语言模型的维基百科概念解析\n\n### 8. Introduction to Computer Music [pdf]\n157 points - 计算机音乐导论经典教材\n\n### 9. sllm - 在GPU节点上与其他开发者共享\n159 points - 打破GPU资源瓶颈的解决方案\n\n### 10. Ruckus: iOS上的Racket实现\n130 points - 移动端函数式编程新尝试\n\n---\n*数据来源: Hacker News*",
+      "title_zh": "Hacker News 热门新闻 - 2026-04-05"
     },
     {
       "id": "twitter-2026-04-05-01",
@@ -26,7 +29,9 @@
       "title_en": "AI Developer Community Updates - 2026-04-05",
       "summary": "AI开发者社区热议：编程Agent新进展、视觉语言模型优化、以及开源AI平台持续受关注。",
       "url": "https://twitter.com/search?q=AI+agent+OR+LLM+OR+open+source+AI&f=top",
-      "content": "# AI 开发者社区动态 - 2026-04-05\n\n## 🚀 今日焦点\n\n### MLX-VLM 发布\nMac上的视觉语言模型工具迎来更新，社区反响热烈\n\n### Onyx 开源AI平台\n支持任意LLM的开源AI平台持续获得关注\n\n### OpenScreen 替代Screen Studio\n开源录屏工具获得大量开发者认可\n\n### Microsoft Agent Framework\n微软发布Agent开发框架，简化多Agent工作流\n\n## 📈 趋势话题\n- #VisionLanguageModels\n- #OpenSourceAI\n- #CodingAgents\n- #MLX\n\n---\n*数据来源: AI Twitter/X*"
+      "content": "# AI 开发者社区动态 - 2026-04-05\n\n## 🚀 今日焦点\n\n### MLX-VLM 发布\nMac上的视觉语言模型工具迎来更新，社区反响热烈\n\n### Onyx 开源AI平台\n支持任意LLM的开源AI平台持续获得关注\n\n### OpenScreen 替代Screen Studio\n开源录屏工具获得大量开发者认可\n\n### Microsoft Agent Framework\n微软发布Agent开发框架，简化多Agent工作流\n\n## 📈 趋势话题\n- #VisionLanguageModels\n- #OpenSourceAI\n- #CodingAgents\n- #MLX\n\n---\n*数据来源: AI Twitter/X*",
+      "name_en": "",
+      "bio_en": ""
     }
   ]
 }

@@ -13,7 +13,9 @@
       "starsToday": 10749,
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "title_en": "anthropics/claude-code",
-      "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+      "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "title_zh": "anthropics/claude-code",
+      "description_zh": "Claude Code 是一个代理编程工具，存在于你的终端中，理解你的代码库，并通过执行常规任务、解释复杂代码和处理 git 工作流程来帮助你更快地编写代码——全部通过自然语言命令。"
     },
     {
       "id": "gh-2",
@@ -27,7 +29,9 @@
       "starsToday": 1685,
       "description": "Open-Source Frontier Voice AI",
       "title_en": "microsoft/VibeVoice",
-      "description_en": "Open-Source Frontier Voice AI"
+      "description_en": "Open-Source Frontier Voice AI",
+      "title_zh": "microsoft/VibeVoice",
+      "description_zh": "开源前沿语音AI"
     },
     {
       "id": "gh-3",
@@ -41,7 +45,9 @@
       "starsToday": 380,
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "title_en": "google-research/timesfm",
-      "description_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
+      "description_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "title_zh": "google-research/timesfm",
+      "description_zh": "<think>这是翻译任务，将英文翻译成中文。用户要求每条翻译占一行，保持原顺序，只输出翻译结果，一行一条，不要其他内容。"
     },
     {
       "id": "gh-4",
@@ -55,7 +61,9 @@
       "starsToday": 3301,
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "title_en": "luongnv89/claude-howto",
-      "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+      "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "title_zh": "<think>用户要求将英文文本翻译成中文，每条翻译占一行，保持原顺序，只输出翻译结果，一行一条。",
+      "description_zh": "<think>用户要求将英文文本翻译成中文，每条翻译占一行，保持原顺序，只输出翻译结果，一行一条，不要其他内容。"
     },
     {
       "id": "gh-5",
@@ -69,7 +77,9 @@
       "starsToday": 93,
       "description": "Promise based HTTP client for the browser and node.js",
       "title_en": "axios/axios",
-      "description_en": "Promise based HTTP client for the browser and node.js"
+      "description_en": "Promise based HTTP client for the browser and node.js",
+      "title_zh": "axios/axios",
+      "description_zh": "用于浏览器和Node.js的基于Promise的HTTP客户端"
     },
     {
       "id": "gh-6",
@@ -83,7 +93,9 @@
       "starsToday": 2390,
       "description": "Lightweight coding agent that runs in your terminal",
       "title_en": "openai/codex",
-      "description_en": "Lightweight coding agent that runs in your terminal"
+      "description_en": "Lightweight coding agent that runs in your terminal",
+      "title_zh": "openai/codex",
+      "description_zh": "轻量级终端编码助手"
     },
     {
       "id": "gh-7",
@@ -97,7 +109,9 @@
       "starsToday": 398,
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "title_en": "f/prompts.chat",
-      "description_en": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy."
+      "description_en": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "title_zh": "f/prompts.chat",
+      "description_zh": "前称 Awesome ChatGPT Prompts。分享、发现并收集社区的提示词。免费开源 — 为您的组织自行托管，完全保护隐私。"
     },
     {
       "id": "gh-8",
@@ -111,7 +125,9 @@
       "starsToday": 398,
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community.",
       "title_en": "f/prompts.chat",
-      "description_en": "f.k.a. Awesome ChatGPT Prompts."
+      "description_en": "f.k.a. Awesome ChatGPT Prompts.",
+      "title_zh": "<think>用户要求将英文文本翻译成中文，每条翻译占一行，保持原顺序，只输出翻译结果，一行一条，不要其他内容。",
+      "description_zh": "Awesome ChatGPT Prompts.\" from English to Chinese. They want each translation on a separate line, maintaining the original order, and only output the translation result, one line per item, with no other content."
     },
     {
       "id": "gh-9",
@@ -125,7 +141,9 @@
       "starsToday": 10749,
       "description": "Claude Code agentic coding tool",
       "title_en": "anthropics/claude-code",
-      "description_en": "Claude Code agentic coding tool"
+      "description_en": "Claude Code agentic coding tool",
+      "title_zh": "anthropics/claude-code",
+      "description_zh": "Claude Code 智能编码工具"
     },
     {
       "id": "gh-10",
@@ -139,7 +157,9 @@
       "starsToday": 3301,
       "description": "Claude Code visual guide",
       "title_en": "luongnv89/claude-howto",
-      "description_en": "Claude Code visual guide"
+      "description_en": "Claude Code visual guide",
+      "title_zh": "luongnv89/claude指南",
+      "description_zh": "Claude Code 视觉指南"
     },
     {
       "id": "hn-1",
@@ -150,7 +170,8 @@
       "content": "",
       "points": 645,
       "comments": 616,
-      "title_en": "Live: Artemis II Launch Day Updates"
+      "title_en": "Live: Artemis II Launch Day Updates",
+      "title_zh": "Live: Artemis II Launch Day Updates\""
     },
     {
       "id": "hn-2",
@@ -161,7 +182,8 @@
       "content": "",
       "points": 94,
       "comments": 4,
-      "title_en": "A new C++ back end for ocamlc"
+      "title_en": "A new C++ back end for ocamlc",
+      "title_zh": "ocamlc 的新 C++ 后端"
     },
     {
       "id": "hn-3",
@@ -172,7 +194,8 @@
       "content": "",
       "points": 26,
       "comments": 0,
-      "title_en": "Quantum computing bombshells that are not April Fools"
+      "title_en": "Quantum computing bombshells that are not April Fools",
+      "title_zh": "<think>The user wants me to translate the English text into Chinese, with each translation on a separate line, maintaining the original order, and only outputting the translation results - one line at a time, without other content."
     },
     {
       "id": "hn-4",
@@ -183,7 +206,8 @@
       "content": "",
       "points": 310,
       "comments": 243,
-      "title_en": "DRAM pricing is killing the hobbyist SBC market"
+      "title_en": "DRAM pricing is killing the hobbyist SBC market",
+      "title_zh": "DRAM价格正在扼杀业余单板电脑市场"
     },
     {
       "id": "hn-5",
@@ -194,7 +218,8 @@
       "content": "",
       "points": 467,
       "comments": 333,
-      "title_en": "EmDash – A spiritual successor to WordPress that solves plugin security"
+      "title_en": "EmDash – A spiritual successor to WordPress that solves plugin security",
+      "title_zh": "<think>The user wants me to translate the English text to Chinese, one translation per line, keeping the original order, and only output the translation results, one line at a time, with no other content."
     },
     {
       "id": "hn-6",
@@ -205,7 +230,8 @@
       "content": "",
       "points": 71,
       "comments": 12,
-      "title_en": "Fast and Gorgeous Erosion Filter"
+      "title_en": "Fast and Gorgeous Erosion Filter",
+      "title_zh": "快速且华丽的腐蚀滤镜"
     },
     {
       "id": "hn-7",
@@ -216,7 +242,8 @@
       "content": "",
       "points": 32,
       "comments": 26,
-      "title_en": "IPv6 address, as a sentence you can remember"
+      "title_en": "IPv6 address, as a sentence you can remember",
+      "title_zh": "IPv6地址，作为便于记忆的句子"
     },
     {
       "id": "hn-8",
@@ -227,7 +254,8 @@
       "content": "",
       "points": 206,
       "comments": 27,
-      "title_en": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs"
+      "title_en": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
+      "title_zh": "The user says: \"将以下英文文本翻译成中文。每条翻译占一行，保持原顺序。只输出翻译结果，一行一条，不要其他内容。 需要翻译的文本： 1. Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs\""
     },
     {
       "id": "hn-9",
@@ -238,7 +266,8 @@
       "content": "",
       "points": 31,
       "comments": 9,
-      "title_en": "Set the Line Before It's Crossed"
+      "title_en": "Set the Line Before It's Crossed",
+      "title_zh": "在跨越之前设定界限"
     },
     {
       "id": "hn-10",
@@ -249,7 +278,8 @@
       "content": "",
       "points": 153,
       "comments": 108,
-      "title_en": "AI for American-produced cement and concrete"
+      "title_en": "AI for American-produced cement and concrete",
+      "title_zh": "用于美国生产的水泥和混凝土的人工智能"
     },
     {
       "id": "ai-1",
@@ -265,7 +295,10 @@
       "tweets": [],
       "name_en": "Data Driven NYC",
       "bio_en": "Data Driven NYC podcast",
-      "summary_en": "Andrew from The General Intelligence Company presents CTO, a fully autonomous engineering department that can code, test, and deploy features autonomously using AI agents."
+      "summary_en": "Andrew from The General Intelligence Company presents CTO, a fully autonomous engineering department that can code, test, and deploy features autonomously using AI agents.",
+      "title_en": "Data Driven NYC - Can One Person Build a Billion-Dollar Startup?",
+      "title_zh": "数据驱动纽约 - 一个人能创建一家十亿美元的公司吗？",
+      "summary_zh": "来自通用智能公司的Andrew介绍了CTO，这是一个完全自主的工程部门，能够使用AI代理自主编写、测试和部署功能。"
     },
     {
       "id": "ai-2",
@@ -288,7 +321,10 @@
       ],
       "name_en": "Swyx",
       "bio_en": "achieve ambition with intentionality, intensity, integrity & insanity.",
-      "summary_en": "Swyx questions why Codex didn't grow in March, referencing growth chart data."
+      "summary_en": "Swyx questions why Codex didn't grow in March, referencing growth chart data.",
+      "title_en": "Swyx on X",
+      "title_zh": "<think>The user wants me to translate the English text \"Swyx on X\" into Chinese, with each translation on a separate line, maintaining the original order, and only outputting the translation results, one per line, without any other content.",
+      "summary_zh": "Swyx questions why Codex didn't grow in March, referencing growth chart data.\""
     },
     {
       "id": "ai-3",
@@ -311,7 +347,10 @@
       ],
       "name_en": "Kevin Weil",
       "bio_en": "VP Science @OpenAI",
-      "summary_en": "Kevin Weil notes that AI is not only solving more open problems, but its proofs are becoming more elegant as models improve."
+      "summary_en": "Kevin Weil notes that AI is not only solving more open problems, but its proofs are becoming more elegant as models improve.",
+      "title_en": "Kevin Weil on X",
+      "title_zh": "Kevin Weil 在 X 上",
+      "summary_zh": "<think>用户要求将英文翻译成中文，每条翻译占一行，保持原顺序，只输出翻译结果，一行一条。"
     },
     {
       "id": "ai-4",
@@ -340,7 +379,10 @@
       ],
       "name_en": "Nan Yu",
       "bio_en": "head of product @linear",
-      "summary_en": "Nan Yu reaffirms that Linear is still the tool that 'finally got software development right'."
+      "summary_en": "Nan Yu reaffirms that Linear is still the tool that 'finally got software development right'.",
+      "title_en": "Nan Yu (Head of Product @Linear) on X",
+      "title_zh": "<think>用户要求将英文文本翻译成中文，每条翻译占一行，保持原顺序，只输出翻译结果，一行一条，不要其他内容。",
+      "summary_zh": "Nan Yu 重申，Linear 仍然是那个“终于让软件开发正确”的工具。"
     },
     {
       "id": "ai-5",
@@ -369,7 +411,10 @@
       ],
       "name_en": "Thariq",
       "bio_en": "Claude Code @anthropicai",
-      "summary_en": "Thariq from the Claude Code team posted a viral /buddy meme."
+      "summary_en": "Thariq from the Claude Code team posted a viral /buddy meme.",
+      "title_en": "Thariq (Claude Code @Anthropic) on X",
+      "title_zh": "Thariq (Claude Code @Anthropic) 在 X 上",
+      "summary_zh": "Claude Code 团队的 Thariq 发布了一个病毒式传播的 /buddy 表情包。"
     },
     {
       "id": "ai-6",
@@ -398,7 +443,10 @@
       ],
       "name_en": "Amjad Masad",
       "bio_en": "ceo @replit",
-      "summary_en": "Replit CEO Amjad Masad reacts to industry news with characteristic humor."
+      "summary_en": "Replit CEO Amjad Masad reacts to industry news with characteristic humor.",
+      "title_en": "Amjad Masad (CEO @Replit) on X",
+      "title_zh": "They want each translation on a separate line, keep original order, only output translation results, one per line, no other content.",
+      "summary_zh": "<think>The user asks: \"将以下英文文本翻译成中文。每条翻译占一行，保持原顺序。只输出翻译结果，一行一条，不要其他内容。"
     },
     {
       "id": "ai-7",
@@ -421,7 +469,10 @@
       ],
       "name_en": "Aaron Levie",
       "bio_en": "ceo @box",
-      "summary_en": "Box CEO Aaron Levie argues that security, compliance, and governance—not technology—will be the ultimate rate limiter on AI productivity gains in enterprise."
+      "summary_en": "Box CEO Aaron Levie argues that security, compliance, and governance—not technology—will be the ultimate rate limiter on AI productivity gains in enterprise.",
+      "title_en": "Aaron Levie (CEO @Box) on X",
+      "title_zh": "Aaron Levie（CEO @Box）在X上",
+      "summary_zh": "Box首席执行官Aaron Levie认为，在企业中，安全、合规和治理——而非技术——将成为人工智能生产力提升的最终限制因素。"
     },
     {
       "id": "ai-8",
@@ -450,7 +501,10 @@
       ],
       "name_en": "Garry Tan",
       "bio_en": "President & CEO @ycombinator",
-      "summary_en": "Garry Tan reacts with 'Many such cases' and 'let's boil an ocean' posts."
+      "summary_en": "Garry Tan reacts with 'Many such cases' and 'let's boil an ocean' posts.",
+      "title_en": "Garry Tan (President & CEO @Y Combinator) on X",
+      "title_zh": "Garry Tan（Y Combinator 总裁兼首席执行官）在 X 上",
+      "summary_zh": "Garry Tan 对「多起类似案例」和「让我们煮沸海洋」的帖子作出反应。"
     },
     {
       "id": "ai-9",
@@ -473,7 +527,10 @@
       ],
       "name_en": "Peter Steinberger",
       "bio_en": "OpenClaw founder",
-      "summary_en": "Peter Steinberger jokes about 'vibing takedown requests' in response to AI copyright debates."
+      "summary_en": "Peter Steinberger jokes about 'vibing takedown requests' in response to AI copyright debates.",
+      "title_en": "Peter Steinberger on X",
+      "title_zh": "Peter Steinberger 在 X 上",
+      "summary_zh": "Peter Steinberger 以\"充满活力的删除请求\"的玩笑回应AI版权争论。"
     },
     {
       "id": "ai-10",
@@ -496,7 +553,10 @@
       ],
       "name_en": "Dan Shipper",
       "bio_en": "ceo @every",
-      "summary_en": "Dan Shipper promotes Proof, recommending it to his audience."
+      "summary_en": "Dan Shipper promotes Proof, recommending it to his audience.",
+      "title_en": "Dan Shipper (CEO @Every) on X",
+      "title_zh": "丹·希普斯特 (Every公司CEO) 在X上",
+      "summary_zh": "<think>The user wants me to translate the English text into Chinese, one translation per line, keeping the original order, and only output the translation results, one line each, no other content."
     },
     {
       "id": "ai-11",
@@ -519,7 +579,10 @@
       ],
       "name_en": "Aditya Agarwal",
       "bio_en": "GP @SouthPkCommons, Ex-Facebook/Dropbox",
-      "summary_en": "Aditya Agarwal muses that making source code public might be the modern equivalent of 'fixing bugs in production'."
+      "summary_en": "Aditya Agarwal muses that making source code public might be the modern equivalent of 'fixing bugs in production'.",
+      "title_en": "Aditya Agarwal (GP @SouthPkCommons) on X",
+      "title_zh": "Aditya Agarwal (GP @SouthPkCommons) 在 X 上",
+      "summary_zh": "<think>用户要求将英文翻译成中文，每条翻译占一行，保持原顺序，只输出翻译结果，一行一条。"
     }
   ]
 }
