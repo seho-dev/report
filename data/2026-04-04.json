@@ -10,7 +10,8 @@
       "content": "",
       "points": 213,
       "comments": 56,
-      "title_en": "Simple self-distillation improves code generation"
+      "title_en": "Simple self-distillation improves code generation",
+      "title_zh": "简单的自蒸馏提升了代码生成能力"
     },
     {
       "id": "hn-2",
@@ -21,7 +22,8 @@
       "content": "",
       "points": 850,
       "comments": 657,
-      "title_en": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw"
+      "title_en": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "title_zh": "告诉 HN：Anthropic 不再允许 Claude Code 订阅用户使用 OpenClaw"
     },
     {
       "id": "hn-3",
@@ -32,7 +34,8 @@
       "content": "",
       "points": 102,
       "comments": 30,
-      "title_en": "Some Unusual Trees"
+      "title_en": "Some Unusual Trees",
+      "title_zh": "一些不同寻常的树"
     },
     {
       "id": "hn-4",
@@ -43,7 +46,8 @@
       "content": "",
       "points": 51,
       "comments": 27,
-      "title_en": "The CMS is dead. Long live the CMS"
+      "title_en": "The CMS is dead. Long live the CMS",
+      "title_zh": "CMS 已死。CMS 万岁。"
     },
     {
       "id": "hn-5",
@@ -54,7 +58,8 @@
       "content": "",
       "points": 865,
       "comments": 296,
-      "title_en": "Artemis II crew take spectacular image of Earth"
+      "title_en": "Artemis II crew take spectacular image of Earth",
+      "title_zh": "阿耳忒弥斯2号机组拍下壮观的地球照片"
     },
     {
       "id": "hn-6",
@@ -65,7 +70,8 @@
       "content": "",
       "points": 471,
       "comments": 111,
-      "title_en": "iNaturalist"
+      "title_en": "iNaturalist",
+      "title_zh": "iNaturalist"
     },
     {
       "id": "hn-7",
@@ -76,7 +82,8 @@
       "content": "",
       "points": 446,
       "comments": 214,
-      "title_en": "OpenClaw privilege escalation vulnerability"
+      "title_en": "OpenClaw privilege escalation vulnerability",
+      "title_zh": "OpenClaw 权限提升漏洞"
     },
     {
       "id": "hn-8",
@@ -87,7 +94,8 @@
       "content": "",
       "points": 131,
       "comments": 83,
-      "title_en": "Claude Code Found a Linux Vulnerability Hidden for 23 Years"
+      "title_en": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+      "title_zh": "Claude Code 发现了一个在 Linux 中隐藏了 23 年的漏洞"
     },
     {
       "id": "hn-9",
@@ -98,7 +106,8 @@
       "content": "",
       "points": 169,
       "comments": 55,
-      "title_en": "Run Linux containers on Android, no root required"
+      "title_en": "Run Linux containers on Android, no root required",
+      "title_zh": "在 Android 上运行 Linux 容器，无需 root 权限"
     },
     {
       "id": "hn-10",
@@ -109,7 +118,8 @@
       "content": "",
       "points": 348,
       "comments": 131,
-      "title_en": "We replaced RAG with a virtual filesystem for our AI documentation assistant"
+      "title_en": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "title_zh": "我们将 AI 文档助手中的 RAG 替换成了虚拟文件系统"
     },
     {
       "id": "hn-11",
@@ -120,7 +130,8 @@
       "content": "",
       "points": 180,
       "comments": 24,
-      "title_en": "Go on Embedded Systems and WebAssembly"
+      "title_en": "Go on Embedded Systems and WebAssembly",
+      "title_zh": "在嵌入式系统和 WebAssembly 上使用 Go"
     },
     {
       "id": "hn-12",
@@ -131,7 +142,8 @@
       "content": "",
       "points": 180,
       "comments": 32,
-      "title_en": "Build your own Dial-up ISP with a Raspberry Pi"
+      "title_en": "Build your own Dial-up ISP with a Raspberry Pi",
+      "title_zh": "用树莓派搭建你自己的拨号互联网服务提供商"
     },
     {
       "id": "hn-13",
@@ -142,7 +154,8 @@
       "content": "",
       "points": 534,
       "comments": 1194,
-      "title_en": "F-15E jet shot down over Iran"
+      "title_en": "F-15E jet shot down over Iran",
+      "title_zh": "F-15E战机在伊朗上空被击落"
     },
     {
       "id": "hn-14",
@@ -153,7 +166,8 @@
       "content": "",
       "points": 393,
       "comments": 249,
-      "title_en": "Delve removed from Y Combinator"
+      "title_en": "Delve removed from Y Combinator",
+      "title_zh": "Delve 被 Y Combinator 除名"
     },
     {
       "id": "hn-15",
@@ -164,7 +178,8 @@
       "content": "",
       "points": 164,
       "comments": 234,
-      "title_en": "Why are we still using Markdown?"
+      "title_en": "Why are we still using Markdown?",
+      "title_zh": "我们为什么还在使用 Markdown？"
     },
     {
       "id": "gh-TypeScript-2026-04-04",
@@ -178,7 +193,9 @@
       "starsToday": 2573,
       "description": "免费创建精美演示视频的开源工具，无需订阅、无水印、可商用的 Screen Studio 替代品。",
       "title_en": "OpenScreen",
-      "description_en": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio."
+      "description_en": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "title_zh": "开放屏幕",
+      "description_zh": "免费制作惊艳的演示视频。开源、无需订阅、无水印，并且可免费商用。是 Screen Studio 的替代方案。"
     },
     {
       "id": "gh-TypeScript-2026-04-04",
@@ -192,7 +209,9 @@
       "starsToday": 2867,
       "description": "OmX - Oh My codeX：让你的代码助手不再孤单。支持钩子、代理团队、HUD 等丰富扩展功能。",
       "title_en": "oh-my-codex",
-      "description_en": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more."
+      "description_en": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "title_zh": "哦，我的法典",
+      "description_zh": "OmX - Oh My codeX：你的 Codex 并不孤单。添加钩子、智能体团队、HUD，以及更多功能。"
     },
     {
       "id": "gh--2026-04-04",
@@ -206,7 +225,9 @@
       "starsToday": 0,
       "description": "从 ChatGPT、Claude、Gemini、Grok、Perplexity 等AI产品中提取的系统提示词，持续更新。",
       "title_en": "system_prompts_leaks",
-      "description_en": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly."
+      "description_en": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
+      "title_zh": "系统提示词泄漏",
+      "description_zh": "从 ChatGPT（GPT-5.4、GPT-5.3、Codex）、Claude（Opus 4.6、Sonnet 4.6、Claude Code）、Gemini（3.1 Pro、3 Flash、CLI）、Grok（4.2、4）、Perplexity 等中提取的系统提示词。定期更新。"
     },
     {
       "id": "gh-Python-2026-04-04",
@@ -220,7 +241,9 @@
       "starsToday": 0,
       "description": "通过用户名在各大社交网络上追踪用户的在线账号。",
       "title_en": "sherlock",
-      "description_en": "Hunt down social media accounts by username across social networks"
+      "description_en": "Hunt down social media accounts by username across social networks",
+      "title_zh": "夏洛克",
+      "description_zh": "通过用户名在各大社交网络中查找社交媒体账号"
     },
     {
       "id": "gh-Rust-2026-04-04",
@@ -234,7 +257,9 @@
       "starsToday": 0,
       "description": "历史上最快突破10万星的开源项目。使用 Rust 构建的更好用的代码辅助工具。",
       "title_en": "claw-code",
-      "description_en": "The fastest repo in history to surpass 100K stars. Better Harness Tools that make real things done. Built in Rust using oh-my-codex."
+      "description_en": "The fastest repo in history to surpass 100K stars. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.",
+      "title_zh": "爪代码",
+      "description_zh": "历史上最快突破 10 万星标的代码仓库。更好的 Harness 工具，让真正的事情得以完成。使用 oh-my-codex，以 Rust 构建。"
     },
     {
       "id": "gh-Python-2026-04-04",
@@ -248,7 +273,9 @@
       "starsToday": 0,
       "description": "在单GPU上自动运行研究任务的AI代理，进行nanochat训练。",
       "title_en": "autoresearch",
-      "description_en": "AI agents running research on single-GPU nanochat training automatically"
+      "description_en": "AI agents running research on single-GPU nanochat training automatically",
+      "title_zh": "自动研究",
+      "description_zh": "AI 代理自动开展单 GPU nanochat 训练研究"
     },
     {
       "id": "gh-TypeScript-2026-04-04",
@@ -262,7 +289,9 @@
       "starsToday": 0,
       "description": "使用Garry Tan的精确Claude Code配置：23个固执己见的工具，充当CEO、设计师、工程经理、发布经理、文档工程师和QA。",
       "title_en": "gstack",
-      "description_en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
+      "description_en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "title_zh": "gstack",
+      "description_zh": "使用 Garry Tan 完全相同的 Claude Code 配置：23 个有明确主张的工具，分别充当 CEO、设计师、工程经理、发布经理、文档工程师和 QA"
     },
     {
       "id": "gh--2026-04-04",
@@ -276,7 +305,9 @@
       "starsToday": 0,
       "description": "Google DeepMind发布的Gemma 4开源模型。",
       "title_en": "gemma-4",
-      "description_en": "Gemma 4 open models released by Google DeepMind"
+      "description_en": "Gemma 4 open models released by Google DeepMind",
+      "title_zh": "gemma-4",
+      "description_zh": "Google DeepMind 发布 Gemma 4 开放模型"
     },
     {
       "id": "gh--2026-04-04",
@@ -290,7 +321,9 @@
       "starsToday": 0,
       "description": "使用GPU和NPU的快速开源本地LLM服务器。",
       "title_en": "lemonade",
-      "description_en": "A fast and open source local LLM server using GPU and NPU"
+      "description_en": "A fast and open source local LLM server using GPU and NPU",
+      "title_zh": "柠檬水",
+      "description_zh": "一个使用 GPU 和 NPU 的快速开源本地大语言模型服务器"
     },
     {
       "id": "gh--2026-04-04",
@@ -304,7 +337,9 @@
       "starsToday": 0,
       "description": "Qwen3.6-Plus：面向真实世界Agent的大模型。",
       "title_en": "qwen3.6",
-      "description_en": "Qwen3.6-Plus: Towards real world agents"
+      "description_en": "Qwen3.6-Plus: Towards real world agents",
+      "title_zh": "qwen3.6",
+      "description_zh": "Qwen3.6-Plus：迈向真实世界智能体"
     },
     {
       "id": "ai-2026-04-04-latentspacepod",
@@ -320,7 +355,10 @@
       "tweets": [],
       "name_en": "Latent Space",
       "bio_en": "The Latent Space podcast - AI industry interviews and discussions",
-      "summary_en": "Latent Space podcast interview with Mistral team discussing Voxtral TTS, Forge, Leanstral, and Mistral 4. Voxtral is Mistral's first audio model with auto-regressive flow matching architecture, supporting 9 languages, 3B parameters. Discussion covered open source strategy, AI for Science direction, and exploration in formal verification."
+      "summary_en": "Latent Space podcast interview with Mistral team discussing Voxtral TTS, Forge, Leanstral, and Mistral 4. Voxtral is Mistral's first audio model with auto-regressive flow matching architecture, supporting 9 languages, 3B parameters. Discussion covered open source strategy, AI for Science direction, and exploration in formal verification.",
+      "title_en": "Mistral Voxtral TTS、Forge、Leanstral与Mistral 4发布",
+      "title_zh": "Mistral 发布了 Voxtral TTS、Forge、Leanstral 和 Mistral 4",
+      "summary_zh": "Latent Space 播客采访了 Mistral 团队，讨论了 Voxtral TTS、Forge、Leanstral 和 Mistral 4。Voxtral 是 Mistral 首个采用自回归流匹配架构的音频模型，支持 9 种语言，参数规模为 30 亿。讨论还涵盖了开源战略、AI for Science 方向，以及在形式化验证方面的探索。"
     },
     {
       "id": "ai-2026-04-04-swyx",
@@ -355,7 +393,10 @@
       ],
       "name_en": "Swyx",
       "bio_en": "achieve ambition with intentionality, intensity, integrity & insanity.\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
-      "summary_en": "Swyx shared content about AI tools, bookmark recommendations, and Kennedy speech quotes."
+      "summary_en": "Swyx shared content about AI tools, bookmark recommendations, and Kennedy speech quotes.",
+      "title_en": "Swyx (@swyx) X动态",
+      "title_zh": "Swyx（@swyx）的 X 动态",
+      "summary_zh": "Swyx 分享了有关 AI 工具、书签推荐以及肯尼迪演讲语录的内容。"
     },
     {
       "id": "ai-2026-04-04-petergyang",
@@ -390,7 +431,10 @@
       ],
       "name_en": "Peter Yang",
       "bio_en": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
-      "summary_en": "Peter Yang shared thoughts on mobile and short video's impact on the younger generation, and interactions with OpenClaw and Disneyland Shanghai."
+      "summary_en": "Peter Yang shared thoughts on mobile and short video's impact on the younger generation, and interactions with OpenClaw and Disneyland Shanghai.",
+      "title_en": "Peter Yang (@petergyang) X动态",
+      "title_zh": "彼得·杨（@petergyang）的 X 动态",
+      "summary_zh": "Peter Yang分享了他对手机和短视频对年轻一代影响的看法，以及与OpenClaw和上海迪士尼的互动。"
     },
     {
       "id": "ai-2026-04-04-thenanyu",
@@ -425,7 +469,10 @@
       ],
       "name_en": "Nan Yu",
       "bio_en": "head of product @linear",
-      "summary_en": "Nan Yu shared thoughts on Doona being the Notion of strollers, and how Linear Agent can help non-engineers understand app behavior by reading code directly."
+      "summary_en": "Nan Yu shared thoughts on Doona being the Notion of strollers, and how Linear Agent can help non-engineers understand app behavior by reading code directly.",
+      "title_en": "Nan Yu (@thenanyu) X动态",
+      "title_zh": "Nan Yu（@thenanyu）的 X 动态",
+      "summary_zh": "Nan Yu 分享了对 Doona 堪称婴儿推车界的 Notion 的看法，以及 Linear Agent 如何通过直接阅读代码来帮助非工程师理解应用行为。"
     },
     {
       "id": "ai-2026-04-04-_catwu",
@@ -448,7 +495,10 @@
       ],
       "name_en": "Cat Wu",
       "bio_en": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
-      "summary_en": "Cat Wu shared experience using Claude Code on mobile app to brainstorm on the go and pick up sessions on laptop later."
+      "summary_en": "Cat Wu shared experience using Claude Code on mobile app to brainstorm on the go and pick up sessions on laptop later.",
+      "title_en": "Cat Wu (@_catwu) X动态",
+      "title_zh": "Cat Wu（@_catwu）的 X 动态",
+      "summary_zh": "Cat Wu 分享了在移动应用上使用 Claude Code 随时随地进行头脑风暴，并在之后于笔记本电脑上继续会话的体验。"
     },
     {
       "id": "ai-2026-04-04-trq212",
@@ -471,7 +521,10 @@
       ],
       "name_en": "Thariq",
       "bio_en": "Claude Code @anthropicai.   prev YC W20, mit media lab. \ntowards machines of loving grace",
-      "summary_en": "Thariq announced Claude Code renderer rewrite using virtual viewport, supporting mouse operations, fixed prompt input at bottom, and many UX improvements."
+      "summary_en": "Thariq announced Claude Code renderer rewrite using virtual viewport, supporting mouse operations, fixed prompt input at bottom, and many UX improvements.",
+      "title_en": "Thariq (@trq212) X动态",
+      "title_zh": "Thariq（@trq212）的X动态",
+      "summary_zh": "Thariq 宣布使用虚拟视口重写 Claude Code 渲染器，支持鼠标操作，将提示输入框固定在底部，并带来许多用户体验改进。"
     },
     {
       "id": "ai-2026-04-04-amasad",
@@ -494,7 +547,10 @@
       ],
       "name_en": "Amjad Masad",
       "bio_en": "ceo @replit. civilizationist",
-      "summary_en": "Amjad Masad shared thoughts on being in an unprecedented era of rapid wealth creation."
+      "summary_en": "Amjad Masad shared thoughts on being in an unprecedented era of rapid wealth creation.",
+      "title_en": "Amjad Masad (@amasad) X动态",
+      "title_zh": "Amjad Masad（@amasad）的 X 动态",
+      "summary_zh": "阿姆贾德·马萨德分享了他对身处一个前所未有的财富快速创造时代的看法。"
     }
   ]
 }

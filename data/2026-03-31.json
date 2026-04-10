@@ -6,7 +6,10 @@
       "title": "microsoft/VibeVoice - Open-Source Frontier Voice AI",
       "url": "https://github.com/microsoft/VibeVoice",
       "summary": "微软开源的前沿语音AI项目，2,492 stars today",
-      "content": "Open-Source Frontier Voice AI by Microsoft. Built by YaoyaoChang, MSLDCherryPick, and others. 30,715 stars, 3,397 forks."
+      "content": "Open-Source Frontier Voice AI by Microsoft. Built by YaoyaoChang, MSLDCherryPick, and others. 30,715 stars, 3,397 forks.",
+      "title_en": "microsoft/VibeVoice - Open-Source Frontier Voice AI",
+      "description_en": "",
+      "title_zh": "microsoft/VibeVoice - Open-Source Frontier Voice AI"
     },
     {
       "id": "gh-2",
@@ -14,7 +17,10 @@
       "title": "luongnv89/claude-howto - Claude Code可视化和示例指南",
       "url": "https://github.com/luongnv89/claude-howto",
       "summary": "一个可视化、示例驱动的Claude Code指南，4,232 stars today",
-      "content": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates. Built by luongnv89, claude, wjhrdy, VikalpP."
+      "content": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates. Built by luongnv89, claude, wjhrdy, VikalpP.",
+      "title_en": "luongnv89/claude-howto - Claude Code可视化和示例指南",
+      "description_en": "",
+      "title_zh": "luongnv89/claude-howto - Claude Code可视化和示例指南"
     },
     {
       "id": "gh-3",
@@ -22,7 +28,10 @@
       "title": "shanraisshan/claude-code-best-practice - Claude Code最佳实践",
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "summary": "practice made claude perfect - Claude Code最佳实践集合",
-      "content": "Claude Code best practice repository."
+      "content": "Claude Code best practice repository.",
+      "title_en": "shanraisshan/claude-code-best-practice - Claude Code最佳实践",
+      "description_en": "",
+      "title_zh": "shanraisshan/claude-code-best-practice - Claude Code最佳实践"
     },
     {
       "id": "gh-4",
@@ -30,7 +39,10 @@
       "title": "hacksider/Deep-Live-Cam - 实时换脸和一键视频深度伪造",
       "url": "https://github.com/hacksider/Deep-Live-Cam",
       "summary": "仅需一张图片即可实现实时换脸和一键视频深度伪造",
-      "content": "real time face swap and one-click video deepfake with only a single image."
+      "content": "real time face swap and one-click video deepfake with only a single image.",
+      "title_en": "hacksider/Deep-Live-Cam - 实时换脸和一键视频深度伪造",
+      "description_en": "",
+      "title_zh": "hacksider/Deep-Live-Cam - 实时换脸和一键视频深度伪造"
     },
     {
       "id": "gh-5",
@@ -38,7 +50,10 @@
       "title": "OpenBB-finance/OpenBB - 金融数据分析平台",
       "url": "https://github.com/OpenBB-finance/OpenBB",
       "summary": "面向分析师、量化交易员和AI代理的金融数据平台",
-      "content": "Financial data platform for analysts, quants and AI agents."
+      "content": "Financial data platform for analysts, quants and AI agents.",
+      "title_en": "OpenBB-finance/OpenBB - 金融数据分析平台",
+      "description_en": "",
+      "title_zh": "OpenBB-finance/OpenBB - 金融数据分析平台"
     },
     {
       "id": "gh-6",
@@ -46,7 +61,10 @@
       "title": "freeCodeCamp/freeCodeCamp - 免费编程学习平台",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "summary": "freeCodeCamp的开源代码库和课程，免费学习编程和计算机科学",
-      "content": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+      "content": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "title_en": "freeCodeCamp/freeCodeCamp - 免费编程学习平台",
+      "description_en": "",
+      "title_zh": "freeCodeCamp/freeCodeCamp - 免费编程学习平台"
     },
     {
       "id": "gh-7",
@@ -54,7 +72,10 @@
       "title": "sherlock-project/sherlock - 社交媒体账号搜索工具",
       "url": "https://github.com/sherlock-project/sherlock",
       "summary": "通过用户名在各大社交网络上追踪社交媒体账号",
-      "content": "Hunt down social media accounts by username across social networks."
+      "content": "Hunt down social media accounts by username across social networks.",
+      "title_en": "sherlock-project/sherlock - 社交媒体账号搜索工具",
+      "description_en": "",
+      "title_zh": "sherlock-project/sherlock - 社交媒体账号搜索工具"
     },
     {
       "id": "gh-8",
@@ -62,7 +83,10 @@
       "title": "apache/superset - 数据可视化和探索平台",
       "url": "https://github.com/apache/superset",
       "summary": "Apache Superset是一个数据可视化和数据探索平台",
-      "content": "Apache Superset is a Data Visualization and Data Exploration Platform."
+      "content": "Apache Superset is a Data Visualization and Data Exploration Platform.",
+      "title_en": "apache/superset - 数据可视化和探索平台",
+      "description_en": "",
+      "title_zh": "apache/superset - 数据可视化和探索平台"
     },
     {
       "id": "gh-9",
@@ -70,7 +94,10 @@
       "title": "fastfetch-cli/fastfetch - 高性能系统信息工具",
       "url": "https://github.com/fastfetch-cli/fastfetch",
       "summary": "一个功能丰富、高性能的neofetch类系统信息工具，276 stars today",
-      "content": "A maintained, feature-rich and performance oriented, neofetch like system information tool. Built by CarterLi, LinusDierheimer, and others. 21,429 stars, 726 forks."
+      "content": "A maintained, feature-rich and performance oriented, neofetch like system information tool. Built by CarterLi, LinusDierheimer, and others. 21,429 stars, 726 forks.",
+      "title_en": "fastfetch-cli/fastfetch - 高性能系统信息工具",
+      "description_en": "",
+      "title_zh": "fastfetch-cli/fastfetch - 高性能系统信息工具"
     },
     {
       "id": "gh-10",
@@ -78,7 +105,10 @@
       "title": "NousResearch/hermes-agent - 伴随你成长的AI代理",
       "url": "https://github.com/NousResearch/hermes-agent",
       "summary": "The agent that grows with you，1,851 stars today",
-      "content": "The agent that grows with you. Built by teknium1, 0xbyt4, kshitijk4poor, and others. 18,728 stars, 2,279 forks."
+      "content": "The agent that grows with you. Built by teknium1, 0xbyt4, kshitijk4poor, and others. 18,728 stars, 2,279 forks.",
+      "title_en": "NousResearch/hermes-agent - 伴随你成长的AI代理",
+      "description_en": "",
+      "title_zh": "NousResearch/hermes-agent - 伴随你成长的AI代理"
     },
     {
       "id": "hn-1",
@@ -86,7 +116,9 @@
       "title": "Universal Claude.md – cut Claude output tokens by 63%",
       "url": "https://github.com/drona23/claude-token-efficient",
       "summary": "通过优化Claude输出减少63%的token使用量",
-      "content": "46 points by killme2008. Universal Claude.md – cut Claude output tokens by 63%."
+      "content": "46 points by killme2008. Universal Claude.md – cut Claude output tokens by 63%.",
+      "title_en": "Universal Claude.md – cut Claude output tokens by 63%",
+      "title_zh": "Universal Claude.md – cut Claude output tokens by 63%"
     },
     {
       "id": "hn-2",
@@ -94,7 +126,9 @@
       "title": "Fedware: Government apps that spy harder than the apps they ban",
       "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
       "summary": "政府应用比它们禁止的应用更过度收集数据",
-      "content": "432 points by speckx. Fedware: Government apps that spy harder than the apps they ban."
+      "content": "432 points by speckx. Fedware: Government apps that spy harder than the apps they ban.",
+      "title_en": "Fedware: Government apps that spy harder than the apps they ban",
+      "title_zh": "Fedware: Government apps that spy harder than the apps they ban"
     },
     {
       "id": "hn-3",
@@ -102,7 +136,9 @@
       "title": "Android Developer Verification",
       "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
       "summary": "Google针对Android开发者的验证机制全面推出",
-      "content": "149 points by ingve. Android Developer Verification rolling out to all developers."
+      "content": "149 points by ingve. Android Developer Verification rolling out to all developers.",
+      "title_en": "Android Developer Verification",
+      "title_zh": "Android Developer Verification"
     },
     {
       "id": "hn-4",
@@ -110,7 +146,9 @@
       "title": "Do your own writing",
       "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
       "summary": "AI时代更要保持独立写作能力",
-      "content": "374 points by karimf. Do your own writing - on the importance of maintaining writing skills in the AI era."
+      "content": "374 points by karimf. Do your own writing - on the importance of maintaining writing skills in the AI era.",
+      "title_en": "Do your own writing",
+      "title_zh": "Do your own writing"
     },
     {
       "id": "hn-5",
@@ -118,7 +156,9 @@
       "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
       "url": "https://anishathalye.com/macbook-touchscreen/",
       "summary": "用1美元的硬件将MacBook变成触摸屏",
-      "content": "207 points by HughParry. Turning a MacBook into a touchscreen with $1 of hardware (2018)."
+      "content": "207 points by HughParry. Turning a MacBook into a touchscreen with $1 of hardware (2018).",
+      "title_en": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
+      "title_zh": "Turning a MacBook into a touchscreen with $1 of hardware (2018)"
     },
     {
       "id": "hn-6",
@@ -126,7 +166,9 @@
       "title": "Learn Claude Code by doing, not reading",
       "url": "https://claude.nagdy.me/",
       "summary": "通过实践学习Claude Code，而非阅读文档",
-      "content": "159 points by taubek. Learn Claude Code by doing, not reading."
+      "content": "159 points by taubek. Learn Claude Code by doing, not reading.",
+      "title_en": "Learn Claude Code by doing, not reading",
+      "title_zh": "Learn Claude Code by doing, not reading"
     },
     {
       "id": "hn-7",
@@ -134,7 +176,9 @@
       "title": "How to turn anything into a router",
       "url": "https://nbailey.ca/post/router/",
       "summary": "将任何设备变成路由器的教程，596 points",
-      "content": "596 points by yabones. How to turn anything into a router."
+      "content": "596 points by yabones. How to turn anything into a router.",
+      "title_en": "How to turn anything into a router",
+      "title_zh": "How to turn anything into a router"
     },
     {
       "id": "hn-8",
@@ -142,7 +186,9 @@
       "title": "Incident March 30th, 2026 – Accidental CDN Caching",
       "url": "https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching",
       "summary": "Railway 3月30日CDN缓存事故报告",
-      "content": "7 points by cebert. Incident March 30th, 2026 – Accidental CDN Caching."
+      "content": "7 points by cebert. Incident March 30th, 2026 – Accidental CDN Caching.",
+      "title_en": "Incident March 30th, 2026 – Accidental CDN Caching",
+      "title_zh": "Incident March 30th, 2026 – Accidental CDN Caching"
     },
     {
       "id": "hn-9",
@@ -150,7 +196,9 @@
       "title": "Agents of Chaos",
       "url": "https://agentsofchaos.baulab.info/report.html",
       "summary": "AI Agents混沌效应研究报告",
-      "content": "72 points by luu. Agents of Chaos - report on AI agent behavior and emergent effects."
+      "content": "72 points by luu. Agents of Chaos - report on AI agent behavior and emergent effects.",
+      "title_en": "Agents of Chaos",
+      "title_zh": "Agents of Chaos"
     },
     {
       "id": "hn-10",
@@ -158,7 +206,9 @@
       "title": "Why I'm betting on ATProto (and why you should, too)",
       "url": "https://brittanyellich.com/atproto/",
       "summary": "ATProto协议前景分析",
-      "content": "77 points by speckx. Why I'm betting on ATProto (and why you should, too)."
+      "content": "77 points by speckx. Why I'm betting on ATProto (and why you should, too).",
+      "title_en": "Why I'm betting on ATProto (and why you should, too)",
+      "title_zh": "Why I'm betting on ATProto (and why you should, too)"
     },
     {
       "id": "ai-1",
@@ -166,7 +216,11 @@
       "title": "Building Is the Easy Part Now | Mike Krieger on What AI Changed",
       "url": "https://youtube.com/watch?v=KRv9GpJYrUA",
       "summary": "Instagram联创兼Anthropic产品负责人Mike Krieger谈论AI如何改变产品开发：\"模型擅长添加功能，但不擅长决定删除什么。\"他分享了AI时代产品设计的核心洞察：需要有人在正确时机决定做什么，且AI辅助的快速开发可能导致'室内树木'问题——缺乏真实世界反馈的迭代打磨。他强调信任你的AI代理、保持架构强健、愿意删除功能的重要性。",
-      "content": ""
+      "content": "",
+      "title_en": "Building Is the Easy Part Now | Mike Krieger on What AI Changed",
+      "summary_en": "Instagram联创兼Anthropic产品负责人Mike Krieger谈论AI如何改变产品开发：\"模型擅长添加功能，但不擅长决定删除什么。\"他分享了AI时代产品设计的核心洞察：需要有人在正确时机决定做什么，且AI辅助的快速开发可能导致'室内树木'问题——缺乏真实世界反馈的迭代打磨。他强调信任你的AI代理、保持架构强健、愿意删除功能的重要性。",
+      "title_zh": "Building Is the Easy Part Now | Mike Krieger on What AI Changed",
+      "summary_zh": "Instagram联创兼Anthropic产品负责人Mike Krieger谈论AI如何改变产品开发：\"模型擅长添加功能，但不擅长决定删除什么。\"他分享了AI时代产品设计的核心洞察：需要有人在正确时机决定做什么，且AI辅助的快速开发可能导致'室内树木'问题——缺乏真实世界反馈的迭代打磨。他强调信任你的AI代理、保持架构强健、愿意删除功能的重要性。"
     },
     {
       "id": "ai-2",
@@ -174,7 +228,11 @@
       "title": "Nan Yu (Linear产品负责人) 的AI产品观点",
       "url": "https://x.com/thenanyu/status/2038599289081872893",
       "summary": "Linear产品负责人Nan Yu分享了对AI产品的思考，提到了'万亿美元'级机会的观点。",
-      "content": ""
+      "content": "",
+      "title_en": "Nan Yu (Linear产品负责人) 的AI产品观点",
+      "summary_en": "Linear产品负责人Nan Yu分享了对AI产品的思考，提到了'万亿美元'级机会的观点。",
+      "title_zh": "Nan Yu (Linear产品负责人) 的AI产品观点",
+      "summary_zh": "Linear产品负责人Nan Yu分享了对AI产品的思考，提到了'万亿美元'级机会的观点。"
     },
     {
       "id": "ai-3",
@@ -182,7 +240,11 @@
       "title": "Claude Code推出Computer Use功能",
       "url": "https://x.com/claudeai/status/2038663014098899416",
       "summary": "Anthropic宣布Claude Code支持Computer Use功能，Claude可以直接打开应用、点击UI并测试其构建的内容。目前已在Pro和Max计划的Research Preview中推出，获得11,545赞和878转发。",
-      "content": ""
+      "content": "",
+      "title_en": "Claude Code推出Computer Use功能",
+      "summary_en": "Anthropic宣布Claude Code支持Computer Use功能，Claude可以直接打开应用、点击UI并测试其构建的内容。目前已在Pro和Max计划的Research Preview中推出，获得11,545赞和878转发。",
+      "title_zh": "Claude Code推出Computer Use功能",
+      "summary_zh": "Anthropic宣布Claude Code支持Computer Use功能，Claude可以直接打开应用、点击UI并测试其构建的内容。目前已在Pro和Max计划的Research Preview中推出，获得11,545赞和878转发。"
     }
   ]
 }

@@ -483,24 +483,29 @@
                 let fullContent = '';
 
                 if (currentType === 'github') {
-                    // GitHub: 使用 description
+                    // GitHub: 优先使用 title_zh/description_zh，其次用英文
                     const items = list.map(a => {
-                        return `- **[${a.title}](${a.url})** ⭐ ${a.stars || ''}\n  ${a.description || ''}`;
+                        const title = a.title_zh || a.title;
+                        const desc = a.description_zh || a.description || '';
+                        return `- **[${title}](${a.url})** ⭐ ${a.stars || ''}\n  ${desc}`;
                     }).join('\n');
-                    summaryText = list.map(a => a.title).join(', ').substring(0, 120) + '...';
+                    summaryText = list.map(a => a.title_zh || a.title).join(', ').substring(0, 120) + '...';
                     fullContent = items;
                 } else if (currentType === 'hn') {
-                    // Hacker News: 使用 title
+                    // Hacker News: 优先使用 title_zh
                     const items = list.map(a => {
-                        return `- [${a.title}](${a.url})`;
+                        const title = a.title_zh || a.title;
+                        return `- [${title}](${a.url})`;
                     }).join('\n');
-                    summaryText = list.map(a => a.title).join(', ').substring(0, 120) + '...';
+                    summaryText = list.map(a => a.title_zh || a.title).join(', ').substring(0, 120) + '...';
                     fullContent = items;
                 } else if (currentType === 'ai') {
-                    // AI 精选: 使用 summary
-                    summaryText = list.map(a => `🤖 ${a.title}`).join(' | ');
+                    // AI 精选: 优先使用 title_zh/summary_zh
+                    summaryText = list.map(a => `🤖 ${a.title_zh || a.title}`).join(' | ');
                     fullContent = list.map(a => {
-                        return `### [🤖 ${a.title}](${a.url})\n\n${a.summary || ''}`;
+                        const title = a.title_zh || a.title;
+                        const summary = a.summary_zh || a.summary || '';
+                        return `### [🤖 ${title}](${a.url})\n\n${summary}`;
                     }).join('\n\n---\n\n');
                 }
                 
