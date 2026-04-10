@@ -483,13 +483,13 @@
                 let fullContent = '';
 
                 if (currentType === 'github') {
-                    // GitHub: 优先使用 title_zh/description_zh，其次用英文
+                    // GitHub: 用原始 repo 名 + 中文 summary
                     const items = list.map(a => {
-                        const title = a.title_zh || a.title;
-                        const desc = a.description_zh || a.description || '';
+                        const title = a.title || 'Untitled';
+                        const desc = a.summary || '';
                         return `- **[${title}](${a.url})** ⭐ ${a.stars || ''}\n  ${desc}`;
                     }).join('\n');
-                    summaryText = list.map(a => a.title_zh || a.title).join(', ').substring(0, 120) + '...';
+                    summaryText = list.map(a => a.title || 'Untitled').join(', ').substring(0, 120) + '...';
                     fullContent = items;
                 } else if (currentType === 'hn') {
                     // Hacker News: 优先使用 title_zh
