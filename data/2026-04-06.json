@@ -14,7 +14,7 @@
       "id": "github-2026-04-06-02",
       "type": "github",
       "title": "Blaizzy/mlx-vlm",
-      "title_zh": "MLX-VLM: Mac 上的视觉语言模型推理与微调",
+      "title_zh": "",
       "url": "https://github.com/Blaizzy/mlx-vlm",
       "summary": "在 Mac 上使用 MLX 进行视觉语言模型(VLM)推理和微调的包",
       "summary_zh": "在 Mac 上使用 MLX 进行视觉语言模型(VLM)推理和微调的包"
@@ -23,7 +23,7 @@
       "id": "github-2026-04-06-03",
       "type": "github",
       "title": "openscreen - 开源屏幕录制",
-      "title_zh": "openscreen - 开源屏幕录制工具",
+      "title_zh": "开源屏幕录制",
       "url": "https://github.com/siddharthvaddem/openscreen",
       "summary": "免费创建精彩演示的开源工具，无订阅、无水印、商用免费",
       "summary_zh": "免费创建精彩演示的开源工具，无订阅、无水印、商用免费"
@@ -32,7 +32,7 @@
       "id": "github-2026-04-06-04",
       "type": "github",
       "title": "goose - 可扩展的 AI 代理",
-      "title_zh": "goose - 开源可扩展 AI 代理",
+      "title_zh": "鹅 - 可扩展的 AI 代理",
       "url": "https://github.com/block/goose",
       "summary": "开源可扩展 AI 代理，不仅限于代码建议 - 可安装、执行、编辑和测试",
       "summary_zh": "开源可扩展 AI 代理，不仅限于代码建议 - 可安装、执行、编辑和测试"
@@ -41,7 +41,7 @@
       "id": "github-2026-04-06-05",
       "type": "github",
       "title": "Onyx - 开源 AI 平台",
-      "title_zh": "Onyx - 开源 AI 平台",
+      "title_zh": "玛瑙 - 开源 AI 平台",
       "url": "https://github.com/onyx-dot-app/onyx",
       "summary": "开源 AI 平台 - 支持所有 LLM 的 AI 聊天，带高级功能",
       "summary_zh": "开源 AI 平台 - 支持所有 LLM 的 AI 聊天，带高级功能"
@@ -59,7 +59,7 @@
       "id": "github-2026-04-06-07",
       "type": "github",
       "title": "fff.nvim - 最快最准的文件搜索",
-      "title_zh": "fff.nvim - AI 代理最快最准的文件搜索工具",
+      "title_zh": "fff.nvim - 最快最准的文件搜索",
       "url": "https://github.com/dmtrKovalenko/fff.nvim",
       "summary": "AI 代理、Neovim、Rust、C 和 NodeJS 最快最准的文件搜索工具包",
       "summary_zh": "AI 代理、Neovim、Rust、C 和 NodeJS 最快最准的文件搜索工具包"
@@ -68,7 +68,7 @@
       "id": "github-2026-04-06-08",
       "type": "github",
       "title": "LiteRT-LM",
-      "title_zh": "LiteRT-LM",
+      "title_zh": "",
       "url": "https://github.com/google-ai-edge/LiteRT-LM",
       "summary": "Google AI Edge 的 LiteRT 语言模型",
       "summary_zh": "Google AI Edge 的 LiteRT 语言模型"

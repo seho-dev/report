@@ -194,7 +194,7 @@
       "description": "免费创建精美演示视频的开源工具，无需订阅、无水印、可商用的 Screen Studio 替代品。",
       "title_en": "OpenScreen",
       "description_en": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "title_zh": "开放屏幕",
+      "title_zh": "OpenScreen - 开源屏幕录制工具",
       "description_zh": "免费制作惊艳的演示视频。开源、无需订阅、无水印，并且可免费商用。是 Screen Studio 的替代方案。"
     },
     {
@@ -210,7 +210,7 @@
       "description": "OmX - Oh My codeX：让你的代码助手不再孤单。支持钩子、代理团队、HUD 等丰富扩展功能。",
       "title_en": "oh-my-codex",
       "description_en": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "title_zh": "哦，我的法典",
+      "title_zh": "哦，我的代码 - 代码助手扩展框架",
       "description_zh": "OmX - Oh My codeX：你的 Codex 并不孤单。添加钩子、智能体团队、HUD，以及更多功能。"
     },
     {
@@ -226,7 +226,7 @@
       "description": "从 ChatGPT、Claude、Gemini、Grok、Perplexity 等AI产品中提取的系统提示词，持续更新。",
       "title_en": "system_prompts_leaks",
       "description_en": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
-      "title_zh": "系统提示词泄漏",
+      "title_zh": "AI系统提示词泄露集合",
       "description_zh": "从 ChatGPT（GPT-5.4、GPT-5.3、Codex）、Claude（Opus 4.6、Sonnet 4.6、Claude Code）、Gemini（3.1 Pro、3 Flash、CLI）、Grok（4.2、4）、Perplexity 等中提取的系统提示词。定期更新。"
     },
     {
@@ -242,7 +242,7 @@
       "description": "通过用户名在各大社交网络上追踪用户的在线账号。",
       "title_en": "sherlock",
       "description_en": "Hunt down social media accounts by username across social networks",
-      "title_zh": "夏洛克",
+      "title_zh": "The user says: \"翻译成中文，只输出中文翻译结果，不解释: sherlock - 社交媒体账号搜索工具\". They want translation to Chinese, only output the Chinese translation, no explanation. The user explicitly asks \"翻译成中文，只输出中文翻译结果，不解释\". So we need to provide Chinese translation of the given phrase. It is \"sherlock - 社交媒体账号搜索工具\". This appears to be a phrase: \"sherlock - 社交媒体账号搜索",
       "description_zh": "通过用户名在各大社交网络中查找社交媒体账号"
     },
     {
@@ -258,7 +258,7 @@
       "description": "历史上最快突破10万星的开源项目。使用 Rust 构建的更好用的代码辅助工具。",
       "title_en": "claw-code",
       "description_en": "The fastest repo in history to surpass 100K stars. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.",
-      "title_zh": "爪代码",
+      "title_zh": "The user says: \"翻译成中文，只输出中文翻译结果，不解释: claw-code - 历史最快突破10万星的仓库\". They want me to translate into Chinese, but they already have Chinese \"claw-code - 历史最快突破10万星的仓库\". Wait: The user is writing \"翻译成中文，只输出中文翻译结果，不解释: claw-code - 历史最快突破10万星的仓库\". That seems to be an instruction: \"Translate into Chinese, only output the Chinese translation, no",
       "description_zh": "历史上最快突破 10 万星标的代码仓库。更好的 Harness 工具，让真正的事情得以完成。使用 oh-my-codex，以 Rust 构建。"
     },
     {
@@ -274,7 +274,7 @@
       "description": "在单GPU上自动运行研究任务的AI代理，进行nanochat训练。",
       "title_en": "autoresearch",
       "description_en": "AI agents running research on single-GPU nanochat training automatically",
-      "title_zh": "自动研究",
+      "title_zh": "自动研究 - Karpathy 的自动研究代理",
       "description_zh": "AI 代理自动开展单 GPU nanochat 训练研究"
     },
     {
@@ -290,7 +290,7 @@
       "description": "使用Garry Tan的精确Claude Code配置：23个固执己见的工具，充当CEO、设计师、工程经理、发布经理、文档工程师和QA。",
       "title_en": "gstack",
       "description_en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "title_zh": "gstack",
+      "title_zh": "gstack - Garry Tan 的 Claude Code 配置集合",
       "description_zh": "使用 Garry Tan 完全相同的 Claude Code 配置：23 个有明确主张的工具，分别充当 CEO、设计师、工程经理、发布经理、文档工程师和 QA"
     },
     {
@@ -306,7 +306,7 @@
       "description": "Google DeepMind发布的Gemma 4开源模型。",
       "title_en": "gemma-4",
       "description_en": "Gemma 4 open models released by Google DeepMind",
-      "title_zh": "gemma-4",
+      "title_zh": "gemma-4 - Google DeepMind开源模型",
       "description_zh": "Google DeepMind 发布 Gemma 4 开放模型"
     },
     {
@@ -322,7 +322,7 @@
       "description": "使用GPU和NPU的快速开源本地LLM服务器。",
       "title_en": "lemonade",
       "description_en": "A fast and open source local LLM server using GPU and NPU",
-      "title_zh": "柠檬水",
+      "title_zh": "柠檬水 - AMD开源本地LLM服务器",
       "description_zh": "一个使用 GPU 和 NPU 的快速开源本地大语言模型服务器"
     },
     {
@@ -338,7 +338,7 @@
       "description": "Qwen3.6-Plus：面向真实世界Agent的大模型。",
       "title_en": "qwen3.6",
       "description_en": "Qwen3.6-Plus: Towards real world agents",
-      "title_zh": "qwen3.6",
+      "title_zh": "通义千问3.6 - 通向真实世界Agent",
       "description_zh": "Qwen3.6-Plus：迈向真实世界智能体"
     },
     {
