@@ -1,0 +1,240 @@
+{
+  "date": "2026-04-11",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "markitdown",
+      "title_zh": "MarkItDown — 文件转Markdown转换工具",
+      "url": "https://github.com/microsoft/markitdown",
+      "summary": "微软开源的Python工具，用于将文件和Office文档转换为Markdown格式，支持多种文档格式的批量转换。",
+      "content": "A Python tool for converting files and office documents (Word, Excel, PowerPoint, PDF) to Markdown format. Built by Microsoft with contributions from multiple developers. Features batch conversion, table preservation, and image extraction support.",
+      "stars": "99624"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "Archon",
+      "title_zh": "Archon — 开源AI编程测试框架",
+      "url": "https://github.com/coleam00/Archon",
+      "summary": "首个开源的AI编程测试框架构建器，可以让AI编程变得确定性和可重复，提升编程效率。",
+      "content": "The first open-source harness builder for AI coding. Makes AI coding deterministic and repeatable. Built with TypeScript, supports multiple AI models including Claude. Allows creating test harnesses for AI-generated code.",
+      "stars": "15583"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "hermes-agent",
+      "title_zh": "Hermes Agent — 成长型AI代理框架",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "一款能够随着使用不断学习和成长的AI代理框架，支持多种任务执行和记忆管理。",
+      "content": "The agent that grows with you. An open-source AI agent framework that learns from interactions and improves over time. Features memory management, task decomposition, and multi-model support.",
+      "stars": "51814"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "rowboat",
+      "title_zh": "Rowboat — 带记忆功能的AI同事",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "summary": "开源的AI同事系统，具有记忆功能，可以在团队中扮演协作者角色，记住对话上下文。",
+      "content": "Open-source AI coworker with memory. A TypeScript-based AI agent that can collaborate with users in team settings, maintaining context and memory across sessions for continuous assistance.",
+      "stars": "11716"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "multica",
+      "title_zh": "Multica — 开源托管AI代理平台",
+      "url": "https://github.com/multica-ai/multica",
+      "summary": "开源托管AI代理平台，可以将编程AI代理变成真正的团队成员，支持任务分配、进度跟踪和技能积累。",
+      "content": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. Built with TypeScript, supports multiple AI coding agents.",
+      "stars": "6028"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "andrej-karpathy-skills",
+      "title_zh": "Karpathy技能笔记 — 提升Claude Code表现",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "summary": "基于Andrej Karpathy对LLM编程陷阱的观察，整理出的单一CLAUDE.md文件，用于改善Claude Code的编程表现。",
+      "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. Contains best practices and prompts distilled from years of AI programming experience.",
+      "stars": "11698"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "Kronos",
+      "title_zh": "Kronos — 金融市场语言基础模型",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "summary": "金融市场的语言基础模型，专门用于理解和分析金融市场的文本数据、新闻和报告。",
+      "content": "Kronos: A Foundation Model for the Language of Financial Markets. Trained on financial texts, news, and reports to understand and analyze financial market data.",
+      "stars": "500"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "DeepTutor",
+      "title_zh": "DeepTutor — 原生代理个性化学习助手",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "summary": "面向代理原生的个性化学习助手，利用AI技术为用户提供定制化的学习体验和辅导服务。",
+      "content": "DeepTutor: Agent-Native Personalized Learning Assistant. An AI-powered learning system designed for agent-based interactions, providing personalized educational experiences through adaptive tutoring.",
+      "stars": "15949"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "opendataloader-pdf",
+      "title_zh": "OpenDataLoader PDF — AI就绪的PDF解析器",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "summary": "开源PDF解析工具，专为AI应用设计，可以自动提取PDF内容并使其易于AI处理，同时支持PDF无障碍访问。",
+      "content": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source tool that extracts content from PDFs and converts it into formats suitable for AI processing and analysis.",
+      "stars": "300"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "superpowers",
+      "title_zh": "Superpowers — 代理技能框架与开发方法论",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一套代理技能框架和软件开发方法论，让AI编程代理能够更高效地完成软件开发任务。",
+      "content": "An agentic skills framework & software development methodology that works. Provides structured approaches for deploying AI coding agents in real software development workflows.",
+      "stars": "200"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "1D Chess",
+      "title_zh": "一维国际象棋",
+      "url": "https://news.ycombinator.com/item?id=1",
+      "summary": "一个极具创意的变体国际象棋游戏，将棋盘压缩成一维线条，同时保留了象棋的核心策略乐趣。",
+      "content": "HN Score: 618, Comments: 117"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+      "title_zh": "WireGuard发布新Windows版本，解决微软签名问题",
+      "url": "https://news.ycombinator.com/item?id=2",
+      "summary": "WireGuard在解决微软代码签名问题后，发布了全新的Windows版本，VPN协议更加稳定安全。",
+      "content": "HN Score: 379, Comments: 104"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "CPU-Z and HWMonitor compromised",
+      "title_zh": "CPU-Z和HWMonitor被恶意软件入侵",
+      "url": "https://news.ycombinator.com/item?id=3",
+      "summary": "知名硬件监控工具CPU-Z和HWMonitor被植入恶意代码，下载链接疑似被篡改，用户需警惕。",
+      "content": "HN Score: 240, Comments: 81"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Industrial design files for Keychron keyboards and mice",
+      "title_zh": "Keychron键盘鼠标工业设计文件泄露",
+      "url": "https://news.ycombinator.com/item?id=4",
+      "summary": "Keychron的机械键盘和鼠标产品工业设计文件被公开泄露，引发关于知识产权保护的讨论。",
+      "content": "HN Score: 273, Comments: 85"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Helium Is Hard to Replace",
+      "title_zh": "氦气难以被替代",
+      "url": "https://news.ycombinator.com/item?id=5",
+      "summary": "氦气作为稀有资源在医疗、航天和科技领域的关键应用，以及全球氦气短缺对各行业的影响分析。",
+      "content": "HN Score: 237, Comments: 158"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Chimpanzees in Uganda locked in eight-year 'civil war'",
+      "title_zh": "乌干达黑猩猩陷入八年\"内战\"",
+      "url": "https://news.ycombinator.com/item?id=6",
+      "summary": "研究人员发现乌干达地区黑猩猩群落之间持续八年的冲突，类似于人类历史上的部落战争。",
+      "content": "HN Score: 194, Comments: 104"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Filing the Corners Off MacBooks",
+      "title_zh": "给MacBook去角：一场笔记本电脑设计的讨论",
+      "url": "https://news.ycombinator.com/item?id=7",
+      "summary": "关于苹果MacBook工业设计的讨论，涉及边缘处理工艺和用户体验的关系。",
+      "content": "HN Score: 182, Comments: 121"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Show HN: FluidCAD – Parametric CAD with JavaScript",
+      "title_zh": "Show HN: FluidCAD — 用JavaScript实现的参数化CAD",
+      "url": "https://news.ycombinator.com/item?id=8",
+      "summary": "一款使用JavaScript开发的参数化CAD设计工具，让网页端也能进行三维建模和参数化设计。",
+      "content": "HN Score: 95, Comments: 20"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": " Nowhere Is Safe",
+      "title_zh": "无处可藏：数字时代的隐私困境",
+      "url": "https://news.ycombinator.com/item?id=9",
+      "summary": "探讨现代数字生活中隐私保护面临的挑战，以及数据收集对个人自由的潜在影响。",
+      "content": "HN Score: 99, Comments: 141"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Bluesky April 2026 Outage Post-Mortem",
+      "title_zh": "Bluesky 2026年4月服务中断复盘报告",
+      "url": "https://news.ycombinator.com/item?id=10",
+      "summary": "Bluesky发布的官方故障复盘报告，详细分析了导致服务中断的原因和后续改进措施。",
+      "content": "HN Score: 129, Comments: 64"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Claude Cowork expands enterprise tools with Zoom transcript integration",
+      "title_zh": "Anthropic扩展Claude Cowork企业功能：支持Zoom会议转录",
+      "url": "https://claude.com/blog/cowork-for-enterprise",
+      "summary": "Anthropic为Claude Cowork企业版推出新功能，可以将Zoom会议转录内容自动转换为可执行的任务清单，提升团队协作效率。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Jeff Bezos' AI lab Project Prometheus poaches xAI cofounder from OpenAI",
+      "title_zh": "贝索斯AI实验室Project Prometheus挖角OpenAI",
+      "url": "https://www.theverge.com/",
+      "summary": "由Jeff Bezos领投的AI创业项目Project Prometheus挖来了xAI联合创始人Kyle Kozic，将专注于基础设施建设，目标是用AI改进制造业。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Anthropic signs big AI infrastructure deal with Google and Broadcom",
+      "title_zh": "Anthropic与Google和Broadcom签署大型AI基础设施协议",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "summary": "Anthropic宣布与Google和Broadcom达成重大合作，将获得多个千兆瓦的下一代TPU计算资源，预计2027年投入使用以支持Claude前沿模型训练。公司还透露其年化收入已超过300亿美元。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Google launches free offline AI dictation app Google AI Edge Eloquent",
+      "title_zh": "谷歌推出免费离线AI录音转写应用",
+      "url": "https://ai.google.dev/edge/eloquent",
+      "summary": "谷歌发布免费离线AI转录应用Google AI Edge Eloquent，无需订阅即可使用，结束后会自动润色讲话内容、过滤填充词。目前仅支持iOS，未来将扩展到Android和macOS。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "OpenAI releases framework for AI child safety policies",
+      "title_zh": "OpenAI发布AI儿童安全政策框架",
+      "url": "https://www.openai.com/",
+      "summary": "OpenAI发布AI儿童安全政策蓝图，与NCMEC和总检察长联盟合作制定，旨在推动应对AI生成儿童性虐待材料相关法规的现代化，改善举报流程并建立防止剥削尝试的系统。",
+      "content": ""
+    }
+  ]
+}

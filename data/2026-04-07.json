@@ -5,7 +5,7 @@
       "id": "github-2026-04-07-01",
       "type": "github",
       "title": "oh-my-codex",
-      "title_zh": "oh-my-codex: 为 Codex 添加钩子、代理团队、HUD 等扩展",
+      "title_zh": "哦，我的法典",
       "url": "https://github.com/Yeachan-Heo/oh-my-codex",
       "summary": "OmX - Oh My codeX: 你的 Codex 不孤单。添加钩子、代理团队、HUDs 等功能",
       "summary_zh": "OmX - Oh My codeX: 你的 Codex 不孤单。添加钩子、代理团队、HUDs 等功能"
@@ -14,7 +14,7 @@
       "id": "github-2026-04-07-02",
       "type": "github",
       "title": "openscreen",
-      "title_zh": "openscreen - 免费创建精彩演示的开源工具",
+      "title_zh": "",
       "url": "https://github.com/siddharthvaddem/openscreen",
       "summary": "免费创建精彩演示的开源工具，无订阅、无水印、商用免费，Screen Studio 的替代品",
       "summary_zh": "免费创建精彩演示的开源工具，无订阅、无水印、商用免费，Screen Studio 的替代品"
@@ -23,7 +23,7 @@
       "id": "github-2026-04-07-03",
       "type": "github",
       "title": "claude-howto",
-      "title_zh": "claude-howto - Claude Code 视觉化指南",
+      "title_zh": "克劳德指南",
       "url": "https://github.com/luongnv89/claude-howto",
       "summary": "Claude Code 的视觉化、示例驱动的指南，从基础概念到高级代理，含复制粘贴模板",
       "summary_zh": "Claude Code 的视觉化、示例驱动的指南，从基础概念到高级代理，含复制粘贴模板"
@@ -32,7 +32,7 @@
       "id": "github-2026-04-07-04",
       "type": "github",
       "title": "VibeVoice",
-      "title_zh": "VibeVoice - 开源前沿语音 AI",
+      "title_zh": "氛围音",
       "url": "https://github.com/microsoft/VibeVoice",
       "summary": "微软开源的前沿语音 AI 项目",
       "summary_zh": "微软开源的前沿语音 AI 项目"
@@ -41,7 +41,7 @@
       "id": "github-2026-04-07-05",
       "type": "github",
       "title": "timesfm",
-      "title_zh": "TimesFM - Google 时间序列基础模型",
+      "title_zh": "泰姆斯FM",
       "url": "https://github.com/google-research/timesfm",
       "summary": "Google Research 预训练的时间序列基础模型，用于时间序列预测",
       "summary_zh": "Google Research 预训练的时间序列基础模型，用于时间序列预测"
@@ -50,7 +50,7 @@
       "id": "github-2026-04-07-06",
       "type": "github",
       "title": "oh-my-claudecode",
-      "title_zh": "oh-my-claudecode - Claude Code 团队优先的多代理编排",
+      "title_zh": "哦，我的Claude代码",
       "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
       "summary": "团队优先的多代理编排工具 for Claude Code",
       "summary_zh": "团队优先的多代理编排工具 for Claude Code"
@@ -59,7 +59,7 @@
       "id": "github-2026-04-07-07",
       "type": "github",
       "title": "hermes-agent",
-      "title_zh": "hermes-agent - 与你一起成长的代理",
+      "title_zh": "赫尔墨斯代理",
       "url": "https://github.com/NousResearch/hermes-agent",
       "summary": "与你一起成长的代理",
       "summary_zh": "与你一起成长的代理"
@@ -68,7 +68,7 @@
       "id": "github-2026-04-07-08",
       "type": "github",
       "title": "onyx",
-      "title_zh": "Onyx - 开源 AI 平台",
+      "title_zh": "",
       "url": "https://github.com/onyx-dot-app/onyx",
       "summary": "开源 AI 平台 - 支持所有 LLM 的 AI 聊天，带高级功能",
       "summary_zh": "开源 AI 平台 - 支持所有 LLM 的 AI 聊天，带高级功能"
@@ -77,7 +77,7 @@
       "id": "github-2026-04-07-09",
       "type": "github",
       "title": "google-ai-edge gallery",
-      "title_zh": "Google AI Edge 画廊 - 设备端 ML/GenAI 展示",
+      "title_zh": "谷歌AI边缘画廊",
       "url": "https://github.com/google-ai-edge/gallery",
       "summary": "展示设备端 ML/GenAI 用例的画廊，可本地试用模型",
       "summary_zh": "展示设备端 ML/GenAI 用例的画廊，可本地试用模型"
@@ -86,7 +86,7 @@
       "id": "github-2026-04-07-10",
       "type": "github",
       "title": "sherlock",
-      "title_zh": "sherlock - 用户名社交媒体账号搜索工具",
+      "title_zh": "夏洛克",
       "url": "https://github.com/sherlock-project/sherlock",
       "summary": "通过用户名在社交网络上搜索社交媒体账号",
       "summary_zh": "通过用户名在社交网络上搜索社交媒体账号"

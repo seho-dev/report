@@ -14,7 +14,7 @@
       "description": "免费创建精美演示视频的开源工具，无需订阅、无水印、可商用的 Screen Studio 替代品。",
       "title_en": "OpenScreen",
       "description_en": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "title_zh": "打开屏幕",
+      "title_zh": "开源屏幕录制工具",
       "description_zh": "免费创建令人惊叹的演示。开源、无订阅、无水印，可免费用于商业用途。Screen Studio的替代品。"
     },
     {
@@ -30,7 +30,7 @@
       "description": "OmX - Oh My codeX：让你的代码助手不再孤单。支持钩子、代理团队、HUD 等丰富扩展功能。",
       "title_en": "oh-my-codex",
       "description_en": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "title_zh": "哦，我的法典",
+      "title_zh": "我的代码手册 - 代码助手扩展框架",
       "description_zh": "OmX - Oh My codeX: 你的codex不孤单。添加钩子、代理团队、HUDs，等等更多。"
     },
     {
@@ -46,7 +46,7 @@
       "description": "从 ChatGPT、Claude、Gemini、Grok、Perplexity 等AI产品中提取的系统提示词，持续更新。",
       "title_en": "system_prompts_leaks",
       "description_en": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
-      "title_zh": "系统提示泄露",
+      "title_zh": "",
       "description_zh": "提取的系统提示来自 ChatGPT (GPT-5.4, GPT-5.3, Codex)、Claude (Opus 4.6, Sonnet 4.6, Claude Code)、Gemini (3.1 Pro, 3 Flash, CLI)、Grok (4.2, 4)、Perplexity 等。定期更新。"
     },
     {
@@ -62,7 +62,7 @@
       "description": "通过用户名在各大社交网络上追踪用户的在线账号。",
       "title_en": "sherlock",
       "description_en": "Hunt down social media accounts by username across social networks",
-      "title_zh": "夏洛克",
+      "title_zh": "夏洛克 - 社交媒体账号搜索工具",
       "description_zh": "通过用户名在社交网络上搜索社交媒体账户"
     },
     {
@@ -78,7 +78,7 @@
       "description": "历史上最快突破10万星的开源项目。使用 Rust 构建的更好用的代码辅助工具。",
       "title_en": "claw-code",
       "description_en": "The fastest repo in history to surpass 100K stars. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.",
-      "title_zh": "爪代码",
+      "title_zh": "claw-code - 史上最快突破10万星的仓库",
       "description_zh": "历史上最快达到100K星标的仓库。更好的Harness工具，真正完成实际工作。使用oh-my-codex构建，采用Rust语言。"
     },
     {
@@ -94,7 +94,7 @@
       "description": "在单GPU上自动运行研究任务的AI代理，进行nanochat训练。",
       "title_en": "autoresearch",
       "description_en": "AI agents running research on single-GPU nanochat training automatically",
-      "title_zh": "自动研究",
+      "title_zh": "",
       "description_zh": "<think>用户要求将英文文本翻译成中文，每条翻译占一行，保持原顺序，只输出翻译结果，一行一条。"
     },
     {
@@ -110,7 +110,7 @@
       "description": "使用Garry Tan的精确Claude Code配置：23个固执己见的工具，充当CEO、设计师、工程经理、发布经理、文档工程师和QA。",
       "title_en": "gstack",
       "description_en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "title_zh": "gstack工具",
+      "title_zh": "gstack - 加里·谭的 Claude Code 配置集合",
       "description_zh": "使用Garry Tan的精确Claude Code设置：23个个性化工具，充当CEO、设计师、工程经理、发布经理、文档工程师和QA"
     },
     {
@@ -126,7 +126,7 @@
       "description": "Google DeepMind发布的Gemma 4开源模型。",
       "title_en": "gemma-4",
       "description_en": "Gemma 4 open models released by Google DeepMind",
-      "title_zh": "gemma-4",
+      "title_zh": "The user wants me to translate \"gemma-4 - Google DeepMind开源模型\" into Chinese, and only output the Chinese translation without any explanation.\n\nThis appears to be the name of a model \"gemma-4\" and its description \"Google DeepMind开源模型\" (Google DeepMind open source model).\n\nThe translation should just be:\ngemma-4 - Google DeepMind开源模型\n\nWait, but the user said \"翻译成中文\" (translate into Chinese). Let me think",
       "description_zh": "Google DeepMind 发布的 Gemma 4 开源模型"
     },
     {
@@ -142,7 +142,7 @@
       "description": "使用GPU和NPU的快速开源本地LLM服务器。",
       "title_en": "lemonade",
       "description_en": "A fast and open source local LLM server using GPU and NPU",
-      "title_zh": "柠檬水",
+      "title_zh": "柠檬水 - AMD开源本地LLM服务器",
       "description_zh": "<think>这是一段需要翻译的英文文本。让我逐条翻译，保持每条一行，只输出翻译结果。"
     },
     {
@@ -158,7 +158,7 @@
       "description": "Qwen3.6-Plus：面向真实世界Agent的大模型。",
       "title_en": "qwen3.6",
       "description_en": "Qwen3.6-Plus: Towards real world agents",
-      "title_zh": "通义千问3.6",
+      "title_zh": "qwen3.6 - 通向真实世界Agent",
       "description_zh": "Qwen3.6-Plus: 面向真实世界代理"
     },
     {

@@ -1,37 +1,293 @@
 {
   "date": "2026-04-10",
   "reports": [
-    {"id": "gh-1", "type": "github", "title": "NousResearch/hermes-agent", "title_zh": "NousResearch/Hermes Agent", "url": "https://github.com/NousResearch/hermes-agent", "summary": "与你共同成长的AI Agent", "content": "The agent that grows with you. Python, 44155 stars, 6485 stars today."},
-    {"id": "gh-2", "type": "github", "title": "forrestchang/andrej-karpathy-skills", "title_zh": "forrestchang/Andrej Karpathy Skills", "url": "https://github.com/forrestchang/andrej-karpathy-skills", "summary": "从Karpathy的LLM编程陷阱观察中提取的CLAUDE.md文件", "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. 10406 stars, 1364 stars today."},
-    {"id": "gh-3", "type": "github", "title": "HKUDS/DeepTutor", "title_zh": "HKUDS/DeepTutor", "url": "https://github.com/HKUDS/DeepTutor", "summary": "Agent原生个性化学习助手", "content": "DeepTutor: Agent-Native Personalized Learning Assistant. Python, 14813 stars, 1310 stars today."},
-    {"id": "gh-4", "type": "github", "title": "OpenBMB/VoxCPM", "title_zh": "OpenBMB/VoxCPM", "url": "https://github.com/OpenBMB/VoxCPM", "summary": "无需Tokenizer的多语言语音生成模型", "content": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning. Python, 7618 stars."},
-    {"id": "gh-5", "type": "github", "title": "TheCraigHewitt/seomachine", "title_zh": "TheCraigHewitt/SEO Machine", "url": "https://github.com/TheCraigHewitt/seomachine", "summary": "Claude Code长篇SEO内容创作工作区", "content": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content. Python, 5186 stars, 725 stars today."},
-    {"id": "gh-6", "type": "github", "title": "coleam00/Archon", "title_zh": "coleam00/Archon", "url": "https://github.com/coleam00/Archon", "summary": "首个开源AI编程Harness构建器", "content": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. TypeScript, 14388 stars."},
-    {"id": "gh-7", "type": "github", "title": "YishenTu/claudian", "title_zh": "YishenTu/Claudian", "url": "https://github.com/YishenTu/claudian", "summary": "Obsidian的Claude Code插件", "content": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault. TypeScript, 6795 stars."},
-    {"id": "gh-8", "type": "github", "title": "farzaa/clicky", "title_zh": "farzaa/Clicky", "url": "https://github.com/farzaa/clicky", "summary": "Swift链接点击追踪工具", "content": "Swift link click tracking tool. 3117 stars."},
-    {"id": "gh-9", "type": "github", "title": "xixu-me/awesome-persona-distill-skills", "title_zh": "xixu-me/awesome-persona-distill-skills", "url": "https://github.com/xixu-me/awesome-persona-distill-skills", "summary": "AI技能蒸馏合集", "content": "同事.skill、前任.skill、女娲.skill、自己.skill、乔布斯.skill…… 1693 stars."},
-    {"id": "gh-10", "type": "github", "title": "KKKKhazix/khazix-skills", "title_zh": "KKKKhazix/khazix-skills", "url": "https://github.com/KKKKhazix/khazix-skills", "summary": "数字生命卡兹克AI Skills开源合集", "content": "数字生命卡兹克开源的 AI Skills 合集. 1309 stars."},
-    {"id": "hn-1", "type": "hn", "title": "Many African families spend fortunes burying their dead", "title_zh": "许多非洲家庭花费巨资埋葬逝者", "url": "https://news.ycombinator.com/item?id=1", "summary": "非洲葬礼文化与经济负担", "content": "HN Score: 76, Comments: 41"},
-    {"id": "hn-2", "type": "hn", "title": "Native Instant Space Switching on macOS", "title_zh": "macOS原生即时空间切换", "url": "https://news.ycombinator.com/item?id=2", "summary": "macOS原生即时空间切换功能", "content": "HN Score: 254, Comments: 125"},
-    {"id": "hn-3", "type": "hn", "title": "Charcuterie – Visual similarity Unicode explorer", "title_zh": "Charcuterie - 视觉相似Unicode浏览器", "url": "https://news.ycombinator.com/item?id=3", "summary": "Unicode字符视觉相似性探索工具", "content": "HN Score: 88, Comments: 12"},
-    {"id": "hn-4", "type": "hn", "title": "Reverse engineering Gemini's SynthID detection", "title_zh": "逆向工程Gemini的SynthID检测", "url": "https://news.ycombinator.com/item?id=4", "summary": "对Gemini SynthID水印检测的逆向分析", "content": "HN Score: 90, Comments: 39"},
-    {"id": "hn-5", "type": "hn", "title": "PicoZ80 – Drop-In Z80 Replacement", "title_zh": "PicoZ80 - Z80芯片直接替代方案", "url": "https://news.ycombinator.com/item?id=5", "summary": "Raspberry Pi Pico实现的Z80处理器替代品", "content": "HN Score: 115, Comments: 21"},
-    {"id": "hn-6", "type": "hn", "title": "Robots Eat Cars", "title_zh": "机器人吃汽车", "url": "https://news.ycombinator.com/item?id=6", "summary": "机器人与汽车行业变革", "content": "HN Score: 27, Comments: 9"},
-    {"id": "hn-7", "type": "hn", "title": "Instant 1.0, a backend for AI-coded apps", "title_zh": "Instant 1.0: AI编程应用的后端框架", "url": "https://news.ycombinator.com/item?id=7", "summary": "AI编码应用的后端解决方案", "content": "HN Score: 54, Comments: 32"},
-    {"id": "hn-8", "type": "hn", "title": "How NASA Built Artemis II's Fault-Tolerant Computer", "title_zh": "NASA如何构建Artemis II的容错计算机", "url": "https://news.ycombinator.com/item?id=8", "summary": "NASA Artemis II任务容错计算机的技术揭秘", "content": "HN Score: 8, Comments: 1"},
-    {"id": "hn-9", "type": "hn", "title": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft", "title_zh": "Mac版Unfolder - 3D模型展开纸艺工具", "url": "https://news.ycombinator.com/item?id=9", "summary": "Mac平台3D模型转纸艺展开图工具", "content": "HN Score: 114, Comments: 30"},
-    {"id": "hn-10", "type": "hn", "title": "Hegel, a universal property-based testing protocol", "title_zh": "Hegel通用属性测试协议", "url": "https://news.ycombinator.com/item?id=10", "summary": "通用属性测试协议及PBT库", "content": "HN Score: 71, Comments: 28"},
-    {"id": "hn-11", "type": "hn", "title": "Research-Driven Agents: When an agent reads before it codes", "title_zh": "研究驱动的Agent: Agent编码前先阅读", "url": "https://news.ycombinator.com/item?id=11", "summary": "Agent在编码前进行研究的策略", "content": "HN Score: 113, Comments: 40"},
-    {"id": "hn-12", "type": "hn", "title": "Moving from WordPress to Jekyll", "title_zh": "从WordPress迁移到Jekyll", "url": "https://news.ycombinator.com/item?id=12", "summary": "静态网站生成器迁移经验分享", "content": "HN Score: 23, Comments: 8"},
-    {"id": "hn-13", "type": "hn", "title": "Will I ever own a zettaflop?", "title_zh": "我能否拥有Zettaflop算力?", "url": "https://news.ycombinator.com/item?id=13", "summary": "个人算力发展展望", "content": "HN Score: 7, Comments: 0"},
-    {"id": "hn-14", "type": "hn", "title": "BunnyCDN has been silently losing our production files for 15 months", "title_zh": "BunnyCDN悄悄丢失我们生产文件长达15个月", "url": "https://news.ycombinator.com/item?id=14", "summary": "CDN服务商数据丢失问题", "content": "HN Score: 65, Comments: 7"},
-    {"id": "hn-15", "type": "hn", "title": "Top laptops to use with FreeBSD", "title_zh": "FreeBSD最佳笔记本推荐", "url": "https://news.ycombinator.com/item?id=15", "summary": "FreeBSD兼容笔记本推荐列表", "content": "HN Score: 268, Comments: 150"},
-    {"id": "hn-16", "type": "hn", "title": "Microsoft is employing dark patterns to goad users into paying for storage?", "title_zh": "微软使用暗黑模式诱导用户付费存储?", "url": "https://news.ycombinator.com/item?id=16", "summary": "微软OneDrive存储服务的用户界面争议", "content": "HN Score: 168, Comments: 91"},
-    {"id": "hn-17", "type": "hn", "title": "Show HN: I built a Cargo-like build tool for C/C++", "title_zh": "Show HN: 我为C/C++构建了类似Cargo的构建工具", "url": "https://news.ycombinator.com/item?id=17", "summary": "C/C++的Rust Cargo风格构建工具", "content": "HN Score: 113, Comments: 105"},
-    {"id": "hn-18", "type": "hn", "title": "Old laptops in a colo as low cost servers", "title_zh": "将旧笔记本用作低成本服务器", "url": "https://news.ycombinator.com/item?id=18", "summary": "旧笔记本托管在数据中心的经验", "content": "HN Score: 124, Comments: 70"},
-    {"id": "hn-19", "type": "hn", "title": "How the Trivy supply chain attack harvested credentials", "title_zh": "Trivy供应链攻击如何窃取凭据", "url": "https://news.ycombinator.com/item?id=19", "summary": "Trivy安全扫描工具供应链攻击分析", "content": "HN Score: 7, Comments: 1"},
-    {"id": "hn-20", "type": "hn", "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter", "title_zh": "将每月100美元的Claude Code预算转投Zed和OpenRouter", "url": "https://news.ycombinator.com/item?id=20", "summary": "AI编程工具成本优化实践", "content": "HN Score: 282, Comments: 193"},
-    {"id": "ai-1", "type": "twitter", "title": "AI Agents爆发", "title_zh": "AI Agents爆发", "url": "https://twitter.com/search?q=AI%20agents", "summary": "近期AI Agent框架和工具大量涌现", "content": "Hermes Agent、Claude Code skills、OpenClaw等工具推动AI Agent生态快速发展。"},
-    {"id": "ai-2", "type": "twitter", "title": "开源AI编程工具竞争加剧", "title_zh": "开源AI编程工具竞争加剧", "url": "https://twitter.com/search?q=AI%20coding", "summary": "Archon、Claude Code等开源方案挑战商业IDE", "content": "首个开源harness builder Archon发布，Claude Code开源替代品竞争激烈。"}
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "NousResearch/hermes-agent",
+      "title_zh": "The user wants me to translate \"NousResearch/hermes-agent\" into Chinese, and only output the Chinese translation without any explanation.\n\nThis appears to be a GitHub repository name. Repository names are typically not translated but kept as-is. However, if I need to translate it, I should provide a direct translation.\n\n\" NousResearch\" would be the organization name\n\"hermes-agent\" would be the project/repository name\n\nIn Chinese, repository names are usually kept in English, but if I were",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "与你共同成长的AI Agent",
+      "content": "The agent that grows with you. Python, 44155 stars, 6485 stars today."
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "forrestchang/andrej-karpathy-skills",
+      "title_zh": "forrestchang/andrej-karpathy-技能",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "summary": "从Karpathy的LLM编程陷阱观察中提取的CLAUDE.md文件",
+      "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. 10406 stars, 1364 stars today."
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "HKUDS/DeepTutor",
+      "title_zh": "香港大学数据科学/深度导师",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "summary": "Agent原生个性化学习助手",
+      "content": "DeepTutor: Agent-Native Personalized Learning Assistant. Python, 14813 stars, 1310 stars today."
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "OpenBMB/VoxCPM",
+      "title_zh": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "summary": "无需Tokenizer的多语言语音生成模型",
+      "content": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning. Python, 7618 stars."
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "TheCraigHewitt/seomachine",
+      "title_zh": "克雷格·休伊特/seomachine",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "summary": "Claude Code长篇SEO内容创作工作区",
+      "content": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content. Python, 5186 stars, 725 stars today."
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "coleam00/Archon",
+      "title_zh": "coleam00/执政官",
+      "url": "https://github.com/coleam00/Archon",
+      "summary": "首个开源AI编程Harness构建器",
+      "content": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. TypeScript, 14388 stars."
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "YishenTu/claudian",
+      "title_zh": "用户要求将 \"YishenTu/claudian\" 翻译成中文，只输出中文翻译结果，不解释。\n\n\"YishenTu/claudian\" 看起来像是一个GitHub仓库名称，由用户名/仓库名组成。\n- \"YishenTu\" 可能是用户名或组织名\n- \"claudian\" 可能是仓库名或项目名\n\n在这种情况下，通常需要翻译或音译。但这不是一个标准的英文句子或短语，而是一个专有名词（仓库名",
+      "url": "https://github.com/YishenTu/claudian",
+      "summary": "Obsidian的Claude Code插件",
+      "content": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault. TypeScript, 6795 stars."
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "farzaa/clicky",
+      "title_zh": "farzaa/点击",
+      "url": "https://github.com/farzaa/clicky",
+      "summary": "Swift链接点击追踪工具",
+      "content": "Swift link click tracking tool. 3117 stars."
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "xixu-me/awesome-persona-distill-skills",
+      "title_zh": "xixu-me/超棒的角色蒸馏技巧",
+      "url": "https://github.com/xixu-me/awesome-persona-distill-skills",
+      "summary": "AI技能蒸馏合集",
+      "content": "同事.skill、前任.skill、女娲.skill、自己.skill、乔布斯.skill…… 1693 stars."
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "KKKKhazix/khazix-skills",
+      "title_zh": "KKKKhazix/khazix-skills",
+      "url": "https://github.com/KKKKhazix/khazix-skills",
+      "summary": "数字生命卡兹克AI Skills开源合集",
+      "content": "数字生命卡兹克开源的 AI Skills 合集. 1309 stars."
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Many African families spend fortunes burying their dead",
+      "title_zh": "许多非洲家庭花费巨资埋葬逝者",
+      "url": "https://news.ycombinator.com/item?id=1",
+      "summary": "非洲葬礼文化与经济负担",
+      "content": "HN Score: 76, Comments: 41"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Native Instant Space Switching on macOS",
+      "title_zh": "macOS原生即时空间切换",
+      "url": "https://news.ycombinator.com/item?id=2",
+      "summary": "macOS原生即时空间切换功能",
+      "content": "HN Score: 254, Comments: 125"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Charcuterie – Visual similarity Unicode explorer",
+      "title_zh": "Charcuterie - 视觉相似Unicode浏览器",
+      "url": "https://news.ycombinator.com/item?id=3",
+      "summary": "Unicode字符视觉相似性探索工具",
+      "content": "HN Score: 88, Comments: 12"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Reverse engineering Gemini's SynthID detection",
+      "title_zh": "逆向工程Gemini的SynthID检测",
+      "url": "https://news.ycombinator.com/item?id=4",
+      "summary": "对Gemini SynthID水印检测的逆向分析",
+      "content": "HN Score: 90, Comments: 39"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "PicoZ80 – Drop-In Z80 Replacement",
+      "title_zh": "PicoZ80 - Z80芯片直接替代方案",
+      "url": "https://news.ycombinator.com/item?id=5",
+      "summary": "Raspberry Pi Pico实现的Z80处理器替代品",
+      "content": "HN Score: 115, Comments: 21"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Robots Eat Cars",
+      "title_zh": "机器人吃汽车",
+      "url": "https://news.ycombinator.com/item?id=6",
+      "summary": "机器人与汽车行业变革",
+      "content": "HN Score: 27, Comments: 9"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Instant 1.0, a backend for AI-coded apps",
+      "title_zh": "Instant 1.0: AI编程应用的后端框架",
+      "url": "https://news.ycombinator.com/item?id=7",
+      "summary": "AI编码应用的后端解决方案",
+      "content": "HN Score: 54, Comments: 32"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "How NASA Built Artemis II's Fault-Tolerant Computer",
+      "title_zh": "NASA如何构建Artemis II的容错计算机",
+      "url": "https://news.ycombinator.com/item?id=8",
+      "summary": "NASA Artemis II任务容错计算机的技术揭秘",
+      "content": "HN Score: 8, Comments: 1"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
+      "title_zh": "Mac版Unfolder - 3D模型展开纸艺工具",
+      "url": "https://news.ycombinator.com/item?id=9",
+      "summary": "Mac平台3D模型转纸艺展开图工具",
+      "content": "HN Score: 114, Comments: 30"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Hegel, a universal property-based testing protocol",
+      "title_zh": "Hegel通用属性测试协议",
+      "url": "https://news.ycombinator.com/item?id=10",
+      "summary": "通用属性测试协议及PBT库",
+      "content": "HN Score: 71, Comments: 28"
+    },
+    {
+      "id": "hn-11",
+      "type": "hn",
+      "title": "Research-Driven Agents: When an agent reads before it codes",
+      "title_zh": "研究驱动的Agent: Agent编码前先阅读",
+      "url": "https://news.ycombinator.com/item?id=11",
+      "summary": "Agent在编码前进行研究的策略",
+      "content": "HN Score: 113, Comments: 40"
+    },
+    {
+      "id": "hn-12",
+      "type": "hn",
+      "title": "Moving from WordPress to Jekyll",
+      "title_zh": "从WordPress迁移到Jekyll",
+      "url": "https://news.ycombinator.com/item?id=12",
+      "summary": "静态网站生成器迁移经验分享",
+      "content": "HN Score: 23, Comments: 8"
+    },
+    {
+      "id": "hn-13",
+      "type": "hn",
+      "title": "Will I ever own a zettaflop?",
+      "title_zh": "我能否拥有Zettaflop算力?",
+      "url": "https://news.ycombinator.com/item?id=13",
+      "summary": "个人算力发展展望",
+      "content": "HN Score: 7, Comments: 0"
+    },
+    {
+      "id": "hn-14",
+      "type": "hn",
+      "title": "BunnyCDN has been silently losing our production files for 15 months",
+      "title_zh": "BunnyCDN悄悄丢失我们生产文件长达15个月",
+      "url": "https://news.ycombinator.com/item?id=14",
+      "summary": "CDN服务商数据丢失问题",
+      "content": "HN Score: 65, Comments: 7"
+    },
+    {
+      "id": "hn-15",
+      "type": "hn",
+      "title": "Top laptops to use with FreeBSD",
+      "title_zh": "FreeBSD最佳笔记本推荐",
+      "url": "https://news.ycombinator.com/item?id=15",
+      "summary": "FreeBSD兼容笔记本推荐列表",
+      "content": "HN Score: 268, Comments: 150"
+    },
+    {
+      "id": "hn-16",
+      "type": "hn",
+      "title": "Microsoft is employing dark patterns to goad users into paying for storage?",
+      "title_zh": "微软使用暗黑模式诱导用户付费存储?",
+      "url": "https://news.ycombinator.com/item?id=16",
+      "summary": "微软OneDrive存储服务的用户界面争议",
+      "content": "HN Score: 168, Comments: 91"
+    },
+    {
+      "id": "hn-17",
+      "type": "hn",
+      "title": "Show HN: I built a Cargo-like build tool for C/C++",
+      "title_zh": "Show HN: 我为C/C++构建了类似Cargo的构建工具",
+      "url": "https://news.ycombinator.com/item?id=17",
+      "summary": "C/C++的Rust Cargo风格构建工具",
+      "content": "HN Score: 113, Comments: 105"
+    },
+    {
+      "id": "hn-18",
+      "type": "hn",
+      "title": "Old laptops in a colo as low cost servers",
+      "title_zh": "将旧笔记本用作低成本服务器",
+      "url": "https://news.ycombinator.com/item?id=18",
+      "summary": "旧笔记本托管在数据中心的经验",
+      "content": "HN Score: 124, Comments: 70"
+    },
+    {
+      "id": "hn-19",
+      "type": "hn",
+      "title": "How the Trivy supply chain attack harvested credentials",
+      "title_zh": "Trivy供应链攻击如何窃取凭据",
+      "url": "https://news.ycombinator.com/item?id=19",
+      "summary": "Trivy安全扫描工具供应链攻击分析",
+      "content": "HN Score: 7, Comments: 1"
+    },
+    {
+      "id": "hn-20",
+      "type": "hn",
+      "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
+      "title_zh": "将每月100美元的Claude Code预算转投Zed和OpenRouter",
+      "url": "https://news.ycombinator.com/item?id=20",
+      "summary": "AI编程工具成本优化实践",
+      "content": "HN Score: 282, Comments: 193"
+    },
+    {
+      "id": "ai-1",
+      "type": "twitter",
+      "title": "AI Agents爆发",
+      "title_zh": "AI Agents爆发",
+      "url": "https://twitter.com/search?q=AI%20agents",
+      "summary": "近期AI Agent框架和工具大量涌现",
+      "content": "Hermes Agent、Claude Code skills、OpenClaw等工具推动AI Agent生态快速发展。"
+    },
+    {
+      "id": "ai-2",
+      "type": "twitter",
+      "title": "开源AI编程工具竞争加剧",
+      "title_zh": "开源AI编程工具竞争加剧",
+      "url": "https://twitter.com/search?q=AI%20coding",
+      "summary": "Archon、Claude Code等开源方案挑战商业IDE",
+      "content": "首个开源harness builder Archon发布，Claude Code开源替代品竞争激烈。"
+    }
   ]
 }
