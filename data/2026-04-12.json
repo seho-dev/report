@@ -1,0 +1,240 @@
+{
+  "date": "2026-04-12",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "claw-code",
+      "title_zh": "爪牙代码",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "summary": "史上最快达成10万星的仓库！基于Rust和oh-my-codex构建，尽情享受这场派对吧！",
+      "content": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars. Built in Rust using oh-my-codex. Join Discord: https://discord.gg/5TUQKqFWd",
+      "stars": "181535"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "awesome-design-md",
+      "title_zh": "设计文档集合",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "summary": "收录各知名品牌设计系统的DESIGN.md文件合集，让AI编程助手能生成风格一致的UI界面。",
+      "content": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": "43737"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "mempalace",
+      "title_zh": "记忆宫殿",
+      "url": "https://github.com/MemPalace/mempalace",
+      "summary": "史上基准测试评分最高的AI记忆系统，而且完全免费。",
+      "content": "The highest-scoring AI memory system ever benchmarked. And it's free. Built in Python.",
+      "stars": "41733"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "career-ops",
+      "title_zh": "职业运营助手",
+      "url": "https://github.com/santifer/career-ops",
+      "summary": "基于Claude Code构建的AI求职系统，支持14种技能模式、可视化仪表盘、PDF生成和批量处理。",
+      "content": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars": "30657"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "graphify",
+      "title_zh": "图谱化代码分析",
+      "url": "https://github.com/safishamsi/graphify",
+      "summary": "将代码文件夹、文档、论文、图片、视频或YouTube链接转化为可查询知识图谱的AI编程助手技能。",
+      "content": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, images, videos, or YouTube links into a queryable knowledge graph.",
+      "stars": "22062"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "openclaude",
+      "title_zh": "开源克劳德",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "summary": "开源的AI编程Agent CLI，支持OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHub Models及200+通过OpenAI兼容API的模型。",
+      "content": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
+      "stars": "20683"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "NemoClaw",
+      "title_zh": "NVIDIA安全克劳德",
+      "url": "https://github.com/NVIDIA/NemoClaw",
+      "summary": "在NVIDIA OpenShell中更安全地运行OpenClaw，提供托管推理服务。",
+      "content": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference. Built in TypeScript.",
+      "stars": "18965"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "caveman",
+      "title_zh": "穴居人编程",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "summary": "用穴居人语言风格编写Claude Code技能，节省65%的token用量。",
+      "content": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman. Built in Python.",
+      "stars": "18457"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "claude-code",
+      "title_zh": "原版克劳德代码",
+      "url": "https://github.com/claude-code-best/claude-code",
+      "summary": "原汁原味的Claude Code可运行版本，TypeScript类型全修复，企业级可靠性，可直接bun i启动。",
+      "content": "原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动。Built in TypeScript.",
+      "stars": "15412"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "OpenCLI",
+      "title_zh": "万能CLI工具",
+      "url": "https://github.com/jackwener/OpenCLI",
+      "summary": "通用CLI工具和AI原生运行时，将任何网站、Electron应用或本地程序转化为标准化命令行接口。",
+      "content": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+      "stars": "15120"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Show HN: Pardonned.com – A searchable database of US Pardons",
+      "title_zh": "Show HN：Pardonned.com 美国特赦令可搜索数据库",
+      "url": "https://news.ycombinator.com/item?id=47727960",
+      "summary": "一个可搜索的美国总统特赦令数据库，收录历年特赦记录。",
+      "content": "HN Score: 349, Comments: 185"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
+      "title_zh": "Starfling：单HTML文件的一键无限轨道弹弓游戏",
+      "url": "https://news.ycombinator.com/item?id=47727217",
+      "summary": "一款极简的一键无限轨道弹弓游戏，全部代码仅用一个HTML文件实现。",
+      "content": "HN Score: 548, Comments: 137"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Cirrus Labs to join OpenAI",
+      "title_zh": "Cirrus Labs 将加入 OpenAI",
+      "url": "https://news.ycombinator.com/item?id=47725893",
+      "summary": "容器云服务Cirrus Labs宣布加入OpenAI，成为其生态一部分。",
+      "content": "HN Score: 224, Comments: 111"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "title_zh": "我们如何打破顶级AI Agent基准测试：以及下一步是什么",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "summary": "Berkeley RDI团队分享如何破解AI Agent基准测试以及未来改进方向。",
+      "content": "HN Score: 171, Comments: 44"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+      "title_zh": "Advanced Mac Substitute：1980年代Mac OS的API级重实现",
+      "url": "https://www.v68k.org/advanced-mac-substitute/",
+      "summary": "在API级别重新实现1980年代Mac操作系统，向后兼容经典应用。",
+      "content": "HN Score: 178, Comments: 49"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Surelock: Deadlock-Free Mutexes for Rust",
+      "title_zh": "Surelock：Rust无死锁互斥锁",
+      "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
+      "summary": "为Rust设计的无死锁互斥锁实现，提供更安全的并发编程原语。",
+      "content": "HN Score: 155, Comments: 50"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Keeping a Postgres Queue Healthy",
+      "title_zh": "保持Postgres队列健康",
+      "url": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
+      "summary": "PlanetScale博客讲解如何维护和优化PostgreSQL队列的性能与稳定性。",
+      "content": "HN Score: 71, Comments: 21"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "How to build a Git diff driver",
+      "title_zh": "如何构建Git diff驱动",
+      "url": "https://www.vjtknn.com/posts/how-to-build-a-git-diff-driver/",
+      "summary": "教程：如何为Git编写自定义diff驱动程序，处理特殊文件格式。",
+      "content": "HN Score: 65, Comments: 4"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "title_zh": "447 TB/cm² 零保持能耗——氟化石墨烯原子级存储",
+      "url": "https://zenodo.org/records/19513269",
+      "summary": "研究人员在氟化石墨烯上实现原子级存储，密度高达447 TB/cm²且零能耗保持。",
+      "content": "HN Score: 111, Comments: 59"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Dark Castle",
+      "title_zh": "暗黑城堡",
+      "url": "https://darkcastle.co.uk/",
+      "summary": "一款复古风格城堡探索游戏，重现80年代经典游戏体验。",
+      "content": "HN Score: 90, Comments: 11"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Block introduces Managerbot, a proactive Square AI agent",
+      "title_zh": "Block推出Managerbot：主动式Square AI代理",
+      "url": "https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest",
+      "summary": "Jack Dorsey旗下的Block公司推出Managerbot，是其AI战略最有力的证明，标志着从被动聊天机器人向主动代理的重大转变。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic's most powerful AI cyber model is too dangerous to release – Project Glasswing",
+      "title_zh": "Anthropic最强大AI网络模型太危险不公开——Project Glasswing",
+      "url": "https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release",
+      "summary": "Anthropic称其最强网络安全AI模型过于危险不能公开发布，推出Project Glasswing为合作组织提供访问，已获AWS、Apple、Google、Microsoft、Nvidia等支持，承诺投入1亿美元额度和400万美元捐款。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "GLM ships 5.1 open-source LLM beating Opus 4",
+      "title_zh": "GLM发布5.1开源LLM超越Opus 4",
+      "url": "https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4",
+      "summary": "GLM发布5.1开源大语言模型，性能超越OpenAI的Opus 4，并提出AI参与8小时工作制的愿景。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "New framework lets AI agents rewrite their own skills without retraining",
+      "title_zh": "新框架让AI代理无需重训练即可重写自身技能",
+      "url": "https://venturebeat.com/orchestration/new-framework-lets-ai-agents-rewrite-their-own-skills-without-retraining-them",
+      "summary": "突破性框架让AI代理能够在运行中自主重写和扩展技能，无需传统重训练过程。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "How MassMutual and Mass General Brigham turned AI pilot sprawl into success",
+      "title_zh": "MassMutual与Mass General Brigham如何将AI试点蔓延转为成功",
+      "url": "https://venturebeat.com/orchestration/how-massmutual-and-mass-general-brigham-turned-ai-pilot-sprawl-into",
+      "summary": "两大机构分享如何将分散的AI试点项目整合为规模化成功应用的实践经验。",
+      "content": ""
+    }
+  ]
+}
