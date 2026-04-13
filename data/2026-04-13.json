@@ -1,0 +1,155 @@
+{
+  "date": "2026-04-13",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "NousResearch/hermes-agent",
+      "title_zh": "赫尔墨斯智能代理",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "一个随你成长的AI代理框架，今日新增7454颗星，总星标数超过6.6万，是当前最热门的开源AI代理项目之一。",
+      "content": "The agent that grows with you. Python-based AI agent framework by NousResearch. Stars: 66,122 | Forks: 8,842 | Stars today: 7,454",
+      "stars": "66122"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "shiyu-coder/Kronos",
+      "title_zh": "克洛诺斯金融市场基础模型",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "summary": "面向金融市场语言的基础大模型，今日新增近2000星，致力于用AI理解和分析金融市场数据。",
+      "content": "Kronos: A Foundation Model for the Language of Financial Markets. Python. Stars: 15,733 | Forks: 3,011 | Stars today: 1,985",
+      "stars": "15733"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "multica-ai/multica",
+      "title_zh": "穆尔蒂卡开源托管代理平台",
+      "url": "https://github.com/multica-ai/multica",
+      "summary": "开源的托管式AI代理平台，让编码代理成为真正的团队成员——可分配任务、追踪进度、积累技能。今日新增1609星。",
+      "content": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. TypeScript. Stars: 9,336 | Forks: 1,190 | Stars today: 1,609",
+      "stars": "9336"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "OpenBMB/VoxCPM",
+      "title_zh": "无分词器多语言语音生成模型",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "summary": "VoxCPM2：无需分词器的TTS模型，支持多语言语音生成、创意音色设计和真实克隆，今日新增1278星。",
+      "content": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning. Python. Stars: 11,254 | Forks: 1,308 | Stars today: 1,278",
+      "stars": "11254"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "thedotmack/claude-mem",
+      "title_zh": "Claude代码会话记忆插件",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "Claude Code插件，自动捕获编程会话中的所有操作，用AI压缩后注入到未来会话的上下文中，实现跨会话记忆。今日新增753星，总星标近5万。",
+      "content": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI, and injects relevant context back into future sessions. TypeScript. Stars: 49,920 | Forks: 3,927 | Stars today: 753",
+      "stars": "49920"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "coleam00/Archon",
+      "title_zh": "AI编码确定性执行框架",
+      "url": "https://github.com/coleam00/Archon",
+      "summary": "首个开源的AI编码执行框架，让AI编码过程可确定性重复执行，今日新增612星。",
+      "content": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. TypeScript. Stars: 17,024 | Forks: 2,704 | Stars today: 612",
+      "stars": "17024"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Bring Back Idiomatic Design",
+      "title_zh": "回归惯用设计",
+      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "summary": "一篇关于软件设计理念的文章，呼吁回归惯用设计风格，强调代码应符合特定语言和平台的惯例，而非追求通用性。获得432分好评。",
+      "content": "HN Score: 432, Comments: 218"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "I gave every train in New York an instrument",
+      "title_zh": "我给纽约每列火车赋予了一件乐器",
+      "url": "https://www.trainjazz.com/",
+      "summary": "创意项目：将纽约地铁实时数据转化为音乐，每列火车对应一种乐器，打造独特的城市交响乐体验。",
+      "content": "HN Score: 186, Comments: 36"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+      "title_zh": "boringBar – macOS任务栏风格Dock替代品",
+      "url": "https://boringbar.app/",
+      "summary": "macOS的任务栏风格Dock替代应用，提供更简洁的工具栏体验，获得207分，127条评论热议。",
+      "content": "HN Score: 207, Comments: 127"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "The peril of laziness lost",
+      "title_zh": "失去懒惰的危险",
+      "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
+      "summary": "DTrace创始人Bryan Cantrill的博文，探讨在AI辅助编程时代，程序员的"懒惰美德"（避免不必要工作的本能）正在消失所带来的危险。",
+      "content": "HN Score: 271, Comments: 86"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Google removes Doki Doki Literature Club from Google Play",
+      "title_zh": "谷歌将《心跳文学部》从Play商店下架",
+      "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
+      "summary": "谷歌将热门视觉小说游戏《心跳文学部》从Google Play商店下架，引发游戏玩家和开发者社区广泛关注和讨论。",
+      "content": "HN Score: 241, Comments: 100"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Meta Superintelligence Labs ships its first model",
+      "title_zh": "Meta超级智能实验室发布首款模型",
+      "url": "https://www.therundown.ai/p/meta-superintelligence-labs-ships-its-first-model",
+      "summary": "Meta旗下超级智能实验室发布了其首个AI模型，标志着Meta在超级智能领域的重大突破，备受业界关注。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic's new AI is too powerful for the world",
+      "title_zh": "Anthropic的新AI模型被认为过于强大",
+      "url": "https://www.therundown.ai/p/anthropic-new-ai-is-too-powerful-for-the-world",
+      "summary": "Anthropic发布新款AI模型，能力之强引发业界对AI安全的讨论，被认为超出了当前世界的准备程度。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "OpenAI's new $122B funding and 'superapp'",
+      "title_zh": "OpenAI完成1220亿美元融资并计划打造超级应用",
+      "url": "https://www.therundown.ai/p/openai-new-122b-funding-superapp",
+      "summary": "OpenAI完成新一轮1220亿美元融资，并宣布打造覆盖多场景的AI超级应用，进一步巩固其在AI领域的领导地位。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Perplexity's agent pivot is on the money",
+      "title_zh": "Perplexity押注AI代理转型",
+      "url": "https://www.therundown.ai/p/perplexity-agent-pivot-is-on-the-money",
+      "summary": "Perplexity将战略重心转向AI代理领域，分析认为此举方向正确，有望成为下一代AI搜索与代理的领导者。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Sam Altman's new 'social contract' for AI",
+      "title_zh": "山姆·奥特曼提出AI新"社会契约"",
+      "url": "https://www.therundown.ai/p/sam-altman-new-social-contract-for-ai",
+      "summary": "OpenAI CEO山姆·奥特曼提出AI发展的新"社会契约"理念，探讨AI技术与人类社会之间责任、权利与义务的平衡框架。",
+      "content": ""
+    }
+  ]
+}
