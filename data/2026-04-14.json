@@ -1,0 +1,240 @@
+{
+  "date": "2026-04-14",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "Kronos",
+      "title_zh": "Kronos 金融市场基础模型",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "summary": "Kronos 是一个金融市场语言的基础模型，用于金融市场的分析与预测",
+      "content": "Kronos: A Foundation Model for the Language of Financial Markets. Built by shiyu-coder and team, 16978 stars, 3201 forks, 1554 stars today.",
+      "stars": "16978"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "claude-mem",
+      "title_zh": "Claude 记忆插件",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "自动捕捉 Claude 编码过程中的所有操作，通过 AI 压缩并注入相关上下文到未来的会话中",
+      "content": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI, and injects relevant context back into future sessions. 53201 stars, 4270 forks, 3175 stars today.",
+      "stars": "53201"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "Archon",
+      "title_zh": "Archon 开源 AI 编码测试框架",
+      "url": "https://github.com/coleam00/Archon",
+      "summary": "首个开源的 AI 编码测试框架，让 AI 编程变得确定性和可重复",
+      "content": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. 17600 stars, 2773 forks.",
+      "stars": "17600"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "ralph",
+      "title_zh": "Ralph 自主 AI 代理",
+      "url": "https://github.com/snarktank/ralph",
+      "summary": "Ralph 是一个自主 AI 代理循环，会反复运行直到所有 PRD 项目完成",
+      "content": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 16503 stars, 1632 forks, 691 stars today.",
+      "stars": "16503"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "multica",
+      "title_zh": "Multica 开源托管代理平台",
+      "url": "https://github.com/multica-ai/multica",
+      "summary": "开源托管代理平台，将编程代理变成真正的团队成员，支持任务分配、进度跟踪和技能积累",
+      "content": "The open-source managed agents platform. Turn coding agents into real teammates. 11077 stars, 1382 forks, 1715 stars today.",
+      "stars": "11077"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "voicebox",
+      "title_zh": "Voicebox 开源语音合成工作室",
+      "url": "https://github.com/jamiepine/voicebox",
+      "summary": "开源语音合成工作室，提供强大的文本转语音能力",
+      "content": "The open-source voice synthesis studio. 16278 stars, 1939 forks.",
+      "stars": "16278"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "Deep-Live-Cam",
+      "title_zh": "Deep-Live-Cam 实时换脸工具",
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "summary": "仅凭一张图片即可实现实时换脸和一键视频深度伪造",
+      "content": "Real time face swap and one-click video deepfake with only a single image.",
+      "stars": ""
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "get-shit-done",
+      "title_zh": "高效元提示框架",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "summary": "轻量级强大的元提示、上下文工程和规范驱动开发系统，专为 Claude Code 设计",
+      "content": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code. 52083 stars, 4364 forks.",
+      "stars": "52083"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "hermes-agent",
+      "title_zh": "Hermes 成长型 AI 代理",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "一个与你一起成长的 AI 代理",
+      "content": "The agent that grows with you. From NousResearch.",
+      "stars": ""
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "ai-hedge-fund",
+      "title_zh": "AI 对冲基金团队",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "summary": "一个 AI 对冲基金团队项目",
+      "content": "An AI Hedge Fund Team. Built by virattt.",
+      "stars": ""
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
+      "title_zh": "有人在 30 个 WordPress 插件中植入后门",
+      "url": "https://news.ycombinator.com/item?id=43500000",
+      "summary": "安全研究人员发现攻击者通过购买流行 WordPress 插件并在其中植入后门，影响大量网站",
+      "content": "HN Score: 613, Comments: 169"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Servo is now available on crates.io",
+      "title_zh": "Servo 浏览器引擎发布到 crates.io",
+      "url": "https://news.ycombinator.com/item?id=43498543",
+      "summary": "Mozilla 开发的 Servo 浏览器引擎现在可以通过 crates.io 安装使用",
+      "content": "HN Score: 406, Comments: 137"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "GitHub Stacked PRs",
+      "title_zh": "GitHub 堆叠 PR 功能发布",
+      "url": "https://news.ycombinator.com/item?id=43500000",
+      "summary": "GitHub 推出堆叠 PR 功能，方便管理多个关联的 Pull Request",
+      "content": "HN Score: 349, Comments: 213"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+      "title_zh": "总是买 No 的 Polymarket 预测机器人",
+      "url": "https://news.ycombinator.com/item?id=43500000",
+      "summary": "一个有趣的 Polymarket 机器人，专门在非体育市场购买 No 选项",
+      "content": "HN Score: 343, Comments: 155"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
+      "title_zh": "微软不会移除 Windows 11 的 Copilot，只是改名而已",
+      "url": "https://news.ycombinator.com/item?id=43500000",
+      "summary": "微软澄清 Windows 11 上的 Copilot 不会被移除，只是会进行品牌重塑",
+      "content": "HN Score: 318, Comments: 230"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Building a CLI for All of Cloudflare",
+      "title_zh": "为 Cloudflare 全套产品打造 CLI 工具",
+      "url": "https://news.ycombinator.com/item?id=43500000",
+      "summary": "Cloudflare 推出新的 CLI 工具，方便开发者管理所有 Cloudflare 服务",
+      "content": "HN Score: 235, Comments: 72"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+      "title_zh": "斯坦福报告：AI 从业者与公众之间的认知鸿沟日益扩大",
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "summary": "斯坦福最新 AI 指数报告显示，AI 专家与公众之间在就业、医疗和经济方面的担忧存在巨大分歧",
+      "content": "HN Score: 168, Comments: 220"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Make tmux pretty and usable (2024)",
+      "title_zh": "让 tmux 变得美观易用（2024）",
+      "url": "https://news.ycombinator.com/item?id=43500000",
+      "summary": "终端复用工具 tmux 的配置指南，让你的终端体验更佳",
+      "content": "HN Score: 296, Comments: 192"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "The Future of Everything Is Lies, I Guess: Safety",
+      "title_zh": "万物皆谎言：关于安全",
+      "url": "https://news.ycombinator.com/item?id=43500000",
+      "summary": "一篇关于系统安全与信任的深度分析文章",
+      "content": "HN Score: 264, Comments: 152"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "An Introduction to Obsidian",
+      "title_zh": "Obsidian 入门指南",
+      "url": "https://news.ycombinator.com/item?id=43500000",
+      "summary": "知识管理工具 Obsidian 的介绍与入门教程",
+      "content": "HN Score: 116, Comments: 82"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Microsoft is working on yet another OpenClaw-like agent",
+      "title_zh": "微软正在开发另一个类 OpenClaw 的 AI 代理",
+      "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+      "summary": "微软正在为企业客户开发新的类 OpenClaw AI 代理，具备更好的安全控制",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "title_zh": "Railway 获资 1 亿美元，用 AI 原生云基础设施挑战 AWS",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "summary": "云平台 Railway 获得 1 亿美元 B 轮融资，致力于打造 AI 原生云基础设施，部署速度快至 1 秒以内",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Vercel CEO signals IPO readiness as AI agents fuel revenue surge",
+      "title_zh": "Vercel CEO 表示 AI 代理推动收入激增，公司已准备 IPO",
+      "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+      "summary": "Vercel CEO 暗示公司可能在 AI 代理浪潮中准备上市，AI 生成应用爆发推动收入增长",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "The largest orbital compute cluster is open for business",
+      "title_zh": "全球最大轨道计算集群正式商用",
+      "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+      "summary": "Kepler Communications 在地球轨道部署 40 颗 GPU 组成的计算集群，开始向客户提供商业服务",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Trump officials may be encouraging banks to test Anthropic's Mythos model",
+      "title_zh": "传特朗普政府鼓励银行测试 Anthropic 的 Mythos 模型",
+      "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "summary": "有报道称特朗普政府官员正在鼓励银行测试 Anthropic 的 Mythos AI 模型，尽管国防部最近将其列为供应链风险",
+      "content": ""
+    }
+  ]
+}
