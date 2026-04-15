@@ -1,0 +1,136 @@
+{
+  "date": "2026-04-15",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "claude-mem",
+      "title_zh": "Claude记忆插件",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "一款Claude Code插件，自动捕捉编码会话中的所有操作并使用AI压缩，然后注入相关上下文到未来的会话中。",
+      "content": "Built by thedotmack. TypeScript. 55,704 stars, 4,473 forks. 2,997 stars today.",
+      "stars": "55704"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "voicebox",
+      "title_zh": "Voicebox语音合成工作室",
+      "url": "https://github.com/jamiepine/voicebox",
+      "summary": "开源语音合成工作室，提供强大的文本转语音能力。",
+      "content": "Built by jamiepine. TypeScript. 17,301 stars, 2,023 forks. 1,162 stars today.",
+      "stars": "17301"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "ai-hedge-fund",
+      "title_zh": "AI对冲基金团队",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "summary": "一个AI对冲基金团队项目，使用人工智能技术进行对冲基金管理。",
+      "content": "Built by virattt. Python. 54,102 stars, 9,379 forks. 1,007 stars today.",
+      "stars": "54102"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "claude-cookbooks",
+      "title_zh": "Claude烹饪书",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "summary": "Anthropic官方出品的notebook集合，展示使用Claude的有趣且有效的方法。",
+      "content": "Built by anthropics. Jupyter Notebook. 40,227 stars, 4,445 forks. 931 stars today.",
+      "stars": "40227"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "editor",
+      "title_zh": "3D建筑编辑器",
+      "url": "https://github.com/pascalorg/editor",
+      "summary": "创建和分享3D建筑项目的在线编辑器。",
+      "content": "Built by pascalorg. TypeScript. 11,598 stars, 1,472 forks. 820 stars today.",
+      "stars": "11598"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Show HN: Plain – The full-stack Python framework designed for humans and agents",
+      "title_zh": "展示：Plain - 为人类和AI智能体设计的全栈Python框架",
+      "url": "https://news.ycombinator.com/item?id=47768750",
+      "summary": "一个新的全栈Python框架，专为人类和AI智能体设计，强调易用性和开发者体验。",
+      "content": "HN Score: 52, Comments: 21"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "The dangers of California's legislation to censor 3D printing",
+      "title_zh": "加州审查3D打印立法的危险性",
+      "url": "https://news.ycombinator.com/item?id=47759420",
+      "summary": "EFF深入分析加州立法对3D打印技术的潜在负面影响。",
+      "content": "HN Score: 158, Comments: 197"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "jj – the CLI for Jujutsu",
+      "title_zh": "jj - Jujutsu版本控制的命令行工具",
+      "url": "https://news.ycombinator.com/item?id=47763759",
+      "summary": "Jujutsu（一种新兴的分布式版本控制系统）的命令行客户端介绍。",
+      "content": "HN Score: 479, Comments: 417"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "OpenSSL 4.0.0",
+      "title_zh": "OpenSSL 4.0.0 发布",
+      "url": "https://news.ycombinator.com/item?id=47768788",
+      "summary": "OpenSSL 4.0.0正式发布，带来重大更新和新特性。",
+      "content": "HN Score: 181, Comments: 56"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
+      "title_zh": "展示：LangAlpha - 如果Claude Code为华尔街打造会怎样？",
+      "url": "https://news.ycombinator.com/item?id=47766370",
+      "summary": "一个将Claude Code概念与金融交易结合的项目演示。",
+      "content": "HN Score: 92, Comments: 32"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Claude Code redesign focuses on managing multiple AI agents",
+      "title_zh": "Claude Code重新设计：聚焦多AI智能体管理",
+      "url": "https://www.theverge.com/2026/4/15/claude-code-desktop-redesign",
+      "summary": "Anthropic发布Claude Code桌面应用重大更新，新增侧边栏管理多会话、拖拽布局自定义、内置终端和文件编辑器。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Gemini with Personal Intelligence is rolling out in more regions",
+      "title_zh": "Gemini个人智能助手向更多地区推广",
+      "url": "https://www.theverge.com/2026/4/15/gemini-personal-intelligence",
+      "summary": "Google宣布Gemini个人智能功能向全球更多地区扩展，支持从Gmail、Google Photos等获取个性化信息。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Microsoft says its latest AI image model is a 'production workhorse'",
+      "title_zh": "微软发布新款AI图像模型：生产级主力",
+      "url": "https://www.theverge.com/2026/4/15/microsoft-mai-image-2-efficient",
+      "summary": "微软推出MAI-Image-2-Efficient图像生成模型，定位为企业的生产级主力工具，主打高效率、低成本。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "SoftBank creates new company building 'physical AI'",
+      "title_zh": "软银成立新公司研发物理AI",
+      "url": "https://www.theverge.com/2026/4/14/softbank-physical-ai",
+      "summary": "软银联合索尼、本田、Nippon Steel等日本巨头成立新公司，目标到2030年实现能自主控制机器人的AI模型。",
+      "content": ""
+    }
+  ]
+}
