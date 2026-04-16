@@ -1,0 +1,231 @@
+{
+  "date": "2026-04-16",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "pascalorg/editor",
+      "title_zh": "Pascal编辑器 - 3D建筑项目创作与分享平台",
+      "url": "https://github.com/pascalorg/editor",
+      "summary": "一个用于创建和分享3D建筑项目的平台，支持TypeScript开发",
+      "content": "A platform to create and share 3D architectural projects. Built with TypeScript. Stars: 12,616, Forks: 1,549, 1,391 stars today.",
+      "stars": "12616"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "thedotmack/claude-mem",
+      "title_zh": "Claude记忆插件 - AI会话上下文自动捕获",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "一款Claude Code插件，自动捕获编码会话中的所有操作并压缩注入到未来会话中",
+      "content": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI, and injects relevant context back into future sessions. Stars: 57,764, Forks: 4,670, 2,305 stars today.",
+      "stars": "57764"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "virattt/ai-hedge-fund",
+      "title_zh": "AI对冲基金团队 - 多智能体投资系统",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "summary": "一个AI对冲基金团队项目，使用多智能体系统进行投资决策",
+      "content": "An AI Hedge Fund Team - a multi-agent system for investment decisions. Stars: 55,031, Forks: 9,550, 1,058 stars today.",
+      "stars": "55031"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "Lordog/dive-into-llms",
+      "title_zh": "动手学大模型 - 编程实践教程",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "summary": "《动手学大模型Dive into LLMs》系列编程实践教程，Jupyter Notebook格式",
+      "content": "《动手学大模型Dive into LLMs》系列编程实践教程. Stars: 29,377, Forks: 3,564, 941 stars today.",
+      "stars": "29377"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "jamiepine/voicebox",
+      "title_zh": "Voicebox - 开源语音合成工作室",
+      "url": "https://github.com/jamiepine/voicebox",
+      "summary": "一个开源语音合成工作室，支持TypeScript开发",
+      "content": "The open-source voice synthesis studio. Built with TypeScript. Stars: 18,243, Forks: 2,126, 1,062 stars today.",
+      "stars": "18243"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "google/magika",
+      "title_zh": "Magika - AI驱动的文件类型检测工具",
+      "url": "https://github.com/google/magika",
+      "summary": "谷歌开源的基于AI的文件内容类型快速准确检测工具",
+      "content": "Fast and accurate AI powered file content types detection by Google. Stars: 13,750, Forks: 722, 768 stars today.",
+      "stars": "13750"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "public-apis/public-apis",
+      "title_zh": "公共API集合 - 免费API汇总",
+      "url": "https://github.com/public-apis/public-apis",
+      "summary": "一个免费的公共API汇总集合",
+      "content": "A collective list of free APIs.",
+      "stars": ""
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "vercel-labs/open-agents",
+      "title_zh": "Open Agents - 云端智能体开源模板",
+      "url": "https://github.com/vercel-labs/open-agents",
+      "summary": "用于构建云端智能体的开源模板，基于TypeScript",
+      "content": "An open source template for building cloud agents. Stars: 2,607, Forks: 290, 915 stars today.",
+      "stars": "2607"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "lsdefine/GenericAgent",
+      "title_zh": "通用智能体 - 自进化代理系统",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "summary": "自进化智能体系统，从3300行种子代码成长，拥有完整系统控制能力且Token消耗降低6倍",
+      "content": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption. Stars: 1,907, Forks: 244, 446 stars today.",
+      "stars": "1907"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "chrislgarry/Apollo-11",
+      "title_zh": "阿波罗11号 - 原始导航计算机源代码",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "summary": "阿波罗11号指令舱和登月舱的原始导航计算机源代码",
+      "content": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. Stars: 66,789, Forks: 7,608, 606 stars today.",
+      "stars": "66789"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Google broke its promise to me – now ICE has my data",
+      "title_zh": "谷歌违背承诺 - ICE现拥有用户数据",
+      "url": "https://news.ycombinator.com/item?id=47782570",
+      "summary": "EFF报道谷歌曾向用户做出承诺，但现已违反该承诺，移民海关执法局获得了用户数据",
+      "content": "HN Score: 987, Comments: 425"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "God sleeps in the minerals",
+      "title_zh": "上帝沉睡于矿物质中",
+      "url": "https://news.ycombinator.com/item?id=47778475",
+      "summary": "一篇探讨哲学与科学交织的深度文章",
+      "content": "HN Score: 430, Comments: 91"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Want to write a compiler? Just read these two papers",
+      "title_zh": "想写编译器？只需读这两篇论文",
+      "url": "https://news.ycombinator.com/item?id=47776796",
+      "summary": "分享两篇关于编译器编写的经典论文",
+      "content": "HN Score: 455, Comments: 138"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Live Nation illegally monopolized ticketing market, jury finds",
+      "title_zh": "Live Nation非法垄断票务市场 - 陪审团裁决",
+      "url": "https://news.ycombinator.com/item?id=47783713",
+      "summary": "陪审团认定Live Nation非法垄断票务市场",
+      "content": "HN Score: 323, Comments: 100"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
+      "title_zh": "Anna's Archive输了3.22亿美元Spotify侵权案",
+      "url": "https://news.ycombinator.com/item?id=47776035",
+      "summary": "知名盗版资源网站Anna's Archive未做任何抗辩，输掉了与Spotify的侵权诉讼",
+      "content": "HN Score: 306, Comments: 346"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Good sleep, good learning, good life",
+      "title_zh": "优质睡眠、优质学习、优质生活",
+      "url": "https://news.ycombinator.com/item?id=47776557",
+      "summary": "关于睡眠与学习关系的深度文章",
+      "content": "HN Score: 353, Comments: 177"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Cal.com is going closed source",
+      "title_zh": "Cal.com将转为闭源",
+      "url": "https://news.ycombinator.com/item?id=47780456",
+      "summary": "开源日历调度平台Cal.com宣布将转为闭源",
+      "content": "HN Score: 178, Comments: 148"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Ask HN: Who is using OpenClaw?",
+      "title_zh": "询问HN：谁在使用OpenClaw？",
+      "url": "https://news.ycombinator.com/item?id=47783940",
+      "summary": "Hacker News上关于OpenClaw使用情况的讨论",
+      "content": "HN Score: 178, Comments: 209"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Does Gas Town 'steal' usage from users' LLM credits",
+      "title_zh": "Gas Town是否窃取用户LLM额度？",
+      "url": "https://news.ycombinator.com/item?id=47785053",
+      "summary": "关于Gas Town服务是否窃取用户LLM额度的讨论",
+      "content": "HN Score: 191, Comments: 91"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Do you even need a database?",
+      "title_zh": "你真的需要数据库吗？",
+      "url": "https://news.ycombinator.com/item?id=47778086",
+      "summary": "探讨现代应用是否真的需要传统数据库",
+      "content": "HN Score: 187, Comments: 235"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Microsoft launches MAI-Image-2-Efficient, a cheaper and faster AI image model",
+      "title_zh": "微软发布MAI-Image-2-Efficient：更便宜更快的AI图像模型",
+      "url": "https://venturebeat.com/technology/microsoft-launches-mai-image-2-efficient-a-cheaper-and-faster-ai-image-model",
+      "summary": "微软推出MAI-Image-2-Efficient图像模型，价格比前代低41%，速度快22%，每秒吞吐量提升4倍",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Traza raises $2.1 million to automate procurement workflows with AI",
+      "title_zh": "Traza融资210万美元用AI自动化采购流程",
+      "url": "https://venturebeat.com/orchestration/traza-raises-usd2-1-million-led-by-base10-to-automate-procurement-workflows-with-ai",
+      "summary": "AI初创公司Traza获210万美元融资，致力于用AI自动化企业采购工作流程",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "43% of AI generated code changes need debugging in production",
+      "title_zh": "调查显示43%的AI生成代码变更需要生产环境调试",
+      "url": "https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds",
+      "summary": "最新调查显示近半数AI生成的代码在生产环境中需要额外调试",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "The Gemini app is now on Mac",
+      "title_zh": "Gemini应用现已登陆Mac平台",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
+      "summary": "谷歌宣布Gemini应用正式登陆macOS平台",
+      "content": ""
+    }
+  ]
+}
