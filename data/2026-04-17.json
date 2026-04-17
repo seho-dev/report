@@ -1,0 +1,175 @@
+{
+  "date": "2026-04-17",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "hermes-agent",
+      "title_zh": "Hermes 智能体",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "一个与你共同成长的 AI 智能体，能够不断学习和适应用户需求。",
+      "content": "The agent that grows with you - built by NousResearch with 93,529 stars and 13,026 forks.",
+      "stars": "93529"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "markitdown",
+      "title_zh": "文档转换工具",
+      "url": "https://github.com/microsoft/markitdown",
+      "summary": "微软开源的 Python 工具，可将文件和办公文档转换为 Markdown 格式。",
+      "content": "Python tool for converting files and office documents to Markdown by Microsoft.",
+      "stars": "110356"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "Kronos",
+      "title_zh": "金融市场语言模型",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "summary": "金融市场领域的基础模型，用于理解和分析金融市场的语言。",
+      "content": "Kronos: A Foundation Model for the Language of Financial Markets.",
+      "stars": "18757"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "claude-mem",
+      "title_zh": "Claude 记忆插件",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "自动记录 Claude Code 编码会话并压缩存储，注入相关上下文到未来会话中。",
+      "content": "A Claude Code plugin that automatically captures everything Claude does during coding sessions.",
+      "stars": "59654"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "ai-hedge-fund",
+      "title_zh": "AI 对冲基金团队",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "summary": "一个由多个 AI 智能体组成的对冲基金团队，模拟真实的投资决策流程。",
+      "content": "An AI Hedge Fund Team - multiple AI agents working together for investment decisions.",
+      "stars": "55643"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "multica",
+      "title_zh": "托管智能体平台",
+      "url": "https://github.com/multica-ai/multica",
+      "summary": "开源的托管智能体平台，将编程智能体转化为真正的团队成员。",
+      "content": "The open-source managed agents platform - assign tasks, track progress, compound skills.",
+      "stars": "14605"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "agent-skills",
+      "title_zh": "AI 编程技能集",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "面向 AI 编程智能体的生产级工程技能集合。",
+      "content": "Production-grade engineering skills for AI coding agents by Addy Osmani.",
+      "stars": "16488"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "VoxCPM",
+      "title_zh": "多语言语音生成",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "summary": "无需分词器的多语言语音生成模型，支持创意语音设计和逼真的语音克隆。",
+      "content": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation and Voice Cloning.",
+      "stars": "13792"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Claude Opus 4.7",
+      "title_zh": "Claude Opus 4.7 发布",
+      "url": "https://news.ycombinator.com/item?id=47793411",
+      "summary": "Anthropic 发布 Claude Opus 4.7，带来重大更新和改进。",
+      "content": "HN Score: 1381, Comments: 1005"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Codex for almost everything",
+      "title_zh": "OpenAI Codex 万物助手",
+      "url": "https://news.ycombinator.com/item?id=47796469",
+      "summary": "OpenAI 发布 Codex，支持多种场景的 AI 编程助手。",
+      "content": "HN Score: 628, Comments: 349"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+      "title_zh": "Qwen3.6-35B-A3B 开源",
+      "url": "https://news.ycombinator.com/item?id=47792764",
+      "summary": "阿里通义千问发布 Qwen3.6-35B-A3B，强大的编程能力向所有人开放。",
+      "content": "HN Score: 865, Comments: 406"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+      "title_zh": "Cloudflare AI 平台",
+      "url": "https://news.ycombinator.com/item?id=47792538",
+      "summary": "Cloudflare 推出专为智能体设计的推理层 AI 平台。",
+      "content": "HN Score: 223, Comments: 57"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Cloudflare Email Service",
+      "title_zh": "Cloudflare 邮件服务",
+      "url": "https://news.ycombinator.com/item?id=47792593",
+      "summary": "Cloudflare 推出面向智能体的邮件服务解决方案。",
+      "content": "HN Score: 397, Comments: 188"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Codex Hacked a Samsung TV",
+      "title_zh": "OpenAI Codex 入侵三星电视",
+      "url": "https://news.ycombinator.com/item?id=47791212",
+      "summary": "OpenAI Codex 成功演示入侵三星电视，揭示 AI 智能体的安全挑战。",
+      "content": "HN Score: 201, Comments: 116"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Qwen3.6-35B-A3B beats Claude Opus 4.7 in image generation",
+      "title_zh": "Qwen3.6 在图像生成方面超越 Claude Opus 4.7",
+      "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
+      "summary": "Simon Willison 测试发现，通义千问 Qwen3.6 在笔记本上生成的图像比 Claude Opus 4.7 更好。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Android CLI: Build Android apps 3x faster using any agent",
+      "title_zh": "Android CLI：使用智能体加速 3 倍开发",
+      "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+      "summary": "Google 发布 Android CLI 工具，支持使用任何 AI 智能体加速 Android 应用开发。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "GPT-Rosalind for life sciences research",
+      "title_zh": "GPT-Rosalind 生命科学研究",
+      "url": "https://openai.com/index/introducing-gpt-rosalind/",
+      "summary": "OpenAI 发布专为生命科学研究设计的 GPT-Rosalind 模型。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Artifacts: Versioned storage that speaks Git",
+      "title_zh": "Cloudflare Artifacts：Git 版本化存储",
+      "url": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
+      "summary": "Cloudflare 推出 Artifacts，为智能体提供 Git 风格的版本化存储服务。",
+      "content": ""
+    }
+  ]
+}
