@@ -1,0 +1,195 @@
+{
+  "date": "2026-04-18",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "hermes-agent",
+      "title_zh": "赫尔墨斯智能体",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "一个与你共同成长的智能体助手",
+      "content": "The agent that grows with you. Built by teknium1, 0xbyt4, kshitijk4poor, claude, alt-glitch. 47,053 stars this week.",
+      "stars": "96745"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "Kronos",
+      "title_zh": "克罗诺斯金融大模型",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "summary": "金融市场语言的基础模型",
+      "content": "Kronos: A Foundation Model for the Language of Financial Markets. Built by shiyu-coder, Luciferbobo, CharlesJ-ABu, AnMakc, randyy179. 6,511 stars this week.",
+      "stars": "19043"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "multica",
+      "title_zh": "多智能体管理平台",
+      "url": "https://github.com/multica-ai/multica",
+      "summary": "开源托管智能体平台，将编码智能体变成真正的团队成员",
+      "content": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. 10,056 stars this week.",
+      "stars": "15397"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "markitdown",
+      "title_zh": "文档转Markdown工具",
+      "url": "https://github.com/microsoft/markitdown",
+      "summary": "Python工具，用于将文件和办公文档转换为Markdown格式",
+      "content": "Python tool for converting files and office documents to Markdown. Built by afourney, gagb, sugatoray, PetrAPConsulting, l-lumin. 13,214 stars this week.",
+      "stars": "111171"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "VoxCPM",
+      "title_zh": "VoxCPM2 多语言语音生成",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "summary": "无需分词器的多语言语音生成、创意声音设计和逼真克隆",
+      "content": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning. 5,786 stars this week.",
+      "stars": "14126"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "Archon",
+      "title_zh": "AI编程 Harness 构建器",
+      "url": "https://github.com/coleam00/Archon",
+      "summary": "首个开源AI编程Harness构建器，让AI编程变得确定性和可重复",
+      "content": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. 3,745 stars this week.",
+      "stars": "18564"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "claude-mem",
+      "title_zh": "Claude记忆插件",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "Claude Code插件，自动捕获编码会话中的所有操作并注入相关上下文",
+      "content": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI, and injects relevant context back into future sessions. 14,033 stars this week.",
+      "stars": "61435"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "ai-hedge-fund",
+      "title_zh": "AI对冲基金团队",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "summary": "一个AI对冲基金团队",
+      "content": "An AI Hedge Fund Team. Built by virattt, arsaboo, KittatamSaisaard, jsemldonado, ak4631. 4,941 stars this week.",
+      "stars": "55918"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "agent-skills",
+      "title_zh": "AI编程智能体生产级技能",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "面向AI编程智能体的生产级工程技能",
+      "content": "Production-grade engineering skills for AI coding agents. Built by addyosmani, federicobartoli, dj2313, nucliweb, MarkADom. 5,571 stars this week.",
+      "stars": "16945"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "ChinaTextbook",
+      "title_zh": "中国教材全集",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "summary": "包含所有小学、初中、高中、大学的PDF教材",
+      "content": "所有小初高、大学PDF教材。2,604 stars this week.",
+      "stars": "69811"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Claude Design",
+      "title_zh": "Claude Design 发布",
+      "url": "https://news.ycombinator.com/item?id=47806725",
+      "summary": "Anthropic发布Claude Design工具，基于Claude Opus 4.7模型，定位为视觉创作工具",
+      "content": "HN Score: 789, Comments: 528"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "title_zh": "测量 Claude 4.7 的分词器成本",
+      "url": "https://news.ycombinator.com/item?id=47807006",
+      "summary": "深入分析 Claude 4.7 新分词器的Token成本",
+      "content": "HN Score: 518, Comments: 351"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Isaac Asimov: The Last Question (1956)",
+      "title_zh": "阿西莫夫：最后一个问题（1956）",
+      "url": "https://news.ycombinator.com/item?id=47804965",
+      "summary": "科幻经典短篇小说《最后一个问题》重温",
+      "content": "HN Score: 600, Comments: 240"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Ban the sale of precise geolocation",
+      "title_zh": "禁止精确地理位置销售",
+      "url": "https://news.ycombinator.com/item?id=47806304",
+      "summary": "呼吁立法禁止精确地理位置数据的销售",
+      "content": "HN Score: 563, Comments: 155"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+      "title_zh": "Smol machines：亚秒级冷启动的可移植虚拟机",
+      "url": "https://news.ycombinator.com/item?id=47808268",
+      "summary": "亚秒级冷启动的可移植虚拟机项目",
+      "content": "HN Score: 200, Comments: 82"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Claude Design Visual Creation Tool Launched",
+      "title_zh": "Anthropic 发布 Claude Design 视觉创作工具",
+      "url": "https://www.ithome.com/0/940/613.htm",
+      "summary": "Anthropic昨日发布Claude Design工具，基于Claude Opus 4.7模型，支持对话生成设计、原型和演示文稿",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "OpenAI ChatGPT Reaches 1 Billion Weekly Active Users",
+      "title_zh": "OpenAI ChatGPT 全球周活跃用户逼近10亿",
+      "url": "https://www.ithome.com/0/940/328.htm",
+      "summary": "ChatGPT女性用户占比超过50%，实现历史性转变",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Nvidia Lyra 2.0: Generate 90m 3D Scene from Single Photo",
+      "title_zh": "英伟达发布 Lyra 2.0：单照片生成90米3D场景",
+      "url": "https://www.ithome.com/0/940/343.htm",
+      "summary": "英伟达研究人员推出Lyra 2.0系统，可从单张照片生成连贯的3D环境，用于机器人仿真训练",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Perplexity Launches Mac AI Assistant",
+      "title_zh": "Perplexity 推出 Mac 版 AI 助手",
+      "url": "https://www.ithome.com/0/940/128.htm",
+      "summary": "Perplexity推出Personal Computer，可直接访问Mac文件系统和原生应用，支持7×24小时运行",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "OpenAI Launches GPT-Rosalind for Biology",
+      "title_zh": "OpenAI 推出生物学专用 AI 模型 GPT-Rosalind",
+      "url": "https://www.ithome.com/0/940/115.htm",
+      "summary": "以DNA结构发现者罗莎琳德·富兰克林命名，针对生物学数据训练了50种常见工作流",
+      "content": ""
+    }
+  ]
+}
