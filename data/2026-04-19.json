@@ -1,0 +1,220 @@
+{
+  "date": "2026-04-19",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "thunderbird/thunderbolt",
+      "title_zh": "雷鸟闪电——可控AI助手",
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "summary": "你可控的AI：自由选择模型，拥有自己的数据，摆脱厂商锁定",
+      "content": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. TypeScript, 1541 stars, 447 stars today",
+      "stars": "1541"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "BasedHardware/omi",
+      "title_zh": "奥米——AI屏幕与对话助手",
+      "url": "https://github.com/BasedHardware/omi",
+      "summary": "能看屏幕、听对话并给出建议的AI助手",
+      "content": "AI that sees your screen, listens to your conversations and tells you what to do",
+      "stars": ""
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "openai/openai-agents-python",
+      "title_zh": "OpenAI多智能体框架",
+      "url": "https://github.com/openai/openai-agents-python",
+      "summary": "轻量级、强大的多智能体工作流框架",
+      "content": "A lightweight, powerful framework for multi-agent workflows",
+      "stars": ""
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "EvoMap/evolver",
+      "title_zh": "进化者——GEP驱动AI自进化引擎",
+      "url": "https://github.com/EvoMap/evolver",
+      "summary": "基于基因组进化协议的AI智能体自进化引擎，4987星，今日新增1131星",
+      "content": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. JavaScript, 4987 stars, 1131 stars today",
+      "stars": "4987"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "deepseek-ai/DeepGEMM",
+      "title_zh": "深度求索FP8矩阵乘法内核",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "summary": "干净高效的FP8 GEMM内核，支持细粒度缩放，6530星",
+      "content": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling. Cuda, 6530 stars",
+      "stars": "6530"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "Lordog/dive-into-llms",
+      "title_zh": "动手学大模型",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "summary": "《动手学大模型》系列编程实践教程，32006星，今日新增547星",
+      "content": "《动手学大模型Dive into LLMs》系列编程实践教程. Jupyter Notebook, 32006 stars, 547 stars today",
+      "stars": "32006"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "aaddrick/claude-desktop-debian",
+      "title_zh": "Claude桌面版Debian移植",
+      "url": "https://github.com/aaddrick/claude-desktop-debian",
+      "summary": "适用于Debian系Linux的Claude桌面客户端，3464星",
+      "content": "Claude Desktop for Debian-based Linux distributions. Shell, 3464 stars",
+      "stars": "3464"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "SimoneAvogadro/android-reverse-engineering-skill",
+      "title_zh": "安卓逆向工程Claude技能",
+      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "summary": "支持安卓应用逆向工程的Claude Code技能，3112星，今日新增403星",
+      "content": "Claude Code skill to support Android app's reverse engineering. Shell, 3112 stars, 403 stars today",
+      "stars": "3112"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+      "title_zh": "Opus 4.6与4.7匿名请求令牌对比",
+      "url": "https://news.ycombinator.com/item?id=47816960",
+      "summary": "对Claude Opus 4.6和4.7版本的请求令牌消耗进行匿名对比分析",
+      "content": "HN Score: 395, Comments: 414"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Migrating from DigitalOcean to Hetzner",
+      "title_zh": "从DigitalOcean迁移到Hetzner",
+      "url": "https://news.ycombinator.com/item?id=47815774",
+      "summary": "一篇关于从DigitalOcean云服务器迁移到Hetzner的实践指南，661分",
+      "content": "HN Score: 661, Comments: 337"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Claude Design",
+      "title_zh": "Claude设计工具发布",
+      "url": "https://news.ycombinator.com/item?id=47806725",
+      "summary": "Anthropic发布Claude Design设计工具，HN热议1182分",
+      "content": "HN Score: 1182, Comments: 737"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Thoughts and feelings around Claude Design",
+      "title_zh": "关于Claude Design的思考与感受",
+      "url": "https://news.ycombinator.com/item?id=47818700",
+      "summary": "社区对Anthropic新发布的Claude Design工具的深度讨论与反馈",
+      "content": "HN Score: 199, Comments: 133"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "title_zh": "测量Claude 4.7分词器成本",
+      "url": "https://news.ycombinator.com/item?id=47807006",
+      "summary": "详细测量Claude 4.7新版分词器的token消耗成本，684分",
+      "content": "HN Score: 684, Comments: 481"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+      "title_zh": "B-52轰炸机星跟踪器中的机电角度计算机",
+      "url": "https://news.ycombinator.com/item?id=47817132",
+      "summary": "深入解析B-52轰炸机星跟踪器内部的机电角度计算机工作原理",
+      "content": "HN Score: 242, Comments: 71"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "State of Kdenlive",
+      "title_zh": "Kdenlive视频编辑器现状",
+      "url": "https://news.ycombinator.com/item?id=47815118",
+      "summary": "开源视频编辑器Kdenlive发布2026年现状报告，324分",
+      "content": "HN Score: 324, Comments: 108"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Claude Design released by Anthropic Labs",
+      "title_zh": "Anthropic实验室发布Claude Design",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "summary": "Anthropic正式发布Claude Design设计工具，引发社区广泛讨论，HN获1182分",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Recursive Superintelligence raises $500M at $4B valuation",
+      "title_zh": "递归超级智能公司融资5亿美元估值40亿",
+      "url": "https://www.ft.com/content/a92bf04b-bbac-400f-9554-5b1c70957ad4",
+      "summary": "成立仅四个月的AI初创公司Recursive Superintelligence获GV领投5亿美元，估值40亿美元，团队含前Salesforce首席科学家和DeepMind研究员",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Deepseek in talks to raise first outside funding at $10B+ valuation",
+      "title_zh": "DeepSeek首次寻求外部融资估值超百亿美元",
+      "url": "https://www.theinformation.com/",
+      "summary": "中国AI公司DeepSeek首次寻求外部融资，目标至少3亿美元，估值100亿美元以上，但面临人才流失和V4模型延期挑战",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Meta preparing major layoffs to offset AI costs",
+      "title_zh": "Meta大规模裁员以抵消AI成本",
+      "url": "https://www.reuters.com/world/meta-targets-may-20-first-wave-layoffs-additional-cuts-later-2026-2026-04-17/",
+      "summary": "Meta将于5月20日裁减约8000个岗位，占全球员工10%，后续还有第二轮，总计可能裁减20%以上，以应对AI基础设施巨额投入",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "OpenAI loses three executives including CPO Kevin Weil",
+      "title_zh": "OpenAI一天内失去三位高管包括产品负责人",
+      "url": "https://x.com/kevinweil/status/2045230426210648348",
+      "summary": "OpenAI首席产品官Kevin Weil等三位高管同日离职，Weil领导的AI for Science部门将被拆分",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Anthropic CEO Amodei: No end to scaling, AI could wipe out 50% entry-level jobs",
+      "title_zh": "Anthropic CEO：模型缩放无止境，AI可能消灭50%初级岗位",
+      "url": "https://www.ft.com/content/9e0e0fc6-ab7d-4b69-a8b1-5a972b82fb06",
+      "summary": "Dario Amodei表示大模型缩放仍有很大空间，同时警告AI可能在五年内消灭50%的初级办公室岗位",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Salesforce Headless 360: API is the new UI",
+      "title_zh": "Salesforce无头360：API即新界面",
+      "url": "https://www.salesforce.com/news/stories/salesforce-headless-360-announcement/",
+      "summary": "Salesforce CEO Benioff宣布API即新UI，开放全平台包括Agentforce和Slack的API、MCP和CLI访问",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Graphs that explain the state of AI in 2026",
+      "title_zh": "图解2026年AI现状",
+      "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
+      "summary": "IEEE Spectrum用图表解读2026年AI行业现状与发展趋势",
+      "content": ""
+    }
+  ]
+}
