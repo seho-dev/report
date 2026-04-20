@@ -1,0 +1,173 @@
+{
+  "date": "2026-04-20",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "FinceptTerminal",
+      "title_zh": "Fincept金融终端",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "summary": "现代化金融应用，提供高级市场分析、投资研究和经济数据工具，支持交互式探索和数据驱动决策",
+      "content": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. Python. 6472 stars, 1254 stars today.",
+      "stars": "6472"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "thunderbolt",
+      "title_zh": "雷鸟AI助手",
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "summary": "由Thunderbird推出的可控AI助手，可自选模型、拥有数据主权、消除供应商锁定",
+      "content": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. TypeScript. 2200 stars, 695 stars today.",
+      "stars": "2200"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "arc-kit",
+      "title_zh": "企业架构治理与供应商采购工具包",
+      "url": "https://github.com/tractorjuice/arc-kit",
+      "summary": "企业架构治理和供应商采购工具包，帮助组织管理技术架构和供应商关系",
+      "content": "Enterprise Architecture Governance & Vendor Procurement Toolkit. HTML. 991 stars, 263 stars today.",
+      "stars": "991"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "RuView",
+      "title_zh": "WiFi人体姿态估计系统",
+      "url": "https://github.com/ruvnet/RuView",
+      "summary": "利用普通WiFi信号实现实时人体姿态估计、生命体征监测和存在检测，无需任何视频像素",
+      "content": "RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": ""
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "evolver",
+      "title_zh": "GEP驱动AI智能体自进化引擎",
+      "url": "https://github.com/EvoMap/evolver",
+      "summary": "基于基因组进化协议(GEP)的AI智能体自进化引擎，支持智能体自主进化与优化",
+      "content": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. JavaScript. 5500 stars, 527 stars today.",
+      "stars": "5500"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "Claude-Code-Game-Studios",
+      "title_zh": "Claude代码游戏工作室",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "summary": "将Claude Code变成完整的游戏开发工作室，包含49个AI代理、72个工作流技能和完整的协调系统",
+      "content": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "stars": ""
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Vercel April 2026 security incident",
+      "title_zh": "Vercel 2026年4月安全事件",
+      "url": "https://news.ycombinator.com/item?id=47824463",
+      "summary": "Vercel确认遭遇安全入侵，黑客声称正在出售窃取的数据",
+      "content": "HN Score: 466, Comments: 284"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "title_zh": "Claude Opus 4.6与4.7系统提示词变化对比",
+      "url": "https://news.ycombinator.com/item?id=47823270",
+      "summary": "Simon Willison详细分析了Claude Opus 4.6到4.7版本之间系统提示词的变化",
+      "content": "HN Score: 167, Comments: 102"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Notion leaks email addresses of all editors of any public page",
+      "title_zh": "Notion泄露所有公开页面编辑者的邮箱地址",
+      "url": "https://news.ycombinator.com/item?id=47824945",
+      "summary": "Notion被发现会泄露任何公开页面上所有编辑者的邮箱地址，引发隐私担忧",
+      "content": "HN Score: 310, Comments: 106"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "The RAM shortage could last years",
+      "title_zh": "内存短缺可能持续数年",
+      "url": "https://news.ycombinator.com/item?id=47822414",
+      "summary": "AI需求激增导致RAM内存短缺，预计到2027年底内存制造商只能满足60%的需求",
+      "content": "HN Score: 163, Comments: 165"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "What are skiplists good for?",
+      "title_zh": "跳表到底有什么用？",
+      "url": "https://news.ycombinator.com/item?id=47806021",
+      "summary": "Antithesis团队深入探讨跳表数据结构的实际应用场景和优势",
+      "content": "HN Score: 255, Comments: 61"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
+      "title_zh": "BYTE杂志档案：从1975年创刊号开始",
+      "url": "https://news.ycombinator.com/item?id=47806096",
+      "summary": "互联网档案馆收录了经典计算机杂志BYTE从1975年创刊号起的完整档案",
+      "content": "HN Score: 519, Comments: 132"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic launches Claude Design with Opus 4.7",
+      "title_zh": "Anthropic发布Claude Design设计产品",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
+      "summary": "Anthropic推出Claude Design设计产品，由最新Opus 4.7模型驱动，可创建设计稿、原型、演示文稿和营销材料",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Prove you are a robot: CAPTCHAs for agents",
+      "title_zh": "证明你是机器人：面向AI代理的验证码",
+      "url": "https://browser-use.com/posts/prove-you-are-a-robot",
+      "summary": "browser-use提出为AI代理设计的反向验证码概念，探讨如何区分人类和AI代理",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Ex-CEO, ex-CFO of bankrupt AI company charged with fraud",
+      "title_zh": "破产AI公司前CEO和前CFO被控欺诈",
+      "url": "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/",
+      "summary": "一家破产AI公司的前CEO和前CFO因欺诈被起诉，AI行业泡沫风险引发关注",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Google reportedly in talks to let Pentagon use Gemini in classified settings",
+      "title_zh": "Google据报正与五角大楼谈判在机密环境中使用Gemini",
+      "url": "https://www.theverge.com/ai-artificial-intelligence",
+      "summary": "Google据报正在与五角大楼讨论在机密环境中使用Gemini的合同，逆转了此前的军事合作立场",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "NSA reportedly has access to Anthropic's Mythos despite supply-chain risk label",
+      "title_zh": "NSA据报已获Anthropic Mythos访问权限",
+      "url": "https://www.theverge.com/ai-artificial-intelligence",
+      "summary": "尽管被标记为供应链风险，NSA据报已获得Anthropic网络安全模型Mythos的访问权限",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Startup sells dead company data for AI training",
+      "title_zh": "初创公司出售倒闭企业数据用于AI训练",
+      "url": "https://www.theverge.com/ai-artificial-intelligence",
+      "summary": "SimpleClosure推出新工具，帮助倒闭公司出售代码、Slack消息、邮件等数据给AI公司作为训练数据",
+      "content": ""
+    }
+  ]
+}
