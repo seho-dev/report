@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-21",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "worldmonitor",
+      "title_zh": "全球态势监测平台",
+      "url": "https://github.com/koala73/worldmonitor",
+      "summary": "实时全球情报仪表板。由AI驱动的新闻聚合、地缘政治监测与基础设施追踪的统一态势感知界面。",
+      "content": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. Stars: 50,200",
+      "stars": "50200"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "FinceptTerminal",
+      "title_zh": "金融终端",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "summary": "现代金融应用，提供高级市场分析、投资研究和经济数据工具，设计用于交互式探索与数据驱动决策。",
+      "content": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. Stars: 9,693, Today: 3,109",
+      "stars": "9693"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "DeepGEMM",
+      "title_zh": "深度GEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "summary": "干净高效的FP8 GEMM内核，支持细粒度缩放。由深度求索AI开发的CUDA内核库。",
+      "content": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling. Cuda. Stars: 6,844",
+      "stars": "6844"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "thunderbolt",
+      "title_zh": "雷鸟",
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "summary": "AI你做主：自由选择模型、掌控自有数据、消除供应商锁定。Thunderbird出品的AI控制中心。",
+      "content": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. TypeScript. Stars: 2,852, Today: 675",
+      "stars": "2852"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "openai-agents-python",
+      "title_zh": "OpenAI Python多智能体框架",
+      "url": "https://github.com/openai/openai-agents-python",
+      "summary": "轻量而强大的多智能体工作流框架，用于构建和编排多代理AI应用。",
+      "content": "A lightweight, powerful framework for multi-agent workflows. Built by OpenAI.",
+      "stars": "0"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "John Ternus to become Apple CEO",
+      "title_zh": "John Ternus 将接任苹果CEO",
+      "url": "https://news.ycombinator.com/item?id=47840219",
+      "summary": "苹果宣布Tim Cook转任执行董事长，现任硬件工程高级副总裁John Ternus将于年内接任CEO一职。",
+      "content": "HN Score: 1217, Comments: 623"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "All phones sold in the EU to have replaceable batteries from 2027",
+      "title_zh": "欧盟规定2027年起所有手机必须配备可更换电池",
+      "url": "https://news.ycombinator.com/item?id=47834195",
+      "summary": "欧盟立法强制要求2027年起在欧盟销售的所有手机和平板电脑必须配备用户可自行更换的电池。",
+      "content": "HN Score: 975, Comments: 805"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "title_zh": "通义千问3.6-Max预览版：更智能、更锐利、持续进化",
+      "url": "https://news.ycombinator.com/item?id=47834565",
+      "summary": "阿里通义千问团队发布Qwen3.6-Max预览版本，在多项基准测试中刷新成绩，继续推进大语言模型能力边界。",
+      "content": "HN Score: 545, Comments: 283"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "ggsql: A Grammar of Graphics for SQL",
+      "title_zh": "ggsql：用图形语法解读SQL",
+      "url": "https://news.ycombinator.com/item?id=47833558",
+      "summary": "Posit博客宣布ggsql alpha版本发布，将R语言ggplot2的图形语法理念引入SQL数据分析工作流。",
+      "content": "HN Score: 358, Comments: 74"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+      "title_zh": "Deezer：每日上传歌曲中44%为AI生成",
+      "url": "https://news.ycombinator.com/item?id=47835928",
+      "summary": "音乐流媒体平台Deezer发布报告，称其平台每日新增上传歌曲中有近半数由AI生成，引发业界对音乐创作生态的担忧。",
+      "content": "HN Score: 301, Comments: 276"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic just launched Claude Design, an AI tool that turns prompts into prototypes and challenges Figma",
+      "title_zh": "Anthropic发布Claude Design：用提示词直接生成原型，挑战Figma霸主地位",
+      "url": "https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma",
+      "summary": "Anthropic正式推出Claude Design，可将提示词直接转化为产品原型，标志着该公司从基础模型提供商向全栈产品公司的重大转型。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Salesforce launches Headless 360 to turn its entire platform into infrastructure for AI agents",
+      "title_zh": "Salesforce发布Headless 360：把整个平台变身AI智能体基础设施",
+      "url": "https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents",
+      "summary": "Salesforce在TDX开发者大会上发布Headless 360，一次性推出100多项新工具，志在将整个CRM平台重塑为AI智能体的运行基础设施。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps",
+      "title_zh": "NanoClaw与Vercel合作：在15款消息应用中推出更便捷的AI智能体策略配置",
+      "url": "https://venturebeat.com/orchestration/should-my-enterprise-ai-agent-do-that-nanoclaw-and-vercel-launch-easier-agentic-policy-setting-and-approval-dialogs-across-15-messaging-apps",
+      "summary": "NanoClaw 2.0与Vercel合作，通过集成Chat SDK和凭证保险库，在用户熟悉的消息应用中提供更简单的人机审批流程。",
+      "content": ""
+    }
+  ]
+}

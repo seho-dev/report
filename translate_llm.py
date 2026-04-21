@@ -8,20 +8,21 @@ import json
 import os
 import sys
 import time
-import anthropic
+import openai
 
 # 配置
 DATA_DIR = os.path.dirname(os.path.abspath(__file__)) + "/data"
-MODEL = "claude-sonnet-4-20250514"
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-USE_ANTHROPIC = bool(ANTHROPIC_API_KEY)
+MODEL = "minimax-m2.5"
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
+OPENAI_BASE_URL = os.environ.get("OPENAI_BASE_URL", "http://localhost:8317/v1")
+USE_OPENAI = bool(OPENAI_API_KEY)
 
-def translate_with_claude(texts, target_lang="Chinese"):
-    """使用 Claude 翻译"""
+def translate_with_openai(texts, target_lang="Chinese"):
+    """使用 OpenAI API 翻译"""
     if not texts or all(not t or not t.strip() for t in texts):
         return texts
     
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    client = openai.OpenAI(api_key=OPENAI_API_KEY, base_url=OPENAI_BASE_URL)
     
     # 过滤空文本
     valid_texts = [(i, t) for i, t in enumerate(texts) if t and t.strip()]
@@ -38,13 +39,13 @@ Texts to translate:
 {chr(10).join([f"{i+1}. {t}" for i, t in enumerate(texts_to_translate)])}
 """
     
-    response = client.messages.create(
+    response = client.chat.completions.create(
         model=MODEL,
         max_tokens=4096,
         messages=[{"role": "user", "content": prompt}]
     )
     
-    translations = response.content[0].text.strip().split('\n')
+    translations = response.choices[0].message.content.strip().split('\n')
     translations = [t.split('. ', 1)[-1].strip() if '. ' in t else t.strip() for t in translations]
     
     # 重建完整结果（保留原位置）
@@ -66,10 +67,10 @@ def translate_batch(texts, batch_size=10):
         print(f"  翻译进度: {min(i+batch_size, len(texts))}/{len(texts)}")
         
         try:
-            if USE_ANTHROPIC:
-                translations = translate_with_claude(batch)
+            if USE_OPENAI:
+                translations = translate_with_openai(batch)
             else:
-                print("  请设置 ANTHROPIC_API_KEY 环境变量")
+                print("  请设置 OPENAI_API_KEY 环境变量")
                 return texts
             
             all_translations.extend(translations)
@@ -226,14 +227,14 @@ def process_file(filepath):
     return modified
 
 def main():
-    if not ANTHROPIC_API_KEY:
-        print("错误: 请设置 ANTHROPIC_API_KEY 环境变量")
-        print("  export ANTHROPIC_API_KEY='your-api-key'")
+    if not OPENAI_API_KEY:
+        print("错误: 请设置 OPENAI_API_KEY 环境变量")
+        print("  export OPENAI_API_KEY='your-api-key'")
         sys.exit(1)
     
     files = sorted([f for f in os.listdir(DATA_DIR) if f.endswith(".json") and not f.startswith("digest") and not f.startswith("tech-report")])
     
-    print(f"使用 Claude 翻译")
+    print(f"使用 {MODEL} 翻译")
     print(f"找到 {len(files)} 个数据文件")
     
     for i, filename in enumerate(files):
