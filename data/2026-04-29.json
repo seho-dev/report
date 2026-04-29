@@ -1,0 +1,240 @@
+{
+  "date": "2026-04-29",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "mattpocock/skills",
+      "title_zh": "Matt Pocock 的技能库",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "专为工程师打造的真实用技能集合，直接来自作者的 .claude 目录，涵盖各类实战技巧。",
+      "content": "Skills for Real Engineers. Straight from my .claude directory. Contains practical skills for developers working with TypeScript, React, and modern tooling.",
+      "stars": "7,321"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "abhigyanpatwari/GitNexus",
+      "title_zh": "GitNexus：零服务器代码智能引擎",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "summary": "一个完全运行在浏览器中的客户端知识图谱创建工具，支持导入 GitHub 仓库或 ZIP 文件，生成交互式知识图谱和内置 Graph RAG 智能体。",
+      "content": "GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph with a built-in Graph RAG Agent for code exploration.",
+      "stars": "1,607"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "fspecii/ace-step-ui",
+      "title_zh": "ACE-Step UI：终极开源 Suno 替代品",
+      "url": "https://github.com/fspecii/ace-step-ui",
+      "summary": "ACE-Step 1.5 AI 音乐生成的专业 UI 界面，完全免费、本地运行、无限制使用，是 Suno 的开源替代方案。",
+      "content": "The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+      "stars": "1,483"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "microsoft/VibeVoice",
+      "title_zh": "微软前沿语音 AI 项目",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "summary": "微软开源的前沿语音 AI 项目，支持多语言语音识别与合成，提供高质量的端到端语音交互能力。",
+      "content": "Open-Source Frontier Voice AI by Microsoft. Contribute to microsoft/VibeVoice development by creating an account on GitHub.",
+      "stars": "953"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "public-apis/public-apis",
+      "title_zh": "免费公共 API 集合",
+      "url": "https://github.com/public-apis/public-apis",
+      "summary": "一个收录了大量免费 API 的精选列表，涵盖动物、动漫、音乐、新闻等多个分类，是开发者找免费接口的首选资源。",
+      "content": "A collective list of free APIs. The largest collection of public APIs on the internet, categorized and maintained by the community.",
+      "stars": "967"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "HunxByts/GhostTrack",
+      "title_zh": "GhostTrack 定位追踪工具",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "summary": "一款用于追踪手机号码或地理位置的开源工具，支持多种数据源聚合，适合安全研究和渗透测试场景。",
+      "content": "Useful tool to track location or mobile number. A recon tool for OSINT investigations.",
+      "stars": "744"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "CJackHwang/ds2api",
+      "title_zh": "DS2API：Deepseek 转 API 中间件",
+      "url": "https://github.com/CJackHwang/ds2api",
+      "summary": "轻量级高性能全栈中间件，将客户端协议转换为通用 API，支持多账号轮换、编译二进制产物、Vercel Serverless 和 Docker 部署，兼容 Google、Claude、OpenAI API 格式。",
+      "content": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+      "stars": "699"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "ComposioHQ/awesome-codex-skills",
+      "title_zh": "Codex 技能精选列表",
+      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "summary": "精心整理的 Codex 技能列表，帮助开发者通过 Codex CLI 和 API 实现工作流程自动化，涵盖代码审查、测试生成、文档编写等多种场景。",
+      "content": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "stars": "644"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "Alishahryar1/free-claude-code",
+      "title_zh": "免费使用 Claude Code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "summary": "在终端、VSCode 扩展或通过 Discord 免费使用 Claude Code 的开源方案，降低 AI 编程助手的入门门槛。",
+      "content": "Use claude-code for free in the terminal, VSCode extension or via Discord like openclaw.",
+      "stars": "417"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "davila7/claude-code-templates",
+      "title_zh": "Claude Code 配置与监控模板",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "summary": "用于配置和监控 Claude Code 的命令行工具，提供预设模板和自动化脚本，方便团队统一管理 AI 编程工作流。",
+      "content": "CLI tool for configuring and monitoring Claude Code. Provides templates and automation scripts for team-wide AI coding workflows.",
+      "stars": "346"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Ghostty is leaving GitHub",
+      "title_zh": "Ghostty terminal 宣布离开 GitHub",
+      "url": "https://news.ycombinator.com/item?id=47939579",
+      "summary": "Ghostty terminal 项目宣布将离开 GitHub，选择自建托管基础设施，引发开源社区对平台依赖的讨论。",
+      "content": "HN Score: 1496, Comments: 470"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Before GitHub",
+      "title_zh": "GitHub 诞生之前的代码托管史",
+      "url": "https://news.ycombinator.com/item?id=47940921",
+      "summary": "一篇回顾 GitHub 出现之前代码托管平台历史的文章，讲述了 SourceForge、Google Code 等早期平台的故事。",
+      "content": "HN Score: 220, Comments: 58"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "title_zh": "GitHub RCE 漏洞 CVE-2026-3854 分析",
+      "url": "https://news.ycombinator.com/item?id=47936479",
+      "summary": "安全机构 Wiz 详细分析了 GitHub 近期爆出的远程代码执行漏洞 CVE-2026-3854，漏洞涉及 GitHub Actions 工作流机制。",
+      "content": "HN Score: 228, Comments: 58"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Your phone is about to stop being yours",
+      "title_zh": "你的手机即将不再属于你",
+      "url": "https://news.ycombinator.com/item?id=47935853",
+      "summary": "文章探讨了现代智能手机中用户自主权不断被剥夺的现象，包括锁定电池、限制第三方维修等厂商行为。",
+      "content": "HN Score: 912, Comments: 454"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Who owns the code Claude Code wrote?",
+      "title_zh": "Claude Code 写的代码归谁所有？",
+      "url": "https://news.ycombinator.com/item?id=47932937",
+      "summary": "法律视角探讨 AI 编程助手生成代码的版权归属问题，引发关于 AI 与知识产权的激烈讨论。",
+      "content": "HN Score: 235, Comments: 278"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Warp is now open-source",
+      "title_zh": "Warp 终端宣布开源",
+      "url": "https://news.ycombinator.com/item?id=47936264",
+      "summary": "以 Rust 编写的现代终端 Warp 宣布开源，其以 Rust 驱动和 GPU 加速界面著称，吸引了大量开发者关注。",
+      "content": "HN Score: 137, Comments: 48"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "title_zh": "Localsend：开源跨平台 AirDrop 替代品",
+      "url": "https://news.ycombinator.com/item?id=47933208",
+      "summary": "开源跨平台文件传输工具，支持局域网内设备间快速共享文件，无需互联网连接，是苹果 AirDrop 的通用替代方案。",
+      "content": "HN Score: 728, Comments: 228"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "VibeVoice: Open-source frontier voice AI",
+      "title_zh": "VibeVoice：微软开源前沿语音 AI",
+      "url": "https://news.ycombinator.com/item?id=47933236",
+      "summary": "微软发布的前沿开源语音 AI 项目，支持高质量语音识别与合成，代表了开源语音技术的最新进展。",
+      "content": "HN Score: 311, Comments: 166"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "CJIT: C, Just in Time",
+      "title_zh": "CJIT：C 语言的即时编译",
+      "url": "https://news.ycombinator.com/item?id=47939105",
+      "summary": "一个实验性项目，探索在 C 语言中实现 JIT（即时编译）技术的可能性，为系统级语言注入动态编译能力。",
+      "content": "HN Score: 81, Comments: 23"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "I have officially retired from Emacs",
+      "title_zh": "我正式从 Emacs 退休",
+      "url": "https://news.ycombinator.com/item?id=47906651",
+      "summary": "一位资深开发者分享了他告别 Emacs 的心路历程，引发了关于编辑器之争和程序员工具选择的怀旧讨论。",
+      "content": "HN Score: 175, Comments: 105"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Google expands Pentagon's access to its AI after Anthropic's refusal",
+      "title_zh": "谷歌扩大五角大楼对其 AI 的访问权限，因 Anthropic 拒绝合作",
+      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "summary": "在 Anthropic 拒绝向五角大楼提供 AI 服务后，谷歌扩大了与美国国防部的 AI 合作范围，涉及军方AI应用和云基础设施。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Amazon is already offering new OpenAI products on AWS",
+      "title_zh": "亚马逊已在 AWS 上提供新的 OpenAI 产品",
+      "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+      "summary": "亚马逊宣布其 AWS 云平台已开始提供 OpenAI 最新模型和产品，扩展了双方在云端 AI 领域的合作。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Lovable launches its vibe-coding app on iOS and Android",
+      "title_zh": "Lovable 推出 vibe-coding 应用登陆 iOS 和 Android",
+      "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+      "summary": "Lovable 发布移动端 vibe-coding 应用，用户可通过自然语言描述快速构建应用，推进 AI 辅助编程的移动化。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+      "title_zh": "YouTube 正在测试 AI 驱动的引导式搜索功能",
+      "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+      "summary": "YouTube 正在测试基于 AI 的搜索功能，能够根据用户问题直接生成引导式答案，提升视频内容发现效率。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "DeepMind's David Silver just raised $1.1B to build an AI that learns without human data",
+      "title_zh": "DeepMind 联合创始人 David Silver 融资 11 亿美元，开发无需人类数据的 AI",
+      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "summary": "DeepMind 联合创始人 David Silver 获得 11 亿美元融资，新公司将研发完全自主学习、无需人类标注数据的 AI 系统。",
+      "content": ""
+    }
+  ]
+}
