@@ -1,0 +1,315 @@
+{
+  "date": "2026-04-30",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "forrestchang/andrej-karpathy-skills",
+      "title_zh": "Andrej Karpathy 技能集",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "summary": "一个用于改进 Claude Code 行为的 CLAUDE.md 文件，源自 Andrej Karpathy 关于 LLM 编码陷阱的观察",
+      "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. 99,550 stars, 9,702 forks, 24,129 stars this week.",
+      "stars": "99550"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "Z4nzu/hackingtool",
+      "title_zh": "黑客工具大全",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "summary": "黑客必备的全合一渗透测试工具集",
+      "content": "ALL IN ONE Hacking Tool For Hackers. 68,674 stars, 7,723 forks, 9,428 stars this week.",
+      "stars": "68674"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "mattpocock/skills",
+      "title_zh": "Matt Pocock 技能集",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "真实工程师的技能集，来自我的 .claude 目录",
+      "content": "Skills for Real Engineers. Straight from my .claude directory. 44,398 stars, 3,556 forks, 24,702 stars this week.",
+      "stars": "44398"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "Alishahryar1/free-claude-code",
+      "title_zh": "免费 Claude Code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "summary": "在终端、VSCode 扩展或 Discord 中免费使用 Claude Code",
+      "content": "Use claude-code for free in the terminal, VSCode extension or discord like openclaw. 18,535 stars, 2,630 forks, 16,154 stars this week.",
+      "stars": "18535"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "Fincept-Corporation/FinceptTerminal",
+      "title_zh": "金融终端",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "summary": "现代金融应用，提供高级市场分析、投资研究和经济数据工具",
+      "content": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools. 17,799 stars, 2,408 forks, 5,117 stars this week.",
+      "stars": "17799"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "trycua/cua",
+      "title_zh": "CUA 计算机使用代理",
+      "url": "https://github.com/trycua/cua",
+      "summary": "计算机使用代理的开源基础设施，包含沙箱、SDK和基准测试",
+      "content": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). 15,240 stars, 948 forks.",
+      "stars": "15240"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "zilliztech/claude-context",
+      "title_zh": "Claude 上下文搜索",
+      "url": "https://github.com/zilliztech/claude-context",
+      "summary": "Claude Code 的代码搜索 MCP，让整个代码库成为任何编码代理的上下文",
+      "content": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent. 10,277 stars, 760 forks, 3,151 stars this week.",
+      "stars": "10277"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "mksglu/context-mode",
+      "title_zh": "上下文模式优化",
+      "url": "https://github.com/mksglu/context-mode",
+      "summary": "AI 编码代理的上下文窗口优化，沙箱工具输出减少 98%",
+      "content": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms. 11,219 stars, 767 forks, 2,215 stars this week.",
+      "stars": "11219"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "Anil-matcha/Open-Generative-AI",
+      "title_zh": "开放生成式 AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "summary": "无审查的开源 AI 图像和视频生成工作室，支持 200+ 模型",
+      "content": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models. 10,158 stars, 1,778 forks.",
+      "stars": "10158"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "huggingface/ml-intern",
+      "title_zh": "机器学习实习生",
+      "url": "https://github.com/huggingface/ml-intern",
+      "summary": "开源 ML 工程师，阅读论文、训练模型并部署 ML 模型",
+      "content": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models. 7,457 stars, 721 forks, 6,388 stars this week.",
+      "stars": "7457"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "AIDC-AI/Pixelle-Video",
+      "title_zh": "Pixelle 视频",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "summary": "AI 全自动短视频引擎",
+      "content": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine. 7,832 stars, 1,262 forks, 2,445 stars this week.",
+      "stars": "7832"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "lsdefine/GenericAgent",
+      "title_zh": "通用智能体",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "summary": "自我进化代理，从 3300 行种子代码生长技能树，实现全系统控制",
+      "content": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption. 8,230 stars, 940 forks.",
+      "stars": "8230"
+    },
+    {
+      "id": "gh-13",
+      "type": "github",
+      "title": "CJackHwang/ds2api",
+      "title_zh": "Deepseek 转 API",
+      "url": "https://github.com/CJackHwang/ds2api",
+      "summary": "轻量级高性能全栈中间件，支持多账户轮换和 Docker 部署",
+      "content": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. 2,703 stars, 721 forks, 1,415 stars this week.",
+      "stars": "2703"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Zed 1.0",
+      "title_zh": "Zed 1.0 发布",
+      "url": "https://news.ycombinator.com/item?id=47949027",
+      "summary": "Zed 编辑器发布 1.0 版本",
+      "content": "HN Score: 1454, Comments: 460"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "title_zh": "HERMES.md 导致额外计费",
+      "url": "https://news.ycombinator.com/item?id=47952722",
+      "summary": "在提交信息中使用 HERMES.md 会导致请求被路由到额外用量计费",
+      "content": "HN Score: 935, Comments: 381"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "We need a federation of forges",
+      "title_zh": "我们需要代码托管联邦",
+      "url": "https://news.ycombinator.com/item?id=47948603",
+      "summary": "关于建立代码托管平台联邦的讨论",
+      "content": "HN Score: 507, Comments: 320"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Online age verification is the hill to die on",
+      "title_zh": "在线年龄验证是关键战场",
+      "url": "https://news.ycombinator.com/item?id=47950091",
+      "summary": "关于在线年龄验证的讨论",
+      "content": "HN Score: 698, Comments: 441"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Ghostty is leaving GitHub",
+      "title_zh": "Ghostty 离开 GitHub",
+      "url": "https://news.ycombinator.com/item?id=47939579",
+      "summary": "Ghostty 终端宣布离开 GitHub",
+      "content": "HN Score: 3329, Comments: 987"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Copy Fail – CVE-2026-31431",
+      "title_zh": "Copy Fail 安全漏洞",
+      "url": "https://news.ycombinator.com/item?id=47952181",
+      "summary": "Copy Fail 安全漏洞详情 CVE-2026-31431",
+      "content": "HN Score: 476, Comments: 222"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Cursor Camp",
+      "title_zh": "Cursor Camp",
+      "url": "https://news.ycombinator.com/item?id=47949939",
+      "summary": "Cursor IDE 训练营项目",
+      "content": "HN Score: 532, Comments: 96"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Soft launch of open-source code platform for government",
+      "title_zh": "政府开源代码平台软发布",
+      "url": "https://news.ycombinator.com/item?id=47945918",
+      "summary": "荷兰政府开源代码平台软发布",
+      "content": "HN Score: 518, Comments: 117"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+      "title_zh": "FastCGI：30 年历史的更好协议",
+      "url": "https://news.ycombinator.com/item?id=47950510",
+      "summary": "FastCGI 协议回顾，仍然是反向代理的最佳选择",
+      "content": "HN Score: 224, Comments: 51"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Third Editor Fired in Elsevier's Citation Cartel Crackdown",
+      "title_zh": "Elsevier 引用卡特尔调查再裁员",
+      "url": "https://news.ycombinator.com/item?id=47950022",
+      "summary": "Elsevier 引用卡特尔调查第三位编辑被解雇",
+      "content": "HN Score: 229, Comments: 73"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Satya Nadella says he's ready to 'exploit' the new OpenAI deal",
+      "title_zh": "纳德拉准备好利用新 OpenAI 协议",
+      "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+      "summary": "微软 CEO 萨提亚·纳德拉表示准备好利用新的 OpenAI 交易",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Microsoft says it has over 20M paid Copilot users",
+      "title_zh": "微软称付费 Copilot 用户超 2000 万",
+      "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+      "summary": "微软宣布其付费 Copilot 用户已超过 2000 万，并且用户确实在使用它",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+      "title_zh": "谷歌云收入超 200 亿美元",
+      "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+      "summary": "谷歌云业务收入超过 200 亿美元，但表示增长受限于容量",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Scout AI raises $100M to train its models for war",
+      "title_zh": "Scout AI 融资 1 亿美元用于战争训练",
+      "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+      "summary": "Scout AI 完成 1 亿美元融资，用于训练战争模型",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Google expands Pentagon's access to its AI after Anthropic's refusal",
+      "title_zh": "谷歌在 Anthropic 拒绝后扩大五角大楼 AI 访问权限",
+      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "summary": "在 Anthropic 拒绝后，谷歌扩大了五角大楼对其 AI 的访问权限",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Is AI video just a prequel? Runway's CEO thinks world models are next",
+      "title_zh": "AI 视频只是前传？Runway CEO 认为世界模型是下一步",
+      "url": "https://techcrunch.com/2026/04/29/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
+      "summary": "Runway CEO 认为 AI 视频只是前传，世界模型才是未来",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Google Photos uses AI to make the iconic closet from 'Clueless' a reality",
+      "title_zh": "谷歌照片用 AI 还原《独领风骚》经典衣橱",
+      "url": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+      "summary": "谷歌照片利用 AI 技术还原了电影《独领风骚》中的经典智能衣橱",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "More Gemini features are coming to Google TV",
+      "title_zh": "更多 Gemini 功能将登陆谷歌电视",
+      "url": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+      "summary": "谷歌宣布更多 Gemini AI 功能将登陆 Google TV 平台",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Lovable launches its vibe-coding app on iOS and Android",
+      "title_zh": "Lovable 推出 iOS 和安卓版 vibe-coding 应用",
+      "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+      "summary": "Lovable 发布了 iOS 和 Android 版本的 vibe-coding 应用",
+      "content": ""
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "YouTube is testing an AI-powered search feature",
+      "title_zh": "YouTube 测试 AI 驱动的搜索功能",
+      "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+      "summary": "YouTube 正在测试新的 AI 驱动搜索功能，可以显示引导答案",
+      "content": ""
+    }
+  ]
+}
