@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-01",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "warpdotdev/warp",
+      "title_zh": "Warp 终端",
+      "url": "https://github.com/warpdotdev/warp",
+      "summary": "Warp 是一个基于 Agent 的开发环境，诞生于终端。它是一款现代化的人工智能终端模拟器，将 AI 能力直接集成到命令行工作流中，提供智能补全、命令解释和自动化功能。",
+      "content": "Warp is an agentic development environment, born out of the terminal. It features AI-powered command completion, natural language to shell commands, and collaborative workflows. Built with Rust for performance.",
+      "stars": "49154"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "TauricResearch/TradingAgents",
+      "title_zh": "交易代理框架",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "summary": "TradingAgents 是一个多智能体 LLM 金融交易框架，利用大语言模型进行量化交易策略开发和执行。该框架集成了多个 AI 代理协同工作，进行市场分析、风险评估和交易决策。",
+      "content": "TradingAgents: Multi-Agents LLM Financial Trading Framework. Integrates multiple AI agents for market analysis, risk assessment, and trade execution using large language models.",
+      "stars": "57694"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "mattpocock/skills",
+      "title_zh": "工程师技能集",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "真实工程师的技能集锦，直接来自 .claude 目录。该项目收集了专业人士在实际工作中使用的提示词和工作流，涵盖代码审查、调试、文档编写等场景。",
+      "content": "Skills for Real Engineers. Straight from my .claude directory. Contains curated prompts and workflows for professional development tasks.",
+      "stars": "49391"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "obra/superpowers",
+      "title_zh": "超级能力框架",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一个智能体技能框架和软件开发方法论，旨在帮助开发者构建更强大的 AI 辅助开发能力。该框架提供了一套完整的 Agent 开发规范和最佳实践。",
+      "content": "An agentic skills framework & software development methodology that works. Provides comprehensive guidelines for building effective AI-assisted development workflows.",
+      "stars": "174554"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "lukilabs/craft-agents-oss",
+      "title_zh": "Craft Agents 开源版",
+      "url": "https://github.com/lukilabs/craft-agents-oss",
+      "summary": "LukiLabs 推出的开源 AI 代理框架，专注于提供可定制的智能体开发工具。该框架支持多种大语言模型集成，具有高度模块化的架构设计。",
+      "content": "Open source AI agent framework from LukiLabs. Features modular architecture with support for multiple LLM providers and custom tool integrations.",
+      "stars": "5563"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Rivian allows you to disable all internet connectivity",
+      "title_zh": "Rivian 允许用户禁用所有互联网连接",
+      "url": "https://news.ycombinator.com/item?id=47967786",
+      "summary": "电动汽车制造商 Rivian 宣布用户可以完全禁用车辆的互联网连接功能，这一隐私保护措施在汽车行业中较为罕见，引发了关于数据隐私和车联网安全的讨论。",
+      "content": "HN Score: 384, Comments: 150"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+      "title_zh": "LinkedIn 扫描 6278 个浏览器扩展并加密结果",
+      "url": "https://news.ycombinator.com/item?id=47967262",
+      "summary": "研究人员发现 LinkedIn 正在扫描用户浏览器上安装的 6278 个扩展，并将这些信息加密后嵌入到每个网络请求中。这一行为引发了隐私担忧。",
+      "content": "HN Score: 356, Comments: 152"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "title_zh": "Mark Klein 如何向 EFF 揭露 Room 641A",
+      "url": "https://news.ycombinator.com/item?id=47965060",
+      "summary": "一本新书的摘录，讲述了 AT&T 技术员 Mark Klein 如何发现并向电子前沿基金会（EFF）揭露国家安全局在 AT&T 旧金山设施的秘密监控室 Room 641A 的故事。",
+      "content": "HN Score: 393, Comments: 116"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Claude Code refuses requests or charges extra if your commits mention OpenClaw",
+      "title_zh": "Claude Code 拒绝或额外收费处理包含 OpenClaw 的提交",
+      "url": "https://news.ycombinator.com/item?id=47963204",
+      "summary": "开发者发现 Claude Code 会对包含 OpenClaw 关键字的代码提交进行特殊处理，要么拒绝服务要么收取额外费用。这一发现引发了关于 AI 代码助手偏见和竞争行为的讨论。",
+      "content": "HN Score: 901, Comments: 511"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "CopyFail was not disclosed to distro developers?",
+      "title_zh": "CopyFail 是否未向发行版开发者披露？",
+      "url": "https://news.ycombinator.com/item?id=47965108",
+      "summary": "安全研究人员质疑 CopyFail 漏洞是否已向 Linux 发行版开发者披露。该漏洞涉及广泛使用的开源组件的安全问题，引发了对漏洞披露流程的质疑。",
+      "content": "HN Score: 332, Comments: 270"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "OpenAI GPT-5.5 Released with Agentic Coding Capabilities",
+      "title_zh": "OpenAI 发布 GPT-5.5：具备智能体编程能力",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "summary": "OpenAI 正式发布 GPT-5.5，官方称其为迄今为止最智能的模型。该模型在代理式编码任务中取得了 82.7% 的基准测试分数，能够处理跨工具的复杂编码、研究和数据分析任务。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Claude Opus 4.7 Released by Anthropic",
+      "title_zh": "Anthropic 发布 Claude Opus 4.7",
+      "url": "https://www.buildfastwithai.com/blogs/gpt-5-5-review-2026",
+      "summary": "Anthropic 于 2026 年 4 月 16 日发布 Claude Opus 4.7，在 SWE-bench Pro 上以 64.3% 的分数重新夺回编程能力榜首。一周后 OpenAI 推出 GPT-5.5 进行回应。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Stanford AI Index 2026 Report Released",
+      "title_zh": "斯坦福大学发布 2026 年 AI 指数报告",
+      "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
+      "summary": "斯坦福大学发布了 2026 年 AI 指数报告，概述了当前 AI 行业发展的关键趋势。报告指出美国公司在 AI 模型开发方面保持领先地位。",
+      "content": ""
+    }
+  ]
+}
