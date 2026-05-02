@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-02",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "openhuman",
+      "title_zh": "OpenHuman - AI 人类模拟项目",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "summary": "一个开源的 AI 人类模拟项目，可模拟人类行为和决策过程，拥有 54.9k 星标。",
+      "content": "Openhuman is an AI agent project that simulates human behavior and decision-making processes. It has gained 54.9k stars on GitHub, making it one of the most popular AI agent projects.",
+      "stars": "54.9k"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "warp",
+      "title_zh": "Warp - 终端人工智能开发环境",
+      "url": "https://github.com/warpdotdev/warp",
+      "summary": "Warp 是一个基于人工智能的终端开发环境，由 Atom 和 Tree-sitter 的创建者开发，拥有 51.2k 星标。",
+      "content": "Warp is an agentic development environment, born out of the terminal. Created by the founders of Atom and Tree-sitter, it brings AI-powered features to the command line with 51.2k stars.",
+      "stars": "51.2k"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "superpowers",
+      "title_zh": "Superpowers - 代理技能框架",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一个代理技能框架与软件开发方法论，帮助开发者构建智能化的工作流程，拥有 173.1k 星标。",
+      "content": "Superpowers is an agentic skills framework and software development methodology that works. It helps developers build intelligent workflows with 173.1k stars.",
+      "stars": "173.1k"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "claude-code",
+      "title_zh": "Claude Code - AI 编程助手",
+      "url": "https://github.com/anthropics/claude-code",
+      "summary": "Anthropic 推出的 AI 编程工具，位于终端中，理解代码库并通过自然语言命令帮助开发者完成编码任务，拥有 119.7k 星标。",
+      "content": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": "119.7k"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "awesome",
+      "title_zh": "Awesome - 精选资源列表",
+      "url": "https://github.com/sindresorhus/awesome",
+      "summary": "关于各种有趣主题的精选列表集合，是 GitHub 上最受欢迎的精选列表之一，拥有 460.8k 星标。",
+      "content": "Awesome lists about all kinds of interesting topics. A curated collection of lists covering various domains including programming, AI, security, and more.",
+      "stars": "460.8k"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Ti-84 Evo",
+      "title_zh": "Ti-84 Evo 计算器发布",
+      "url": "https://news.ycombinator.com/item?id=47979583",
+      "summary": "德州仪器发布了新一代 Ti-84 Evo 图形计算器，引发社区讨论。",
+      "content": "HN Score: 212, Comments: 231"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "title_zh": "新研究表明人们可以在梦中交流和练习技能",
+      "url": "https://news.ycombinator.com/item?id=47977748",
+      "summary": "《纽约客》报道了关于睡眠中学习和技能练习的最新研究成果。",
+      "content": "HN Score: 200, Comments: 111"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Eka's robotic claw feels like we're approaching a ChatGPT moment",
+      "title_zh": "Eka 机器人夹爪：仿佛我们正在接近 ChatGPT 时刻",
+      "url": "https://news.ycombinator.com/item?id=47955789",
+      "summary": "Wired 报道了机器人夹爪技术的突破，暗示机器人领域可能迎来类似 ChatGPT 的突破性时刻。",
+      "content": "HN Score: 69, Comments: 78"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Credit cards are vulnerable to brute force kind attacks",
+      "title_zh": "信用卡易受暴力破解攻击",
+      "url": "https://news.ycombinator.com/item?id=47979839",
+      "summary": "研究发现信用卡存在暴力破解风险，引发关于支付安全的讨论。",
+      "content": "HN Score: 174, Comments: 144"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "title_zh": "城市发现监控摄像头被用于儿童体操室销售演示",
+      "url": "https://news.ycombinator.com/item?id=47978370",
+      "summary": "404 Media 报道了监控摄像头数据被不当使用的新闻，引发隐私争议。",
+      "content": "HN Score: 264, Comments: 82"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Elon Musk Takes Stand as OpenAI Trial Begins",
+      "title_zh": "OpenAI 审判开始：马斯克出庭作证",
+      "url": "https://theaitrack.com/elon-musk-takes-stand-as-openai-trial-begins/",
+      "summary": "Elon Musk 在奥克兰出庭作证，OpenAI 审判针对 Sam Altman、Greg Brockman、OpenAI 和微软展开，仅剩两项指控：违反慈善信托和不当得利。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic Releases Claude Connectors for Adobe, Blender and Autodesk Fusion",
+      "title_zh": "Anthropic 发布 Claude 连接器：支持 Adobe、Blender 和 Autodesk Fusion",
+      "url": "https://theaitrack.com/claude-connectors-adobe-blender/",
+      "summary": "Claude 连接器扩展了 Anthropic 的 AI 助手在设计、音乐、视频、3D 建模、现场视觉和创意教育工作流程中的应用。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Microsoft and OpenAI End Exclusive Cloud Deal",
+      "title_zh": "微软和 OpenAI 结束独家云合作",
+      "url": "https://theaitrack.com/microsoft-and-openai-end-exclusive-deal/",
+      "summary": "微软和 OpenAI 重构了合作伙伴关系，结束云 exclusivity，但保持 Azure 作为 OpenAI 的主要云合作伙伴，并移除与 AGI 相关的协议条款。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "China Blocks Meta's $2B+ Acquisition of AI Startup Manus",
+      "title_zh": "中国阻止 Meta 收购 AI 创业公司 Manus",
+      "url": "https://theaitrack.com/china-blocks-meta-ai-startup-manus-deal/",
+      "summary": "中国阻止了 Meta 收购 AI 创业公司 Manus 的交易，这笔交易估值超过 20 亿美元，此举加剧了对美国在与中国关联技术公司投资的审查。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Google Plans to Invest in Anthropic up to $40 Billion",
+      "title_zh": "谷歌计划向 Anthropic 投资高达 400 亿美元",
+      "url": "https://theaitrack.com/google-plans-to-invest-in-anthropic/",
+      "summary": "谷歌计划通过现金和计算支持向 Anthropic 投资高达 400 亿美元，随着 Claude 和 AI 基础设施需求增长，这是一项重大投资。",
+      "content": ""
+    }
+  ]
+}
