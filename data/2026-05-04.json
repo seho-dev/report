@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-04",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "caveman",
+      "title_zh": "原始人",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "summary": "一个 Claude Code 技能，通过使用原始人语言对话来减少 65% 的 token 使用量",
+      "content": "A Claude Code skill that cuts 65% of tokens by talking like caveman. Why use many token when few token do trick.",
+      "stars": "53050"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "mempalace",
+      "title_zh": "记忆宫殿",
+      "url": "https://github.com/MemPalace/mempalace",
+      "summary": "业界最佳基准测试的开源 AI 记忆系统，完全免费",
+      "content": "The best-benchmarked open-source AI memory system. And it's free. Supports multiple memory backends and LLM integration.",
+      "stars": "50960"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "career-ops",
+      "title_zh": "职业操作",
+      "url": "https://github.com/santifer/career-ops",
+      "summary": "基于 Claude Code 的 AI 驱动求职系统，支持 14 种技能模式、仪表板、PDF 生成和批量处理",
+      "content": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars": "42162"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "design.md",
+      "title_zh": "设计文档",
+      "url": "https://github.com/google-labs-code/design.md",
+      "summary": "用于向编码代理描述视觉身份的格式规范，让代理持久理解设计系统",
+      "content": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "stars": "11389"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "browser-harness",
+      "title_zh": "浏览器测试套件",
+      "url": "https://github.com/browser-use/browser-harness",
+      "summary": "自愈式测试套件，让 LLM 能够完成任何任务",
+      "content": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+      "stars": "9983"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+      "title_zh": "OpenAI o1 在急诊分诊中正确诊断 67% 的患者 vs 医生的 50-55%",
+      "url": "https://news.ycombinator.com/item?id=47991981",
+      "summary": "哈佛试验显示，OpenAI o1 在急诊分诊诊断中正确率达 67%，显著优于分诊医生的 50-55%",
+      "content": "HN Score: 250, Comments: 206"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
+      "title_zh": "伦敦新雕像被归因于 Banksy，展示一名被旗帜蒙蔽眼睛的西装男",
+      "url": "https://news.ycombinator.com/item?id=48000152",
+      "summary": "伦敦市中心出现一尊新的 Banksy 雕像，描绘一名西装男子被旗帜蒙蔽双眼走向边缘",
+      "content": "HN Score: 238, Comments: 242"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "title_zh": "BYOMesh - 新型 LoRa 网状无线电提供 100 倍带宽",
+      "url": "https://news.ycombinator.com/item?id=47999636",
+      "summary": "新型 LoRa 网状无线电提供比现有方案高 100 倍的带宽",
+      "content": "HN Score: 222, Comments: 75"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Southwest Headquarters Tour",
+      "title_zh": "西南航空总部参观",
+      "url": "https://news.ycombinator.com/item?id=47998946",
+      "summary": "参观达拉斯西南航空总部，了解 737 全动模拟器、网络运营中心和 TechOps 维修机库",
+      "content": "HN Score: 170, Comments: 50"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "US–Indian space mission maps extreme subsidence in Mexico City",
+      "title_zh": "美印太空任务绘制墨西哥城极端沉降地图",
+      "url": "https://news.ycombinator.com/item?id=47974682",
+      "summary": "美印联合太空任务绘制了墨西哥城的极端地面沉降情况",
+      "content": "HN Score: 73, Comments: 38"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all",
+      "title_zh": "马斯克诉 Altman 审判第一周：马斯克称被欺骗，警告 AI 可能毁灭人类",
+      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+      "summary": "马斯克在审判中称被 OpenAI 欺骗，警告 AI 可能毁灭人类，并承认 xAI 使用 OpenAI 模型训练自家模型",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Cyber-Insecurity in the AI Era",
+      "title_zh": "AI 时代的网络不安全",
+      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+      "summary": "AI 时代网络安全面临新挑战，攻击面扩大，传统安全方法难以应对",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Orchestrated agents are coming for white-collar work",
+      "title_zh": "编排代理即将取代白领工作",
+      "url": "https://www.technologyreview.com/2026/04/21/1135654/agent-orchestration-ai-artificial-intelligence/",
+      "summary": "AI 代理团队协作可完成复杂任务，可能像流水线改变制造业一样改变白领知识工作",
+      "content": ""
+    }
+  ]
+}
