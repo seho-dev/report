@@ -1,0 +1,136 @@
+{
+  "date": "2026-05-06",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "forrestchang/andrej-karpathy-skills",
+      "title_zh": "Karpathy 技能指南",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "summary": "一个用于改进 Claude Code 行为的 CLAUDE.md 文件，源自 Andrej Karpathy 关于 LLM 编程陷阱的观察。",
+      "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. This repository provides skills and guidelines for better AI-assisted coding.",
+      "stars": "110k"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "ruvnet/ruflo",
+      "title_zh": "Ruflo 主导智能体编排平台",
+      "url": "https://github.com/ruvnet/ruflo",
+      "summary": "面向 Claude 的领先智能体编排平台。部署智能多智能体集群，协调自主工作流，构建对话式 AI 系统。",
+      "content": "The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration.",
+      "stars": "39.8k"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "msitarzewski/agency-agents",
+      "title_zh": "Agency Agents AI 代理平台",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "summary": "完整的 AI 代理系统 - 从前端高手到 Reddit 社区忍者，从趣味注入到现实检查器。每个代理都是具有个性、流程和成熟交付物的专业专家。",
+      "content": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": "91.8k"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "mattpocock/skills",
+      "title_zh": "Matt Pocock 技能集",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "真实工程师的技能集合。直接来自作者的 .claude 目录，提供实用的 AI 编程技能和最佳实践。",
+      "content": "Skills for Real Engineers. Straight from my .claude directory. A collection of practical AI coding skills and best practices for developers.",
+      "stars": "57.6k"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "obra/superpowers",
+      "title_zh": "Superpowers 智能体技能框架",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一个智能体技能框架和软件开发方法论，帮助 AI 更好地完成软件开发任务。",
+      "content": "An agentic skills framework & software development methodology that works. Provides structured approaches for AI agents to handle software development tasks more effectively.",
+      "stars": "177.5k"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": ".de TLD offline due to DNSSEC",
+      "title_zh": ".de 域名因 DNSSEC 问题离线",
+      "url": "https://news.ycombinator.com/item?id=48027897",
+      "summary": "德国顶级域名 .de 由于 DNSSEC 签名问题导致全球无法解析，影响了大量网站和服务。",
+      "content": "HN Score: 488, Comments: 214"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "title_zh": "加速 Gemma 4：多token预测drafters实现更快推理",
+      "url": "https://news.ycombinator.com/item?id=48024540",
+      "summary": "Google 发布了关于 Gemma 4 推理加速技术的博客，介绍如何使用多token预测drafters来提升模型推理速度。",
+      "content": "HN Score: 413, Comments: 189"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Three Inverse Laws of AI",
+      "title_zh": "AI 三大逆向定律",
+      "url": "https://news.ycombinator.com/item?id=48023861",
+      "summary": "文章探讨了 AI 发展中的三个逆向定律，揭示了 AI 领域一些反直觉的现象和规律。",
+      "content": "HN Score: 336, Comments: 240"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Computer Use is 45x more expensive than structured APIs",
+      "title_zh": "计算机使用成本比结构化API高45倍",
+      "url": "https://news.ycombinator.com/item?id=48024859",
+      "summary": "研究显示，使用 AI 进行计算机操作的成本是调用传统结构化 API 的 45 倍，开发者应优先选择 API 方案。",
+      "content": "HN Score: 284, Comments: 143"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "title_zh": "Google Chrome 未经同意静默安装 4GB AI 模型",
+      "url": "https://news.ycombinator.com/item?id=48019219",
+      "summary": "Google Chrome 浏览器在用户不知情的情况下静默下载并安装了 4GB 的 AI 模型，引发隐私担忧。",
+      "content": "HN Score: 1205, Comments: 821"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "GPT-5.4 Launches with 1M Token Context",
+      "title_zh": "GPT-5.4 发布：100万token上下文窗口",
+      "url": "https://aiweekly.co",
+      "summary": "OpenAI 发布 GPT-5.4，带来了 100 万 token 的上下文窗口和更少的 factual 错误，展现了向更大上下文和更高可靠性方向的努力。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Gemini 3.1 Pro Dominates 13/16 Benchmarks",
+      "title_zh": "Gemini 3.1 Pro 主导 13/16 基准测试",
+      "url": "https://aiweekly.co",
+      "summary": "Google 的 Gemini 3.1 Pro 在 16 个主要性能基准测试中占据 13 个第一，展示了强大的 AI 能力。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Record-Breaking AI Startup Funding: $189B in February 2026",
+      "title_zh": "创纪录 AI 初创融资：2026年2月达 1890 亿美元",
+      "url": "https://aiweekly.co",
+      "summary": "2026年2月成为有记录以来最大的单月融资月，全球初创公司融资 1890 亿美元，其中 AI 公司占据主导。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "OpenAI Shuts Down Sora, Video AI Market Reshuffles",
+      "title_zh": "OpenAI 关闭 Sora，视频 AI 市场重排",
+      "url": "https://aiweekly.co",
+      "summary": "OpenAI 关闭 Sora 视频生成应用，将资源重定向到机器人和世界模拟。此举使视频 AI 市场形成新的四层格局。",
+      "content": ""
+    }
+  ]
+}
