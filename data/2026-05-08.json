@@ -1,0 +1,175 @@
+{
+  "date": "2026-05-08",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "aaif-goose/goose",
+      "title_zh": "Goose AI 代理",
+      "url": "https://github.com/aaif-goose/goose",
+      "summary": "一个开源可扩展的AI代理，不仅限于代码建议，还支持安装、执行、编辑和测试任何LLM模型。",
+      "content": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": "44472"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "addyosmani/agent-skills",
+      "title_zh": "AI编码代理技能库",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "面向AI编码代理的生产级工程技能集。",
+      "content": "Production-grade engineering skills for AI coding agents.",
+      "stars": "32860"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "VectifyAI/PageIndex",
+      "title_zh": "PageIndex 向量索引",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "summary": "PageIndex：面向无向量、基于推理的RAG文档索引系统。",
+      "content": "PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": "29493"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "anthropics/financial-services",
+      "title_zh": "Anthropic 金融服务示例",
+      "url": "https://github.com/anthropics/financial-services",
+      "summary": "Anthropic提供的金融服务领域示例代码和最佳实践。",
+      "content": "Python examples for financial services",
+      "stars": "11516"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "docusealco/docuseal",
+      "title_zh": "Docuseal 开源文档签名",
+      "url": "https://github.com/docusealco/docuseal",
+      "summary": "开源DocuSign替代方案，支持创建、填写和签署数字文档。",
+      "content": "Open source DocuSign alternative. Create, fill, and sign digital documents.",
+      "stars": "15583"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "Hmbown/DeepSeek-TUI",
+      "title_zh": "DeepSeek TUI 终端界面",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "summary": "为DeepSeek模型打造的终端编码代理，可在终端中运行。",
+      "content": "Coding agent for DeepSeek models that runs in your terminal",
+      "stars": "18613"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "InsForge/InsForge",
+      "title_zh": "InsForge 全栈开发平台",
+      "url": "https://github.com/InsForge/InsForge",
+      "summary": "基于Postgres的后端平台，集成了认证、存储、计算、托管和AI网关，专为编码代理设计。",
+      "content": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+      "stars": "8835"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "LearningCircuit/local-deep-research",
+      "title_zh": "本地深度研究工具",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "summary": "支持本地和云端LLM的深度研究工具，可在3090上达到约95%的SimpleQA准确率。",
+      "content": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs.",
+      "stars": "6210"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "The Burning Man MOOP Map",
+      "title_zh": "燃烧人MOOP地图",
+      "url": "https://news.ycombinator.com/item?id=48049653",
+      "summary": "燃烧人活动遗留物（MOOP）地图展示参与者遗留垃圾的分布情况。",
+      "content": "HN Score: 509, Comments: 273"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "AI slop is killing online communities",
+      "title_zh": "AI垃圾内容正在杀死在线社区",
+      "url": "https://news.ycombinator.com/item?id=48053203",
+      "summary": "探讨AI生成的低质量内容对在线社区造成的负面影响。",
+      "content": "HN Score: 388, Comments: 378"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "title_zh": "Dirtyfrag：通用Linux本地权限提升",
+      "url": "https://news.ycombinator.com/item?id=48053623",
+      "summary": "一个通用的Linux本地权限提升漏洞分析。",
+      "content": "HN Score: 346, Comments: 165"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Chrome removes claim of On-device AI not sending data to Google Servers",
+      "title_zh": "Chrome删除设备端AI不发送数据到谷歌服务器的声明",
+      "url": "https://news.ycombinator.com/item?id=48050964",
+      "summary": "Chrome悄悄删除了设备端AI不将数据发送到谷歌服务器的承诺。",
+      "content": "HN Score: 428, Comments: 163"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Agents need control flow, not more prompts",
+      "title_zh": "代理需要控制流，而非更多提示词",
+      "url": "https://news.ycombinator.com/item?id=48051562",
+      "summary": "探讨AI代理真正需要的是控制流机制而非更多的提示词优化。",
+      "content": "HN Score: 291, Comments: 157"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "title_zh": "DeepSeek 4 Flash 本地推理引擎 for Metal",
+      "url": "https://news.ycombinator.com/item?id=48050751",
+      "summary": "DeepSeek 4 Flash本地推理引擎支持Apple Metal GPU加速。",
+      "content": "HN Score: 260, Comments: 82"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "title_zh": "AlphaEvolve：Gemini驱动的编码代理",
+      "url": "https://news.ycombinator.com/item?id=48050278",
+      "summary": "DeepMind发布的Gemini驱动的编码代理，可在不同领域扩展影响。",
+      "content": "HN Score: 236, Comments: 91"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Stanford's AI Index 2026",
+      "title_zh": "斯坦福2026年AI指数报告",
+      "url": "https://hai.stanford.edu/ai-index",
+      "summary": "斯坦福大学Human-Centered AI中心发布2026年AI指数报告，展示AI投资暴涨但对就业和公众认知影响仍喜忧参半。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "12 Graphs That Explain the State of AI in 2026",
+      "title_zh": "12张图解释2026年AI现状",
+      "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
+      "summary": "IEEE Spectrum报道2026年AI现状，顶尖AI模型能力持续加速，OpenAI和Anthropic准备今年晚些时候IPO。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "The trends that will shape AI and tech in 2026",
+      "title_zh": "塑造2026年AI和技术趋势",
+      "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026",
+      "summary": "IBM专家预测2026年AI和技术领域的重大发展趋势。",
+      "content": ""
+    }
+  ]
+}
