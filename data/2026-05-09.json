@@ -1,0 +1,220 @@
+{
+  "date": "2026-05-09",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "openhuman",
+      "title_zh": "开放人类",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "summary": "开源的AI智能体与自动化工具集合，提供AI代理、AI编码助手、AI技能和自托管解决方案",
+      "content": "Trending AI agent repository with 61.9k stars, featuring AI agents, AI coding assistants, and self-hosted solutions.",
+      "stars": "61.9k"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "agent-skills",
+      "title_zh": "AI编码智能体工程技能库",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "为AI编码智能体准备的生产级工程技能集合",
+      "content": "Production-grade engineering skills for AI coding agents. 35.3k stars.",
+      "stars": "35.3k"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "andrej-karpathy-skills",
+      "title_zh": "Karpathy的AI技能指南",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "summary": "基于Andrej Karpathy对LLM编码陷阱的观察而编写的CLAUDE.md文件，用于提升Claude Code的编程表现",
+      "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. 119.8k stars.",
+      "stars": "119.8k"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "DeepSeek-TUI",
+      "title_zh": "DeepSeek终端界面",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "summary": "为DeepSeek模型打造的终端编码智能体，可在终端中运行AI编码任务",
+      "content": "Coding agent for DeepSeek models that runs in your terminal. 21k stars.",
+      "stars": "21k"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "superpowers",
+      "title_zh": "超级能力智能体框架",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一个智能体技能框架与软件开发方法论，帮助AI智能体构建复杂软件项目",
+      "content": "An agentic skills framework & software development methodology that works. 182.2k stars.",
+      "stars": "182.2k"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "hello-agents",
+      "title_zh": "从零开始构建智能体",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "summary": "《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "content": "《从零开始构建智能体》——从零开始的智能体原理与实践教程. 43.9k stars.",
+      "stars": "43.9k"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "skills",
+      "title_zh": "真工程师技能集",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "来自mattpocock的.claude目录的真实工程师技能集合",
+      "content": "Skills for Real Engineers. Straight from my .claude directory. 65.7k stars.",
+      "stars": "65.7k"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "UI-TARS-desktop",
+      "title_zh": "字节跳动多模态AI智能体栈",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "summary": "开源的多模态AI智能体技术栈，连接前沿AI模型和智能体基础设施",
+      "content": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra. 30.2k stars.",
+      "stars": "30.2k"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "title_zh": "谷歌破坏了去谷歌化Android用户的reCAPTCHA验证",
+      "url": "https://news.ycombinator.com/item?id=48067119",
+      "summary": "谷歌对非谷歌化Android设备的reCAPTCHA支持出现问题，影响去谷歌化用户",
+      "content": "HN Score: 469, Comments: 154"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+      "title_zh": "你给我u32，我还你root权限（io_uring ZCRX提权漏洞）",
+      "url": "https://news.ycombinator.com/item?id=48067734",
+      "summary": "安全研究人员发现Linux内核io_uring子系统的ZCRX空闲列表存在本地提权漏洞",
+      "content": "HN Score: 111, Comments: 69"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "AI is breaking two vulnerability cultures",
+      "title_zh": "AI正在打破两种漏洞文化",
+      "url": "https://news.ycombinator.com/item?id=48066524",
+      "summary": "AI工具正在改变漏洞发现和修复的方式，传统的漏洞文化正在被颠覆",
+      "content": "HN Score: 198, Comments: 85"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Cartoon Network Flash Games",
+      "title_zh": "卡通网络Flash游戏博物馆",
+      "url": "https://news.ycombinator.com/item?id=48065360",
+      "summary": "Web设计博物馆收录了大量经典的卡通网络Flash游戏",
+      "content": "HN Score: 263, Comments: 89"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "David Attenborough's 100th Birthday",
+      "title_zh": "大卫·阿滕伯勒百岁诞辰",
+      "url": "https://news.ycombinator.com/item?id=48061884",
+      "summary": "BBC纪念著名自然纪录片制片人大卫·阿滕伯勒的百岁诞辰",
+      "content": "HN Score: 406, Comments: 80"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+      "title_zh": "在RAM中运行的树莓派Zero上搭建网站",
+      "url": "https://news.ycombinator.com/item?id=48064312",
+      "summary": "极简方案：在树莓派Zero的RAM中运行网站服务器",
+      "content": "HN Score: 183, Comments: 75"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "An Introduction to Meshtastic",
+      "title_zh": "Meshtastic入门指南",
+      "url": "https://news.ycombinator.com/item?id=48061566",
+      "summary": "Meshtastic是一个开源的远距离、低功耗 mesh网络协议，适合户外和紧急通信",
+      "content": "HN Score: 362, Comments: 136"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Mojo 1.0 Beta",
+      "title_zh": "Mojo 1.0 Beta发布",
+      "url": "https://news.ycombinator.com/item?id=48057901",
+      "summary": "Modular公司的Mojo编程语言发布1.0 Beta版本",
+      "content": "HN Score: 269, Comments: 172"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Ask HN: We just had an actual UUID v4 collision...",
+      "title_zh": "Ask HN：我们刚刚遇到了真实的UUID v4冲突..."",
+      "url": "https://news.ycombinator.com/item?id=48060054",
+      "summary": "Hacker News上一个关于真实UUID v4碰撞的讨论帖",
+      "content": "HN Score: 286, Comments: 247"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Rumors of my death are slightly exaggerated",
+      "title_zh": "关于我死亡的传言有些夸大其词",
+      "url": "https://news.ycombinator.com/item?id=48037336",
+      "summary": "Clifford Stall关于他传奇经历的幽默帖子",
+      "content": "HN Score: 1480, Comments: 228"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic and OpenAI launch joint ventures for enterprise AI services",
+      "title_zh": "Anthropic和OpenAI为企业AI服务成立合资企业",
+      "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+      "summary": "Anthropic和OpenAI都与资产管理公司合作成立了合资企业，以更积极地推广其企业AI产品",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic, Goldman and others launch $1.5 billion AI venture",
+      "title_zh": "Anthropic、高盛等机构推出15亿美元AI合资企业",
+      "url": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
+      "summary": "Anthropic与高盛、黑石等机构合作推出15亿美元的AI合资企业，加深在企业AI市场的领先地位",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Google and Meta race to build personal AI agents",
+      "title_zh": "谷歌和Meta竞相开发个人AI智能体",
+      "url": "https://the-decoder.com/google-and-meta-race-to-build-personal-ai-agents-as-anthropic-and-openai-pull-further-ahead/",
+      "summary": "谷歌和Meta内部正在测试名为Remy和Hatch的个人AI智能体，直接应对Anthropic和OpenAI的领先优势",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "7 Explosive AI Updates in May 2026",
+      "title_zh": "2026年5月七大爆炸性AI更新",
+      "url": "https://imfounder.com/science-tech/ai/ai-updates-may-2026/",
+      "summary": "涵盖政府监管、Anthropic崛起、AI智能体取代应用等2026年5月最重要的AI动态",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "AI News May 2026 — All Model Releases and Announcements",
+      "title_zh": "2026年5月AI新闻——所有模型发布和公告",
+      "url": "https://aitoolsrecap.com/Blog/ai-news-may-2026",
+      "summary": "GPT-5.5、Gemini 3.1 Ultra、Microsoft Agent 365、Anthropic Code等发布的每日AI新闻追踪",
+      "content": ""
+    }
+  ]
+}
