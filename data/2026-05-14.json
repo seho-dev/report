@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-14",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "UI-TARS-desktop",
+      "title_zh": "桌面AI智能体",
+      "url": "https://github.com/ByteDance/UI-TARS-desktop",
+      "summary": "字节跳动开源的多模态AI Agent框架，支持视觉理解与桌面GUI全自动化操作",
+      "content": "The Open-Source Multimodal AI Agent Framework for Desktop GUI Automation. Built with TypeScript, supporting visual understanding and automated desktop operations.",
+      "stars": "33106"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "DeepSeek-TUI",
+      "title_zh": "终端原生AI编程智能体",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "summary": "Rust打造的终端原生AI编程助手，支持MCP协议、1M上下文、自动模式选择和LSP诊断",
+      "content": "DeepSeek TUI - Terminal-native AI coding assistant built with Rust. Supports MCP protocol, 1M context, automatic mode selection, LSP diagnostics, multi-provider support, Skills system, and session management.",
+      "stars": "16000"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "public-apis",
+      "title_zh": "免费API集合列表",
+      "url": "https://github.com/public-apis/public-apis",
+      "summary": "一个收录免费API的聚合列表，包含各种类型的公共可用API接口",
+      "content": "A collective list of free APIs for developers to use when programming and software development.",
+      "stars": "423300"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "build-your-own-x",
+      "title_zh": "从零开始构建你喜爱的技术",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "summary": "通过从头开始重新创建最喜爱的技术来掌握编程技能",
+      "content": "Master programming by recreating your favorite technologies from scratch.",
+      "stars": "495900"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "financial-services",
+      "title_zh": "金融服务AI智能体",
+      "url": "https://github.com/anthropics/financial-services",
+      "summary": "Anthropic发布的金融服务领域AI Agent示例，用于投资银行、私募股权、财富管理等场景",
+      "content": "AI Agent for Investment Banking, Private Equity, Wealth Management, Equity Research, DCF, LBO, Comps Analysis, Financial Modeling, MCP, Excel Automation, KYC, Fund Administration, Portfolio Management.",
+      "stars": "5200"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "title_zh": "UCLA发现首个中风康复药物可修复脑损伤 (2025)",
+      "url": "https://news.ycombinator.com/item?id=1",
+      "summary": "UCLA研究人员发现了首款能够修复脑损伤的中风康复药物",
+      "content": "HN Score: 420, Comments: 156"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "If AI writes your code, why use Python?",
+      "title_zh": "如果AI写代码，为什么还要用Python？",
+      "url": "https://news.ycombinator.com/item?id=2",
+      "summary": "探讨在AI时代Python作为编程语言的角色和未来",
+      "content": "HN Score: 380, Comments: 210"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "title_zh": "渲染天空、日落和行星",
+      "url": "https://news.ycombinator.com/item?id=3",
+      "summary": "关于如何渲染逼真的天空、日落和行星的技术文章",
+      "content": "HN Score: 290, Comments: 45"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "A 3D Body from Eight Questions – No Photo, No GPU",
+      "title_zh": "仅凭八个问题生成3D人体模型 - 无需照片和GPU",
+      "url": "https://news.ycombinator.com/item?id=4",
+      "summary": "一种创新的3D人体模型生成技术，仅需回答八个问题即可",
+      "content": "HN Score: 265, Comments: 78"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Do I belong in tech anymore?",
+      "title_zh": "我还能留在科技行业吗？",
+      "url": "https://news.ycombinator.com/item?id=5",
+      "summary": "关于科技行业从业者身份认同困惑的讨论",
+      "content": "HN Score: 240, Comments: 138"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "OpenAI Releases GPT-5.5, Claims 'Most Intelligent Model'",
+      "title_zh": "OpenAI发布GPT-5.5，声称是最智能的模型",
+      "url": "https://openai.com/blog/gpt-5",
+      "summary": "OpenAI发布最新模型GPT-5.5，官方声称这是迄今为止最智能的模型",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "OpenAI Invests $4B in New Company, Launches Defense Tool",
+      "title_zh": "OpenAI投资40亿美元成立新公司，发布网络防御工具",
+      "url": "https://openai.com/blog/2026-launches",
+      "summary": "OpenAI宣布投资40亿美元成立独立业务单元，并发布网络安全防御工具Day",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "OpenAI Ex-CTO Mira Murati Launches Thinking Machines Lab",
+      "title_zh": "OpenAI前CTO米拉·穆拉蒂创立Thinking Machines Lab",
+      "url": "https://news.sina.com.cn/tech/2026-05-12",
+      "summary": "OpenAI前CTO米拉·穆拉蒂与前应用研究负责人翁荔联合创立Thinking Machines Lab，首次公布全双工实时对话AI模型愿景",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Google Plans to Invest in Anthropic",
+      "title_zh": "谷歌计划投资Anthropic",
+      "url": "https://news.tech/2026/anthropic-investment",
+      "summary": "媒体披露谷歌计划向Anthropic投资，这是本周最劲爆的商业新闻之一",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "DeepSeek-V4 Shows Strong Performance in Programming Tasks",
+      "title_zh": "DeepSeek-V4在编程任务上展现强劲性能",
+      "url": "https://news.ai/2026/deepseek-v4",
+      "summary": "测评显示DeepSeek-V4在某些编程任务上表现出色，中美AI大模型竞争进入相持阶段",
+      "content": ""
+    }
+  ]
+}
