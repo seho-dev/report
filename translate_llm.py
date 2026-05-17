@@ -12,7 +12,7 @@ import openai
 
 # 配置
 DATA_DIR = os.path.dirname(os.path.abspath(__file__)) + "/data"
-MODEL = "minimax-m2.5"
+MODEL = os.environ.get("TRANSLATE_MODEL", "gpt-5.4-mini")
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
 OPENAI_BASE_URL = os.environ.get("OPENAI_BASE_URL", "http://localhost:8317/v1")
 USE_OPENAI = bool(OPENAI_API_KEY)
