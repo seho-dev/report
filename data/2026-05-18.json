@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-18",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "tinyhumansai/openhuman",
+      "title_zh": "个人超级智能体",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "summary": "私有、简洁、强大的个人 AI 超级智能项目，主打本地化与个人助手能力。",
+      "content": "Your Personal AI super intelligence. Private, Simple and extremely powerful. Rust-based project focused on personal AI super intelligence, privacy, and a simple but powerful experience.",
+      "stars": "13103"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "HKUDS/CLI-Anything",
+      "title_zh": "命令行万物智能代理",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "把几乎所有软件都做成 Agent 原生体验的 CLI 方案，强调命令行里的智能工作流。",
+      "content": "\"CLI-Anything: Making ALL Software Agent-Native\". A Python-based CLI project that promotes agent-native workflows across software, with CLI-Hub integration and an agent-first approach.",
+      "stars": "35565"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "calcom/cal.diy",
+      "title_zh": "自助日程基础设施",
+      "url": "https://github.com/calcom/cal.diy",
+      "summary": "面向所有人的日程安排基础设施，目标是让预约与排期更开放、可定制。",
+      "content": "Scheduling infrastructure for absolutely everyone. TypeScript project that rethinks scheduling as open infrastructure, likely extending Cal.com style booking and scheduling capabilities.",
+      "stars": "43255"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "oven-sh/bun",
+      "title_zh": "极速 JavaScript 运行时",
+      "url": "https://github.com/oven-sh/bun",
+      "summary": "集运行时、打包器、测试器和包管理器于一体的超快 JavaScript 工具链。",
+      "content": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one. Bun is a high-performance JS runtime designed to replace multiple tooling layers.",
+      "stars": "91706"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "Anil-matcha/Open-Generative-AI",
+      "title_zh": "开源生成式AI工作台",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "summary": "开源的 AI 图像与视频生成工作台，集成大量模型并支持自托管。",
+      "content": "Open-source alternative to AI video platforms — free AI image & video generation studio with 200+ models, self-hosted, MIT licensed, and built to replace proprietary creation workflows.",
+      "stars": "15077"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "GenCAD",
+      "title_zh": "GenCAD",
+      "url": "https://news.ycombinator.com/item?id=48173429",
+      "summary": "生成式 CAD 工具，面向工程设计与几何建模。",
+      "content": "HN Score: 33, Comments: 6"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Prolog Coding Horror",
+      "title_zh": "Prolog 编程恐怖故事",
+      "url": "https://news.ycombinator.com/item?id=48173268",
+      "summary": "一篇关于 Prolog 编程实践与踩坑经历的文章。",
+      "content": "HN Score: 44, Comments: 13"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations",
+      "title_zh": "ThinkPad：从 IBM 便当盒到联想 AI 工作站",
+      "url": "https://news.ycombinator.com/item?id=48173547",
+      "summary": "回顾 ThinkPad 的演进，以及它如何走向 AI 工作站时代。",
+      "content": "HN Score: 24, Comments: 6"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
+      "title_zh": "Fabricked：错误配置 Infinity Fabric 以击穿 AMD SEV-SNP",
+      "url": "https://news.ycombinator.com/item?id=48173708",
+      "summary": "研究如何通过错误配置内存互连来破坏 AMD SEV-SNP 的安全边界。",
+      "content": "HN Score: 14, Comments: 1"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "title_zh": "我把一台 80 美元的 RK3562 安卓平板改成了 Debian Linux 工作站",
+      "url": "https://news.ycombinator.com/item?id=48168668",
+      "summary": "用极低成本把安卓平板改造成可用的 Linux 开发工作站。",
+      "content": "HN Score: 222, Comments: 114"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "LLM News Today (May 2026) - AI Model Releases",
+      "title_zh": "LLM 新闻今日（2026年5月）- AI 模型发布",
+      "url": "https://llm-stats.com/ai-news",
+      "summary": "追踪当月前沿模型发布、基准更新和研究动态的日报型汇总。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "AI News May 2026 — Daily Model Releases and Announcements",
+      "title_zh": "2026年5月 AI 新闻——每日模型发布与公告",
+      "url": "https://aitoolsrecap.com/Blog/ai-news-may-2026",
+      "summary": "聚合 2026 年 5 月的主要 AI 发布、融资与产品公告。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "AI in May 2026: Model Releases, AI Agents and the Power Crisis",
+      "title_zh": "2026年5月的AI：模型发布、智能体与算力危机",
+      "url": "https://kersai.com/ai-may-2026-model-wave-agents-power-crisis/",
+      "summary": "总结 2026 年 5 月 AI 行业在模型、智能体和算力供给上的关键变化。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "OpenAI vs Google DeepMind vs Anthropic: The 2026 AI Model Arms Race",
+      "title_zh": "OpenAI、Google DeepMind 与 Anthropic：2026 AI 模型军备竞赛",
+      "url": "https://qverlabs.com/blog/openai-vs-google-deepmind-vs-anthropic-2026",
+      "summary": "对三大 AI 实验室在能力、安全与企业落地上的竞争态势进行对比分析。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "New AI Models May 2026: The Frontier Took a Breath, Architecture Took the Stage",
+      "title_zh": "2026年5月新 AI 模型：前沿暂歇，架构登场",
+      "url": "https://whatllm.org/blog/new-ai-models-may-2026",
+      "summary": "讨论 2026 年 5 月模型前沿增速放缓后，架构创新成为焦点的现象。",
+      "content": ""
+    }
+  ]
+}
