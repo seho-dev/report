@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-19",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "tinyhumansai/openhuman",
+      "title_zh": "个人超级智能体",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "summary": "私有、简洁而强大的个人 AI 超级智能项目，强调隐私与个人助手能力。",
+      "content": "Your Personal AI super intelligence. Private, Simple and extremely powerful. Repository: tinyhumansai/openhuman",
+      "stars": "13103"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "Imbad0202/academic-research-skills",
+      "title_zh": "学术研究技能集",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "summary": "面向学术研究场景的技能集合，帮助智能体更好地做资料检索、分析与写作。",
+      "content": "Skills for academic research workflows and knowledge work. Repository: Imbad0202/academic-research-skills",
+      "stars": "0"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "HKUDS/CLI-Anything",
+      "title_zh": "命令行万物智能代理",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "把几乎所有软件都做成 Agent 原生体验的 CLI 方案，突出命令行里的智能工作流。",
+      "content": "\"CLI-Anything: Making ALL Software Agent-Native\". Repository: HKUDS/CLI-Anything",
+      "stars": "35565"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "title_zh": "科研智能体技能集",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "summary": "面向科研场景的智能体技能库，服务于文献、实验与知识工作流。",
+      "content": "A skill pack for scientific agent workflows. Repository: K-Dense-AI/scientific-agent-skills",
+      "stars": "0"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "supertone-inc/supertonic",
+      "title_zh": "超音律",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "summary": "一个来自 Superton 的工具/项目，围绕声音、创作或多媒体工作流展开。",
+      "content": "A Superton project focused on audio/creative workflows. Repository: supertone-inc/supertonic",
+      "stars": "0"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Click",
+      "title_zh": "Click",
+      "url": "https://clickclickclick.click/",
+      "summary": "",
+      "content": "HN Score: 79, Comments: 18"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Anthropic acquires Stainless",
+      "title_zh": "Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "summary": "",
+      "content": "HN Score: 337, Comments: 235"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "title_zh": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "url": "https://hyperpolyglot.org/lisp",
+      "summary": "",
+      "content": "HN Score: 116, Comments: 24"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "title_zh": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "summary": "",
+      "content": "HN Score: 386, Comments: 184"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+      "title_zh": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+      "summary": "",
+      "content": "HN Score: 11, Comments: 0"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "OpenAI and Anthropic Launch Advanced AI Coding Models in Close Race",
+      "title_zh": "OpenAI 与 Anthropic 竞速发布先进 AI 编码模型",
+      "url": "https://x.com/i/trending/2019409561707241951",
+      "summary": "X 上的热门趋势显示，OpenAI 与 Anthropic 围绕编码模型展开激烈竞速，开发者社区关注度很高。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "AI News | Latest Headlines and Developments | Reuters",
+      "title_zh": "AI 新闻：最新头条与进展",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "summary": "路透社的 AI 新闻聚合页，覆盖 AI 突破、技术趋势、监管、伦理与商业影响。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "AI News & Artificial Intelligence | TechCrunch",
+      "title_zh": "AI 新闻与人工智能",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "summary": "TechCrunch 的人工智能栏目，汇总最新的机器学习产品、公司动态与行业议题。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Artificial Intelligence | The Verge",
+      "title_zh": "人工智能",
+      "url": "https://www.theverge.com/ai-artificial-intelligence",
+      "summary": "The Verge 的 AI 专题页，追踪 xAI、Anthropic、OpenAI 等公司的最新进展。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "LLM News Today (May 2026) - AI Model Releases",
+      "title_zh": "今日 LLM 新闻（2026 年 5 月）- AI 模型发布",
+      "url": "https://llm-stats.com/ai-news",
+      "summary": "一个面向大模型发布与基准更新的聚合页面，适合快速浏览前沿动态。",
+      "content": ""
+    }
+  ]
+}
