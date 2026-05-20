@@ -1,0 +1,89 @@
+{
+  "date": "2026-05-20",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "openhuman",
+      "title_zh": "仓库：openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "summary": "仓库：openhuman 今天登上 GitHub Trending，适合关注其项目方向和增长势头。",
+      "content": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "stars": "0"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "CLI-Anything",
+      "title_zh": "命令行工具Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "命令行工具Anything 今天登上 GitHub Trending，适合关注其项目方向和增长势头。",
+      "content": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": "0"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "academic-research-skills",
+      "title_zh": "academicresearchskills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "summary": "academicresearchskills 今天登上 GitHub Trending，适合关注其项目方向和增长势头。",
+      "content": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "stars": "0"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Gemini 3.5 Flash",
+      "title_zh": "中文标题：Gemini 3.5 Flash",
+      "url": "https://news.ycombinator.com/item?id=48196570",
+      "summary": "Hacker News 今日热门内容，适合快速了解技术社区关注点。",
+      "content": "HN Score: 491, Comments: 382"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Google changes its search box",
+      "title_zh": "中文标题：Google changes its search box",
+      "url": "https://news.ycombinator.com/item?id=48197370",
+      "summary": "Hacker News 今日热门内容，适合快速了解技术社区关注点。",
+      "content": "HN Score: 322, Comments: 490"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "title_zh": "中文标题：I’ve built a virtual museum with nearly every operating system you can think of",
+      "url": "https://news.ycombinator.com/item?id=48195009",
+      "summary": "Hacker News 今日热门内容，适合快速了解技术社区关注点。",
+      "content": "HN Score: 533, Comments: 123"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic acquires Stainless, the dev tools startup used by OpenAI and Google",
+      "title_zh": "Anthropic 收购了 Stainless——这家被 OpenAI 和谷歌使用的开发工具初创公司",
+      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "summary": "Anthropic 收购了开发工具公司 Stainless，显示出其在 API 和开发者工具链上的持续投入。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "AI News | Latest Headlines and Developments | Reuters",
+      "title_zh": "AI 资讯中心：最新头条与进展",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "summary": "路透社持续更新人工智能相关的最新新闻、产业动态与监管进展。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "AI News May 2026 — Daily Model Releases and Announcements",
+      "title_zh": "2026 年 5 月 AI 资讯汇总：每日模型发布与公告",
+      "url": "https://aitoolsrecap.com/Blog/ai-news-may-2026",
+      "summary": "一个聚合本月 AI 模型发布与行业公告的日更页面，方便追踪热点。",
+      "content": ""
+    }
+  ]
+}
