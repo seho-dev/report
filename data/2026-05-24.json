@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-24",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "Understand-Anything",
+      "title_zh": "理解一切",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "summary": "把代码转成可交互的知识图谱，方便探索、搜索和提问，适合 Claude Code、Codex、Cursor 等智能编程工具。",
+      "content": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "stars": "21455"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "claude-plugins-official",
+      "title_zh": "Claude 插件官方目录",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "summary": "Anthropic 官方维护的高质量 Claude Code 插件目录。",
+      "content": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": "25999"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "codegraph",
+      "title_zh": "代码知识图谱",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "summary": "为 Claude Code、Codex、Cursor、OpenCode 和 Hermes Agent 预先建立索引的代码知识图谱，减少 token 和工具调用。",
+      "content": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "stars": "18267"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "ai-engineering-from-scratch",
+      "title_zh": "从零开始的 AI 工程实践",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "summary": "从理解到构建再到交付的一套 AI 工程学习项目。",
+      "content": "Learn it. Build it. Ship it for others.",
+      "stars": "12989"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "FinceptTerminal",
+      "title_zh": "Fincept 终端平台",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "summary": "一款现代化金融应用，提供高级市场分析、投资研究和经济数据工具，便于交互式探索与数据驱动决策。",
+      "content": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "stars": "22932"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "It's time to talk about my writerdeck",
+      "title_zh": "是时候聊聊我的 writerdeck 了",
+      "url": "https://veronicaexplains.net/my-first-writerdeck/",
+      "summary": "一篇讨论个人写作环境与工具栈的文章。",
+      "content": "HN Score: 239, Comments: 123"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Don't Roll Your Own",
+      "title_zh": "不要自己从头造轮子",
+      "url": "https://susam.net/do-not-roll-your-own.html",
+      "summary": "提醒开发者谨慎重造已有成熟方案的经验分享。",
+      "content": "HN Score: 46, Comments: 32"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "My two-part desk setup (2025)",
+      "title_zh": "我的双段式桌面布置（2025）",
+      "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
+      "summary": "展示一套分成两部分的桌面工作区设计与思路。",
+      "content": "HN Score: 191, Comments: 117"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Sales and Dungeons: Thermal printer TTRPG utility",
+      "title_zh": "销售与地下城：热敏打印机 TTRPG 工具",
+      "url": "https://sales-and-dungeons.app/",
+      "summary": "一个把热敏打印机和桌面角色扮演玩法结合起来的小工具。",
+      "content": "HN Score: 19, Comments: 6"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "On The <dl> (2021)",
+      "title_zh": "关于 <dl> 标签（2021）",
+      "url": "https://benmyers.dev/blog/on-the-dl/",
+      "summary": "围绕 HTML 定义列表标签 <dl> 的技术文章。",
+      "content": "HN Score: 335, Comments: 105"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+      "title_zh": "Anthropic 和 OpenAI 都在为企业 AI 服务启动合资项目",
+      "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+      "summary": "TechCrunch 报道称，Anthropic 和 OpenAI 都在与资产管理方合作，更积极地推广企业级 AI 产品。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "AI News May 2026 — Full Daily Coverage, Model Releases and Announcements",
+      "title_zh": "2026 年 5 月 AI 新闻汇总——每日覆盖、模型发布与公告",
+      "url": "https://aitoolsrecap.com/Blog/ai-news-may-2026",
+      "summary": "这个页面按日整理了 2026 年 5 月的重要 AI 事件，适合快速追热点。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "LLM News Today (May 2026) - AI Model Releases",
+      "title_zh": "今日 LLM 新闻（2026 年 5 月）——AI 模型发布",
+      "url": "https://llm-stats.com/ai-news",
+      "summary": "聚焦 OpenAI、Anthropic、Google、Meta、Mistral 等团队的每日模型发布与研究进展。",
+      "content": ""
+    }
+  ]
+}
