@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-25",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "Understand-Anything",
+      "title_zh": "理解万物",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "summary": "把任何代码转化为可交互的知识图谱，支持探索、搜索和提问。",
+      "content": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "stars": "3,999"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "rohitg00",
+      "title_zh": "rohitg00",
+      "url": "https://github.com/sponsors/rohitg00",
+      "summary": "Learn it. Build it. Ship it for others.",
+      "content": "Learn it. Build it. Ship it for others.",
+      "stars": "1,853"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "claude-plugins-official",
+      "title_zh": "Claude 官方插件目录",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "summary": "Anthropic 官方维护的高质量 Claude Code 插件目录。",
+      "content": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": "1,173"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "knowledge-work-plugins",
+      "title_zh": "知识工作插件集",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "面向知识工作者的开源插件仓库，主要用于 Claude Cowork。",
+      "content": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": "550"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "andrej-karpathy-skills",
+      "title_zh": "安德烈·卡帕西技能集",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "summary": "基于 Andrej Karpathy 对 LLM 编码常见问题的观察整理的 CLAUDE.md 提示集。",
+      "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": "2,551"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "title_zh": "Show HN：Audiomass——一个免费的开源网页多轨音频编辑器",
+      "url": "https://news.ycombinator.com/item?id=48258015",
+      "summary": "一个免费的开源网页多轨音频编辑器，适合做基础音频剪辑与多轨编辑。",
+      "content": "HN Score: 93, Comments: 24"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "title_zh": "DeepSeek reasonix：DeepSeek 原生编码代理，缓存能力强且成本低",
+      "url": "https://news.ycombinator.com/item?id=48256953",
+      "summary": "介绍一个 DeepSeek 原生编码代理，强调高缓存命中与低成本。",
+      "content": "HN Score: 395, Comments: 189"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
+      "title_zh": "澳大利亚四天工作制研究数据显示生产率提升",
+      "url": "https://news.ycombinator.com/item?id=48259990",
+      "summary": "研究数据显示，澳大利亚四天工作制与更高生产率相关。",
+      "content": "HN Score: 218, Comments: 154"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Defeating Git Rigour Fatigue with Jujutsu",
+      "title_zh": "用 Jujutsu 击败 Git 的严苛疲劳",
+      "url": "https://news.ycombinator.com/item?id=48259861",
+      "summary": "文章讨论如何用 Jujutsu 缓解对 Git 复杂工作流的疲劳感。",
+      "content": "HN Score: 74, Comments: 49"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years",
+      "title_zh": "LAN-LOK：失落 34 年的南极 DOS 破坏游戏",
+      "url": "https://news.ycombinator.com/item?id=48216146",
+      "summary": "考古一款失传 34 年的南极 DOS 游戏，以及它的来历。",
+      "content": "HN Score: 41, Comments: 6"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Introducing Gemini Omni - blog.google",
+      "title_zh": "发布 Gemini Omni",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWlaMUVtdkx6SklzdmNOYnZibDJSak96Mi0zZXhoUVdsamQ2M1VIeEUtcTdWVVJrV09PcTRPWVFCQzlzSW5RUzM1Ui1FRmJtR1N2aVNkeWtEM192TDcxUFhxNGN5MGhpYjk0aEJJdWJrcDlUNG1mQ2xodS1YNXEtVUxPSnpWNGVjZlpwXw?oc=5",
+      "summary": "谷歌发布 Gemini Omni。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "I avoid AI tools because thinking is supposed to be hard. It’s what makes us human | Wendy Liu - The Guardian",
+      "title_zh": "我回避 AI 工具，因为思考本就该困难，而这正是人之为人的地方 | Wendy Liu",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWlNdDR0SmxKczRUQ0J0ejBITVVZU0d0YjdXZFE1cWJyTHFoZEZIWFpjNVM0S29mUFplelpnSjhMUm1CZXFZS3Fzay1IZ2phaFNLNkU4V2dLeUc1VXdPRElYZVluZWJmWDd3U3VxUXc4cTJ3SEdQb2ZhTGZ4bzdvR1Z2cG9wWUFFc1YtaVZWMlJvWjQ0dVZvaUlseEtJMHNLN1lPczI5OGZUS19s?oc=5",
+      "summary": "Wendy Liu 讨论为何她回避 AI 工具，并认为思考的艰难正是人类性的核心。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "AI is learning to fly airplanes — and aviation is starting to embrace it - CNN",
+      "title_zh": "AI 正在学习驾驶飞机，而航空业开始拥抱它 - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QVzQ1dUJHVVhlaXdFZmNBdFFiUzFJRDd1TllQZ0RNMmg5aFVSTDFiY3U4ZDBRVFVrSGdpU2FzSm5wLXNuTGVXc2gxZnVGeDVOanBla1dWTzlQMVJSMDBvMFN4dw?oc=5",
+      "summary": "AI 正在学习驾驶飞机，航空业也开始接受这一趋势。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "I Paid for Google's Gemini AI Plan. These 5 Features Justify the Price - PCMag",
+      "title_zh": "我为 Google 的 Gemini AI 套餐付费，这 5 个功能证明它物有所值 - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQnFKNjViTU54dkFVU2RyU1VXdU42cGxjazNaRWV5QU1nSlEtNGs2Ulkxc185ZEtjTW1sRmN3Z1NzOTUxTU1vUFNsb1RQdURCSkdNMy0wYTAtd3B0U1ZWdmxPbTAxSk15NTNrTFI3QjAwYzR1T1VJc3AzeVA4VHY2VU5kbk90MTY2MmdqRjNlLXAxUQ?oc=5",
+      "summary": "评测者认为 Google Gemini 订阅计划的五项功能足以支撑其价格。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Xreal, Google's smartglasses partner, thinks it has finally mastered this notoriously tricky industry - TechCrunch",
+      "title_zh": "Xreal 作为 Google 的智能眼镜合作伙伴，认为自己终于掌握了这个 notoriously tricky 的行业 - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeE1sSzdrOHZZblZjZWxDZUhFNHhVQl9ESXJ4eElOcVdOeXgyeGRpUTZOMVRGOTdHZEdTZmhURHpGclo2VjRXLXdCLVZuQTZJOGhzcjFuSloyb0lrZWY5cUFyc0lQNHQtNGpjWllUZUVsaWlETWlTWXZQcV9TV3lUa1RydmRrMzc4Vks1TXhKTjRjNklYWlFXbE1ySGpwT0VXejBsQmdONWdRSTQ3TzR5Tnl6V3F3UGc5NndBNjFsMURHNWxwaWxVclgzckFDdw?oc=5",
+      "summary": "Xreal 认为自己终于在智能眼镜这一难题行业中找到了突破口。",
+      "content": ""
+    }
+  ]
+}
