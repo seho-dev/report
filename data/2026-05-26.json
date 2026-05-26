@@ -1,0 +1,33 @@
+{
+  "date": "2026-05-26",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "anthropics/knowledge-work-plugins",
+      "title_zh": "Anthropic 知识工作插件库",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "一个面向知识工作者的开源插件仓库，专为 Claude 使用场景设计，便于把常见工作流模块化。",
+      "content": "Open source repository of plugins primarily intended for knowledge workers to use in Claude. It is positioned as a practical set of tools and workflows for everyday productivity and knowledge work.",
+      "stars": "13.6k"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "title_zh": "Google Chrome 未经同意静默安装 4GB AI 模型",
+      "url": "https://news.ycombinator.com/item?id=48019219",
+      "summary": "Chrome 在用户不知情的情况下静默下载并安装 4GB AI 模型，引发了隐私与同意问题的讨论。",
+      "content": "HN Score: 1205, Comments: 821"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic (@AnthropicAI) / Posts / X - Twitter",
+      "title_zh": "Anthropic 在 X 上发布动态",
+      "url": "https://x.com/AnthropicAI",
+      "summary": "Anthropic 的官方 X 账号仍在持续更新，反映出主流 AI 厂商依旧把社交平台作为重要的产品传播与研究沟通窗口。",
+      "content": ""
+    }
+  ]
+}
