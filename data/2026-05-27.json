@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-27",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "Lum1104/Understand-Anything",
+      "title_zh": "理解万物",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "summary": "把任意代码转成可交互的知识图谱，方便探索、搜索和提问。",
+      "content": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "stars": "35,716"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "affaan-m/ECC",
+      "title_zh": "ECC：代理运行时性能优化系统",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "面向 Claude Code、Codex、Cursor 等工具的代理运行时优化框架，覆盖技能、记忆、安全与研究流程。",
+      "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "194,313"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "title_zh": "从零开始的 AI 工程实践",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "summary": "一套从理解、构建到交付的 AI 工程入门项目。",
+      "content": "Learn it. Build it. Ship it for others.",
+      "stars": "20,672"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "anthropics/knowledge-work-plugins",
+      "title_zh": "知识工作插件库",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "Anthropic 面向 Claude 的知识工作插件仓库，适合把常见工作流模块化。",
+      "content": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": "16,644"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "title_zh": "Anthropic 网络安全技能集",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "summary": "一套结构化的网络安全技能集合，可映射到多个安全框架，便于 AI 代理调用。",
+      "content": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "stars": "10,091"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Chemistry behind the Garden Grove chemical tank",
+      "title_zh": "花园格罗夫化学储罐背后的化学原理",
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "summary": "一篇解释花园格罗夫化学储罐事件中材料与反应机理的科普文章。",
+      "content": "HN Score: 190, Comments: 73"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "A few interesting modern pixel fonts",
+      "title_zh": "几款有意思的现代像素字体",
+      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+      "summary": "盘点几款设计感不错、适合现代界面的像素字体。",
+      "content": "HN Score: 221, Comments: 51"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "title_zh": "我绕开 Adobe 和 Microsoft，搭建了一个受 Git 管理的图书制作流水线",
+      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+      "summary": "作者分享了如何用 Git 驱动一本书的生产流程，减少对商业软件的依赖。",
+      "content": "HN Score: 145, Comments: 36"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "A portentous reunion",
+      "title_zh": "一场意味深长的重逢",
+      "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+      "summary": "一篇带有回顾意味的技术随笔，讨论一次颇具象征性的重聚。",
+      "content": "HN Score: 27, Comments: 9"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Big tech's anti-labor playbook has come for Wikipedia",
+      "title_zh": "大科技公司的反劳工套路也盯上了维基百科",
+      "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+      "summary": "文章讨论大科技公司的反劳工策略如何影响维基百科。",
+      "content": "HN Score: 217, Comments: 94"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Introducing Gemini Omni",
+      "title_zh": "发布 Gemini Omni",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWlaMUVtdkx6SklzdmNOYnZibDJSak96Mi0zZXhoUVdsamQ2M1VIeEUtcTdWVVJrV09PcTRPWVFCQzlzSW5RUzM1Ui1FRmJtR1N2aVNkeWtEM192TDcxUFhxNGN5MGhpYjk0aEJJdWJrcDlUNG1mQ2xodS1YNXEtVUxPSnpWNGVjZlpwXw?oc=5",
+      "summary": "谷歌发布 Gemini Omni，继续扩展其多模态 AI 产品线。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Google announces sweeping AI overhaul of its search engine",
+      "title_zh": "谷歌宣布对搜索引擎进行大规模 AI 改造",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFgyS3J3R2xQY1BQcjFaMWxTYmxzQnBEWjFTN3VRRkJkQmVyZHVsbWRWbXZKcURpVlU1MlctbTJWY0dkcjdIVkduRzdkZm5WWEZzSGJIbHVuSy14akN2X2JHSEpIR0lONzdTZTF4eXhpWTUtekxRbHhpYTd2Rmx5b25qUXJ4RFJHaUJHVko2OHZZMXdSeW9tRW5oOHNxd2ph?oc=5",
+      "summary": "谷歌正在把生成式 AI 更深地嵌入搜索体验，搜索产品的形态将继续变化。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Even If You Hate AI, You Will Use Google AI Search",
+      "title_zh": "即使你讨厌 AI，也还是会用上谷歌的 AI 搜索",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeFdVakFWMW5ScjJMaXN5NmV1OTFRc0dhOXdBQzh3eEpjQWVtTU9LeTdOQkdESG9tckdnQTZfYzVrVVQzZE9CejdIeWFCRzhTYkxHZjVpYkZwYkNpa2hxNmpMRE5YUjhuX0Z6dmh4MjEwTjVIQ0JBeU9KTDVHalBDQnhpZFk?oc=5",
+      "summary": "一篇评论文章认为，Google 的 AI 搜索会在用户并不情愿的情况下变成默认选项。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "I tried Google’s AI glasses. They’re what Google Glass always wanted to be",
+      "title_zh": "我试用了谷歌的 AI 眼镜，它才像是 Google Glass 一直想成为的样子",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSkIxdzEyY1Zya2lpdnNjVHZGdzh3M1ZTOTlGS3FEZUN0cTFNRmNNNFprMUlaRUZ2VDF5NmUycERuWW5jTkZiZlk0MjlZYlNYQXdyYlM4OHhxa3RtVFlKMjFMUmxiay1TWjVFV29qN3JSVFZ4eWVrMFBvZWI1b3ZpZHVVcG1sYnpZQUx4REk5dVRKMmJwT1pDY0MwM2pBXzFOSkN6OHZYLVRLTnJsZ05SLXo4Q2s0Tkk?oc=5",
+      "summary": "评测指出，Google 的 AI 眼镜终于接近了人们对 Google Glass 的长期想象。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "title_zh": "OpenAI 模型推翻了离散几何中的一个核心猜想",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yX01zN3g1dUU2anpzWXA3d3RaQ3RaYWRPVkUtRzlyeElQN0lBZVFfNzQ1dTFleFB6aThGc0pweklXck9ZSXhMelJ0amRKaEY4ZDdoVkJqMEFXTkQ4OWp6OTlnNmZ2VUNlTVRDSHN5WVVUc0xndXU5T2t3?oc=5",
+      "summary": "OpenAI 的一个模型在离散几何问题上取得了突破性结果。",
+      "content": ""
+    }
+  ]
+}
