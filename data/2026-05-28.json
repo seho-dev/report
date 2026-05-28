@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-28",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "MoneyPrinterTurbo",
+      "title_zh": "AI短视频生成器",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "summary": "利用 AI 大模型，一键生成高清短视频。",
+      "content": "GitHub daily trending repository. Description: Generate short videos with one click using AI LLM. Stars today: 1,742.",
+      "stars": "1742"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "Understand-Anything",
+      "title_zh": "理解万物",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "summary": "把任意代码转成可交互的知识图谱，支持搜索、探索和提问。",
+      "content": "GitHub daily trending repository. Description: Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. Stars today: 4,465.",
+      "stars": "4465"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "stop-slop",
+      "title_zh": "去 AI 套话工具",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "summary": "用于去除文章里 AI 味道的技能文件。",
+      "content": "GitHub daily trending repository. Description: A skill file for removing AI tells from prose. Stars today: 664.",
+      "stars": "664"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "knowledge-work-plugins",
+      "title_zh": "知识工作插件集",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "面向知识工作者的开源插件仓库，可用于 Claude Cowork。",
+      "content": "GitHub daily trending repository. Description: Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork. Stars today: 695.",
+      "stars": "695"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "taste-skill",
+      "title_zh": "品味技能",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "summary": "让 AI 更有审美，减少生成无聊、模板化内容。",
+      "content": "GitHub daily trending repository. Description: Taste-Skill - gives your AI good taste. Stops the AI from generating boring, generic slop. Stars today: 2,715.",
+      "stars": "2715"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "YouTube to automatically label AI-generated videos",
+      "title_zh": "YouTube 将自动标注 AI 生成视频",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "summary": "YouTube 正在推进自动识别并标注 AI 生成内容，帮助观众和创作者更清楚地区分视频来源。",
+      "content": "HN Score: 453, Comments: 263"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "title_zh": "我认为 Anthropic 和 OpenAI 已经找到了产品市场契合点",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "summary": "一篇讨论 Anthropic 和 OpenAI 在市场中已经获得明确需求验证的文章。",
+      "content": "HN Score: 590, Comments: 719"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "title_zh": "Google 说用户喜欢 AI 模式后，DuckDuckGo 搜索访问量增长了 28%",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "summary": "Google 强调 AI 模式受欢迎之后，主打无 AI 的 DuckDuckGo 搜索流量明显上升。",
+      "content": "HN Score: 628, Comments: 314"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "What Apple and Google are doing to push notifications",
+      "title_zh": "苹果和谷歌正在如何处理推送通知",
+      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "summary": "这篇文章讨论了 Apple 和 Google 在推送通知策略上的最新变化。",
+      "content": "HN Score: 149, Comments: 148"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "SimCity 3k in 4k (2025)",
+      "title_zh": "在 4K 中运行的 SimCity 3k（2025）",
+      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "summary": "用现代分辨率重现经典城市模拟游戏的技术分享。",
+      "content": "HN Score: 256, Comments: 96"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "YouTube to automatically label AI-generated videos",
+      "title_zh": "YouTube 将自动标注 AI 生成视频",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "summary": "YouTube 正在加强 AI 生成视频的标注能力，强调内容透明度。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "title_zh": "Anthropic 与 OpenAI 或已找到产品市场契合点",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "summary": "围绕两家头部 AI 公司是否已进入成熟需求阶段的讨论。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "title_zh": "Google 夸赞 AI 模式后 DuckDuckGo 访问量上升 28%",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "summary": "AI 搜索话题持续升温，非 AI 搜索产品的流量也出现显著变化。",
+      "content": ""
+    }
+  ]
+}
