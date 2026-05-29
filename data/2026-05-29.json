@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-29",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "MoneyPrinterTurbo",
+      "title_zh": "AI短视频生成器",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "summary": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "content": "GitHub daily trending repository. Description: 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.. Stars today: 66201.",
+      "stars": "66201"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "ECC",
+      "title_zh": "ECC：代理运行时性能优化系统",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "content": "GitHub daily trending repository. Description: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.. Stars today: 197240.",
+      "stars": "197240"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "taste-skill",
+      "title_zh": "品味技能",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "summary": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "content": "GitHub daily trending repository. Description: Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop. Stars today: 26348.",
+      "stars": "26348"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "stop-slop",
+      "title_zh": "去 AI 套话工具",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "summary": "A skill file for removing AI tells from prose",
+      "content": "GitHub daily trending repository. Description: A skill file for removing AI tells from prose. Stars today: 6395.",
+      "stars": "6395"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "twenty",
+      "title_zh": "Twenty：开源销售 CRM",
+      "url": "https://github.com/twentyhq/twenty",
+      "summary": "The open alternative to Salesforce, designed for AI.",
+      "content": "GitHub daily trending repository. Description: The open alternative to Salesforce, designed for AI.. Stars today: 47829.",
+      "stars": "47829"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "YouTube to automatically label AI-generated videos",
+      "title_zh": "YouTube 将自动标注 AI 生成视频",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "summary": "YouTube 将自动标注 AI 生成视频",
+      "content": "HN Score: 1266, Comments: 761"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Claude Opus 4.8",
+      "title_zh": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "summary": "Claude Opus 4.8",
+      "content": "HN Score: 1156, Comments: 921"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "title_zh": "Bricks and Minifigs 偷走了一位男子价值 20 万美元的乐高收藏",
+      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+      "summary": "Bricks and Minifigs 偷走了一位男子价值 20 万美元的乐高收藏",
+      "content": "HN Score: 501, Comments: 271"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "EU fines Temu €200M for allowing sale of illegal products",
+      "title_zh": "欧盟因允许销售非法商品对 Temu 罚款 2 亿欧元",
+      "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
+      "summary": "欧盟因允许销售非法商品对 Temu 罚款 2 亿欧元",
+      "content": "HN Score: 296, Comments: 227"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Building durable workflows on Postgres",
+      "title_zh": "基于 Postgres 构建持久工作流",
+      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+      "summary": "基于 Postgres 构建持久工作流",
+      "content": "HN Score: 243, Comments: 106"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "YouTube to automatically label AI-generated videos",
+      "title_zh": "YouTube 将自动标注 AI 生成视频",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "summary": "YouTube 将自动标注 AI 生成视频",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Claude Opus 4.8",
+      "title_zh": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "summary": "Claude Opus 4.8",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "title_zh": "Anthropic 完成 650 亿美元 H 轮融资，投后估值 9650 亿美元",
+      "url": "https://www.anthropic.com/news/series-h",
+      "summary": "Anthropic 完成 650 亿美元 H 轮融资，投后估值 9650 亿美元",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "title_zh": "Show HN：Continue? Y/N：一款关于 AI 代理权限疲劳的 60 秒小游戏",
+      "url": "https://llmgame.scalex.dev",
+      "summary": "Show HN：Continue? Y/N：一款关于 AI 代理权限疲劳的 60 秒小游戏",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Various LLM Smells",
+      "title_zh": "各种 LLM 气味",
+      "url": "https://shvbsle.in/various-llm-smells/",
+      "summary": "各种 LLM 气味",
+      "content": ""
+    }
+  ]
+}
