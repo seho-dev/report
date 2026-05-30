@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-30",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "title_zh": "哈里0703/金钱打印机Turbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "summary": "为 harry0703 / MoneyPrinterTurbo 点星，利用 AI 大模型，一键生成高清视频短片",
+      "content": "GitHub daily trending repository. Description: Star harry0703 / MoneyPrinterTurbo 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.. Stars today: 3567.",
+      "stars": "3567"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "microsoft/markitdown",
+      "title_zh": "微软/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "summary": "Star microsoft / markitdown 是一款用于将文件和 Office 文档转换为 Markdown 的 Python 工具。",
+      "content": "GitHub daily trending repository. Description: Star microsoft / markitdown Python tool for converting files and office documents to Markdown.. Stars today: 1873.",
+      "stars": "1873"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "EveryInc/compound-engineering-plugin",
+      "title_zh": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "summary": "给 EveryInc / compound-engineering-plugin 点星：适用于 Claude Code、Codex、Cursor 等的官方 Compound Engineering 插件",
+      "content": "GitHub daily trending repository. Description: Star EveryInc / compound-engineering-plugin Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more. Stars today: 353.",
+      "stars": "353"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "twentyhq/twenty",
+      "title_zh": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "summary": "Star twentyhq / twenty：面向 AI 设计的 Salesforce 开源替代方案。",
+      "content": "GitHub daily trending repository. Description: Star twentyhq / twenty The open alternative to Salesforce, designed for AI.. Stars today: 578.",
+      "stars": "578"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "anthropics/claude-code",
+      "title_zh": "anthropics/Claude 代码",
+      "url": "https://github.com/anthropics/claude-code",
+      "summary": "Star anthropics / claude-code Claude Code 是一款常驻于你终端中的智能代理式编码工具，能够理解你的代码库，并通过执行日常任务、解释复杂代码以及处理 git 工作流来帮助你更快地编程——这一切都通过自然语言命令完成。",
+      "content": "GitHub daily trending repository. Description: Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.. Stars today: 395.",
+      "stars": "395"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "SQLite is all you need for durable workflows",
+      "title_zh": "SQLite 是你构建持久化工作流所需的一切",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "summary": "SQLite 是你构建持久化工作流所需的一切",
+      "content": "HN Score: 310, Comments: 0"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "You can just say it",
+      "title_zh": "你只要说出来就行",
+      "url": "https://noperator.dev/posts/you-can-just-say-it/",
+      "summary": "你只要说出来就行",
+      "content": "HN Score: 105, Comments: 0"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "The dead economy theory",
+      "title_zh": "暮气沉沉的经济理论",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "summary": "暮气沉沉的经济理论",
+      "content": "HN Score: 616, Comments: 0"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Notes from the Mistral AI Now Summit",
+      "title_zh": "来自 Mistral AI Now 峰会的笔记",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "summary": "来自 Mistral AI Now 峰会的笔记",
+      "content": "HN Score: 299, Comments: 0"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "MCP Is Dead",
+      "title_zh": "MCP 已死",
+      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+      "summary": "MCP 已死",
+      "content": "HN Score: 47, Comments: 0"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "YouTube to automatically label AI-generated videos",
+      "title_zh": "YouTube将自动为AI生成视频添加标签",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "summary": "YouTube将自动为AI生成视频添加标签",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Claude Opus 4.8",
+      "title_zh": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "summary": "Claude Opus 4.8",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "title_zh": "Anthropic以9650亿美元投后估值完成650亿美元H轮融资",
+      "url": "https://www.anthropic.com/news/series-h",
+      "summary": "Anthropic以9650亿美元投后估值完成650亿美元H轮融资",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "title_zh": "Show HN：Continue? Y/N：一款关于AI代理权限疲劳的60秒游戏",
+      "url": "https://llmgame.scalex.dev",
+      "summary": "Show HN：Continue? Y/N：一款关于AI代理权限疲劳的60秒游戏",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Various LLM Smells",
+      "title_zh": "各种LLM坏味道",
+      "url": "https://shvbsle.in/various-llm-smells/",
+      "summary": "各种LLM坏味道",
+      "content": ""
+    }
+  ]
+}
