@@ -1,0 +1,82 @@
+{
+  "date": "2026-05-31",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "microsoft / markitdown",
+      "title_zh": "微软文档转 Markdown 工具",
+      "url": "https://github.com/microsoft/markitdown",
+      "summary": "GitHub 今日趋势榜上的热门仓库，提供文档转 Markdown 的实用能力。",
+      "content": "Trending repository on GitHub daily leaderboard.",
+      "stars": "2470"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "harry0703 / MoneyPrinterTurbo",
+      "title_zh": "MoneyPrinterTurbo 赚钱视频生成器",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "summary": "GitHub 今日趋势榜上的热门仓库，主打自动生成赚钱视频的工作流。",
+      "content": "Trending repository on GitHub daily leaderboard.",
+      "stars": "2768"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "anthropics / claude-code",
+      "title_zh": "Anthropic 的 Claude Code",
+      "url": "https://github.com/anthropics/claude-code",
+      "summary": "GitHub 今日趋势榜上的热门仓库，围绕 Claude Code 的开发工具与工作流。",
+      "content": "Trending repository on GitHub daily leaderboard.",
+      "stars": "592"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "cursor / plugins",
+      "title_zh": "Cursor 插件集合",
+      "url": "https://github.com/cursor/plugins",
+      "summary": "GitHub 今日趋势榜上的热门仓库，面向 Cursor 的插件与扩展集合。",
+      "content": "Trending repository on GitHub daily leaderboard.",
+      "stars": "205"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "revfactory / harness",
+      "title_zh": "RevFactory Harness 项目",
+      "url": "https://github.com/revfactory/harness",
+      "summary": "GitHub 今日趋势榜上的热门仓库，展示 Harness 相关能力。",
+      "content": "Trending repository on GitHub daily leaderboard.",
+      "stars": "55"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "AI News May 31 2026 — Model Releases, Announcements and AI Updates",
+      "title_zh": "AI 日报：2026 年 5 月 31 日的模型发布、公告与 AI 更新",
+      "url": "https://aitoolsrecap.com/Blog/ai-news-may-31-2026",
+      "summary": "当日 AI 资讯摘要，聚焦模型发布、产品公告和行业更新。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "AI News May 2026: In-Depth and Concise",
+      "title_zh": "AI 新闻：2026 年 5 月深度简明版",
+      "url": "https://theaitrack.com/ai-news-may-2026-in-depth-and-concise/",
+      "summary": "月度 AI 资讯汇总，适合快速把握当月趋势。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "AI Models Released in May 2026 — Complete Roundup",
+      "title_zh": "2026 年 5 月发布的 AI 模型完整盘点",
+      "url": "https://codersera.com/blog/ai-models-released-may-2026-monthly-roundup/",
+      "summary": "整理 2026 年 5 月主要 AI 模型和工具发布。",
+      "content": ""
+    }
+  ]
+}
