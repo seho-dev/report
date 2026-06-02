@@ -1,0 +1,202 @@
+{
+  "date": "2026-06-02",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "markitdown\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "title_zh": "markitdown\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "url": "https://github.com/microsoft/markitdown\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "summary": "Star microsoft / markitdown Python tool for converting files and office documents to Markdown.",
+      "content": "Trending repository on GitHub today. Description: Star microsoft / markitdown Python tool for converting files and office documents to Markdown.. Stars today: 3,034.",
+      "stars": "3,034"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "supermemory\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "title_zh": "supermemory\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "url": "https://github.com/supermemoryai/supermemory\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "summary": "Star supermemoryai / supermemory Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "content": "Trending repository on GitHub today. Description: Star supermemoryai / supermemory Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.. Stars today: 647.",
+      "stars": "647"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "MoneyPrinterTurbo\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "title_zh": "MoneyPrinterTurbo\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "summary": "Star harry0703 / MoneyPrinterTurbo 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "content": "Trending repository on GitHub today. Description: Star harry0703 / MoneyPrinterTurbo 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.. Stars today: 3,375.",
+      "stars": "3,375"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "impeccable\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "title_zh": "impeccable\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "url": "https://github.com/pbakaus/impeccable\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "summary": "Star pbakaus / impeccable The design language that makes your AI harness better at design.",
+      "content": "Trending repository on GitHub today. Description: Star pbakaus / impeccable The design language that makes your AI harness better at design.. Stars today: 485.",
+      "stars": "485"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "heretic\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "title_zh": "heretic\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "url": "https://github.com/p-e-w/heretic\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "summary": "Star p-e-w / heretic Fully automatic censorship removal for language models",
+      "content": "Trending repository on GitHub today. Description: Star p-e-w / heretic Fully automatic censorship removal for language models. Stars today: 249.",
+      "stars": "249"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "compound-engineering-plugin\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "title_zh": "compound-engineering-plugin\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "summary": "Star EveryInc / compound-engineering-plugin Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "content": "Trending repository on GitHub today. Description: Star EveryInc / compound-engineering-plugin Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more. Stars today: 417.",
+      "stars": "417"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "TradingAgents\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "title_zh": "TradingAgents\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "url": "https://github.com/TauricResearch/TradingAgents\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "summary": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "content": "Trending repository on GitHub today. Description: Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework. Stars today: 299.",
+      "stars": "299"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "harness\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "title_zh": "harness\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "url": "https://github.com/revfactory/harness\" data-view-component=\"true\" class=\"Link\"><svg aria-hidden=\"true\" data-component=\"Octicon\" height=\"16\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" data-view-component=\"true\" class=\"octicon octicon-repo mr-1 tmp-mr-1 color-fg-muted\">\n    <path d=\"M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z",
+      "summary": "Star revfactory / harness A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "content": "Trending repository on GitHub today. Description: Star revfactory / harness A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.. Stars today: 524.",
+      "stars": "524"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Lid-lifting Kiwi author forced to sit in silence at writers' festival",
+      "title_zh": "Lid-lifting Kiwi author forced to sit in silence at writers' festival",
+      "url": "https://www.rnz.co.nz/life/books/lid-lifting-kiwi-author-forced-to-sit-in-silence-at-writers-festival",
+      "summary": "Lid-lifting Kiwi author forced to sit in silence at writers' festival",
+      "content": "HN Score: 3, Comments: 0"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Inherited the front end of a 150K-user app, mostly vibe coded",
+      "title_zh": "Inherited the front end of a 150K-user app, mostly vibe coded",
+      "url": "https://koolcodez.com/blog/fixing-an-ai-built-codebase/",
+      "summary": "Inherited the front end of a 150K-user app, mostly vibe coded",
+      "content": "HN Score: 3, Comments: 0"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Berkshire Hathaway invests extra $10B in Alphabet, deepening bet on AI",
+      "title_zh": "Berkshire Hathaway invests extra $10B in Alphabet, deepening bet on AI",
+      "url": "https://www.cnbc.com/2026/06/01/berkshire-hathaway-alphabet-investment.html",
+      "summary": "Berkshire Hathaway invests extra $10B in Alphabet, deepening bet on AI",
+      "content": "HN Score: 2, Comments: 1"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Decache",
+      "title_zh": "Decache",
+      "url": "https://sindexmon.github.io/decache/",
+      "summary": "Decache",
+      "content": "HN Score: 2, Comments: 0"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Tokenmaxxing: One AI budget, four jobs",
+      "title_zh": "Tokenmaxxing: One AI budget, four jobs",
+      "url": "https://www.mintlify.com/blog/tokenmaxxing-one-ai-budget-four-jobs",
+      "summary": "Tokenmaxxing: One AI budget, four jobs",
+      "content": "HN Score: 2, Comments: 0"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "After SpaceX Goes Public, Does the Stock Market Fall?",
+      "title_zh": "After SpaceX Goes Public, Does the Stock Market Fall?",
+      "url": "https://www.thebignewsletter.com/p/monopoly-round-up-after-spacex-goes",
+      "summary": "After SpaceX Goes Public, Does the Stock Market Fall?",
+      "content": "HN Score: 2, Comments: 0"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Workout App Made with Python-Kivy",
+      "title_zh": "Workout App Made with Python-Kivy",
+      "url": "https://apps.microsoft.com/detail/9n4l5zrz4dmq?hl=en-US&gl=US",
+      "summary": "Workout App Made with Python-Kivy",
+      "content": "HN Score: 1, Comments: 1"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Show HN: Figure – produce printable STL files via LLM and OpenSCAD",
+      "title_zh": "Show HN: Figure – produce printable STL files via LLM and OpenSCAD",
+      "url": "https://figure.codes/",
+      "summary": "Show HN: Figure – produce printable STL files via LLM and OpenSCAD",
+      "content": "HN Score: 1, Comments: 1"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "The Optimized Tomato",
+      "title_zh": "The Optimized Tomato",
+      "url": "https://therealitydrift.substack.com/p/the-optimized-tomato",
+      "summary": "The Optimized Tomato",
+      "content": "HN Score: 1, Comments: 1"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "How one founder's bet on 'the old school web' is paying off",
+      "title_zh": "How one founder's bet on 'the old school web' is paying off",
+      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+      "summary": "How one founder's bet on 'the old school web' is paying off",
+      "content": "HN Score: 1, Comments: 0"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic Tops OpenAI to Become the World's Most Valuable A.I. Start-Up",
+      "title_zh": "Anthropic 超越 OpenAI，成为全球最有价值的人工智能初创公司",
+      "url": "https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html",
+      "summary": "Anthropic 完成新一轮融资后估值升至约 9000 亿美元，超过 OpenAI 的最新估值，头部竞争进一步升温。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic Surpasses OpenAI in Business AI Adoption",
+      "title_zh": "Anthropic 在企业 AI 采用率上超过 OpenAI",
+      "url": "https://theoutpost.ai/news-story/anthropic-overtakes-open-ai-in-business-customers-for-first-time-ramp-data-reveals-26266/",
+      "summary": "Ramp 的 2026 年 5 月数据表明，付费采用 Anthropic 的企业比例首次超过 OpenAI，Claude Code 的开发者偏好被视为关键因素。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Anthropic moves toward IPO, stepping up race with OpenAI",
+      "title_zh": "Anthropic 迈向 IPO，与 OpenAI 的竞争进一步加速",
+      "url": "https://www.reuters.com/business/ai-giant-anthropic-confidentially-files-us-ipo-2026-06-01/",
+      "summary": "路透报道 Anthropic 已秘密提交美国 IPO 申请，向公开市场迈进，也让与 OpenAI 的竞争更受关注。",
+      "content": ""
+    }
+  ]
+}
