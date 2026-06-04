@@ -1,0 +1,240 @@
+{
+  "date": "2026-06-04",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "headroom",
+      "title_zh": "Headroom（余量管理）",
+      "url": "https://github.com/chopratejas/headroom",
+      "summary": "headroom 是 GitHub Trending 上的热门仓库。",
+      "content": "Repository: chopratejas/headroom. Trending today on GitHub. Description: N/A.",
+      "stars": ""
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "ECC",
+      "title_zh": "ECC（错误更正码）",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "ECC 是 GitHub Trending 上的热门仓库。",
+      "content": "Repository: affaan-m/ECC. Trending today on GitHub. Description: N/A.",
+      "stars": ""
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "trivy",
+      "title_zh": "Trivy 漏洞扫描器",
+      "url": "https://github.com/aquasecurity/trivy",
+      "summary": "用于容器镜像、文件系统和代码仓库的安全漏洞扫描工具。",
+      "content": "Repository: aquasecurity/trivy. Trending today on GitHub. Description: N/A.",
+      "stars": ""
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "hermes-agent",
+      "title_zh": "Hermes 代理",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "hermes-agent 是 GitHub Trending 上的热门仓库。",
+      "content": "Repository: NousResearch/hermes-agent. Trending today on GitHub. Description: N/A.",
+      "stars": ""
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "markitdown",
+      "title_zh": "MarkItDown 文档转 Markdown 工具",
+      "url": "https://github.com/microsoft/markitdown",
+      "summary": "把各类文档转换成便于 LLM 处理的 Markdown。",
+      "content": "Repository: microsoft/markitdown. Trending today on GitHub. Description: N/A.",
+      "stars": ""
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "hermes-webui",
+      "title_zh": "Hermes 网页界面",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "summary": "hermes-webui 是 GitHub Trending 上的热门仓库。",
+      "content": "Repository: nesquena/hermes-webui. Trending today on GitHub. Description: N/A.",
+      "stars": ""
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "Scrapling",
+      "title_zh": "Scrapling 网页抓取框架",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "summary": "Scrapling 是 GitHub Trending 上的热门仓库。",
+      "content": "Repository: D4Vinci/Scrapling. Trending today on GitHub. Description: N/A.",
+      "stars": ""
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "opendataloader-pdf",
+      "title_zh": "OpenDataLoader PDF 加载器",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "summary": "opendataloader-pdf 是 GitHub Trending 上的热门仓库。",
+      "content": "Repository: opendataloader-project/opendataloader-pdf. Trending today on GitHub. Description: N/A.",
+      "stars": ""
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "odoo",
+      "title_zh": "Odoo 企业管理平台",
+      "url": "https://github.com/odoo/odoo",
+      "summary": "面向企业的一体化开源业务管理平台。",
+      "content": "Repository: odoo/odoo. Trending today on GitHub. Description: N/A.",
+      "stars": ""
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "Open-LLM-VTuber",
+      "title_zh": "Open-LLM-VTuber 开源大模型虚拟主播",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "summary": "让开源大模型驱动虚拟主播与实时互动。",
+      "content": "Repository: Open-LLM-VTuber/Open-LLM-VTuber. Trending today on GitHub. Description: N/A.",
+      "stars": ""
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Elixir v1.20: Now a gradually typed language",
+      "title_zh": "Elixir v1.20：现已支持渐进式类型系统",
+      "url": "https://news.ycombinator.com/item?id=48388324",
+      "summary": "这是 Hacker News 当前首页上的热门条目，标题为“Elixir v1.20: Now a gradually typed language”。",
+      "content": "HN Score: 475, Comments: 164"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "title_zh": "Gemma 4 12B：统一的无编码器多模态模型",
+      "url": "https://news.ycombinator.com/item?id=48385906",
+      "summary": "这是 Hacker News 当前首页上的热门条目，标题为“Gemma 4 12B: A unified, encoder-free multimodal model”。",
+      "content": "HN Score: 638, Comments: 268"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+      "title_zh": "I was recently diagnosed with anti-NMDA receptor encephalitis（中文）",
+      "url": "https://news.ycombinator.com/item?id=48384355",
+      "summary": "这是 Hacker News 当前首页上的热门条目，标题为“I was recently diagnosed with anti-NMDA receptor encephalitis”。",
+      "content": "HN Score: 452, Comments: 127"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "DaVinci Resolve 21",
+      "title_zh": "DaVinci Resolve 21（中文）",
+      "url": "https://news.ycombinator.com/item?id=48384482",
+      "summary": "这是 Hacker News 当前首页上的热门条目，标题为“DaVinci Resolve 21”。",
+      "content": "HN Score: 371, Comments: 175"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "title_zh": "Artificial intelligence is not conscious – Ted Chiang（中文）",
+      "url": "https://news.ycombinator.com/item?id=48387270",
+      "summary": "这是 Hacker News 当前首页上的热门条目，标题为“Artificial intelligence is not conscious – Ted Chiang”。",
+      "content": "HN Score: 159, Comments: 245"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+      "title_zh": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing（中文）",
+      "url": "https://news.ycombinator.com/item?id=48383056",
+      "summary": "这是 Hacker News 当前首页上的热门条目，标题为“Uber's $1,500/month AI limit is a useful signal for AI tool pricing”。",
+      "content": "HN Score: 339, Comments: 431"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Ableton Extensions SDK",
+      "title_zh": "Ableton Extensions SDK（中文）",
+      "url": "https://news.ycombinator.com/item?id=48389681",
+      "summary": "这是 Hacker News 当前首页上的热门条目，标题为“Ableton Extensions SDK”。",
+      "content": "HN Score: 50, Comments: 20"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Gooey: A GPU-accelerated UI framework for Zig",
+      "title_zh": "Gooey: A GPU-accelerated UI framework for Zig（中文）",
+      "url": "https://news.ycombinator.com/item?id=48386725",
+      "summary": "这是 Hacker News 当前首页上的热门条目，标题为“Gooey: A GPU-accelerated UI framework for Zig”。",
+      "content": "HN Score: 128, Comments: 40"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+      "title_zh": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it（中文）",
+      "url": "https://news.ycombinator.com/item?id=48382310",
+      "summary": "这是 Hacker News 当前首页上的热门条目，标题为“Pwnd Blaster: Hacking your PC using your speaker without ever touching it”。",
+      "content": "HN Score: 633, Comments: 99"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
+      "title_zh": "Journey to JPEG XL: open-source experiments shaped the future of image coding（中文）",
+      "url": "https://news.ycombinator.com/item?id=48390688",
+      "summary": "这是 Hacker News 当前首页上的热门条目，标题为“Journey to JPEG XL: open-source experiments shaped the future of image coding”。",
+      "content": "HN Score: 19, Comments: 12"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic files for IPO before OpenAI as they race to go public",
+      "title_zh": "Anthropic 抢先于 OpenAI 提交 IPO 申请，争相上市",
+      "url": "https://www.nbcnews.com/business/corporations/anthropic-files-ipo-openai-rcna347897",
+      "summary": "NBC 报道称，Anthropic 已提交 IPO 申请，AI 独角兽的上市竞争正在升温。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "AI giant Anthropic files for US IPO as investors bet big on AI future",
+      "title_zh": "AI 巨头 Anthropic 申请美国 IPO，投资者继续重仓押注 AI 未来",
+      "url": "https://www.aljazeera.com/economy/2026/6/1/ai-giant-anthropic-files-for-us-ipo-as-investors-bet-big-on-ai-future",
+      "summary": "Al Jazeera 报道称，Anthropic 的 IPO 申请反映出资本市场对 AI 赛道的持续热度。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "OpenAI News",
+      "title_zh": "OpenAI 新闻",
+      "url": "https://openai.com/news/",
+      "summary": "OpenAI 官方新闻页，可用于追踪模型发布、产品更新与研究进展。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "OpenAI News | Today's Latest Stories | Reuters",
+      "title_zh": "OpenAI 新闻｜今日最新报道（路透）",
+      "url": "https://www.reuters.com/technology/openai/",
+      "summary": "路透的 OpenAI 专题页，适合快速跟踪公司与产品动态。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Anthropic (@AnthropicAI) / Posts / X - Twitter",
+      "title_zh": "Anthropic 官方 X 帖子页",
+      "url": "https://x.com/AnthropicAI",
+      "summary": "Anthropic 官方 X 账号，可追踪其公告与动态。",
+      "content": ""
+    }
+  ]
+}
