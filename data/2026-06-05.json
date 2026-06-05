@@ -1,0 +1,240 @@
+{
+  "date": "2026-06-05",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "headroom",
+      "title_zh": "Headroom（资源压缩中间层）",
+      "url": "https://github.com/chopratejas/headroom",
+      "summary": "把工具输出、日志、文件和 RAG 分块在送入大模型前先压缩，减少 60%–95% 的 token 消耗。",
+      "content": "Repository: chopratejas / headroom. Trending today on GitHub. Description: Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server..",
+      "stars": "3142"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "hermes-agent",
+      "title_zh": "Hermes 代理",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "一个会随着使用不断成长的智能代理项目。",
+      "content": "Repository: NousResearch / hermes-agent. Trending today on GitHub. Description: The agent that grows with you.",
+      "stars": "1913"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "ECC",
+      "title_zh": "ECC（错误纠正码）",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "面向智能体运行环境的性能优化系统，覆盖技能、直觉、记忆、安全与研究优先开发。",
+      "content": "Repository: affaan-m / ECC. Trending today on GitHub. Description: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond..",
+      "stars": "1750"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "PaddleOCR",
+      "title_zh": "PaddleOCR（飞桨光学字符识别）",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "summary": "飞桨生态中的 OCR 文档识别项目。",
+      "content": "Repository: PaddlePaddle / PaddleOCR. Trending today on GitHub. Description: Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages..",
+      "stars": "141"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "spec-kit",
+      "title_zh": "规范工具包",
+      "url": "https://github.com/github/spec-kit",
+      "summary": "GitHub 的规范驱动开发工具包。",
+      "content": "Repository: github / spec-kit. Trending today on GitHub. Description: 💫 Toolkit to help you get started with Spec-Driven Development.",
+      "stars": "321"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "cosmos",
+      "title_zh": "宇宙模型套件",
+      "url": "https://github.com/NVIDIA/cosmos",
+      "summary": "NVIDIA 的 Cosmos 项目。",
+      "content": "Repository: NVIDIA / cosmos. Trending today on GitHub. Description: NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more..",
+      "stars": "133"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "open-notebook",
+      "title_zh": "开源笔记本",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "summary": "开源笔记与知识整理工具。",
+      "content": "Repository: lfnovo / open-notebook. Trending today on GitHub. Description: An Open Source implementation of Notebook LM with more flexibility and features.",
+      "stars": "212"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "Open-LLM-VTuber",
+      "title_zh": "开源大模型虚拟主播",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "summary": "让开源大模型以语音方式驱动虚拟主播互动。",
+      "content": "Repository: Open-LLM-VTuber / Open-LLM-VTuber. Trending today on GitHub. Description: Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms.",
+      "stars": "581"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "coding-interview-university",
+      "title_zh": "编程面试大学",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "summary": "一份系统整理编程面试学习路径的仓库。",
+      "content": "Repository: jwasham / coding-interview-university. Trending today on GitHub. Description: A complete computer science study plan to become a software engineer..",
+      "stars": "632"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "copilot-sdk",
+      "title_zh": "Copilot SDK（副驾驶开发工具包）",
+      "url": "https://github.com/github/copilot-sdk",
+      "summary": "面向 Copilot 生态的 SDK。",
+      "content": "Repository: github / copilot-sdk. Trending today on GitHub. Description: Multi-platform SDK for integrating GitHub Copilot Agent into apps and services.",
+      "stars": "38"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "title_zh": "Transformer 需要三个投影吗？QKV 变体的系统性研究",
+      "url": "https://news.ycombinator.com/item?id=48405931",
+      "summary": "讨论 Transformer 中 QKV 投影设计的系统性研究。",
+      "content": "HN Score: 43, Comments: 5"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "title_zh": "Anthropic 的开源 AI 漏洞发现框架",
+      "url": "https://news.ycombinator.com/item?id=48403980",
+      "summary": "Anthropic 发布了用于 AI 驱动漏洞发现的开源框架。",
+      "content": "HN Score: 222, Comments: 74"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "VoidZero Is Joining Cloudflare",
+      "title_zh": "VoidZero 加入 Cloudflare",
+      "url": "https://news.ycombinator.com/item?id=48398055",
+      "summary": "VoidZero 宣布加入 Cloudflare。",
+      "content": "HN Score: 547, Comments: 245"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "title_zh": "当 AI 构建自身：迈向递归自我改进的进展",
+      "url": "https://news.ycombinator.com/item?id=48400842",
+      "summary": "Anthropic 讨论 AI 递归自我改进的最新进展。",
+      "content": "HN Score: 287, Comments: 375"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+      "title_zh": "无分支快速排序：在 C/C++ API 下比 std::sort 和 pdqsort 更快",
+      "url": "https://news.ycombinator.com/item?id=48375445",
+      "summary": "一个无分支快速排序实现，声称在 C/C++ 场景下具有更好的性能。",
+      "content": "HN Score: 55, Comments: 7"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "IPv6 zones in URLs are a mistake",
+      "title_zh": "URL 中的 IPv6 zone 标记是个错误",
+      "url": "https://news.ycombinator.com/item?id=48405019",
+      "summary": "作者认为 URL 中的 IPv6 zone 标记设计并不合理。",
+      "content": "HN Score: 56, Comments: 43"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Queen bees emerge from special wax chambers",
+      "title_zh": "蜂王从特殊蜡室中诞生",
+      "url": "https://news.ycombinator.com/item?id=48404905",
+      "summary": "一篇关于蜂王从特殊蜡室中诞生的科普/研究报道。",
+      "content": "HN Score: 26, Comments: 0"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Ian's Secure Shoelace Knot",
+      "title_zh": "Ian 的安全系鞋带结",
+      "url": "https://news.ycombinator.com/item?id=48397028",
+      "summary": "一个讲解如何打安全鞋带结的技巧页。",
+      "content": "HN Score: 483, Comments: 184"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Retro-Tech Parenting",
+      "title_zh": "Retro-Tech Parenting",
+      "url": "https://news.ycombinator.com/item?id=48400588",
+      "summary": "这是 Hacker News 当前首页上的热门条目。",
+      "content": "HN Score: 228, Comments: 159"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "title_zh": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "url": "https://news.ycombinator.com/item?id=48399974",
+      "summary": "这是 Hacker News 当前首页上的热门条目。",
+      "content": "HN Score: 111, Comments: 11"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic files for IPO before OpenAI as they race to go public",
+      "title_zh": "Anthropic 抢在 OpenAI 前提交 IPO 申请，争相冲刺上市",
+      "url": "https://www.nbcnews.com/business/corporations/anthropic-files-ipo-openai-rcna347897",
+      "summary": "NBC 报道称，Anthropic 已提交 IPO 申请，显示出 AI 公司正加速进入资本市场。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "AI giant Anthropic files for US IPO as investors bet big on AI future",
+      "title_zh": "AI 巨头 Anthropic 申请美国 IPO，投资者继续重注 AI 未来",
+      "url": "https://www.aljazeera.com/economy/2026/6/1/ai-giant-anthropic-files-for-us-ipo-as-investors-bet-big-on-ai-future",
+      "summary": "Al Jazeera 报道称，Anthropic 的 IPO 申请进一步强化了市场对 AI 赛道的高预期。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "title_zh": "当 AI 构建自身：迈向递归自我改进的进展",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "summary": "Anthropic 发布关于递归自我改进研究进展的官方文章。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "OpenAI News",
+      "title_zh": "OpenAI 新闻页",
+      "url": "https://openai.com/news/",
+      "summary": "OpenAI 官方新闻页，可追踪模型、产品与研究更新。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Anthropic (@AnthropicAI) / Posts / X - Twitter",
+      "title_zh": "Anthropic 官方 X 动态",
+      "url": "https://x.com/AnthropicAI",
+      "summary": "Anthropic 官方 X 账号动态页，适合跟进公告和产品消息。",
+      "content": ""
+    }
+  ]
+}
