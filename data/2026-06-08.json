@@ -1,0 +1,119 @@
+{
+  "date": "2026-06-08",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "last30days-skill",
+      "title_zh": "最近30天研究技能",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "一个 AI 代理技能，用于跨 Reddit、X、YouTube、HN、Polymarket 和全网检索话题，并生成有依据的综合摘要。",
+      "content": "Repository: mvanhorn/last30days-skill. AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web, then synthesizes a grounded summary.",
+      "stars": "30861"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "taste-skill",
+      "title_zh": "品味技能",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "summary": "让 AI 具备更好的审美判断，避免输出千篇一律、缺乏个性的内容。",
+      "content": "Repository: Leonxlnx/taste-skill. Taste-Skill gives your AI good taste and stops it from generating boring, generic slop.",
+      "stars": "36562"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "open-notebook",
+      "title_zh": "开源笔记本",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "summary": "一个更灵活、功能更完整的开源 NotebookLM 替代实现。",
+      "content": "Repository: lfnovo/open-notebook. An open source implementation of NotebookLM with more flexibility and features.",
+      "stars": "27231"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "AiToEarn",
+      "title_zh": "AI 赚钱工具",
+      "url": "https://github.com/yikart/AiToEarn",
+      "summary": "围绕用 AI 创造收益的开源项目。",
+      "content": "Repository: yikart/AiToEarn. Let's use AI to Earn!",
+      "stars": "18733"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "project-nomad",
+      "title_zh": "游牧者计划",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "summary": "一台可离线运行的自包含生存计算机，集成了关键工具、知识和 AI 能力。",
+      "content": "Repository: Crosstalk-Solutions/project-nomad. Project N.O.M.A.D is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered anytime, anywhere.",
+      "stars": "29707"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "turbovec",
+      "title_zh": "TurboVec 向量索引",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "summary": "基于 TurboQuant 的 Rust 向量索引，提供 Python 绑定。",
+      "content": "Repository: RyanCodrai/turbovec. A vector index built on TurboQuant, written in Rust with Python bindings.",
+      "stars": "7124"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "title_zh": "大模型正在侵蚀我的软件工程职业生涯，我不知道该怎么办",
+      "url": "https://news.ycombinator.com/item?id=48434312",
+      "summary": "一篇在 Hacker News 首页走红的反思文章，讨论大模型正在如何冲击软件工程职业路径，以及作者对未来的迷茫。",
+      "content": "HN Score: 768, Comments: 741"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "title_zh": "Anthropic，请推出官方 Linux 版 Claude Desktop",
+      "url": "https://news.ycombinator.com/item?id=48434436",
+      "summary": "开发者呼吁 Anthropic 提供官方 Linux 版 Claude Desktop，评论区围绕桌面端体验与跨平台支持展开。",
+      "content": "HN Score: 436, Comments: 247"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+      "title_zh": "第29届国际晦涩 C 代码大赛 2025 获奖作品",
+      "url": "https://news.ycombinator.com/item?id=48432199",
+      "summary": "IOCCC 2025 获奖名单发布，展示了一批极具创意和混淆技巧的 C 代码作品。",
+      "content": "HN Score: 356, Comments: 87"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Building from zero after addiction, prison, and a felony",
+      "title_zh": "从成瘾、监禁和重罪记录中从零开始",
+      "url": "https://news.ycombinator.com/item?id=48437406",
+      "summary": "一篇关于从成瘾、监禁和重罪记录中重新起步的个人经历文章，在 HN 上引发了大量讨论。",
+      "content": "HN Score: 303, Comments: 150"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "title_zh": "Gemma 4 12B：统一的无编码器多模态模型",
+      "url": "https://news.ycombinator.com/item?id=48385906",
+      "summary": "围绕 Gemma 4 12B 的多模态、无编码器架构和开源可用性展开讨论。",
+      "content": "HN Score: 638, Comments: 268"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic files for IPO before OpenAI as they race to go public",
+      "title_zh": "Anthropic 赶在 OpenAI 之前递交 IPO 申请，竞逐上市进程",
+      "url": "https://www.nbcnews.com/business/corporations/anthropic-files-ipo-openai-rcna347897",
+      "summary": "NBC 报道称 Anthropic 已提交 IPO 申请，意味着这家 AI 公司向公开市场又迈进一步。",
+      "content": ""
+    }
+  ]
+}
