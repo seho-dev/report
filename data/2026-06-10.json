@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-10",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "mvanhorn/last30days-skill",
+      "title_zh": "mvanhorn 最近30天技能",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "一个 AI 智能体技能，可跨 Reddit、X、YouTube、HN、Polymarket 和全网研究任意主题，并生成有依据的综合总结。",
+      "content": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web, then synthesizes a grounded summary.",
+      "stars": "37265"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "RyanCodrai/turbovec",
+      "title_zh": "RyanCodrai TurboVec 向量索引",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "summary": "一个基于 TurboQuant 构建的向量索引，使用 Rust 编写，并提供 Python 绑定。",
+      "content": "A vector index built on TurboQuant, written in Rust with Python bindings.",
+      "stars": "10146"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "roboflow/supervision",
+      "title_zh": "Roboflow 视觉监督工具库",
+      "url": "https://github.com/roboflow/supervision",
+      "summary": "为可复用的计算机视觉工作流提供工具与组件。",
+      "content": "Reusable computer vision tools from Roboflow.",
+      "stars": "0"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "refactoringhq/tolaria",
+      "title_zh": "Tolaria Markdown 知识库桌面应用",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "summary": "用于管理 Markdown 知识库的桌面应用。",
+      "content": "Desktop app to manage markdown knowledge bases.",
+      "stars": "14303"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "yikart/AiToEarn",
+      "title_zh": "AI 赚钱助手",
+      "url": "https://github.com/yikart/AiToEarn",
+      "summary": "一个尝试用 AI 帮助赚钱的项目。",
+      "content": "Let's use AI to earn.",
+      "stars": "19899"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Claude Fable 5",
+      "title_zh": "Claude Fable 5",
+      "url": "https://news.ycombinator.com/item?id=48463808",
+      "summary": "HN 首页热门，聚焦 Anthropic 的新一代模型与系统卡。",
+      "content": "HN Score: 1658, Comments: 1312"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Making Graphics Like it's 1993",
+      "title_zh": "像 1993 年那样制作图形",
+      "url": "https://news.ycombinator.com/item?id=48459294",
+      "summary": "讨论复古图形风格与早期 3D 渲染的文章。",
+      "content": "HN Score: 746, Comments: 127"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+      "title_zh": "OpenCV 5 到来：计算机视觉多年最大的一次飞跃",
+      "url": "https://news.ycombinator.com/item?id=48421858",
+      "summary": "OpenCV 发布 5.0，强调这是计算机视觉领域近年最重要的一次升级。",
+      "content": "HN Score: 677, Comments: 119"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
+      "title_zh": "FCC 想通过强制电信公司收集所有客户身份信息来消灭预付费手机",
+      "url": "https://news.ycombinator.com/item?id=48462308",
+      "summary": "关于隐私、身份验证和监管的新争议。",
+      "content": "HN Score: 0, Comments: 0"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Siri AI",
+      "title_zh": "Siri 人工智能",
+      "url": "https://news.ycombinator.com/item?id=48449084",
+      "summary": "围绕 Siri 的 AI 能力与产品方向展开的讨论。",
+      "content": "HN Score: 359, Comments: 298"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "OpenAI News",
+      "title_zh": "OpenAI 新闻",
+      "url": "https://openai.com/news/",
+      "summary": "OpenAI 新闻页，展示最新产品、合作与公共议题相关动态。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic News",
+      "title_zh": "Anthropic 新闻中心",
+      "url": "https://www.anthropic.com/news",
+      "summary": "Anthropic 新闻页列出 Claude Fable 5、Claude Mythos 5、Claude Opus 4.8 等最新公告。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Official Google AI news and updates",
+      "title_zh": "Google AI 官方新闻与更新",
+      "url": "https://blog.google/technology/ai/",
+      "summary": "Google AI 官方页面汇总研究、开发者内容和 Gemini 相关新闻。",
+      "content": ""
+    }
+  ]
+}
