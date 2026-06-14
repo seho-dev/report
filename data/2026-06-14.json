@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-14",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "iptv-org/iptv",
+      "title_zh": "全球 IPTV 频道聚合",
+      "url": "https://github.com/iptv-org/iptv",
+      "summary": "全球 IPTV 频道聚合 相关的热门仓库。",
+      "content": "Collection of publicly available IPTV channels from all over the world",
+      "stars": "530"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "addyosmani/agent-skills",
+      "title_zh": "AI 编程智能体生产级技能集",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "AI 编程智能体生产级技能集 相关的热门仓库。",
+      "content": "Production-grade engineering skills for AI coding agents.",
+      "stars": "1514"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "apple/container",
+      "title_zh": "苹果容器运行工具",
+      "url": "https://github.com/apple/container",
+      "summary": "苹果容器运行工具 相关的热门仓库。",
+      "content": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "stars": "1487"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "kenn-io/agentsview",
+      "title_zh": "agentsview 项目",
+      "url": "https://github.com/kenn-io/agentsview",
+      "summary": "agentsview 项目 相关的热门仓库。",
+      "content": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+      "stars": "190"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "LMCache/LMCache",
+      "title_zh": "LMCache 项目",
+      "url": "https://github.com/LMCache/LMCache",
+      "summary": "LMCache 项目 相关的热门仓库。",
+      "content": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "stars": "238"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Show HN: I built 80 mini-games using Fable before it was shut down",
+      "title_zh": "Show HN: I built 80 mini-games using Fable before it was shut down",
+      "url": "https://minigames.world/en",
+      "summary": "HN 首页热门故事，反映开发者社区当日关注点。",
+      "content": "HN Score: 25, Comments: 12"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "title_zh": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "summary": "HN 首页热门故事，反映开发者社区当日关注点。",
+      "content": "HN Score: 683, Comments: 405"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "GLM 5.2 Is Out",
+      "title_zh": "GLM 5.2 Is Out",
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "summary": "HN 首页热门故事，反映开发者社区当日关注点。",
+      "content": "HN Score: 265, Comments: 142"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Every Frame Perfect",
+      "title_zh": "Every Frame Perfect",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "summary": "HN 首页热门故事，反映开发者社区当日关注点。",
+      "content": "HN Score: 497, Comments: 167"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "title_zh": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+      "summary": "HN 首页热门故事，反映开发者社区当日关注点。",
+      "content": "HN Score: 279, Comments: 93"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "OpenAI News",
+      "title_zh": "OpenAI 新闻",
+      "url": "https://openai.com/news/",
+      "summary": "OpenAI 新闻页，汇总产品、研究与公司动态。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic News",
+      "title_zh": "Anthropic 新闻中心",
+      "url": "https://www.anthropic.com/news",
+      "summary": "Anthropic 新闻页，聚合 Claude 与研究更新。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Google AI Blog",
+      "title_zh": "Google AI 博客",
+      "url": "https://blog.google/technology/ai/",
+      "summary": "Google AI 官方博客，发布 Gemini 与研究进展。",
+      "content": ""
+    }
+  ]
+}
