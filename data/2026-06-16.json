@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-16",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "iptv-org/iptv",
+      "title_zh": "全球 IPTV 频道聚合",
+      "url": "https://github.com/iptv-org/iptv",
+      "summary": "汇集全球公开 IPTV 频道清单，方便按地区和类别浏览。",
+      "content": "Collection of publicly available IPTV channels from all over the world",
+      "stars": "122,830"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "teslamate-org/teslamate",
+      "title_zh": "特斯拉车辆数据记录器",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "summary": "面向特斯拉车主的自托管数据记录工具，用于采集和分析车辆数据。",
+      "content": "A self-hosted data logger for your Tesla 🚘 [main maintainer= @JakobLichterfeld ]",
+      "stars": "16,799"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "Panniantong/Agent-Reach",
+      "title_zh": "Agent-Reach：给 AI 代理装上全网检索与感知能力",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "summary": "为 AI 代理提供网页、社交媒体和多平台检索能力的一体化 CLI 工具。",
+      "content": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": "1,100"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "meshery/meshery",
+      "title_zh": "Meshery 云原生基础设施管理平台",
+      "url": "https://github.com/meshery/meshery",
+      "summary": "用于管理云原生基础设施与 Kubernetes 资源的开源平台。",
+      "content": "Meshery, the cloud native manager",
+      "stars": "7,023"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "sponsors/chatwoot",
+      "title_zh": "《Hello 算法》",
+      "url": "https://github.com/sponsors/chatwoot",
+      "summary": "提供多语言、动画化的数据结构与算法教程，以及可直接运行的代码实现。",
+      "content": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "stars": ""
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "A backdoor in a LinkedIn job offer",
+      "title_zh": "LinkedIn 求职邀约中的后门",
+      "url": "https://roman.pt/posts/linkedin-backdoor/",
+      "summary": "一篇关于 LinkedIn 求职邀约中发现后门机制的热门讨论。",
+      "content": "HN Score: 542, Comments: 109"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+      "title_zh": "把禁书库藏进 Wi‑Fi 智能灯泡",
+      "url": "https://www.richardosgood.com/posts/banned-book-library/",
+      "summary": "介绍如何把禁书内容隐藏进 Wi‑Fi 智能灯泡的创意实现。",
+      "content": "HN Score: 62, Comments: 8"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Iroh 1.0",
+      "title_zh": "Iroh 1.0",
+      "url": "https://www.iroh.computer/blog/v1",
+      "summary": "Iroh 1.0 发布，引发 HN 社区对其产品与技术实现的讨论。",
+      "content": "HN Score: 883, Comments: 276"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "I Love the Computer",
+      "title_zh": "我爱计算机",
+      "url": "https://michaelenger.com/blog/i-love-the-computer/",
+      "summary": "一篇充满个人色彩的技术随笔，表达作者对计算机的热爱。",
+      "content": "HN Score: 112, Comments: 68"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "title_zh": "TinyWind：一款带真实风力物理的像素海盗航海游戏（已航行 38 万+ 公里）",
+      "url": "https://tinywind.io",
+      "summary": "一款使用真实风力物理的像素海盗游戏，引发大量关注。",
+      "content": "HN Score: 551, Comments: 114"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "AI Industry Update: Google, OpenAI, Anthropic, DeepSeek, Qwen, Z.ai",
+      "title_zh": "AI 行业更新：谷歌、OpenAI、Anthropic、DeepSeek、Qwen、Z.ai",
+      "url": "https://projectchat.ai/2026/06/05/ai-industry-update-google-openai-anthropic-deepseek-qwen-z-ai/",
+      "summary": "近期 AI 产业动态综述，涵盖大模型、平台与竞争格局变化。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "LLM News Today (June 2026) - AI Model Releases",
+      "title_zh": "今日大语言模型新闻（2026 年 6 月）——AI 模型发布",
+      "url": "https://llm-stats.com/ai-news",
+      "summary": "汇总 OpenAI、Anthropic、Google 等模型发布与基准更新。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Anthropic Raises $65B at Near-$1T Valuation, Opus 4.8 Ships, OpenAI ...",
+      "title_zh": "Anthropic 以接近 1 万亿美元估值融资 650 亿美元，Opus 4.8 上线，OpenAI 动态持续发酵",
+      "url": "https://lablab.ai/ai-articles/this-week-in-ai-2026-06-02",
+      "summary": "一周 AI 新闻回顾，重点包括融资、模型发布和政府测试提案。",
+      "content": ""
+    }
+  ]
+}
