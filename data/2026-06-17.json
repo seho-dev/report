@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-17",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "freeCodeCamp/freeCodeCamp",
+      "title_zh": "freeCodeCamp 开源课程平台",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "summary": "freeCodeCamp.org 的开源代码库和课程体系，适合免费学习数学、编程和计算机科学。",
+      "content": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free",
+      "stars": "633"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "swc-project/swc",
+      "title_zh": "SWC 高性能 Web 工具链",
+      "url": "https://github.com/swc-project/swc",
+      "summary": "基于 Rust 的 Web 平台工具链，用于快速编译与转换前端代码。",
+      "content": "Rust-based platform for the Web",
+      "stars": "215"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "teslamate-org/teslamate",
+      "title_zh": "TeslaMate 特斯拉行车数据记录器",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "summary": "面向特斯拉车主的自托管数据记录工具，用来采集和分析车辆数据。",
+      "content": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "stars": "8,397"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "iptv-org/iptv",
+      "title_zh": "全球 IPTV 频道聚合库",
+      "url": "https://github.com/iptv-org/iptv",
+      "summary": "汇集全球公开 IPTV 频道清单，方便按地区和类别浏览。",
+      "content": "Collection of publicly available IPTV channels from all over the world",
+      "stars": "122,830"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "puppeteer/puppeteer",
+      "title_zh": "Puppeteer 浏览器自动化框架",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "summary": "用于 Chrome 和 Firefox 的 JavaScript 自动化接口。",
+      "content": "JavaScript API for Chrome and Firefox",
+      "stars": "94,876"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Running local models is good now",
+      "title_zh": "本地运行模型现在已经很香了",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "summary": "讨论本地大模型在易用性、速度和成本上的明显进步。",
+      "content": "HN Score: 953, Comments: 409"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "SpaceX to buy Cursor for $60B",
+      "title_zh": "SpaceX 以 600 亿美元收购 Cursor",
+      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "summary": "SpaceX 拟以 600 亿美元收购 Cursor 母公司 Anysphere，引发热议。",
+      "content": "HN Score: 824, Comments: 1270"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "GrapheneOS has been ported to Android 17",
+      "title_zh": "GrapheneOS 已移植到 Android 17",
+      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+      "summary": "GrapheneOS 适配 Android 17 的消息公布，官方版本也即将到来。",
+      "content": "HN Score: 281, Comments: 113"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "title_zh": "TIL：不用 curl，也能用 Bash 的 /dev/TCP 发 HTTP 请求",
+      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+      "summary": "一个实用技巧，展示如何用 Bash 直接建立 TCP 连接并发送 HTTP 请求。",
+      "content": "HN Score: 229, Comments: 128"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Stop Using JWTs",
+      "title_zh": "别再滥用 JWT 了",
+      "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+      "summary": "一篇对 JWT 使用场景和常见误用的批评性文章。",
+      "content": "HN Score: 211, Comments: 0"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "title_zh": "OpenAI 在 Anthropic 之后秘密递交 IPO 申请",
+      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "summary": "OpenAI 紧随 Anthropic 之后提交保密上市申请，AI 资本市场竞争升温。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "June 2026 AI News: Anthropic, SpaceX, Google",
+      "title_zh": "2026 年 6 月 AI 新闻：Anthropic、SpaceX、Google",
+      "url": "https://kersai.com/june-2026-ai-news-anthropic-spacex-google-business-impact/",
+      "summary": "汇总 2026 年 6 月 AI 产业动态，涵盖 Anthropic、SpaceX 和 Google 等关键进展。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "LLM News Today (June 2026) - AI Model Releases",
+      "title_zh": "今日大语言模型新闻（2026 年 6 月）——AI 模型发布",
+      "url": "https://llm-stats.com/ai-news",
+      "summary": "追踪 OpenAI、Anthropic、Google 等厂商的模型发布与基准更新。",
+      "content": ""
+    }
+  ]
+}
