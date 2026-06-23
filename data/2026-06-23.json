@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-23",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "summary": "世界首个开源、具备智能代理能力的视频制作系统。它提供 12 条流水线、52 款工具和 500 多项代理技能，可把 AI 编程助手变成完整的视频制作工作室。",
+      "content": "Today stars: 2938. Description: Star calesthio / OpenMontage World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars": "2938",
+      "title_zh": "开源智能视频制作平台"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "summary": "为 AI 打造的 macOS 视频编辑器，主打面向智能工作流的视频剪辑体验。",
+      "content": "Today stars: 2463. Description: Star palmier-io / palmier-pro macOS video editor built for AI",
+      "stars": "2463",
+      "title_zh": "AI 驱动的 macOS 视频编辑器"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "summary": "开源 AI 语音工作室，支持克隆、听写和创作。",
+      "content": "Today stars: 529. Description: Star jamiepine / voicebox The open-source AI voice studio. Clone, dictate, create.",
+      "stars": "529",
+      "title_zh": "开源语音创作工作室"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "summary": "面向 AI 代理的 817 项结构化网络安全技能集，映射到 6 个主流安全与 AI 框架，并兼容多种编程代理平台。",
+      "content": "Today stars: 956. Description: Sponsor Star mukul975 / Anthropic-Cybersecurity-Skills 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+      "stars": "956",
+      "title_zh": "AI 代理网络安全技能集"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "summary": "面向设计与代码协作的开源设计工具，适合团队在同一流程中完成设计协作。",
+      "content": "Today stars: 728. Description: Star penpot / penpot Penpot: The open-source design tool for design and code collaboration",
+      "stars": "728",
+      "title_zh": "开源设计协作平台"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Steam Machine launches today",
+      "url": "https://news.ycombinator.com/item?id=48632884",
+      "summary": "Steam Machine 今日发布",
+      "content": "HN Score: 1089, Comments: 970",
+      "title_zh": "Steam Machine 今日发布"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Deno Desktop",
+      "url": "https://news.ycombinator.com/item?id=48626137",
+      "summary": "Deno Desktop",
+      "content": "HN Score: 1009, Comments: 368",
+      "title_zh": "Deno 桌面版"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Hyundai buys Boston Dynamics",
+      "url": "https://news.ycombinator.com/item?id=48600312",
+      "summary": "现代汽车收购波士顿动力",
+      "content": "HN Score: 966, Comments: 398",
+      "title_zh": "现代汽车收购波士顿动力"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Pledging another $400k to the Zig software foundation",
+      "url": "https://news.ycombinator.com/item?id=48630020",
+      "summary": "再向 Zig 软件基金会捐赠 40 万美元",
+      "content": "HN Score: 710, Comments: 238",
+      "title_zh": "再向 Zig 软件基金会捐赠 40 万美元"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Help I accidentally a wigglegram",
+      "url": "https://news.ycombinator.com/item?id=48605561",
+      "summary": "救命，我不小心做成了一个 wigglegram",
+      "content": "HN Score: 473, Comments: 120",
+      "title_zh": "救命，我不小心做了个 wigglegram"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "summary": "不止 Siri：iOS 27 将在你的 iPhone 上带来的实用 AI 功能",
+      "content": "",
+      "title_zh": "不止 Siri：以下是 iOS 27 将为你的 iPhone 带来的实用 AI 功能"
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "summary": "美国政府禁止 Anthropic 这件事，是否反而在帮它提升品牌？",
+      "content": "",
+      "title_zh": "美国政府对 Anthropic 的禁令是否在无意中帮了这个品牌？"
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+      "summary": "美国禁止了 Anthropic 的 Fable 5 发布，但数据似乎并不在意",
+      "content": "",
+      "title_zh": "美国禁止了 Anthropic 的 Fable 5 发布，但数据似乎并不在意"
+    }
+  ]
+}
