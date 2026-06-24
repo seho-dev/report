@@ -1,0 +1,145 @@
+{
+  "date": "2026-06-24",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "paperless-ngx",
+      "title_zh": "Paperless-ngx 文档管理系统",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "summary": "社区维护的文档管理系统，可用于扫描、索引和归档各类文件。",
+      "content": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "stars": "35"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "trivy",
+      "title_zh": "Trivy 漏洞扫描器",
+      "url": "https://github.com/aquasecurity/trivy",
+      "summary": "用于扫描容器、代码仓库、云环境中的漏洞、错误配置和机密信息。",
+      "content": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "stars": "21"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "flatbuffers",
+      "title_zh": "FlatBuffers 扁平缓冲区",
+      "url": "https://github.com/google/flatbuffers",
+      "summary": "高效的内存序列化库，适合追求低开销的数据交换场景。",
+      "content": "FlatBuffers: Memory Efficient Serialization Library",
+      "stars": "15"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "kafka",
+      "title_zh": "Kafka 分布式事件流平台",
+      "url": "https://github.com/apache/kafka",
+      "summary": "用于构建分布式事件流系统的消息与流处理平台。",
+      "content": "Apache Kafka - A distributed event streaming platform",
+      "stars": "25"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "prompts.chat",
+      "title_zh": "Prompts.chat 提示词社区",
+      "url": "https://github.com/f/prompts.chat",
+      "summary": "一个共享、发现和收集提示词的开源社区项目。",
+      "content": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "stars": "88"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Jerry's Map",
+      "title_zh": "Jerry 的地图",
+      "url": "http://www.jerrysmap.com/the-map",
+      "summary": "一个关于地图与空间信息的热门项目，讨论热度很高。",
+      "content": "HN Score: 291, Comments: 44"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "FUTO Swipe – A new swipe typing model",
+      "title_zh": "FUTO Swipe：新的滑动输入模型",
+      "url": "https://swipe.futo.tech/",
+      "summary": "一款新的滑动输入模型，围绕移动端输入体验展开。",
+      "content": "HN Score: 208, Comments: 71"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Swift Package Index joins Apple",
+      "title_zh": "Swift Package Index 加入 Apple",
+      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "summary": "Swift Package Index 宣布加入 Apple，社区反响热烈。",
+      "content": "HN Score: 160, Comments: 49"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Printing Gaussian Splats",
+      "title_zh": "打印高斯点云",
+      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+      "summary": "讨论将高斯点云进行物理打印的创意实践。",
+      "content": "HN Score: 135, Comments: 9"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "In memory of the man who put red and green squiggles under words",
+      "title_zh": "纪念那个在单词下画红绿波浪线的人",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "summary": "缅怀一位深刻影响代码拼写检查体验的人。",
+      "content": "HN Score: 94, Comments: 5"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Is AI 'one big bubble'? Behind the tech sell-off - NPR",
+      "title_zh": "AI 是“一场大泡沫”吗？科技抛售背后的原因",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWU0VkdBSm4xdno0NjBPZDNmZlJ3dS02MVc4akhFVlpEalFDNXJoMzRQWmxaNnowWUxzM0w2N1RRZUVUUHFMZGprejR6Z2ltUkdYOE1Na3lfcVRNLVJOQzQ4c1puRUNSS1lLVndFV0lhNnFLZTNJYzB0Z2Y0YUVIRWZYd2NDdFQy?oc=5",
+      "summary": "科技股回调背景下，市场再次争论 AI 热潮是否已接近泡沫化。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute - The New York Times",
+      "title_zh": "NSA 在与 Anthropic 争议中失去对强大 AI 模型的访问权限",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVY2eXB4U3g3bllfNTB1QmJ1UU05UVFPTTVJSUFJNUlKWHhRaG5NbnUtelJQQTFRTEZNLWk2WHNNTktMb19obHBMWkVrelFhcXRFeEFtZlNKNFRxM2V6VFBzUFljajlhbmJHaU1ISGRMNE5MMDJBZlNiYU1INndkdGhhSHdwVVlHTUE?oc=5",
+      "summary": "美国国家安全局在与 Anthropic 的争议中失去了某款强大 AI 模型的访问权限。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Exclusive | Microsoft’s Satya Nadella: We Can’t Let AI Giants Eat the Economy - WSJ",
+      "title_zh": "独家：微软萨提亚·纳德拉表示，不能让 AI 巨头吞噬经济",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZW1mUi1WMDBVS2RxVVp1bEpLSmcwWnZoWU9qS1FqY3lGRXBmQjhwZElGNlk2T3lEVEREbFdUNWpBYkdvTDlyaXIwdnhCVXVyaFplVlFzMFZqQVRtVTFlMmo5V0V2VFlSQVBpSnpqdmlnQy1qUG5KY1J0RjZ3ODdDQ05wVnFDQnZtb1F6Y3pzS0dxcGhQZzBuamVGa1F6cGps?oc=5",
+      "summary": "微软 CEO 认为必须防止少数 AI 巨头垄断并挤压整个经济生态。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "AI in the classroom prompts tide of concern from US parents and experts - The Guardian",
+      "title_zh": "AI 进入课堂，引发美国家长和专家的广泛担忧",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KRzNLa3NUT2VjdEFHbF9hX19OUG9VQjZKT1ZPcTFMYlltd05TNzB4cUFISHg1QlB5Nl9LUmdwWjgwOHViYm5tc1ZQb213N1ZVd2FHZFFvdnZJMTkwOUJEQjRlYVZUR1Jua1h1UWhiQUQ3Mk1rODRJN3BhTTM?oc=5",
+      "summary": "AI 在课堂中的使用正引发美国家长与教育专家对学习公平和依赖性的担忧。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Global tech sell-off intensifies, led by AI and chip stocks - NBC News",
+      "title_zh": "在 AI 和芯片股领跌下，全球科技抛售加剧",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdUJwcS1tc0otcS1kZFNpbllLQ1JUWXZrczgtOExVbGM5bjFQN0tKR0J1NEpETmwtajM0QUYxbUM0Sk1wWm5sZmtOM2JjdmtYb0xCdjJ3QUZ1LXRhemRYUVRycUhEaDJEbW9LeVB0elN6SWIyWVFvUG9Ub0RDbUhEQjdkVGRib1BuQUp4eTEwSTZYTUhyY0NkSzlKeExFMHE1UnZ3aWhiNDljNzIxRDJaNUx3?oc=5",
+      "summary": "科技板块抛售持续加深，AI 与芯片股票成为下跌主因之一。",
+      "content": ""
+    }
+  ]
+}
