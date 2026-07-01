@@ -1,0 +1,145 @@
+{
+  "date": "2026-07-01",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "free-for-dev",
+      "title_zh": "开发者免费资源清单",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "summary": "一份涵盖 SaaS、PaaS 和 IaaS 免费额度的资源清单，适合 DevOps 和基础设施开发者。",
+      "content": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "stars": "742"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "simplex-chat",
+      "title_zh": "SimpleX 聊天网络",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "summary": "一个不依赖任何用户标识的私密消息网络，主打端到端隐私。",
+      "content": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "stars": "1235"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "VeraCrypt",
+      "title_zh": "VeraCrypt 加密工具",
+      "url": "https://github.com/veracrypt/VeraCrypt",
+      "summary": "基于 TrueCrypt 的磁盘加密工具，强调强安全性。",
+      "content": "Disk encryption with strong security based on TrueCrypt",
+      "stars": "246"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "black",
+      "title_zh": "Black Python 代码格式化器",
+      "url": "https://github.com/psf/black",
+      "summary": "一款风格强硬的 Python 代码格式化器。",
+      "content": "The uncompromising Python code formatter",
+      "stars": "22"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "awesome-python",
+      "title_zh": "Python 优质资源合集",
+      "url": "https://github.com/vinta/awesome-python",
+      "summary": "一个整理 Python 框架、库、工具与资源的精选清单。",
+      "content": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "stars": "185"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Claude Sonnet 5",
+      "title_zh": "Claude Sonnet 5 模型",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "summary": "Claude Sonnet 5 发布并登上了 Hacker News 热榜。",
+      "content": "HN Score: 814, Comments: 459"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Claude Code is steganographically marking requests",
+      "title_zh": "Claude Code 正在以隐写方式标记请求",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "summary": "关于 Claude Code 在请求中进行隐写标记的讨论，热度很高。",
+      "content": "HN Score: 1327, Comments: 379"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "From brain waves to words: a new path to communication without surgery",
+      "title_zh": "从脑电波到文字：无需手术的全新通信路径",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "summary": "Meta 展示了无需手术即可把脑电波转成文字的新通信路线。",
+      "content": "HN Score: 91, Comments: 48"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
+      "title_zh": "Hatari —— 在线 Atari ST/STE/TT/Falcon 模拟器",
+      "url": "https://hatari.frama.io/hatari/online/hatari.html",
+      "summary": "一个可直接在浏览器中运行的 Atari ST/STE/TT/Falcon 在线模拟器。",
+      "content": "HN Score: 20, Comments: 3"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Claude Science",
+      "title_zh": "Claude 科学",
+      "url": "https://claude.com/product/claude-science",
+      "summary": "Claude Science 相关内容进入了 Hacker News 热榜。",
+      "content": "HN Score: 336, Comments: 113"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Jim Cramer says the AI trade has shifted — and these stocks are leading now - CNBC",
+      "title_zh": "Jim Cramer 称 AI 交易逻辑已经转向，这些股票正在领跑 - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNW9aWWRzNFBNMW53anp6VWFqRnQ0OG5VWnhzSENZdFZNenRDVUQwaWxwN04zZFowZjhiRHhKUnJVWTRsTDJqcnBlMllmX2R1SGJrcU81VndNbjJNWmY3cEtJcUw1S3EyODBjTVFiQnBLNjhEby1zb29mX3NxOFBpUFlkbEdpb25sOWxr0gGQAUFVX3lxTE5VaTltamphSzljTnh0cXFIV21iWjNwSUdFV3E0MUlia1BOQXNrbzcxV2JkYnBpX2toNGpSNTF4dC0zYkNZRmRLOUVOajNWVlBuNU1nUFBNeTZhUGhwMm5oMnFkT29wTWl2MG5OUkNVRGRMRGVUcnowTXZoNDJzWmVLSG9SejlCaTlwU3lLLTVfeg?oc=5",
+      "summary": "Jim Cramer 认为 AI 交易逻辑已经转向，部分股票正在领跑市场。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "US to lift export controls on Anthropic's Fable AI model on Tuesday, source says - Reuters",
+      "title_zh": "Anthropic 的 Fable AI 模型将于周二解除出口管制，消息人士称 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDJJRUpoY0J3YUZXZWFpUFF5N2pzUTM3X2pSMzZXdVI3ZEtsTnU1b09yRl9TU1NhMlV2RFF4Q3ZEaUVnQXVYWlpzd0k0OGVjRkgzNlBtVTFab3ZxZWFGWUMtWXFCOEZqODdRNzhhSml1Y0pTZGZVNVJLSFZvSGJ2VDFMZ1RTNm5fTXoxVXpQWWRSR3ptWXVpM2Mzc0l4YW05cl9LRDBPV3kwc1FhdmVKcWJwWHA?oc=5",
+      "summary": "消息称美国将在周二解除对 Anthropic 的 Fable AI 模型的出口管制。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "VAT challenges in AI product development - The Tax Adviser",
+      "title_zh": "AI 产品开发中的增值税挑战 - The Tax Adviser",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcmh6SnhxdU9fQktmTmloejBqTnRheU5tR2hKQ29FNk9vajdqNmJHUWFEYkg5Vm1LeEI1WlFQYXU0T0xPa0s4WWZ3LXBsM2NkanVRd0I3TzRvNTFkdGlvT1NpVlVIVklRQXQzR0d1dnVzdndZSmJmVV9EVFZEUk5ieThIQTJ5c2NWVXdfYTNCREM?oc=5",
+      "summary": "这篇文章讨论了 AI 产品开发过程中遇到的增值税合规挑战。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "The New (And Slightly Smelly) Center of the AI Boom - The Atlantic",
+      "title_zh": "AI 热潮中新出现的中心，气味还带点“怪味” - The Atlantic",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVVRwMUJGVGFkcno5ZmdnZEx5VlNZYjU1RE5udXZ2SDZHWGVOMjR5azgxNmlUMTZvZVAxLWFabFhVWUpOeEstbTVMaXNzbWYyZ2U0d0stLWt0N2NTWE9TelEzY055U0FmN0JCVWtzTDhSYVRPVjZha2EteDF5RE1PZW5fOGN5c2h1RXg5V05KcG5rNTlu?oc=5",
+      "summary": "The Atlantic 讨论了 AI 热潮中新形成的基础设施中心及其带来的环境气味问题。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Space Force integrates with Air Force in AI sprint to ensure mission dominance - spaceforce.mil",
+      "title_zh": "太空部队与空军在 AI 冲刺中协同，以确保任务优势 - spaceforce.mil",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdExjaVBjcTZWSnhTekJiUG83UUJsS2VHeTdod3hTeTFiQi1kem5GdHVMRHhmN242TmZGWktEaWtXQ0dOMXBCTklBRWZqaE1yeE5GNXJZMTctWE52cHA5ZTVNbEZMdWZKMXJMVm83bkhTcHRoUFJvMUFidGIxR0FfSjMyN0lfWTVXQjFaTUlPWlFmeXhZaXZXcnRERU56WWs3VXRGTHBYUUVCWnRtZE1ZNnFIbC1XUDVlY1RkRjJSWW1TZWZDdmVWR3Q0aUxfdWRrV1ZXUnNrNUZpYkk?oc=5",
+      "summary": "太空部队与空军正在通过 AI 项目协作，以确保任务优势。",
+      "content": ""
+    }
+  ]
+}
