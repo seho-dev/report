@@ -1,0 +1,285 @@
+{
+  "date": "2026-07-02",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "veracrypt/VeraCrypt",
+      "title_zh": "VeraCrypt 磁盘加密工具",
+      "url": "https://github.com/veracrypt/VeraCrypt",
+      "summary": "基于 TrueCrypt 思路的强安全磁盘加密软件，用于保护本地磁盘和卷数据。",
+      "content": "Disk encryption with strong security based on TrueCrypt",
+      "stars": "38"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "psf/black",
+      "title_zh": "Black Python 代码格式化器",
+      "url": "https://github.com/psf/black",
+      "summary": "Python 社区常用的严格代码格式化工具，主打统一风格和减少格式争论。",
+      "content": "The uncompromising Python code formatter",
+      "stars": "15"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "ultralytics/yolov5",
+      "title_zh": "Ultralytics YOLOv5 目标检测框架",
+      "url": "https://github.com/ultralytics/yolov5",
+      "summary": "基于 PyTorch 的 YOLOv5 目标检测实现，并支持导出到 ONNX、CoreML 和 TFLite。",
+      "content": "Ultralytics YOLOv5 in PyTorch > ONNX > CoreML > TFLite",
+      "stars": "11"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "siyuan-note/siyuan",
+      "title_zh": "思源个人知识管理软件",
+      "url": "https://github.com/siyuan-note/siyuan",
+      "summary": "隐私优先、可自托管的开源个人知识管理软件，使用 TypeScript 和 Go 编写。",
+      "content": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+      "stars": "50"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "ripienaar/free-for-dev",
+      "title_zh": "开发者免费资源清单",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "summary": "整理面向 DevOps 和基础设施开发者的 SaaS、PaaS、IaaS 免费套餐资源。",
+      "content": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "stars": "417"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "microsoft/fluentui",
+      "title_zh": "微软 Fluent UI Web 组件库",
+      "url": "https://github.com/microsoft/fluentui",
+      "summary": "微软用于构建 Web 应用的一组工具、React 组件和 Web Components。",
+      "content": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+      "stars": "2"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "DLR-RM/stable-baselines3",
+      "title_zh": "Stable Baselines3 强化学习库",
+      "url": "https://github.com/DLR-RM/stable-baselines3",
+      "summary": "Stable Baselines 的 PyTorch 版本，提供可靠的强化学习算法实现。",
+      "content": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.",
+      "stars": "5"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "servo/servo",
+      "title_zh": "Servo 高性能 Web 引擎",
+      "url": "https://github.com/servo/servo",
+      "summary": "面向应用嵌入场景的轻量级高性能 Web 技术引擎替代方案。",
+      "content": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "stars": "35"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "apache/arrow",
+      "title_zh": "Apache Arrow 列式数据格式工具箱",
+      "url": "https://github.com/apache/arrow",
+      "summary": "通用列式内存格式和多语言工具箱，用于高速数据交换与内存分析。",
+      "content": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "stars": "2"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "aquasecurity/trivy",
+      "title_zh": "Trivy 安全扫描器",
+      "url": "https://github.com/aquasecurity/trivy",
+      "summary": "用于扫描容器、Kubernetes、代码仓库和云环境中的漏洞、配置错误、密钥与 SBOM。",
+      "content": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "stars": "15"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "ZCode – Harness for GLM-5.2",
+      "title_zh": "ZCode：面向 GLM-5.2 的开发工具框架",
+      "url": "https://news.ycombinator.com/item?id=48753715",
+      "summary": "HN 热议 ZCode 这个面向 GLM-5.2 的工具/框架，讨论集中在大模型开发体验与生态支持。",
+      "content": "HN Score: 134, Comments: 186"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+      "title_zh": "Show HN：可搜索的 2.2 万多个工人合作社产品目录",
+      "url": "https://news.ycombinator.com/item?id=48752905",
+      "summary": "一个收录超过 2.2 万个工人所有制合作社产品的可搜索目录，引发对替代商业组织形式的兴趣。",
+      "content": "HN Score: 151, Comments: 27"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "For first time, a cell built from scratch grows and divides",
+      "title_zh": "首次从零构建的细胞实现生长和分裂",
+      "url": "https://news.ycombinator.com/item?id=48747304",
+      "summary": "合成生物学取得进展：从头构建的细胞首次实现生长与分裂，引发大量科学讨论。",
+      "content": "HN Score: 688, Comments: 235"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Healthy but Sedentary People Show Early Decline in Cellular Energy Production",
+      "title_zh": "健康但久坐的人出现细胞能量生产早期下降",
+      "url": "https://news.ycombinator.com/item?id=48754155",
+      "summary": "研究显示，即使总体健康，久坐人群也可能较早出现细胞能量生产能力下降。",
+      "content": "HN Score: 28, Comments: 13"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "What to learn to be a graphics programmer",
+      "title_zh": "成为图形程序员应该学习什么",
+      "url": "https://news.ycombinator.com/item?id=48750710",
+      "summary": "一篇面向图形编程入门与进阶的学习路线文章，涵盖数学、渲染和底层工程知识。",
+      "content": "HN Score: 212, Comments: 111"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Chip Off the Old Block",
+      "title_zh": "子承父业的一块芯片",
+      "url": "https://news.ycombinator.com/item?id=48753524",
+      "summary": "一篇引发讨论的长文，围绕继承、相似性或技术演进中的延续关系展开。",
+      "content": "HN Score: 26, Comments: 1"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Qualcomm Linux 2.0",
+      "title_zh": "高通 Linux 2.0 发布",
+      "url": "https://news.ycombinator.com/item?id=48753069",
+      "summary": "高通发布 Linux 2.0 相关开发者更新，社区关注其对硬件支持和 Linux 生态的影响。",
+      "content": "HN Score: 35, Comments: 3"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "The Underhanded C Contest",
+      "title_zh": "隐蔽 C 代码竞赛",
+      "url": "https://news.ycombinator.com/item?id=48754080",
+      "summary": "经典的 Underhanded C Contest 重新受到关注，主题是看似正常但暗藏恶意或陷阱的 C 代码。",
+      "content": "HN Score: 19, Comments: 2"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "title_zh": "PlayStation 新游戏实体光盘将于 2028 年 1 月停止生产",
+      "url": "https://news.ycombinator.com/item?id=48745456",
+      "summary": "PlayStation 新游戏实体光盘生产计划在 2028 年 1 月结束，引发关于数字发行和游戏保存的讨论。",
+      "content": "HN Score: 565, Comments: 594"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "FFmpeg 9.1's new AAC encoder",
+      "title_zh": "FFmpeg 9.1 的新 AAC 编码器",
+      "url": "https://news.ycombinator.com/item?id=48747116",
+      "summary": "FFmpeg 9.1 引入新的 AAC 编码器，音频编码质量和实现细节成为讨论焦点。",
+      "content": "HN Score: 260, Comments: 89"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "G7 should accept AI standards offer, but make it enforceable",
+      "title_zh": "七国集团应接受 AI 标准提议，但需确保可执行",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTN0eVBjYXA0QmNsYjNBRndzaTk0b2R3Q2xmaVQ1RHFwLWwtZXJQT1lXSWl6WWN6cmtmMEU4NDRKQVdXdGRNNVRHQlZtVk93NFlFMVBjVDdFZ1BfQXBad0xodTJjenFkc21aN2I3TUxHTVRUcnJJbHZOWl9SR1NrdHc2bHFnMDdmeUR4Y2dzMTU5OG12cy1aRlE4Zw?oc=5",
+      "summary": "Brookings 文章认为，G7 可以接受 AI 标准相关提议，但关键在于建立可执行的监管和落实机制。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Ex-DeepMind researchers land record Creandum funding to scale AI agents for Nasdaq",
+      "title_zh": "前 DeepMind 研究员获 Creandum 创纪录融资，为纳斯达克扩展 AI 代理",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblA4SFZKcFRtc3RKQ3hZRjctQUYyNTdpQ25pM19DbG0xbHVTdFZiR1BCZFZubTNKb3VOMThNR0xTUjlZWFFXVml4cXVMVTFXdTBxZG5vYjFPb0tYZG9XeWFiWEJuRTZaaWZZNE9KaGM5U3dialJZcVZJVnNZUHRJOFBrZlFETDFhbDZxLXhOM0FnMUFzX2hnOHVfWHRlRWF1UjJLRHEwOUFuZFlZLTJj?oc=5",
+      "summary": "Tech.eu 报道称，前 DeepMind 团队获得 Creandum 大额融资，用于面向纳斯达克等场景扩展 AI Agent。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "In 2014, DeepMind's DQN mastered atari games and transformed reinforcement learning",
+      "title_zh": "2014 年 DeepMind 的 DQN 掌握雅达利游戏并改变强化学习",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMEU1cDlwckZaUWNNV3AwaV8zV3V0WjZaYjRxbEJBTFAwT2g2R09Fd2JKcHBYSDF2S0ZXR3VreW44RXE2b3JZTXVIbHlXN3EtVF9kZkRBdFJPS1Y5NklIRlJqQXoweWgxVjZCOTVFOEhpNHRPOU9INFZGcWJQRjRpanBGbDJBYTFBY3VvMGNVWEd0OUJZZldnalJQbkNwLUZZdGpuX2RyUmxpdHluSzJVU01DcE4zNGhfTzYzX1FETEs5bnoyMjJ5YWlGdm9iUkdLbGxodUVLT3NxZmpJbEZobWxfZW1Tbk1CWTk1aERaU1g3NUg1dVdwZk55YjPSAfwBQVVfeXFMTzBFNXA5cHJGWlFjTVdwMGlfM1d1dFo2WmI0cWxCQUxQME9oNkdPRXdiSnBwWEgxdktGV0d1a3luOEVxNm9yWU11SGx5VzdxLVRfZGZEQXRST0tWOTZJSEZSakF6MHloMVY2Qjk1RThIaTR0TzlPSDRWRnFiUEY0aWpwRmwyQWExQWN1bzBjVVhHdDlCWWZXZ2pSUG5DcC1GWXRqbl9kclJsaXR5bksyVVNNQ3BOMzRoX082M19RRExLOW56MjIyeWFpRnZvYlJHS2xsaHVFS09zcWZqSWxGaG1sX2VtU25NQlk5NWhEWlNYNzVINXVXcGZOeWIz?oc=5",
+      "summary": "报道回顾 DeepMind DQN 在雅达利游戏中的突破，以及它对现代强化学习发展的深远影响。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Gemini 3.5 Pro Slips to July; Google Sheds $225B [2026] - tech-insider.org",
+      "title_zh": "Gemini 3.5 Pro 延至 7 月，谷歌市值蒸发 2250 亿美元",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDU1JDV1Fvc1prX3hIcUVudUpyZFg5TjYzbzQxOF9tMWlmZzZLSktxV2o1N0I2M3NobmN1VWpTSXZLWEUwR0FnOHJjZTBEOUM2ZmRQeXRjWEZKYnRVSEpZcTJReXNGZVNTMkYxX1Z3?oc=5",
+      "summary": "tech-insider.org 称 Gemini 3.5 Pro 发布时间推迟到 7 月，并关联报道了谷歌股价和市值波动。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "US govt lifts restrictions on powerful AI models, Anthropic says",
+      "title_zh": "Anthropic 称美国政府解除强大 AI 模型限制",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZU1DWDdHaGZZR0N3cnhlckRIeVdCclpydWpOUmkxdGFvM2RFbHRsTWNYbTVDelcyWWl5T19SanM1TmZ0SUsxMmp4cUFja28xRHFEWjYwNG5IZ1BQY2g4ekdQMHBnRjBiRGpBM2ZJakJzQkJMSWhlQlBKWEhoVFlMZ181M2kxTHZQTVlPcjljYlMySGhCUHNJUHM1WkwyNk0yeHFfd1VpdExfd3PSAbsBQVVfeXFMUDdFenZMbEFiVHFmTk1xTl9peFU0SERVSVdKWll2UjdaWXdIVWs3d1U0bUJVQ0JJbzFqMEQwd3l5MjYwOXBlY0JmaWlZYmRCTE1hMDZmRXF4NEZyOWdhT1FLcTZDZ05KT0NsLUgxNDdBSkhPdEM2RUlRNlFMeGVhdDB1eGhpY0FyZ0VIYXJCcnFjOVhOZTdCdS1CR3FoQ3RQUHQzS2NCbkdPOU5JU3dsSTlPWEQ1RGVRMm5mNA?oc=5",
+      "summary": "Gulf News 报道 Anthropic 表示美国政府放宽或取消了针对强大 AI 模型的部分限制。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Google Invests $75M in A24 to Build AI Filmmaking Tools 2026",
+      "title_zh": "谷歌向 A24 投资 7500 万美元开发 AI 电影制作工具",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sWTNicnlIRlVDYXo1ZGdEejBISHpJVENnQjYyQnZZLUhRd0JLVkFLcHg4SWI2YU0wSS1GOHhmOWducnBXbnV0clE0YzlHV0pEbzk4UVRQS2M0UHJYQUNWTldB?oc=5",
+      "summary": "Memeburn 报道谷歌投资 A24，用于建设 AI 辅助电影制作工具，显示生成式 AI 正进入影视创作流程。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "How, 23 years after its release, the space MMO EVE Online became independent once again and brought Google De",
+      "title_zh": "上线 23 年后，太空 MMO《EVE Online》再次独立并引入谷歌技术",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmU5WTVCVmdTNHlnbzJKMDNWcDBHUTNoTk9JN1NuTGZaZlJyVEVLVnIxU194aDB4VU1URVJxN2hSVE5uVzBIeVdEZ0dmRks0OFI2RUVWMEdMajdqUFNNOFpYeFA1VXJ3dldxT1k1cGJralJMYUh2RUhBb0EtOEhtbtIBhgFBVV95cUxQc1g4d09MbEE5V0VJc2RmNFNLSS1YV3hDOWdLZDByM0p3b1BiMmlvVm5IUzlYYWt6cC11dnJkWG1OY2F4UjMzQUtSRkxHbU5GSGdSSERab0t1U0V0YlBwU2dQOHBXUmhkZzNxeDB1UDVzaHFqQ2ZPM1ptRVdHZEY5TUxyVnk2UQ?oc=5",
+      "summary": "Mezha 报道《EVE Online》在发布多年后重新走向独立，并引入谷歌相关技术能力。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "OpenAI film 'Artificial,' dropped by Amazon, finds a new home with Neon",
+      "title_zh": "OpenAI 题材电影《Artificial》被亚马逊放弃后由 Neon 接手",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWERrR3FGOXFnSkFKNnRvV1hrRWd3eEVTamdkVWtVWG50U1J1Mk5uR3UwNldwMDZmY19ld2RrWWtiT3psTTBscl8tdXptc1ZSQ0hrWm04LWtlVGhFRllCUDVkazVIUUNvODFxeW1UTnd4d2Z0UlZ0bkZDTjAwVEFHcjF6amMxSmdDcVF4bjZYc1FmZTRFdENseHhtTXpKYy10MHNrT2czWUlaRDJTdDBCUlh3QnNxVXVVZXc?oc=5",
+      "summary": "关于 OpenAI 的电影《Artificial》在亚马逊退出后找到新发行方 Neon，AI 叙事继续进入影视行业。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "A24 Will Survive the AI Backlash, but Some Are Convinced the Company Has ‘Sold Its Soul’",
+      "title_zh": "A24 或能挺过 AI 反弹，但部分人认为它已“出卖灵魂”",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oQUh2T0g3YzcxbkV6eV9NZGhWNDlEdGZVVWVEcTRaMXRrWDhHc0FpUjZvN1Q5a25OcHlmaDJocmVhTDJMT3NsQkpxRmtjY2RTTEZTdmhBZ1d5WEFpaVR2VXpfMkF5UQ?oc=5",
+      "summary": "IMDb 报道 A24 面临 AI 相关争议，讨论艺术创作、商业合作和生成式 AI 反弹之间的张力。",
+      "content": ""
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "Apptronik Opens Expanded 'Robot Park' to Scale Training Data for Industrial Humanoid Robots",
+      "title_zh": "Apptronik 扩建“机器人公园”以扩大工业人形机器人训练数据",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSS0wSVZYazJzaks2SXZVUERQOVI4SnE2VC1zd29WVE52UWh0MzFyTHNNSnhqS184YU9zbzU1NFNkZkI5QXV6bjdxSGRjQjBaVjIzME81bjJQdk95VnFtZjhXRE12eVc2LU55blp2STdNeXFqYUlMMjNvTngtclk3ZkRvMm5MckVPQ1p0YVZOTUV3M3g4UHRwTzN2Z3FsNmFPMjNDa1FGREV3dTFNZmdLWUduNjJXQmVWOVNSRHprMTlNZUlqMmc?oc=5",
+      "summary": "AI Insider 报道 Apptronik 扩建训练场地，为工业人形机器人收集和扩展训练数据。",
+      "content": ""
+    }
+  ]
+}
