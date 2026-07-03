@@ -1,0 +1,89 @@
+{
+  "date": "2026-07-03",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "black",
+      "title_zh": "Black Python 代码格式化器",
+      "url": "https://github.com/psf/black",
+      "summary": "一个不讲情面的 Python 代码格式化工具，主打统一代码风格。",
+      "content": "Description: The uncompromising Python code formatter; Stars today: 14",
+      "stars": "14"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "transformers",
+      "title_zh": "Transformers 机器学习框架",
+      "url": "https://github.com/huggingface/transformers",
+      "summary": "面向文本、视觉、音频和多模态模型的主流深度学习框架。",
+      "content": "Description: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.; Stars today: 61",
+      "stars": "61"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "freeCodeCamp",
+      "title_zh": "freeCodeCamp 编程学习平台",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "summary": "免费开源的编程学习与课程平台，覆盖数学、编程和计算机科学。",
+      "content": "Description: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.; Stars today: 145",
+      "stars": "145"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Virginia bans sale of geolocation data",
+      "title_zh": "弗吉尼亚州禁止出售地理位置数据",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "summary": "弗吉尼亚州通过新规，禁止出售地理位置数据，进一步收紧隐私保护。",
+      "content": "HN Score: 330, Comments: 59"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "crustc: entirety of `rustc`, translated to C",
+      "title_zh": "crustc：将整个 rustc 迁移并翻译为 C",
+      "url": "https://github.com/FractalFir/crustc",
+      "summary": "一个把 Rust 编译器 rustc 整体翻译成 C 的项目，属于很硬核的系统软件折腾。",
+      "content": "HN Score: 73, Comments: 10"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Exapunks (2018)",
+      "title_zh": "Exapunks（2018）",
+      "url": "https://www.zachtronics.com/exapunks/",
+      "summary": "一篇关于 Exapunks 的条目，关注这款充满编程味道的解谜游戏。",
+      "content": "HN Score: 208, Comments: 73"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected - Reuters",
+      "title_zh": "独家：Meta 祖克伯表示，AI 代理技术进展比预期更慢",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGNldFRXdDZERDRIN2R3QnRmV1JuUW9saEVNdDVmTEZwdXZLSlM0MHRzN21IMlN2RTNTaDBYa1Z1YS1kVE11SUZJLUhlQktoTm1nVVp0a0x0UzFNbW5nQnhOSXJRRlkwMjY1NEVyRFVHVk5aTktfeDZ5YjRqWWxKbm5EZU1zaHFjVkh1U3hNQVBORWtVaWFyOTZUSkI1V2pfMHEyMS1pcXFwN1lN?oc=5",
+      "summary": "独家：Meta 祖克伯表示，AI 代理技术进展比预期更慢",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Can Companies Embrace A.I. Without Layoffs? This One Says It Is Trying to. - The New York Times",
+      "title_zh": "企业能在不裁员的情况下拥抱 AI 吗？这家公司表示正在尝试",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcXB6N2YyYjlnZldRTWdiWWlJNDNwekE3Um50eFM2UXhCTDVILXFUM3Jad1ZQN2lxWkFsR083c3FuaXdhdEhUSjJWd29mcWVuZnRpUUd0LVNGUE1yNHAwV0o2UGNid3NxRlRHeUlfd0lfTkhZNVlvNGY5WTM1VHpaZ3ZIZGYxRC00aGpQa0M1X1pzUQ?oc=5",
+      "summary": "企业能在不裁员的情况下拥抱 AI 吗？这家公司表示正在尝试",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "'Young Washington' Director Jon Erwin Breaks Down Film's Use of AI - Variety",
+      "title_zh": "《Young Washington》导演 Jon Erwin 解析影片中 AI 的使用",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTNNcmhkd3Y0dkp6THBtN2l2V3E3Rm1veHVYV3k1QnVnWTNXM1JrMDRhTExvZ2xiLTJEcmhFb1E1NmREXzFUaTU3VnpxbGVzdGltbHU5SWhrUmwwSzg4MEFkNy1FTi1fcW5NV2ZkeGZmTTdXMzNPLXE1dlhlR3dmbW5kbTF4UnJkOTlyNTNB?oc=5",
+      "summary": "《Young Washington》导演 Jon Erwin 解析影片中 AI 的使用",
+      "content": ""
+    }
+  ]
+}
