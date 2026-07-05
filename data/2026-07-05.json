@@ -1,0 +1,108 @@
+{
+  "date": "2026-07-05",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "codex-plugin-cc",
+      "title_zh": "Codex 插件 Claude Code 版",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "summary": "可在 Claude Code 中调用 Codex，用于代码审查或委派任务。",
+      "content": "Description: Use Codex from Claude Code to review code or delegate tasks.; Stars today: 718",
+      "stars": "718"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "page-agent",
+      "title_zh": "页面代理",
+      "url": "https://github.com/alibaba/page-agent",
+      "summary": "一个在网页内运行的 JavaScript GUI 代理，可用自然语言控制网页界面。",
+      "content": "Description: JavaScript in-page GUI agent. Control web interfaces with natural language.; Stars today: 742",
+      "stars": "742"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "strix",
+      "title_zh": "Strix 安全测试工具",
+      "url": "https://github.com/usestrix/strix",
+      "summary": "开源 AI 渗透测试工具，用于发现并修复应用漏洞。",
+      "content": "Description: Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.; Stars today: 1904",
+      "stars": "1904"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "chrome-devtools-mcp",
+      "title_zh": "Chrome DevTools MCP",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "summary": "面向编码代理的 Chrome DevTools 接口。",
+      "content": "Description: Chrome DevTools for coding agents; Stars today: 304",
+      "stars": "304"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "title_zh": "《命令与征服：将军》通过 Fable 原生移植到 macOS、iPhone 和 iPad",
+      "url": "https://news.ycombinator.com/item?id=48788283",
+      "summary": "经典游戏《命令与征服：将军》被原生移植到 macOS、iPhone 和 iPad，社区对跨平台移植很感兴趣。",
+      "content": "HN Score: 302, Comments: 127"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "title_zh": "GPT-5.5 Codex 推理 token 聚类可能导致性能下降",
+      "url": "https://news.ycombinator.com/item?id=48789428",
+      "summary": "讨论 GPT-5.5 Codex 的推理 token 聚类机制可能带来的性能退化问题。",
+      "content": "HN Score: 107, Comments: 25"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Scientists reverse brain aging, with a nasal spray",
+      "title_zh": "科学家用鼻喷剂逆转大脑衰老",
+      "url": "https://news.ycombinator.com/item?id=48790066",
+      "summary": "一项关于大脑衰老逆转的研究引发关注，鼻喷剂方案尤其吸睛。",
+      "content": "HN Score: 18, Comments: 1"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "title_zh": "Google Books（或类似服务）全量书籍扫描悬赏 20 万美元",
+      "url": "https://news.ycombinator.com/item?id=48786838",
+      "summary": "围绕全量书籍扫描悬赏的条目，讨论焦点集中在数字化、版权与数据获取。",
+      "content": "HN Score: 297, Comments: 151"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "G7 should accept AI standards offer, but make it enforceable",
+      "title_zh": "七国集团应接受 AI 标准提议，但必须让其可执行",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTN0eVBjYXA0QmNsYjNBRndzaTk0b2R3Q2xmaVQ1RHFwLWwtZXJQT1lXSWl6WWN6cmtmMEU4NDRKQVdXdGRNNVRHQlZtVk93NFlFMVBjVDdFZ1BfQXBad0xodTJjenFkc21aN2I3TUxHTVRUcnJJbHZOWl9SR1NrdHc2bHFnMDdmeUR4Y2dzMTU5OG12cy1aRlE4Zw?oc=5",
+      "summary": "文章主张 G7 可以接受 AI 标准提议，但必须确保落地执行。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Ex-DeepMind researchers land record Creandum funding to scale AI agents for Nasdaq",
+      "title_zh": "前 DeepMind 研究员获创纪录融资，为纳斯达克扩展 AI 代理",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblA4SFZKcFRtc3RKQ3hZRjctQUYyNTdpQ25pM19DbG0xbHVTdFZiR1BCZFZubTNKb3VOMThNR0xTUjlZWFFXVml4cXVMVTFXdTBxZG5vYjFPb0tYZG9XeWFiWEJuRTZaaWZZNE9KaGM5U3dialJZcVZJVnNZUHRJOFBrZlFETDFhbDZxLXhOM0FnMUFzX2hnOHVfWHRlRWF1UjJLRHEwOUFuZFlZLTJj?oc=5",
+      "summary": "前 DeepMind 团队获得创纪录融资，将为纳斯达克等场景扩展 AI 代理能力。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "In 2014, DeepMind's DQN mastered atari games and transformed reinforcement learning",
+      "title_zh": "2014 年，DeepMind 的 DQN 统治 Atari 游戏并改变强化学习",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMEU1cDlwckZaUWNNV3AwaV8zV3V0WjZaYjRxbEJBTFAwT2g2R09Fd2JKcHBYSDF2S0ZXR3VreW44RXE2b3JZTXVIbHlXN3EtVF9kZkRBdFJPS1Y5NklIRlJqQXoweWgxVjZCOTVFOEhpNHRPOU9INFZGcWJQRjRpanBGbDJBYTFBY3VvMGNVWEd0OUJZZldnalJQbkNwLUZZdGpuX2RyUmxpdHluSzJVU01DcE4zNGhfTzYzX1FETEs5bnoyMjJ5YWlGdm9iUkdLbGxodUVLT3NxZmpJbEZobWxfZW1Tbk1CWTk1aERaU1g3NUg1dVdwZk55YjPSAfwBQVVfeXFMTzBFNXA5cHJGWlFjTVdwMGlfM1d1dFo2WmI0cWxCQUxQME9oNkdPRXdiSnBwWEgxdktGV0d1a3luOEVxNm9yWU11SGx5VzdxLVRfZGZEQXRST0tWOTZJSEZSakF6MHloMVY2Qjk1RThIaTR0TzlPSDRWRnFiUEY0aWpwRmwyQWExQWN1bzBjVVhHdDlCWWZXZ2pSUG5DcC1GWXRqbl9kclJsaXR5bksyVVNNQ3BOMzRoX082M19RRExLOW56MjIyeWFpRnZvYlJHS2xsaHVFS09zcWZqSWxGaG1sX2VtU25NQlk5NWhEWlNYNzVINXVXcGZOeWIz?oc=5",
+      "summary": "回顾 DeepMind DQN 在 2014 年攻克 Atari 游戏并推动强化学习发展的里程碑。",
+      "content": ""
+    }
+  ]
+}
