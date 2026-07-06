@@ -1,0 +1,108 @@
+{
+  "date": "2026-07-06",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "meetily",
+      "title_zh": "会议助手",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "summary": "一款注重隐私的 AI 会议助手，基于 Rust 构建，提供更快的实时转录、说话人分离和本地总结。",
+      "content": "Description: Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -  https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.; Stars today: 1409",
+      "stars": "1409"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "codex-plugin-cc",
+      "title_zh": "Codex 插件 Claude Code 版",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "summary": "可在 Claude Code 中调用 Codex，用于代码审查或委派任务。",
+      "content": "Description: Use Codex from Claude Code to review code or delegate tasks.; Stars today: 1532",
+      "stars": "1532"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "system_prompts_leaks",
+      "title_zh": "系统提示词泄露集",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "summary": "整理了 Anthropic、OpenAI、Google、xAI 等多个模型/工具的系统提示词。",
+      "content": "Description: Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.; Stars today: 981",
+      "stars": "981"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "taste-skill",
+      "title_zh": "AI 品味技能",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "summary": "帮助 AI 生成更有品味的内容，减少千篇一律的“AI 味”。",
+      "content": "Description: Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop; Stars today: 863",
+      "stars": "863"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "OpenPrinter",
+      "title_zh": "OpenPrinter 打印项目",
+      "url": "https://news.ycombinator.com/item?id=48797916",
+      "summary": "一个面向打印设备的开源项目，引发了对硬件与工作流整合的关注。",
+      "content": "HN Score: 289, Comments: 80"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Organic Maps",
+      "title_zh": "Organic Maps 离线地图",
+      "url": "https://news.ycombinator.com/item?id=48794446",
+      "summary": "离线地图与导航工具继续受到高关注，社区讨论集中在隐私和可用性。",
+      "content": "HN Score: 768, Comments: 217"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+      "title_zh": "Show HN：Homegames 开源游戏平台",
+      "url": "https://news.ycombinator.com/item?id=48798153",
+      "summary": "一个持续 8 年打造的开源游戏平台展示了浏览器内编辑与发布能力。",
+      "content": "HN Score: 74, Comments: 25"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "title_zh": "新 AI 导师在达特茅斯课程中取得显著效果",
+      "url": "https://news.ycombinator.com/item?id=48796817",
+      "summary": "一篇关于 AI 导师在课程中取得明显效果的研究论文。",
+      "content": "HN Score: 113, Comments: 75"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "AI poses ‘Hiroshima’-style threat to humanity without global rules, says Cooper - The Guardian",
+      "title_zh": "AI 可能在缺乏全球规则下构成“广岛式”威胁",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUGQyd3dNbWNWTEU3c3lHTTdVU0VqdkI4YWFaUjNWLWxlek8xb1dhaGt4ajBValFLUW81TVJOaXdOSWt5U0I2ajRPNjg1VDQ5dkVSWWVHNWhPejFWN2xWQ2JxQ2tyM3BoYkRmeFU1bi1uNFhUMTF1dlRyVEVrSEN5OWdROEpfejdmV0xWNWtObk9OcS1Vbzg0UVNBbUNkb3lUM1ctZFpBZHEwNl9FR0RZ?oc=5",
+      "summary": "文章讨论称，如果缺乏全球规则，AI 可能对人类构成严重威胁。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "AI meets the grid: Shaping the data center power play - Capgemini",
+      "title_zh": "AI 遇上电网：重塑数据中心的能源博弈",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS3VXcVczQ2VPNXJqc2hPZlZzbjVjWmsxZWxVSEhPSm1ETEZRaWJCQ2dIeVd0cjNuMHJLVkRIai1tWGM0bUF5VEdXVWlrQTdSc0RqZWUwR3lKb3ZrX092SzlVTTJxaEd2WmpHb1JFZURVdzhXNEhGeGVaU2RUclpaMjc0M1BlMUk3ZjRJazlOWVI3Zw?oc=5",
+      "summary": "文章聚焦 AI 与电网、数据中心之间的能源博弈。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "New California tool tracks AI-related job loss - Mashable",
+      "title_zh": "加州新工具追踪 AI 相关失业",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1aHRNcUhRRFBaeFE5TV9LNDhTQzJ0eTdRMjJTT2dBellEdnM1Qzd3VzZQcEk5aHBKLXhrTE5sS1I0MUI5VTBka0l1MjRhQmVnNXlqUGdXdWU3ZkpGY18yNjBSNk0zellMU2hqQg?oc=5",
+      "summary": "加州推出新工具，用于追踪与 AI 相关的岗位流失。",
+      "content": ""
+    }
+  ]
+}
