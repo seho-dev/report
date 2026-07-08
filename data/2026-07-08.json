@@ -5,140 +5,104 @@
       "id": "gh-1",
       "type": "github",
       "title": "immich",
-      "title_zh": "自建照片与视频管理系统",
+      "title_zh": "Immich 照片视频管理",
       "url": "https://github.com/immich-app/immich",
-      "summary": "一个高性能的自托管照片和视频管理方案，适合替代本地相册与云端图库服务。",
-      "content": "Description: High performance self-hosted photo and video management solution. Stars today: 226",
+      "summary": "高性能的自托管照片和视频管理方案。",
+      "content": "High performance self-hosted photo and video management solution. Stars today: 226.",
       "stars": "226"
     },
     {
       "id": "gh-2",
       "type": "github",
       "title": "blackbird",
-      "title_zh": "账号检索侦察工具",
+      "title_zh": "Blackbird 账号检索工具",
       "url": "https://github.com/p1ngul1n0/blackbird",
-      "summary": "一个通过用户名和邮箱在社交网络中搜索账号的开源 OSINT 工具。",
-      "content": "Description: An OSINT tool to search for accounts by username and email in social networks. Stars today: 55",
+      "summary": "用于按用户名和邮箱在社交网络中搜索账号的开源 OSINT 工具。",
+      "content": "An OSINT tool to search for accounts by username and email in social networks. Stars today: 55.",
       "stars": "55"
     },
     {
       "id": "gh-3",
       "type": "github",
       "title": "formbricks",
-      "title_zh": "开源问卷平台",
+      "title_zh": "Formbricks 开源问卷替代方案",
       "url": "https://github.com/formbricks/formbricks",
-      "summary": "一个开源的 Qualtrics 替代方案，面向问卷和反馈收集场景。",
-      "content": "Description: Open Source Qualtrics Alternative. Stars today: 6",
+      "summary": "开源的 Qualtrics 替代方案，适合做反馈与调研。",
+      "content": "Open Source Qualtrics Alternative. Stars today: 6.",
       "stars": "6"
     },
     {
       "id": "gh-4",
       "type": "github",
       "title": "n8n",
-      "title_zh": "工作流自动化平台",
+      "title_zh": "n8n 工作流自动化平台",
       "url": "https://github.com/n8n-io/n8n",
-      "summary": "一个支持原生 AI 能力的低代码工作流自动化平台，可结合可视化搭建与自定义代码。",
-      "content": "Description: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. Stars today: 148",
+      "summary": "具备原生 AI 能力的工作流自动化平台，可自托管或使用云服务。",
+      "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. Stars today: 148.",
       "stars": "148"
     },
     {
       "id": "gh-5",
       "type": "github",
       "title": "hackingtool",
-      "title_zh": "全能渗透测试工具集",
+      "title_zh": "黑客工具集",
       "url": "https://github.com/Z4nzu/hackingtool",
-      "summary": "一个功能聚合的安全测试工具包，覆盖多种常见攻击与侦察场景。",
-      "content": "Description: ALL IN ONE Hacking Tool For Hackers. Stars today: 69",
+      "summary": "面向安全研究和渗透测试的一体化工具集合。",
+      "content": "ALL IN ONE Hacking Tool For Hackers. Stars today: 69.",
       "stars": "69"
     },
     {
       "id": "hn-1",
       "type": "hn",
       "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-      "title_zh": "美国政府问责局：能源部过早排除了核清理中的低成本方案",
+      "title_zh": "GAO：能源部过早排除了更便宜的核清理方案",
       "url": "https://news.ycombinator.com/item?id=48824826",
-      "summary": "一篇讨论美国能源部在核清理项目中是否过早排除更便宜方案的新闻，评论区讨论可能涉及政策与成本权衡。",
-      "content": "HN Score: 96, Comments: 37"
+      "summary": "这篇 HN 热门讨论的是美国政府问责局对能源部核清理决策的质疑，重点在于更便宜方案被过早排除。",
+      "content": "HN Score: 101, Comments: 41"
     },
     {
       "id": "hn-2",
       "type": "hn",
-      "title": "We charge $10k a week to delete AI-generated code",
-      "title_zh": "我们每周收取一万美元来删除 AI 生成的代码",
-      "url": "https://news.ycombinator.com/item?id=48823359",
-      "summary": "一篇关于清理 AI 生成代码成本与现实维护压力的文章，在 Hacker News 上引发了大量讨论。",
-      "content": "HN Score: 205, Comments: 112"
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "title_zh": "用 Kokoro 实现本地、适合 CPU 的高质量文字转语音",
+      "url": "https://news.ycombinator.com/item?id=48821576",
+      "summary": "介绍了一个可在本地 CPU 上运行、效果优秀的文字转语音方案，适合关注部署成本的人。",
+      "content": "HN Score: 297, Comments: 69"
     },
     {
       "id": "hn-3",
       "type": "hn",
-      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
-      "title_zh": "使用 Kokoro 实现本地、适合 CPU 的高质量语音合成",
-      "url": "https://news.ycombinator.com/item?id=48821576",
-      "summary": "介绍一个可在本地 CPU 上运行的高质量 TTS 方案，适合希望降低推理门槛的开发者。",
-      "content": "HN Score: 295, Comments: 68"
-    },
-    {
-      "id": "hn-4",
-      "type": "hn",
-      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-      "title_zh": "StreetComplete：一次修正 OpenStreetMap 的一个小任务",
-      "url": "https://news.ycombinator.com/item?id=48816883",
-      "summary": "关于 StreetComplete 如何通过微任务改善 OpenStreetMap 数据质量的分享。",
-      "content": "HN Score: 696, Comments: 170"
-    },
-    {
-      "id": "hn-5",
-      "type": "hn",
       "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "title_zh": "Tenda 多个版本固件包含隐藏认证后门",
+      "title_zh": "Tenda 固件的多个版本包含隐藏认证后门",
       "url": "https://news.ycombinator.com/item?id=48825749",
-      "summary": "一则安全通告，指出 Tenda 多个版本的固件中存在隐藏认证后门。",
-      "content": "HN Score: 19, Comments: 3"
+      "summary": "安全公告指出，Tenda 多个版本的固件里存在隐藏的认证后门，风险较高。",
+      "content": "HN Score: 28, Comments: 5"
     },
     {
       "id": "ai-1",
       "type": "ai",
       "title": "Introducing Muse Image and Muse Video - AI at Meta",
-      "title_zh": "Meta 发布 Muse Image 和 Muse Video",
+      "title_zh": "Meta 推出 Muse Image 和 Muse Video",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5",
-      "summary": "Meta 介绍了 Muse Image 和 Muse Video，展示其在图像与视频生成方向上的最新进展。",
+      "summary": "Meta 公布了新的图像和视频生成相关 AI 工具，显示其正在继续扩展多模态生成能力。",
       "content": ""
     },
     {
       "id": "ai-2",
       "type": "ai",
       "title": "Introducing Muse Image: Image Generation Built for Your World - Meta Store",
-      "title_zh": "Meta 发布面向个性化世界的 Muse Image 图像生成",
+      "title_zh": "Meta 发布 Muse Image：面向你的世界的图像生成",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CNkVjdFdKWjN4T0xWTUdtU0YxZU8yUWFaMWpQV3ZpY093M0g5cmd2NXNzSXRGemNQMmZROC1FODZJVmYzOVRnYk9aSFdkdGZUZWNXREx4bmlMV2pOYWdCYVVzZDlSSEhuRS14R1h4QkhJME3SAXhBVV95cUxOSW9rd1hNVy05WW5zSlU5WVhNVi1YQUxvSnVjMm8wSVN1cmdJMVdDdDJyLVZCS2VsQWc3eEtmanNYbjNxTTBuQ0ZrbGsteXJ5WlQzUEZEUHBDMERiMFYzdGFSRERQc28yOTl4STdGU2NwcDJkY3B5SXI?oc=5",
-      "summary": "Meta Store 发布 Muse Image，强调其为特定场景和个性化表达设计的图像生成能力。",
+      "summary": "这条消息聚焦 Meta 的 Muse Image 图像生成能力，标题显示其面向具体场景做定制化生成。",
       "content": ""
     },
     {
       "id": "ai-3",
       "type": "ai",
       "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out - WIRED",
-      "title_zh": "除非你主动退出，否则 Meta 现在允许他人将你的 Instagram 照片用于 AI 图像",
+      "title_zh": "Meta 现在允许他人把你的 Instagram 照片用于 AI 图像，除非你选择退出",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZS1QSW1CTERfWjJOLThtLV9XdXR6WFFIdFNuVFEtZXZfT054Si00SzdUZW9fbDJIN0lIRXNTQ3NaZW1ORzBzVE9Wc3ZZQkhWVW9qMDJmS1VSMGJsM1dpRjc5RDJjSVNpU1N0aElFdk85TFhwMzFCa3VLeXVZWkxpbkYxZDhKR3BUMkd3THBGNFB4MzdzVGFvM010TnZLWGkzMHhXNjhLUVNNdm8?oc=5",
-      "summary": "WIRED 报道称，Meta 可能会把 Instagram 照片用于 AI 图像生成，并提供退出选项。",
-      "content": ""
-    },
-    {
-      "id": "ai-4",
-      "type": "ai",
-      "title": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say - Reuters",
-      "title_zh": "独家：消息称中国的 DeepSeek 正在开发自有 AI 芯片",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGRQQzRJX0VFTThJbC1JZnM2NUpNVHZQeEhxODdQejNBODNSLXpYMGdvSWxJMVhRSFBEOWplZy1NMU5qSnFxc3dpOEczN01EcVRQSk1mSXo3ejlMaUoxcks3LURaeGZ0Q3EyZ2dBQVN0QkRXNWg0YWpyOXJ2TjUtLVF4elZRU1VqdUVCdEhGNnFfYV9uYTdaT3V4MVFEZ2swRmlfRw?oc=5",
-      "summary": "路透报道称，DeepSeek 正在推进自研 AI 芯片，这反映出模型公司向硬件层扩展的趋势。",
-      "content": ""
-    },
-    {
-      "id": "ai-5",
-      "type": "ai",
-      "title": "AI stocks sink and drag markets lower worldwide - AP News",
-      "title_zh": "AI 概念股下跌并拖累全球市场",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcWNab1hLUzRibzZLdWNfUWpwd1Btd05hTzFFeEpMNTRpN0gwaUJ4RFV3aE5mQms3Q0dqOERPTWRqUmhHbTR4c0Jnc3RiamVadkFrRkk0VlROdzdpY0tLZ1VPU2Z6a0ZKZ0I5ZDAxa05nUDBMMUlKamtIamZkMWw3NFAyVEhLaUNmaTU5OGVkMA?oc=5",
-      "summary": "美联社报道 AI 概念股回落，并带动全球市场走低。",
+      "summary": "WIRED 报道 Meta 的相关隐私设置变化，核心是用户照片可能被用于 AI 图像生成。",
       "content": ""
     }
   ]
