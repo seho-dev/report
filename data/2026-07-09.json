@@ -1,0 +1,145 @@
+{
+  "date": "2026-07-09",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "agent-skills",
+      "title_zh": "代理技能集",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "面向 AI 编码代理的生产级工程技能集合。",
+      "content": "Trending on GitHub today. Description: Production-grade engineering skills for AI coding agents. Stars: 1,297.",
+      "stars": "1,297"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "RuView",
+      "title_zh": "无线空间感知平台",
+      "url": "https://github.com/ruvnet/RuView",
+      "summary": "把普通 WiFi 信号转化为实时空间智能、生命体征监测和存在检测的项目。",
+      "content": "Trending on GitHub today. Description: RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection - all without a single pixel of video. Stars: 799.",
+      "stars": "799"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "TencentDB-Agent-Memory",
+      "title_zh": "腾讯云数据库智能体记忆",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "summary": "为 AI 智能体提供完全本地化长期记忆的方案，采用四层递进式流水线，且不依赖外部 API。",
+      "content": "Trending on GitHub today. Description: TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. Stars: 318.",
+      "stars": "318"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "prisma",
+      "title_zh": "Prisma 数据库 ORM",
+      "url": "https://github.com/prisma/prisma",
+      "summary": "面向 Node.js 和 TypeScript 的下一代 ORM，支持 PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB 和 CockroachDB。",
+      "content": "Trending on GitHub today. Description: Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB. Stars: 46.",
+      "stars": "46"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "last30days-skill",
+      "title_zh": "近30天技能检索助手",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "一个 AI 智能体技能，可跨 Reddit、X、YouTube、HN、Polymarket 和网页检索任意主题，并生成有依据的总结。",
+      "content": "Trending on GitHub today. Description: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary. Stars: 352.",
+      "stars": "352"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Separating signal from noise in coding evaluations",
+      "title_zh": "在编码评测中分离信号与噪声",
+      "url": "https://news.ycombinator.com/item?id=48837396",
+      "summary": "讨论如何让代码评测结果更可靠、更能反映真实能力。",
+      "content": "HN Score: 126, Comments: 55"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "FAANG Simulator",
+      "title_zh": "FAANG 模拟器",
+      "url": "https://news.ycombinator.com/item?id=48836778",
+      "summary": "一个带有讽刺意味的求职模拟器，影射大厂招聘流程。",
+      "content": "HN Score: 222, Comments: 86"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Chatto is now open source",
+      "title_zh": "Chatto 现已开源",
+      "url": "https://news.ycombinator.com/item?id=48833116",
+      "summary": "Chatto 项目已经开放源代码，便于社区查看与参与。",
+      "content": "HN Score: 671, Comments: 184"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Rewriting Bun in Rust",
+      "title_zh": "用 Rust 重写 Bun",
+      "url": "https://news.ycombinator.com/item?id=48837877",
+      "summary": "关于将 Bun 迁移到 Rust 的技术重写文章。",
+      "content": "HN Score: 181, Comments: 76"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "title_zh": "约翰迪尔车主将依据 FTC 和解获得设备维修权",
+      "url": "https://news.ycombinator.com/item?id=48838876",
+      "summary": "FTC 和解将让约翰迪尔设备车主获得更充分的维修权。",
+      "content": "HN Score: 16, Comments: 2"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Why Employees Resist AI—and How Companies Can Win Them Over",
+      "title_zh": "员工为何抵触 AI，以及企业如何赢得他们支持",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS0daYjJDZjFVWWlqZ0ZMd3ByeE5kMmdNUmp0RjgyTV9zY3gxU2FaZzBwdmRUVlRIczNYNVdLNGR6dGpwY0FtTEd5X0dIWXpJMklRUzF5T1RrUzZKX1Q0NjAyN3Q4X0Q5dkJ1VnVHdGtxUTF1LXdIYXJYWlgyYjFaYUcwMTJpLVNscVp0bndIYVBiWlY0a1pzcm9KZVNzNkZhTGtGOXk2Nlo?oc=5",
+      "summary": "哈佛商学院文章讨论员工为何抗拒 AI，以及企业如何推动落地。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "How to Prevent Meta From Using Your Instagram Images in A.I.",
+      "title_zh": "如何阻止 Meta 将你的 Instagram 图片用于 AI",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3ZldLcGpqR1JOYkhkYmFKUkJObnYzTEVscFM3T1FDREZPV2ZremRhQ3JTRm9HU3pHdFY2dkRTNDh6SzQzV193OGpQeE1GNjBRc1E1UkFhUWFxUHpYUWVWMlBpYzNiYWN0ejNCQzVxNDVlSnZVX2ow?oc=5",
+      "summary": "纽约时报报道了如何避免 Meta 将 Instagram 公共图片用于 AI 相关用途。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "I Built a Self-Improving AI, and So Can You",
+      "title_zh": "我打造了一个可自我改进的 AI，你也可以",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb3RVTEJXekplSkFjcklOVkhMUGdid0ZoR3FFWGE0RXQzYllkU2VfeVc0Ml9reEp0TUV5eDhKV1ZheVpTNnpIaVExeVFNb3EyS1RZTmxfZHVLREEzdFBvdUJEeHlRYndyMWxxX1pwUXJQeHUwdkRnZ0lhNE9Hc1JUQzFrMUZqblNDa013WFdfd3JfbTA?oc=5",
+      "summary": "WIRED 介绍了自我改进 AI 的构建思路与实践方式。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Does AI Dream of Public Interest Regulation?",
+      "title_zh": "AI 会梦见公共利益监管吗？",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pNkJEUld4OGptU0N0OGJ2R2l5Z1lFd2JQOHp1bmhhNkFsVWJqVWZ5WjFsanZDZzJnNnZUMVB2UmNUckdpcDBWTXlkV2ZWZ2xRNEd3S2dpVHVjTVdJd0U0ZDVOTnU0VjBHS3VLdDBYUGMtM29v?oc=5",
+      "summary": "一篇关于 AI 监管与公共利益之间关系的评论文章。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Meta AI now lets people make deepfakes from public Instagram photos without explicit consent",
+      "title_zh": "Meta AI 现在允许基于公开 Instagram 照片制作深度伪造内容，无需明确同意",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYmtCQ01mQzExd0FKMVM3US1icmVMbXk2bnpKRnNmLXJGc3dibnZyaDNpTUZ1eVRNZ2hiMzlzSm1paXlUMlRkS2F5T1BBWU5IU09aelBLWk44eEhldFdkSUtuWU5wdTdsN1Nqd3hMLWEtQXctQlFKMk1VWlU3ckd6ZTUyRUc0NGNTMU5jM3NB?oc=5",
+      "summary": "NBC 新闻指出，Meta AI 让基于公开 Instagram 照片制作深度伪造变得更容易。",
+      "content": ""
+    }
+  ]
+}
