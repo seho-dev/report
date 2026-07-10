@@ -1,0 +1,145 @@
+{
+  "date": "2026-07-10",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "fzf",
+      "title_zh": "命令行模糊查找器",
+      "url": "https://github.com/junegunn/fzf",
+      "summary": "一个命令行模糊查找工具。",
+      "content": "Trending on GitHub today. Description: 🌸 A command-line fuzzy finder. Stars: 25.",
+      "stars": "25"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "starter-workflows",
+      "title_zh": "GitHub Actions 起始工作流",
+      "url": "https://github.com/actions/starter-workflows",
+      "summary": "用于加速创建新的 GitHub Actions 工作流。",
+      "content": "Trending on GitHub today. Description: Accelerating new GitHub Actions workflows. Stars: 7.",
+      "stars": "7"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "ntfy",
+      "title_zh": "通知推送工具",
+      "url": "https://github.com/binwiederhier/ntfy",
+      "summary": "可向手机或桌面推送通知，支持 PUT/POST。",
+      "content": "Trending on GitHub today. Description: Send push notifications to your phone or desktop using PUT/POST. Stars: 75.",
+      "stars": "75"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "trivy",
+      "title_zh": "漏洞扫描器",
+      "url": "https://github.com/aquasecurity/trivy",
+      "summary": "用于扫描容器、Kubernetes、代码仓库和云环境中的漏洞、配置错误和机密信息。",
+      "content": "Trending on GitHub today. Description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more. Stars: 41.",
+      "stars": "41"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "bun",
+      "title_zh": "Bun 运行时",
+      "url": "https://github.com/oven-sh/bun",
+      "summary": "一个极快的一体化 JavaScript 运行时、打包器、测试运行器和包管理器。",
+      "content": "Trending on GitHub today. Description: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one. Stars: 82.",
+      "stars": "82"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "title_zh": "展示 HN：在我这台慢电脑上跑起 GLM 5.2",
+      "url": "https://github.com/JustVugg/colibri",
+      "summary": "展示 HN：在我这台慢电脑上跑起 GLM 5.2。",
+      "content": "HN Score: 295, Comments: 75"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "GPT-5.6",
+      "title_zh": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "summary": "OpenAI 发布 GPT-5.6。",
+      "content": "HN Score: 980, Comments: 730"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "title_zh": "欧盟议会为 Chat Control 1.0 开绿灯",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "summary": "欧盟议会为 Chat Control 1.0 开绿灯。",
+      "content": "HN Score: 937, Comments: 459"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Show HN: 18 Words",
+      "title_zh": "展示 HN：18 Words",
+      "url": "https://18words.com/",
+      "summary": "展示 HN：18 Words。",
+      "content": "HN Score: 782, Comments: 279"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+      "title_zh": "关于 Ghostty 和 Zig 的 Mitchell Hashimoto 访谈",
+      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "summary": "关于 Ghostty 和 Zig 的 Mitchell Hashimoto 访谈。",
+      "content": "HN Score: 78, Comments: 27"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows - Reuters",
+      "title_zh": "独家：Meta 计划于 9 月将 AI 芯片投入生产，力图把算力翻倍",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5",
+      "summary": "独家消息显示，Meta 计划把 AI 芯片投入生产，并通过新硬件把算力提升一倍。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "He warned AI could lead to extinction. Now he says there’s a better path. - The Washington Post",
+      "title_zh": "他曾警告 AI 可能导致灭绝，如今却说有更好的道路",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMldYZV9TYTBlcmRRMnZhNGMyVWNMVHkyeVlxYlJub3JWakdZRTJrSzd2VUMzMVF2Y19LSEdFVGdKTjg5MGR5WURRbDdlTnJGOXF3S3QzWFVmczBCWkdzQUh4Q05FX0Judy1tYnF5eGJVQ0t5OVg0OTE5Y0cxT3ZBWGxOLUxwOUZFYlVDdFZhY1hWeGR1SHJIZVFiR2xvZk5MQXZEa3pKVG0yU3hiazhianlNekI?oc=5",
+      "summary": "这篇报道讲的是一位曾警告 AI 可能带来灭绝风险的人，如今认为还有更可行的路径。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "China, Russia and Others Seek to Inflame Debate Over A.I. Data Centers - The New York Times",
+      "title_zh": "中国、俄罗斯等国试图激化围绕 AI 数据中心的争论",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWUNJcVI0aDBVVjNHVExVd1BkYkVFT3lEMXAxb09JYkRHRkh5UjJYTllybk5tUGJPaHhhVS0xUFBMdTdyRzNXNDd2WkNUcmNlZG9kdFJncWhsQkoxTkd4bVZLeGpoeWxScEZpdU5YZ2pMMDlHWndJeFdzR2d2Qkxnc3pMUQ?oc=5",
+      "summary": "报道指出，中国、俄罗斯等国家正试图放大围绕 AI 数据中心的争议。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "These 10 states are best positioned to land AI data center deals despite rising public opposition - CNBC",
+      "title_zh": "尽管公众反对升温，这 10 个州仍最有机会拿下 AI 数据中心项目",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ELXZSMkVlMzBZOUU4ajFNbWVoUVJKQjVnQmd3bXJJR25LTGdWQ3JNY2t3N1NVbGFBdUZrZ0tOV1NTQnpkNkN3UWNJYUxiUi1VbVNKbHhYVC1mNjFVU0RhTW1aLW9Yb0tzTUFhM1RZeENfX1M3VVo40gF8QVVfeXFMT0h3WEstSHFEZXFMZlBkSWpRVGw0NlBTSGs5dENzd1NFZjN1dEx3NmF4RUZlNGRkaHh5RjNqY1p1Yk1GaVNIMmk4b3dkZHVvenZic28xSGtZMGZld2hoWVJHdEZYQkN3dGJ5SnFOZGEwQVdlamdHa0QzRnkyRg?oc=5",
+      "summary": "尽管公众反对声持续上升，这 10 个州仍处于争取 AI 数据中心项目的有利位置。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Expanding AI transparency in ads - blog.google",
+      "title_zh": "在广告中扩展 AI 透明度",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc1VOdTFlR0w3NDd3VFU0LXhvN1VPaFBSekoxbjlHM1lRSUZURWl4SGJyMm8zMEw1Zk4yM3ZQTUptN1k5Y29zVUYzM05hZnNTMEpLY2p2aXdGbS15NXNvcG5rSGhwNk8xMHc3OFQ1NGVKU2VYamltWkhjdlA3U3k4WGNB?oc=5",
+      "summary": "Google 正在扩展广告中的 AI 透明度标识。",
+      "content": ""
+    }
+  ]
+}
