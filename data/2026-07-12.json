@@ -1,0 +1,240 @@
+{
+  "date": "2026-07-12",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "oven-sh/bun",
+      "title_zh": "Bun 运行时",
+      "url": "https://github.com/oven-sh/bun",
+      "summary": "一个极快的 JavaScript 运行时，集成了打包、测试和包管理功能。",
+      "content": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "stars": "658"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "microsoft/PowerToys",
+      "title_zh": "微软 PowerToys 工具集",
+      "url": "https://github.com/microsoft/PowerToys",
+      "summary": "Windows 上用于增强效率和系统定制的一组实用工具。",
+      "content": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "stars": "39"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "tailscale/tailscale",
+      "title_zh": "Tailscale 网络接入",
+      "url": "https://github.com/tailscale/tailscale",
+      "summary": "基于 WireGuard 和双因素认证的安全组网方案。",
+      "content": "The easiest, most secure way to use WireGuard and 2FA.",
+      "stars": "368"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "jrouwe/JoltPhysics",
+      "title_zh": "Jolt 物理引擎",
+      "url": "https://github.com/jrouwe/JoltPhysics",
+      "summary": "面向多核心友好的刚体物理与碰撞检测库，适合游戏和 VR。",
+      "content": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.",
+      "stars": "9"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "juanfont/headscale",
+      "title_zh": "Headscale 自建控制服务器",
+      "url": "https://github.com/juanfont/headscale",
+      "summary": "Tailscale 控制服务器的开源自托管实现。",
+      "content": "An open source, self-hosted implementation of the Tailscale control server",
+      "stars": "64"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "supabase/supabase",
+      "title_zh": "Supabase 开发平台",
+      "url": "https://github.com/supabase/supabase",
+      "summary": "围绕 Postgres 构建的开发平台，适合网页、移动端和 AI 应用。",
+      "content": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "stars": "74"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "projectdiscovery/nuclei",
+      "title_zh": "Nuclei 漏洞扫描器",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "summary": "由安全社区驱动、基于 YAML DSL 的快速可定制漏洞扫描器。",
+      "content": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "stars": "24"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "fastify/fastify",
+      "title_zh": "Fastify Web 框架",
+      "url": "https://github.com/fastify/fastify",
+      "summary": "面向 Node.js 的高性能、低开销 Web 框架。",
+      "content": "Fast and low overhead web framework, for Node.js",
+      "stars": "17"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "ggml-org/whisper.cpp",
+      "title_zh": "Whisper C++ 移植版",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "summary": "OpenAI Whisper 模型的 C/C++ 版本移植实现。",
+      "content": "Port of OpenAI's Whisper model in C/C++",
+      "stars": "47"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "sundowndev/phoneinfoga",
+      "title_zh": "PhoneInfoga 电话信息收集框架",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "summary": "用于收集电话号码相关信息的调查框架。",
+      "content": "Information gathering framework for phone numbers",
+      "stars": "52"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Stop Telling Me to Ask an LLM",
+      "title_zh": "别再让我去问大语言模型了",
+      "url": "https://news.ycombinator.com/item?id=48876441",
+      "summary": "一篇讨论“遇事就问 LLM”这种建议为何令人反感的文章，HN 讨论很热。",
+      "content": "HN Score: 108, Comments: 59"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Weightlifting beats running for blood sugar control, researchers find",
+      "title_zh": "研究发现：举重在控制血糖方面优于跑步",
+      "url": "https://news.ycombinator.com/item?id=48876593",
+      "summary": "研究人员指出，力量训练对血糖管理的效果可能比跑步更好。",
+      "content": "HN Score: 57, Comments: 30"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Show HN: Ant - A JavaScript runtime and ecosystem",
+      "title_zh": "Show HN：Ant - JavaScript 运行时与生态系统",
+      "url": "https://news.ycombinator.com/item?id=48875377",
+      "summary": "一个名为 Ant 的 JavaScript 运行时和生态系统，处于展示阶段。",
+      "content": "HN Score: 155, Comments: 67"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "title_zh": "Mesh LLM：基于 iroh 的分布式 AI 计算",
+      "url": "https://news.ycombinator.com/item?id=48876505",
+      "summary": "介绍如何在 iroh 上做分布式大模型计算。",
+      "content": "HN Score: 26, Comments: 10"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "title_zh": "RISCBoy：从零设计的开源便携游戏机",
+      "url": "https://news.ycombinator.com/item?id=48876245",
+      "summary": "一个从零开始设计的开源便携式游戏主机项目。",
+      "content": "HN Score: 22, Comments: 4"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "title_zh": "英伟达、CoreWeave 与 Nebius：GPU 热潮中的循环融资内幕",
+      "url": "https://news.ycombinator.com/item?id=48873836",
+      "summary": "一篇拆解 GPU 热潮背后资本往来的分析文章。",
+      "content": "HN Score: 130, Comments: 46"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+      "title_zh": "数十亿草图揭示人类概念中的隐性文化差异",
+      "url": "https://news.ycombinator.com/item?id=48849744",
+      "summary": "一项借助海量草图数据研究人类概念文化差异的论文。",
+      "content": "HN Score: 27, Comments: 2"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "We scaled PgBouncer to 4x throughput",
+      "title_zh": "我们把 PgBouncer 吞吐量提升了 4 倍",
+      "url": "https://news.ycombinator.com/item?id=48872874",
+      "summary": "一篇关于 PostgreSQL 连接池扩容和性能优化的工程实践。",
+      "content": "HN Score: 167, Comments: 28"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "title_zh": "UPI：一次支付交易的结构拆解",
+      "url": "https://news.ycombinator.com/item?id=48873457",
+      "summary": "对印度 UPI 支付交易流程与架构的拆解说明。",
+      "content": "HN Score: 81, Comments: 26"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Prefer strict tables in SQLite",
+      "title_zh": "SQLite 中更推荐使用严格表",
+      "url": "https://news.ycombinator.com/item?id=48873940",
+      "summary": "一篇主张在 SQLite 中优先使用 strict table 的实践文章。",
+      "content": "HN Score: 200, Comments: 90"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Robostral Navigate: single-camera AI navigation - mistral.ai",
+      "title_zh": "Robostral Navigate：单摄像头 AI 导航",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5",
+      "summary": "Mistral 相关的单摄像头 AI 导航项目，强调低成本视觉导航能力。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "‘Not where they hoped it'd be’: Launch of Trump AI promotion program underwhelms - Politico",
+      "title_zh": "“并未达到预期”：特朗普 AI 推广计划启动表现平平",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcmtYVEFaazR5Tnp3ZTlJQlRyYl96dHJkT3BpUHRlWU1pUnFRNUkzaVhtaHdiN01KMDdKekt5ajRPOElFcF9DWFg3ckhJWnRkM2RXTFg4amFnRVRuWUEtWVN5MXp0LTRoVVB6a0htaHRZOE9PQmFlTzBBenBPT0JLc3ZTcnk2SUZTbDJHbnVhYXdjLUVS?oc=5",
+      "summary": "Politico 报道称特朗普政府的 AI 推广项目启动后反响不及预期。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Microsoft’s climate-warming emissions surge 25%, driven by AI - Oregon Public Broadcasting - OPB",
+      "title_zh": "AI 推动微软气候变暖相关排放激增 25%",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGhMRlBXVTFEUFM4c2E3cU83QW03cVktVkZpYWdqNFpoQ01WR3hjak12emlIOUdYSFNfSlpkalNuWFlxRTIxREpUSFVqRFhoVEctcTlTYUwxM0VsckR6WGN0UFJ4N3V0UHJkU2o3ZGd4aEl2SmJpaXFKbmZveUpVQ04xQVNZZzdyRWtOX2xZOGxvaVZ0Wm5meUZNTHUtUQ?oc=5",
+      "summary": "OPB 报道称，AI 需求带动微软的气候变暖相关排放显著上升。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Meta's new AI image maker draws fire over consent - Axios",
+      "title_zh": "Meta 新 AI 图片生成器因同意问题引发争议",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EVllKUjc4d290bC0ybnRGank1aXB5S3NlckptN0tUNnNhRXB4WUZZaVdpbHE1aW1VY0FNZmhYOGZNVjdZeHBETmxLSnlKZmJIQ19PZm80QkxBZkF3MWJJdWt6U0U?oc=5",
+      "summary": "Axios 指出 Meta 新推出的 AI 图片工具引发了关于同意和授权的质疑。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "One Way to Build a Great AI Agent: Just Start With a Dashboard, Then Add the Agent - saastr.com",
+      "title_zh": "构建优秀 AI Agent 的一种方式：先做仪表盘，再加代理",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX09tZG5BNTVBWVFrdUtqOUFmUGU2Uk9zNlplSTN1OTZhdzFPMlItejhSMjhsZExpb2FReWc4aXp4N29EblB0YXJCUTYwd0YxM2lXWHFrWHBlTUMxckk4cThOUng1UUl2TmdRNHZxVUNDQjc4amliTDBLbE9BZ0VZOXp6ajVjTGMwYVBYcWhCaEx6TDg1SkZZZnNPd2dGT1VCUk1qcVRPZw?oc=5",
+      "summary": "一篇讨论从仪表盘出发逐步演进到 AI Agent 的产品实践文章。",
+      "content": ""
+    }
+  ]
+}
