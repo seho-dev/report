@@ -1,0 +1,159 @@
+{
+  "date": "2026-07-13",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "paperless-ngx / paperless-ngx",
+      "title_zh": "无纸化文档管理系统",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "summary": "一个由社区支持的高性能文档管理系统：扫描、索引并归档所有文档",
+      "content": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "stars": "27"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "f / prompts.chat",
+      "title_zh": "聊天提示词工具",
+      "url": "https://github.com/f/prompts.chat",
+      "summary": "原名 Awesome ChatGPT Prompts。分享、发现并收集社区提示词。免费开源，支持为你的组织自托管，且完全保护隐私。",
+      "content": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "stars": "150"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "docker / compose",
+      "title_zh": "Docker 编排工具",
+      "url": "https://github.com/docker/compose",
+      "summary": "使用 Docker 定义并运行多容器应用",
+      "content": "Define and run multi-container applications with Docker",
+      "stars": "37"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "Infisical / infisical",
+      "title_zh": "开源密钥与权限管理平台",
+      "url": "https://github.com/Infisical/infisical",
+      "summary": "Infisical 是一个开源平台，用于管理密钥、证书和特权访问。",
+      "content": "Infisical is the open-source platform for secrets, certificates, and privileged access management.",
+      "stars": "61"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "microsoft / Data-Science-For-Beginners",
+      "title_zh": "数据科学入门课程",
+      "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+      "summary": "10周，20节课，人人都能学数据科学！",
+      "content": "10 Weeks, 20 Lessons, Data Science for All!",
+      "stars": "40"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "sundowndev / phoneinfoga",
+      "title_zh": "电话信息收集框架",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "summary": "电话号码信息收集框架",
+      "content": "Information gathering framework for phone numbers",
+      "stars": "41"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "oven-sh / bun",
+      "title_zh": "高性能 JavaScript 运行时",
+      "url": "https://github.com/oven-sh/bun",
+      "summary": "极其快速的 JavaScript 运行时、打包器、测试运行器和包管理器，集于一体。",
+      "content": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "stars": "162"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "caddyserver / caddy",
+      "title_zh": "Caddy 服务器 / Caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "summary": "快速且可扩展的多平台 HTTP/1、2、3 Web 服务器，自动启用 HTTPS",
+      "content": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "stars": "34"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "tailscale / tailscale",
+      "title_zh": "Tailscale 网络接入",
+      "url": "https://github.com/tailscale/tailscale",
+      "summary": "使用 WireGuard 和双重认证的最简单、最安全方案。",
+      "content": "The easiest, most secure way to use WireGuard and 2FA.",
+      "stars": "44"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "tiann / KernelSU",
+      "title_zh": "安卓内核 Root 方案",
+      "url": "https://github.com/tiann/KernelSU",
+      "summary": "一种基于内核的 Android Root 方案",
+      "content": "A Kernel based root solution for Android",
+      "stars": "26"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "title_zh": "自 Chromium 148 起，Math.tanh 现在可被用于指纹识别来关联底层操作系统。",
+      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+      "summary": "自 Chromium 148 起，`Math.tanh` 现在可被用于指纹识别，从而关联底层操作系统。",
+      "content": "HN Score: 229, Comments: 111"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "title_zh": "赛博朋克漫画、日漫和图像小说",
+      "url": "https://shellzine.net/cyberpunk-comics/",
+      "summary": "赛博朋克题材的漫画、日漫和图像小说",
+      "content": "HN Score: 29, Comments: 4"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Tiny Emulators",
+      "title_zh": "小型模拟器",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "summary": "小型模拟器",
+      "content": "HN Score: 116, Comments: 3"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Robostral Navigate: single-camera AI navigation - mistral.ai",
+      "title_zh": "Robostral Navigate：单摄像头 AI 导航 - mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5",
+      "summary": "Robostral Navigate：基于单摄像头的 AI 导航 - mistral.ai",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Best Artificial Intelligence (AI) Stock: AMD, Nvidia, or Broadcom - Yahoo Finance",
+      "title_zh": "最佳人工智能（AI）股票：AMD、英伟达还是博通 - 雅虎财经",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcG0xWGRKX2pfSHFodWJVZlFIR0dVSUFYdk5NaWwtSGZrZXl3N00zTG11aVhadVczclRZLVdYR21NTXdYV3ZvYkw4NDZvWU04LUhQcVZDR0otei1lX1RBemRFazFKcE5idnY1bFpyR0c1VU9sdFJodWQzNkphUWlPWV9hdzZOTU10cFVWbHhCQWJDTGlacHllMkwyMGxBRkdoUTJoYw?oc=5",
+      "summary": "最佳人工智能（AI）股票：AMD、英伟达还是博通 - 雅虎财经",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Google AI compression technology saves data center energy - Mashable",
+      "title_zh": "谷歌 AI 压缩技术节省数据中心能源 - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zN3hmVnJYbVJiRU1aUHF5MnBTZ0YxZFpCdTE3QnNmSUtYeWZ5TUw0T29MM1JTWVRKSnIwbWpPVWQybVdJRktxT19kdDJJVVNBVmRva0MtRng3ampzSnRj?oc=5",
+      "summary": "谷歌 AI 压缩技术可节省数据中心能源",
+      "content": ""
+    }
+  ]
+}
