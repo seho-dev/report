@@ -1,0 +1,240 @@
+{
+  "date": "2026-07-14",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "prompts.chat",
+      "title_zh": "prompts.chat 提示词社区",
+      "url": "https://github.com/f/prompts.chat",
+      "summary": "一个收集、分享和发现提示词的开源社区，适合快速找到可复用的 AI 提示。",
+      "content": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "stars": "114"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "termux-packages",
+      "title_zh": "Termux 软件包构建系统",
+      "url": "https://github.com/termux/termux-packages",
+      "summary": "Termux 的软件包构建与分发系统，方便在安卓终端环境里安装开发工具。",
+      "content": "A package build system for Termux.",
+      "stars": "15"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "build-your-own-x",
+      "title_zh": "从零实现技术栈合集",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "summary": "通过亲手重建经典技术来练习编程的一组学习项目。",
+      "content": "Master programming by recreating your favorite technologies from scratch.",
+      "stars": "345"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "ghidra",
+      "title_zh": "Ghidra 逆向工程框架",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "summary": "面向二进制分析和逆向工程的开源软件框架。",
+      "content": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": "65"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "coolify",
+      "title_zh": "Coolify 自托管平台",
+      "url": "https://github.com/coollabsio/coolify",
+      "summary": "面向静态站点、数据库和全栈应用的开源自托管 PaaS 替代方案。",
+      "content": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
+      "stars": "67"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "tuya-local",
+      "title_zh": "tuya-local 项目",
+      "url": "https://github.com/make-all/tuya-local",
+      "summary": "Local support for Tuya devices in Home Assistant",
+      "content": "Local support for Tuya devices in Home Assistant",
+      "stars": "8"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "leantime",
+      "title_zh": "leantime 项目",
+      "url": "https://github.com/Leantime/leantime",
+      "summary": "Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.",
+      "content": "Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.",
+      "stars": "164"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "authelia",
+      "title_zh": "authelia 项目",
+      "url": "https://github.com/authelia/authelia",
+      "summary": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+      "content": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+      "stars": "12"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "servo",
+      "title_zh": "servo 项目",
+      "url": "https://github.com/servo/servo",
+      "summary": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "content": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "stars": "18"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "nushell",
+      "title_zh": "nushell 项目",
+      "url": "https://github.com/nushell/nushell",
+      "summary": "A new type of shell",
+      "content": "A new type of shell",
+      "stars": "27"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "‘Asia's cleanest village’ bans tourists on Sundays",
+      "title_zh": "“亚洲最干净的村庄”周日禁止游客",
+      "url": "https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays",
+      "summary": "为保护环境和居民生活节奏，该村在周日限制游客进入。",
+      "content": "HN Score: 45, Comments: 22"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Claude is just Mr. Meeseeks",
+      "title_zh": "Claude 就像 Mr. Meeseeks",
+      "url": "https://github.com/thephw/claude-meseeks",
+      "summary": "一篇用流行文化类比 Claude 行为模式的讨论。",
+      "content": "HN Score: 90, Comments: 31"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Building and shipping Mac and iOS apps without ever opening Xcode",
+      "title_zh": "无需打开 Xcode 也能构建并发布 Mac 与 iOS 应用",
+      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "summary": "文章介绍了绕开 Xcode 直接完成构建与发布的流程。",
+      "content": "HN Score: 256, Comments: 118"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "title_zh": "苹果新版 SpeechAnalyzer API：与 Whisper 及前代方案对比",
+      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "summary": "一篇把苹果新语音分析 API 与 Whisper 等方案做基准对比的文章。",
+      "content": "HN Score: 413, Comments: 173"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "An Englishwoman who sketched India before photography took hold",
+      "title_zh": "一位在摄影普及前描绘印度的英国女性",
+      "url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
+      "summary": "一篇关于早期印度素描作品与作者经历的报道。",
+      "content": "HN Score: 13, Comments: 1"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
+      "title_zh": "Sega 32X 上的 Linux：谁还需要硬件同步原语呢？",
+      "url": "https://cakehonolulu.github.io/linux-on-32x/",
+      "summary": "一篇展示在 Sega 32X 上运行 Linux 的技术文章。",
+      "content": "HN Score: 88, Comments: 20"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "The art and engineering of Sega CD Silpheed",
+      "title_zh": "Sega CD《Silpheed》的艺术与工程",
+      "url": "https://fabiensanglard.net/silpheed/index.html",
+      "summary": "一篇解析 Sega CD 游戏《Silpheed》制作与实现细节的文章。",
+      "content": "HN Score: 208, Comments: 40"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "The infinite scroll may become endangered if controversial Calif. law passes",
+      "title_zh": "若争议性的加州法案通过，无限滚动可能面临限制",
+      "url": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
+      "summary": "一篇讨论加州相关法案可能影响无限滚动设计的文章。",
+      "content": "HN Score: 53, Comments: 64"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Telegram's t.me domain has been suspended",
+      "title_zh": "Telegram 的 t.me 域名已被暂停",
+      "url": "https://www.whois.com/whois/t.me",
+      "summary": "关于 Telegram 短链域名 t.me 被暂停的报道。",
+      "content": "HN Score: 229, Comments: 159"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Show HN: YouTube Guitar Tab Parser",
+      "title_zh": "Show HN：YouTube 吉他谱解析器",
+      "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
+      "summary": "一个在 HN 上展示的 YouTube 吉他谱解析工具。",
+      "content": "HN Score: 57, Comments: 41"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Robostral Navigate: single-camera AI navigation - mistral.ai",
+      "title_zh": "Robostral Navigate：单摄像头 AI 导航",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5",
+      "summary": "Mistral 发布的单摄像头 AI 导航方案，强调低成本视觉导航能力。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Hundreds of economists say 'we must act now' on AI’s economic impact and job displacement risks - AP News",
+      "title_zh": "数百名经济学家呼吁立即应对 AI 的经济影响与岗位替代风险",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRTdpMkxZQWFVNExSRWZFUEJMREQ5dmFSQmhHUzRUUS1KWFFYb1Zpa3pHeVBnUjYxY19DY2tpa2pkOTk2NERRZjg2b0IybkFJNlliaWV5WXFxQzEwSzlqTW1qR2t0OEVybTBJZHJSNDZlOFYxelZQLXFMTmRoek85VzZlR1c1dDd0MFAzQUpFUDJwc1VzZjE4?oc=5",
+      "summary": "多位经济学家敦促尽快正视 AI 带来的经济冲击和就业替代问题。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Satya Nadella has issued a shocking warning to companies using AI - TechCrunch",
+      "title_zh": "萨提亚·纳德拉向使用 AI 的公司发出警告",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ0h0VjYwQmJqWWpaMGVYN1FBMklJajhGSlZkdkxkQ0RGSGUzNEIwVmhMREFya3V5WG5kRkxidWRBN2NyVHV3cDdtNWhZYWtKZ1BkYi0wLWRWYmJiOEt2TjBZWlVLVTYtZHVTUVZ0LTg2Rl9meWN3cjI0b2pQRWxZcFhTSndQT2dlZmlIajFhWkpWTm0tZXZXSDBxcndoUkVldmc?oc=5",
+      "summary": "TechCrunch 报道了纳德拉对企业使用 AI 时风险的提醒。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Top House progressive warns Democrats to get serious on AI messaging - Politico",
+      "title_zh": "众议院进步派提醒民主党认真对待 AI 话语策略",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUnRpQWZLLUg2Qk1MUm0wOVJVX1IxSFlmUVh0bVpSWVRTcUxvemtOTmFfazFTb3p6OGt3dTNheGUyMlRiQnBlT1NnTWdfYnB5UmZTWlZMZmJKYlFONUdIalpUT1lzOFhLWDVXNXY0MG1aZzlueWhZUEhnbkFHR3ZoajU2RUJWTkxPbWV5OEhn?oc=5",
+      "summary": "Politico 报道称，众议院进步派人士要求民主党认真规划 AI 相关传播口径。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "What VAR tells us about AI - bloodinthemachine.com",
+      "title_zh": "VAR 能告诉我们什么关于 AI 的事",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01aHJHWkMwcG96eVFwUGZJdWFTMFhBcUFmNXZ5ZlVYaUNlZmhlamUwVTQ3bV9mRk1jTnRGRjYzdTlIX2dJLXNIV3BlSXF4OE0xd2NTWUNyQkxkOWNEVUpycHRqbzNZWDlGbjIxbmptQQ?oc=5",
+      "summary": "一篇借足球 VAR 系统类比并讨论 AI 的文章。",
+      "content": ""
+    }
+  ]
+}
