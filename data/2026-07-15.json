@@ -1,0 +1,145 @@
+{
+  "date": "2026-07-15",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "tesseract.js",
+      "title_zh": "Tesseract.js 文字识别引擎",
+      "url": "https://github.com/naptha/tesseract.js",
+      "summary": "GitHub Trending 上的热门仓库：Pure Javascript OCR for more than 100 Languages 📖🎉🖥",
+      "content": "Trending repository on GitHub. Description: Pure Javascript OCR for more than 100 Languages 📖🎉🖥. Stars today: 44",
+      "stars": "44"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "ghidra",
+      "title_zh": "Ghidra 逆向工程框架",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "summary": "GitHub Trending 上的热门仓库：Ghidra is a software reverse engineering (SRE) framework",
+      "content": "Trending repository on GitHub. Description: Ghidra is a software reverse engineering (SRE) framework. Stars today: 75",
+      "stars": "75"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "faker",
+      "title_zh": "Faker 假数据生成库",
+      "url": "https://github.com/faker-ruby/faker",
+      "summary": "GitHub Trending 上的热门仓库：A library for generating fake data such as names, addresses, and phone numbers.",
+      "content": "Trending repository on GitHub. Description: A library for generating fake data such as names, addresses, and phone numbers.. Stars today: 67",
+      "stars": "67"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "CasaOS",
+      "title_zh": "CasaOS 个人云系统",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "summary": "GitHub Trending 上的热门仓库：CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "content": "Trending repository on GitHub. Description: CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.. Stars today: 81",
+      "stars": "81"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "croc",
+      "title_zh": "Croc 安全文件传输工具",
+      "url": "https://github.com/schollz/croc",
+      "summary": "GitHub Trending 上的热门仓库：Easily and securely send things from one computer to another 🐊 📦",
+      "content": "Trending repository on GitHub. Description: Easily and securely send things from one computer to another 🐊 📦. Stars today: 24",
+      "stars": "24"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "title_zh": "Bonsai 27B：可在手机上运行的 27B 级模型",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "summary": "HN 热门条目：Bonsai 27B: A 27B-Class model that runs on a phone",
+      "content": "HN Score: 374, Comments: 144"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "title_zh": "AI 热潮融资：从现金流到债务 [PDF]",
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "summary": "HN 热门条目：Financing the AI boom: from cash flows to debt [pdf]",
+      "content": "HN Score: 58, Comments: 10"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Dependabot version updates introduce default package cooldown",
+      "title_zh": "Dependabot 版本更新引入默认包冷却期",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "summary": "HN 热门条目：Dependabot version updates introduce default package cooldown",
+      "content": "HN Score: 68, Comments: 41"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "The Tower Keeps Rising",
+      "title_zh": "高塔仍在继续升高",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "summary": "HN 热门条目：The Tower Keeps Rising",
+      "content": "HN Score: 310, Comments: 152"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "title_zh": "Cursor 0day：当完全披露成为唯一的保护手段",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "summary": "HN 热门条目：Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "content": "HN Score: 218, Comments: 90"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "How to manage AI investments in the agentic era",
+      "title_zh": "在智能体时代管理 AI 投资的方法",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "summary": "AI 资讯：Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "How data science teams use ChatGPT Work",
+      "title_zh": "数据科学团队如何使用 ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "summary": "AI 资讯：See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "How sales teams use ChatGPT Work",
+      "title_zh": "销售团队如何使用 ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "summary": "AI 资讯：See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "title_zh": "德国电信如何用 AI 重塑通信业务",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "summary": "AI 资讯：How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Getting started with ChatGPT",
+      "title_zh": "Getting started with ChatGPT",
+      "url": "https://openai.com/academy/getting-started",
+      "summary": "AI 资讯：Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "content": ""
+    }
+  ]
+}
