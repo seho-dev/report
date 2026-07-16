@@ -1,0 +1,211 @@
+{
+  "date": "2026-07-16",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "pocketbase/pocketbase",
+      "title_zh": "PocketBase：单文件开源实时后端",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "summary": "在 1 个文件中实现的开源实时后端",
+      "content": "Open Source realtime backend in 1 file",
+      "stars": "74"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "codecrafters-io/build-your-own-x",
+      "title_zh": "codecrafters-io/自己动手构建 X",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "summary": "通过从零重建你最喜欢的技术来精通编程。",
+      "content": "Master programming by recreating your favorite technologies from scratch.",
+      "stars": "464"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "nocodb/nocodb",
+      "title_zh": "NocoDB：开源自托管 Airtable 替代品",
+      "url": "https://github.com/nocodb/nocodb",
+      "summary": "🔥 🔥 🔥 一个免费且可自托管的 Airtable 替代品",
+      "content": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative",
+      "stars": "51"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "Mbed-TLS/mbedtls",
+      "title_zh": "Mbed TLS：开源灵活的 TLS 库",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "summary": "一个开源、可移植、易用、可读且灵活的 TLS 库，也是 PSA 密码学 API 的参考实现。发布节奏不固定，通常每次发布间隔约 3 到 6 个月。",
+      "content": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "stars": "5"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "lance-format/lance",
+      "title_zh": "Lance：面向多模态 AI 的湖仓格式",
+      "url": "https://github.com/lance-format/lance",
+      "summary": "面向多模态 AI 的开源湖仓格式。只需 2 行代码即可从 Parquet 转换而来，随机访问速度提升 100 倍，并支持向量索引和数据版本管理。兼容 Pandas、DuckDB、Polars、Pyarrow 和 PyTorch，且还将支持更多集成。",
+      "content": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "stars": "5"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "PostHog/posthog",
+      "title_zh": "PostHog：一体化产品开发平台",
+      "url": "https://github.com/PostHog/posthog",
+      "summary": "🦔 PostHog 是一个一体化开发者平台，用于构建成功的产品。我们提供产品分析、Web 分析、会话回放、错误追踪、功能开关、实验、问卷、数据仓库、CDP 以及 AI 产品助手，帮助你调试代码、更快发布功能，并将所有使用数据和客户数据集中在同一技术栈中。",
+      "content": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+      "stars": "58"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "NangoHQ/nango",
+      "title_zh": "Nango：用 AI 构建产品集成",
+      "url": "https://github.com/NangoHQ/nango",
+      "summary": "使用 AI 构建产品集成。",
+      "content": "Build product integrations with AI.",
+      "stars": "20"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "vinta/awesome-python",
+      "title_zh": "超赞 Python 资源集锦",
+      "url": "https://github.com/vinta/awesome-python",
+      "summary": "一份带有明确立场的 Python 框架、库、工具和资源清单",
+      "content": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "stars": "202"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Inkling: Our Open-Weights Model",
+      "title_zh": "Inkling：我们的开放权重模型",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "summary": "Inkling：我们的开放权重模型",
+      "content": "HN Score: 582, Comments: 143"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "SQLite should have (Rust-style) editions",
+      "title_zh": "SQLite 应该有（Rust 风格的）版本。",
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "summary": "SQLite 应该有（Rust 风格的）版本",
+      "content": "HN Score: 54, Comments: 26"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Grok Build is open source",
+      "title_zh": "Grok Build 是开源的",
+      "url": "https://github.com/xai-org/grok-build",
+      "summary": "Grok Build 是开源的",
+      "content": "HN Score: 196, Comments: 234"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials",
+      "title_zh": "金属有机框架，化学的新奇迹材料",
+      "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+      "summary": "金属有机框架，化学界的新奇迹材料",
+      "content": "HN Score: 19, Comments: 5"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "The Anti-Mac User Interface (1996)",
+      "title_zh": "反 Mac 用户界面（1996）",
+      "url": "https://www.nngroup.com/articles/anti-mac-interface/",
+      "summary": "反 Mac 用户界面（1996）",
+      "content": "HN Score: 29, Comments: 4"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "title_zh": "政府、企业和非营利组织应该投资于自由、开源 AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "summary": "政府、公司和非营利组织应投资于免费的开源人工智能 [pdf]",
+      "content": "HN Score: 53, Comments: 14"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+      "title_zh": "Stripe和Advent已联合提出收购PayPal的要约——消息人士称",
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "summary": "Stripe 和 Advent 已联合提出收购 PayPal 的报价——消息人士称",
+      "content": "HN Score: 318, Comments: 189"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "LLM Networking with MikroTik",
+      "title_zh": "使用 MikroTik 进行 LLM 网络连接",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "summary": "使用 MikroTik 进行 LLM 网络连接",
+      "content": "HN Score: 20, Comments: 4"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Robostral Navigate: single-camera AI navigation - mistral.ai",
+      "title_zh": "Robostral Navigate：单摄像头 AI 导航 - mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5",
+      "summary": "Robostral Navigate：单摄像头AI导航 mistral.ai",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry - NVIDIA Blog",
+      "title_zh": "英伟达与日本将全栈 AI 和机器人技术带入各行各业 - NVIDIA 博客",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xNjhTZDM1ajhCSnliWTA4aXM4bkQ3dzhZMnFNUzkxS3NxU3dDdWpRQlh0N1BPUHRURVZFU1BtQU04T3QzQnVLR3lOaE9WZnhwMUUwcmVTRGtmUlFGQ1hoYw?oc=5",
+      "summary": "NVIDIA 与日本将全栈 AI 和机器人技术带入各行各业 NVIDIA 博客",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "PHILIP GOLDBERG: Writing with and without AI - The Berkshire Edge",
+      "title_zh": "PHILIP GOLDBERG：有 AI 与无 AI 的写作 - The Berkshire Edge",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84SWpGYzljUlBlLUJEVW5rbUVKdGh6bE1ZWlM1cDlRSkc4aXd6UE5ZVnc1U2JqTWN4aUVyTk1jelRST2tIN3l1aDBBVVI3eGtWQldUQmc5M0R2RGl1NEpGckIwQndJTjZBVkV2b2lqenlZMDdwdTZodFpsdXBzQQ?oc=5",
+      "summary": "PHILIP GOLDBERG：有 AI 与无 AI 的写作 The Berkshire Edge",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Mira Murati’s AI Startup Releases First Model in Bid to Loosen AI Giants’ Grip - WSJ",
+      "title_zh": "Mira Murati 的 AI 初创公司发布首个模型，试图削弱 AI 巨头的控制力 - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzVTTWJDdUFUdUdTSTJzS2F0REZadUxWeV81S2s1Vlp3UEdOTWQzQ1F3RmphNmRxNFpJbmNUNFV0eVBCMHJ2djJuYzNSRThqbTdBaUdvdWdsMGIyME5nZG5VNlhUTHRsMHczNy1SWHdyaF9ySGNGNnhuNnlINWdQRXVGa095UmJxb2g5a1BJMVJJY3d2RGtJejJWM3IySk54VE1EamlVMTkwQWx1Y0Eyd1BVNA?oc=5",
+      "summary": "Mira Murati 的 AI 初创公司发布首个模型，试图松动 AI 巨头的控制 WSJ",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Trump blasts New York AI data center moratorium, says state should change policy 'immediately' - CNBC",
+      "title_zh": "特朗普猛烈抨击纽约 AI 数据中心暂停令，称该州应“立即”改变政策 - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY2NiN0EtMDdtdTdJdWlsMGpzMFA1YklfRDR4bEkwb284dW02WHFOUW1ENnBUajEyZXU3S3MxNWdhSHRIendzTUxZNWNvUWxxRlFtaXJVdjFsWUJzZmxkM09IVDZhdGhYRlFDQU1lSDV5NDNxTE1Wejg3bEVpeURDSkJWaUNnZkVNVUdrcmRUQ0FTUVFtOEVzdVVqQ3A2bGlVeVHSAacBQVVfeXFMTV9MNFlWWlVnRVFROF81UDZteW44dzItaUFjWEZUYm1EV1p6M0xLTExKeHZEWmF2SE9fOUFacTZIaGpxbzVQbVRYV1h4OEhqX29vWlhMOFlTTDk5cmhFcDA5U21TamJpTnA1ajlDcnlzTmQ0NXpfLV9idGhLTEhRR0JWbE80b3JzRHdoRldpMzh1UUxOZ2wydkZmM01Eb1d3VjJQcEpzb1k?oc=5",
+      "summary": "特朗普抨击纽约 AI 数据中心暂停令，称该州应“立即”改变政策 CNBC",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "The 12 Best AI Accounting Software and Tools for 2026 - Intuit",
+      "title_zh": "2026 年 12 款最佳 AI 会计软件和工具 - Intuit",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMHpGRjhPZkoyMzRSYk9NRF9KMVRhQzNQcjJhYjZ3Ukh1aWFjY1R2UFNpN3FUWnRIYlNKUHpjRUN0bEh2SmJIX3d1WVVLTlJ3cXY0U0Y2TzBMSllvT0diTnVXUmRzdklEanp0TmpiNEFMcElXOGc0VjQwU2Q2VDhVWWxLWWlnTndLaFE?oc=5",
+      "summary": "2026 年 12 款最佳 AI 会计软件和工具 Intuit",
+      "content": ""
+    }
+  ]
+}
