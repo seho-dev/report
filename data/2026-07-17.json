@@ -1,0 +1,229 @@
+{
+  "date": "2026-07-17",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "PostHog / posthog",
+      "title_zh": "PostHog 产品分析平台",
+      "url": "https://github.com/PostHog/posthog",
+      "summary": "用于构建自驱动产品的领先平台，提供 AI 可观测性、分析、回放、特性开关、实验、错误追踪和日志等能力。",
+      "content": "Repository description: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. Stars today: 77",
+      "stars": "77"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "codecrafters-io / build-your-own-x",
+      "title_zh": "自己动手造轮子大全",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "summary": "通过从零复刻你最喜欢的技术来掌握编程。",
+      "content": "Repository description: Master programming by recreating your favorite technologies from scratch. Stars today: 435",
+      "stars": "435"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "sindresorhus / awesome",
+      "title_zh": "精选资源合集",
+      "url": "https://github.com/sindresorhus/awesome",
+      "summary": "收录各种有趣主题的优质资源清单。",
+      "content": "Repository description: Awesome lists about all kinds of interesting topics. Stars today: 496",
+      "stars": "496"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "pocketbase / pocketbase",
+      "title_zh": "PocketBase 实时后端",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "summary": "一个文件就能运行的开源实时后端。",
+      "content": "Repository description: Open Source realtime backend in 1 file. Stars today: 65",
+      "stars": "65"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "ripienaar / free-for-dev",
+      "title_zh": "开发者免费服务清单",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "summary": "整理了适合开发者、运维和基础设施团队使用的免费 SaaS、PaaS 和 IaaS 套餐。",
+      "content": "Repository description: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Stars today: 172",
+      "stars": "172"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "lima-vm / lima",
+      "title_zh": "Lima 虚拟机工具",
+      "url": "https://github.com/lima-vm/lima",
+      "summary": "面向容器运行场景的 Linux 虚拟机方案。",
+      "content": "Repository description: Linux virtual machines, with a focus on running containers. Stars today: 14",
+      "stars": "14"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "dapr / dapr",
+      "title_zh": "Dapr 分布式应用运行时",
+      "url": "https://github.com/dapr/dapr",
+      "summary": "一个可移植的运行时，用于构建跨云和边缘的分布式应用，结合事件驱动架构和工作流编排。",
+      "content": "Repository description: Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration. Stars today: 3",
+      "stars": "3"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "OpenAPITools / openapi-generator",
+      "title_zh": "OpenAPI 代码生成器",
+      "url": "https://github.com/OpenAPITools/openapi-generator",
+      "summary": "根据 OpenAPI 规范自动生成客户端库、服务端桩、文档和配置。",
+      "content": "Repository description: OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3). Stars today: 33",
+      "stars": "33"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "title_zh": "Kimi K3：开放前沿智能",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "summary": "Kimi 发布 K3 模型，强调开放前沿智能能力。",
+      "content": "HN Score: 1057, Comments: 660"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "title_zh": "LM Studio Bionic：面向开源模型的 AI 代理",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "summary": "LM Studio 推出面向开源模型的 AI 代理 Bionic。",
+      "content": "HN Score: 125, Comments: 50"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Microsoft Comic Chat is now open source",
+      "title_zh": "Microsoft Comic Chat 已开源",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "summary": "微软将 Comic Chat 项目开源。",
+      "content": "HN Score: 487, Comments: 109"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "The Little Book of Reinforcement Learning",
+      "title_zh": "强化学习小书",
+      "url": "https://github.com/alxndrTL/little-book-rl/",
+      "summary": "一本介绍强化学习基础知识的小型教程。",
+      "content": "HN Score: 30, Comments: 3"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Decoy Font",
+      "title_zh": "诱饵字体",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "summary": "一个关于字体效果的实验性项目。",
+      "content": "HN Score: 359, Comments: 89"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Mathematics of Data Science",
+      "title_zh": "数据科学的数学基础",
+      "url": "https://arxiv.org/abs/2607.11938",
+      "summary": "探讨数据科学背后的数学方法与基础。",
+      "content": "HN Score: 77, Comments: 2"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software",
+      "title_zh": "我的车 OTA 更新弄坏了 Android Auto，这暴露出现代软件的问题",
+      "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+      "summary": "一篇关于车载 OTA 更新失效、以及现代软件可靠性问题的长文。",
+      "content": "HN Score: 84, Comments: 87"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "NotebookLM is now Gemini Notebook",
+      "title_zh": "NotebookLM 现已更名为 Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "summary": "Google 将 NotebookLM 品牌更新为 Gemini Notebook。",
+      "content": "HN Score: 218, Comments: 119"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "title_zh": "NVIDIA Nemotron 3 Embed 在 RTEB 总榜夺冠，推进代理式检索",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "summary": "NVIDIA 发布 Nemotron 3 Embed，并在 RTEB 基准上取得第一名，强调其在代理式检索中的表现。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Newer Models, Same Advantage",
+      "title_zh": "更新的模型，依旧保持优势",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "summary": "一篇讨论新模型在能力与优势延续上的文章。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Security incident disclosure — July 2026",
+      "title_zh": "安全事件披露 - 2026 年 7 月",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "summary": "Hugging Face 发布 2026 年 7 月安全事件披露说明。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "What building Shippy taught us about building agents",
+      "title_zh": "构建 Shippy 这件事教会了我们什么是代理构建",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "summary": "这篇文章总结了构建 Shippy 项目过程中对代理开发的经验。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "title_zh": "模型路由很简单，直到它不再简单",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "summary": "讨论模型路由机制在真实系统中变复杂的原因。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Welcome Inkling by Thinking Machines",
+      "title_zh": "欢迎 Thinking Machines 的 Inkling",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "summary": "介绍 Thinking Machines 的 Inkling 项目或产品。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "title_zh": "推出 Real World VoiceEQ：衡量语音 AI 的人类感知质量",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "summary": "介绍一套用于衡量语音 AI 人类感知质量的新指标。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "title_zh": "PyTorch 性能分析（第三部分）：注意力就是你要分析的重点",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "summary": "继续讲解 PyTorch 中的性能分析方法，重点放在注意力模块。",
+      "content": ""
+    }
+  ]
+}
