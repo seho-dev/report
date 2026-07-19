@@ -1,0 +1,145 @@
+{
+  "date": "2026-07-19",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "posthog",
+      "title_zh": "PostHog 产品分析平台",
+      "url": "https://github.com/PostHog/posthog",
+      "summary": "面向构建自驱动产品的热门开源平台，聚焦分析、会话回放、功能开关和实验等能力。",
+      "content": "PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "stars": "338"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "build-your-own-x",
+      "title_zh": "从零开始复刻各类技术",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "summary": "通过从头复刻常见技术来提升编程能力的热门项目集合。",
+      "content": "Master programming by recreating your favorite technologies from scratch.",
+      "stars": "1126"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "lenis",
+      "title_zh": "丝滑滚动库",
+      "url": "https://github.com/darkroomengineering/lenis",
+      "summary": "提供平滑滚动体验的前端库，强调轻量与自然的交互手感。",
+      "content": "Smooth scroll as it should be",
+      "stars": "74"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "ente",
+      "title_zh": "端到端加密云服务",
+      "url": "https://github.com/ente/ente",
+      "summary": "一个面向文件与照片的端到端加密云服务项目。",
+      "content": "End-to-end encrypted cloud for everything.",
+      "stars": "40"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "signoz",
+      "title_zh": "SigNoz 可观测性平台",
+      "url": "https://github.com/SigNoz/signoz",
+      "summary": "基于 OpenTelemetry 的开源可观测性平台，适合统一查看日志、指标和链路追踪。",
+      "content": "SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps.",
+      "stars": "432"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Codex Resets",
+      "title_zh": "Codex 重置",
+      "url": "https://codex-resets.com/",
+      "summary": "讨论 Codex 重置相关内容的热门 HN 文章。",
+      "content": "HN Score: 32, Comments: 23"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "title_zh": "在 500KB 以内实现语音识别和 TTS",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "summary": "介绍如何用极小体积实现语音识别和文本转语音。",
+      "content": "HN Score: 200, Comments: 25"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Classic Amiga titles, free to download",
+      "title_zh": "经典 Amiga 游戏免费下",
+      "url": "https://amigafreeware.downer.tech/",
+      "summary": "介绍可免费下载的经典 Amiga 作品。",
+      "content": "HN Score: 21, Comments: 5"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Judge a book by its first pages",
+      "title_zh": "从前几页判断一本书",
+      "url": "https://uncovered.ink",
+      "summary": "围绕如何通过书的前几页快速判断内容质量的热门讨论。",
+      "content": "HN Score: 27, Comments: 24"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "title_zh": "GPT-5.6 用提示词弥补了凸优化中的 30 年空白",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "summary": "关于 GPT-5.6 在凸优化研究中取得突破的热门讨论。",
+      "content": "HN Score: 481, Comments: 312"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "China’s Moonshot AI Releases Model to Challenge Top U.S. Systems - WSJ",
+      "title_zh": "中国 Moonshot AI 发布模型，挑战美国顶级系统 - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVNJNC1WR1VUN20tQWdWVHhXNU9DSUR4U2N2ZndVMDlGSEl4SW9HQkIyaTgyRFZWZHlGeWVZaE1nY250SkpPTGw1YmxlWFhDeDZ4WWQ4VHpQcHdVQ2JmM1E3QzZuZmwtTWhHV3hDYXc3MnVHcEhYQkpxX3lIRF94ZGZDWTFTRmcyRnFqamkyMWI4WDFaRVV1YWJITW15RXJL?oc=5",
+      "summary": "《华尔街日报》报道 Moonshot AI 发布新模型，试图在能力上对标美国领先系统。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Green says Mets fully compliant on AI after report of usage - ESPN",
+      "title_zh": "格林称大都会队在 AI 使用报道后完全合规 - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSkxDSkQwWl9WWlhPR1JzMk5wZ21LTnVyZmVHUHI3NjRpVmFOX3BHczFVUENKR2hIM3lOQWg1TURCUjQyWmRhbkRhYXUwR3hjdTFfSzBtSlVVV1AyWFpHZmlQUktxR0hZNFpjSWV5dlZiRzR5M1JzbHdXSU93WkU5RWVGbUpRaVVoT3hCbmVfZnJ4WmdhdXRr?oc=5",
+      "summary": "ESPN 报道显示，Green 认为大都会队在相关 AI 使用问题上符合规定。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "The sell-off for AI stars worsens, while oil prices keep jumping - AP News",
+      "title_zh": "AI 概念股抛售加剧，油价继续上涨 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRjhsV0pGUU1wc3ZYY09ocnNhWDFWMGtwSXhoN3ZaRDEyNG5Eb3JpeWlmeWR4RHUyNmFfNzhSTmEyclZLaW91UFdsN2hUWHF3STczc0xMQnBTeG5QUEs1LTlLTDBMN3UtMHM5ZDdEVGRNR3cxcVdJM3luUEQ2Ry00V2hCdnVyQm1XR1lHdENWVTFEMWF6eFNQUHBR?oc=5",
+      "summary": "AP News 报道 AI 热门股票继续承压，而油价仍在上行。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Opinion | China’s A.I. Play Is Different From America’s - The New York Times",
+      "title_zh": "观点：中国的 AI 路线与美国不同 - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVW4zTkUyUklDNncwMDluZTN0STloS0lvaVMzRFZTT2tFUVFPQ25SUkVweldKRk4yNE5HcDExU3lfZzYwdWZfMjNEay1FZXhfa3l2NXFMa1RLZVJhSFIwOWJjNURqNzBnUFlUWWQ1M2pOZG9vd0hyYmNhZDVvSlZ0d3FKa3F6VEJlR2xKcnQ0ODRWWUxtQ1E?oc=5",
+      "summary": "《纽约时报》评论文章讨论了中国与美国在 AI 策略上的差异。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Lina Khan on AI and More - Paul Krugman | Substack",
+      "title_zh": "Lina Khan 谈 AI 及其他话题 - Paul Krugman | Substack",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yUnBJSWpwX1VHMDQ2N0FTZURlbnZSLTJrcEFsZjZ5RWRBd2F2U3J6WFZVOGhpVUZFYjhQcnJkWDJpemhXbGFISXpYNG5pWDRQNUJ1UU9YV3BTc0hsNkZLVTA0cDRiVWtwOTBR?oc=5",
+      "summary": "Paul Krugman 的 Substack 文章围绕 Lina Khan 与 AI 议题展开讨论。",
+      "content": ""
+    }
+  ]
+}
