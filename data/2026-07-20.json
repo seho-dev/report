@@ -1,0 +1,145 @@
+{
+  "date": "2026-07-20",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "posthog",
+      "title_zh": "PostHog 产品分析平台",
+      "url": "https://github.com/PostHog/posthog",
+      "summary": "面向构建自驱动产品的开源平台，覆盖分析、会话回放、功能开关、实验、错误追踪和日志等能力。",
+      "content": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "stars": "411"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "build-your-own-x",
+      "title_zh": "从零实现各种技术",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "summary": "通过从头复刻常见技术来提升编程能力的项目集合。",
+      "content": "Master programming by recreating your favorite technologies from scratch.",
+      "stars": "754"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "signoz",
+      "title_zh": "SigNoz 可观测性平台",
+      "url": "https://github.com/SigNoz/signoz",
+      "summary": "基于 OpenTelemetry 的开源可观测性平台，便于统一查看日志、指标和链路追踪。",
+      "content": "SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps.",
+      "stars": "345"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "v",
+      "title_zh": "V 语言",
+      "url": "https://github.com/vlang/v",
+      "summary": "一门简洁、快速、安全的编译型语言，强调高效与可维护性。",
+      "content": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
+      "stars": "7"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "free-for-dev",
+      "title_zh": "开发者免费资源清单",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "summary": "汇总了适合开发和运维关注的免费 SaaS、PaaS 与 IaaS 服务。",
+      "content": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "stars": "106"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "title_zh": "我用 1600 美元的 ESP32 替换了一个 12 万美元的保龄球馆系统",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "summary": "热门 HN 讨论，当前得分 1311，评论 146 条。",
+      "content": "HN Score: 1311, Comments: 146"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
+      "title_zh": "研究发现，AI 建议让人准确率降低 3 倍，但自信翻倍",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "summary": "热门 HN 讨论，当前得分 216，评论 108 条。",
+      "content": "HN Score: 216, Comments: 108"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Qwen 3.8",
+      "title_zh": "Qwen 3.8 模型发布",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "summary": "热门 HN 讨论，当前得分 751，评论 533 条。",
+      "content": "HN Score: 751, Comments: 533"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "The Zen of Parallel Programming",
+      "title_zh": "并行编程的禅意",
+      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+      "summary": "热门 HN 讨论，当前得分 92，评论 6 条。",
+      "content": "HN Score: 92, Comments: 6"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+      "title_zh": "一种可启动 Windows 的新 Intel Itanium（IA-64）模拟器",
+      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+      "summary": "热门 HN 讨论，当前得分 38，评论 25 条。",
+      "content": "HN Score: 38, Comments: 25"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Siri AI beta available now: 7 things to try - Mashable",
+      "title_zh": "Siri AI 测试版现已开放，7 个可尝试功能 - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UaThxRWlGb0d0ZDBVU3Ezc3dTN0R6STNmdzBXRVNxQkl3THFrd2ZRdFpKVFlvMk1Da091Z0NGdllSdV9EdC1SS3MyNWlWcnYydmV3cGpNRU1HZw?oc=5",
+      "summary": "Mashable 介绍了 Siri AI 测试版上线后值得尝试的几个功能。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Borrowed expertise: Why AI’s productivity boom may not survive the generation that built it - Brookings",
+      "title_zh": "借来的专业知识：为什么 AI 的生产力繁荣可能难以延续到创造它的这一代之后 - Brookings",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRlZvbTJ0M042aGVSZXZHTi1iWVJBS25LcFRBVWlYVWg3a2dwUVlSR1lDOEZYVjQzcUgxVmdLTVd5RGlZd2RPbXdJai1LeF91d1FnM0JOdUpFdURjcV9CckFyS3d2eWsxZTFCYTd4VHFxMm15SGRIcnVRQWxUa2dMSVZoN1pnRnpXSV8yemxVUENJaHVoV3hTUlFlYmgwaHEzWDRNSXp0aHdtYkxOSW81NGFlb1h1QnQzT0FiYTNjbGZXQW8?oc=5",
+      "summary": "Brookings 讨论了 AI 生产力提升是否会在代际更替后持续。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says - CNBC",
+      "title_zh": "TSMC 为把握 AI \"巨潮\" 正加速亚利桑那工厂建设 - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd2FWclZGano0cHJOODVWcTdPLWpsQ2RXbzIxYkg4ZDFkd2JkOWRVMS1nWVlnR3c1bURNcFdCUE9sZzIyZUtzSU01V1FUdDZIdWRzbWlJVElCRXNWenUtejRIa2I3X1NrcjFMNEVRWTQ0YVBORFluR0hsTGVIWUpWUkpuONIBiAFBVV95cUxNUkJaNENZWmFKeTlhY3cxV254bVd1MWVLZWYxWEplcWZ0RXNKZWxCaXdzbWxVcld2OGdnMTU3WTRjQXNOLUNBNThIRVpWT1p1QWtPR2M4RTVnY0gyVlN5cVlTbVhTbWt0clBVaVRySF9mSUhaZU5mb1AzMm1jRFdWRmtUYTFjYTdX?oc=5",
+      "summary": "CNBC 报道称，TSMC 正加快亚利桑那工厂扩建，押注 AI 需求增长。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Tech: How Husted and his voters see AI - Punchbowl News",
+      "title_zh": "科技：Husted 及其选民如何看待 AI - Punchbowl News",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWV1BzUk14S0EwelVIX1pJRl9EdE44N2lpcTVOY01kTGk5ZlV1N0tlalN1NjgybExmMDBlT1poTDNkd2h6RGRmN1MxRVl0YTNqZ3lUNXNyMEFSUmJSNHFVQ3loRQ?oc=5",
+      "summary": "Punchbowl News 讨论了 Husted 及其选民对 AI 的看法。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "AI detection not automatically better for colorectal cancer screening in Lynch syndrome, study shows - Medical Xpress",
+      "title_zh": "研究显示：Lynch 综合征结直肠癌筛查中 AI 检测并不一定更优 - Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSnJoeVFHblNycWdSTTh4a1dBZ0pNSERtT3ZxN1lSZE8zV2dhdWZjYnllc3U2V215WmRmdFFMRy04VXlkc0cwVGJMcG1qRlJJWjc1OHcwZVlHTUNtNGVhMHBHSEJGb1pYdldiNXdwclJGb216WlFYZUIzNmp0dHNrZUotVmlkcC1nZjlBVk1wWkFPZw?oc=5",
+      "summary": "Medical Xpress 报道称，AI 检测在 Lynch 综合征相关筛查中并非天然更优。",
+      "content": ""
+    }
+  ]
+}
