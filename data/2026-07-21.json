@@ -1,0 +1,145 @@
+{
+  "date": "2026-07-21",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "PostHog / posthog",
+      "title_zh": "PostHog 产品分析平台",
+      "url": "https://github.com/PostHog/posthog",
+      "summary": "面向构建自驱动产品的开源平台，覆盖分析、会话回放、功能开关、实验、错误追踪和日志等能力。",
+      "content": "Star PostHog / posthog 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. Python 37,136 3,068 Built by 310 stars today",
+      "stars": "310"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "pocketbase / pocketbase",
+      "title_zh": "PocketBase 轻量后端平台",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "summary": "轻量级的后端开发平台，提供数据库、身份认证、文件存储和实时能力。",
+      "content": "Star pocketbase / pocketbase Open Source realtime backend in 1 file Go 60,069 3,565 Built by 59 stars today",
+      "stars": "59"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "codecrafters-io / build-your-own-x",
+      "title_zh": "从零实现各种技术",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "summary": "通过从头复刻常见技术来提升编程能力的项目集合。",
+      "content": "Star codecrafters-io / build-your-own-x Master programming by recreating your favorite technologies from scratch. Markdown 529,442 50,084 Built by 658 stars today",
+      "stars": "658"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "DioxusLabs / dioxus",
+      "title_zh": "Dioxus 跨端 UI 框架",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "summary": "面向 Rust 的现代 UI 框架，强调跨平台与高性能前端开发。",
+      "content": "Sponsor Star DioxusLabs / dioxus Fullstack app framework for web, desktop, and mobile. Rust 37,344 1,753 Built by 389 stars today",
+      "stars": "389"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "PaperMC / Paper",
+      "title_zh": "PaperMC 服务器核心",
+      "url": "https://github.com/PaperMC/Paper",
+      "summary": "针对 Minecraft 服务器的高性能核心分支，优化了稳定性与吞吐表现。",
+      "content": "Sponsor Star PaperMC / Paper The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies Java 12,507 3,478 Built by 10 stars today",
+      "stars": "10"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "China’s open-weights AI strategy is winning",
+      "title_zh": "中国的开放权重 AI 策略正在占优",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "summary": "热门 HN 讨论，聚焦中国开放权重 AI 路线的竞争优势。",
+      "content": "HN Score: 922, Comments: 752"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Who's Afraid of Chinese Models?",
+      "title_zh": "谁害怕中文模型？",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "summary": "热门 HN 讨论，围绕中文模型的能力与影响展开。",
+      "content": "HN Score: 133, Comments: 96"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Kimi Work",
+      "title_zh": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "summary": "热门 HN 讨论，关注 Kimi Work 这一 AI 办公或工作流相关产品。",
+      "content": "HN Score: 344, Comments: 164"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Human mathematicians are being outcounterexampled",
+      "title_zh": "人类数学家正在被反例压过",
+      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "summary": "热门 HN 讨论，关注数学研究与自动化反例生成的关系。",
+      "content": "HN Score: 162, Comments: 59"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "title_zh": "Jelly UI：为原生 HTML 表单控件加入软体物理效果",
+      "url": "https://jelly-ui.com/",
+      "summary": "热门 HN 讨论，展示了为原生 HTML 表单控件加入软体物理效果的 UI 方案。",
+      "content": "HN Score: 296, Comments: 123"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Head of US AI safety agency resigns - Reuters",
+      "title_zh": "美国 AI 安全机构负责人辞职 - 路透社",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMl9UaTNLMHV0QmlCSkNjQXhIb3JZTVBYZHhPTVNZUURJb1UwUnZvazVGNXo2cU9FVmx4VE9UV2ZQZUxpeWFZTFZtOVQxNGJlaHRkWmNoNVByclhUUmNuX1FVczRSTHE2V1d2c2pnZkgzTzNUWkJId083ZUI1OFBTYTVyaw?oc=5",
+      "summary": "路透社报道，美国 AI 安全机构负责人已辞职。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Siri AI beta available now: 7 things to try - Mashable",
+      "title_zh": "Siri AI 测试版现已开放：7 个可尝试功能 - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UaThxRWlGb0d0ZDBVU3Ezc3dTN0R6STNmdzBXRVNxQkl3THFrd2ZRdFpKVFlvMk1Da091Z0NGdllSdV9EdC1SS3MyNWlWcnYydmV3cGpNRU1HZw?oc=5",
+      "summary": "Mashable 介绍了 Siri AI 测试版上线后值得尝试的几个功能。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Trump administration's head of AI safety agency resigns after 3 months on job - CNBC",
+      "title_zh": "特朗普政府 AI 安全机构负责人上任 3 个月后辞职 - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakNEQlhTN0EyQ19FQnA4T2Nub05IWmNBUnAteVZTNXM3Skd5ZjB2QUJiWG1qdHJMVFJkejlJd3V5aUdoaVlOc1FxM2Fjb3FtUEMzb01iOWJHX0F3MXJLYW5lNGVtc2hrMjRpOFJEb3d5RWpnTVZ0T2Nfc0IwelFZSFRpU3NKbmZCMTFRczE3TUZXaGR4VGJKX0FnN2xwWjJxam9LWtIBqgFBVV95cUxOczQyenJJUXNSUWZ3bXRCRXJuR0ZzNnN1eVJYVDNmSzJyTC1FeVhCMkMzQ2N0TERWbnNPTzR3MGlIYl9nZGgwMzJXWF90QVZDQzFnUU9DeTQ2RDcxQkZkRWl3TmhIRFQxQ1k3QzQ2a21OUi1MTmk2S3paT1drR2RraVFubjU5NG1iWVVlX0J5TWdNVW1KbGtWdmxwcXpLSEtHbF8yVmNQY2xZZw?oc=5",
+      "summary": "CNBC 报道称，特朗普政府任命的 AI 安全机构负责人上任 3 个月后辞职。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Apply for Anthropic’s AI for Science rare disease research grants - Anthropic",
+      "title_zh": "申请 Anthropic 的 AI for Science 罕见病研究资助 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1STEpkV0VLajlBMFFERkROS2RUVTBjUXJseDctQWhpdFZ2dXRyd0paRTRneTRKMU5XdzBaSjVZeUpiOGQxM3liVzVDNGNUT1NRc1ViMjJqX3ZWYTJBejNPUUZNZXhZa0dkaGk0?oc=5",
+      "summary": "Anthropic 开放了面向罕见病研究的 AI for Science 资助申请。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Scoop: Trump AI security agency head resigns - Axios",
+      "title_zh": "独家：特朗普政府 AI 安全部门负责人辞职 - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ua3RCSEtKaWpKTGgwbTd5bWR3MEdDeE5SM0VyYUVaM2txRnZ4R2N4d1o2XzRKLTVhTDd1VnlWeldSaWZ2V3I5WTdtZXExYWxXa2xwX3M3U0ljRG82eVNfMS1Ta2pKRnU2MDd5eHRYR2JHVTJpZDIzTDh3?oc=5",
+      "summary": "Axios 独家称，特朗普政府 AI 安全部门负责人已经辞职。",
+      "content": ""
+    }
+  ]
+}
