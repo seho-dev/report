@@ -1,0 +1,145 @@
+{
+  "date": "2026-07-26",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "jellyfin",
+      "title_zh": "Jellyfin 媒体服务器",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "summary": "一套自由软件媒体系统，提供服务器后端与 API。",
+      "content": "The Free Software Media System - Server Backend & API. Stars today: 62",
+      "stars": "62"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "n8n",
+      "title_zh": "n8n 工作流自动化平台",
+      "url": "https://github.com/n8n-io/n8n",
+      "summary": "一个支持原生 AI 能力的工作流自动化平台，可自托管或云端部署。",
+      "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.. Stars today: 170",
+      "stars": "170"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "superset",
+      "title_zh": "Apache Superset 数据可视化平台",
+      "url": "https://github.com/apache/superset",
+      "summary": "Apache Superset 是一个用于数据可视化和数据探索的平台。",
+      "content": "Apache Superset is a Data Visualization and Data Exploration Platform. Stars today: 16",
+      "stars": "16"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "awesome-remote-job",
+      "title_zh": "优质远程工作资源精选",
+      "url": "https://github.com/lukasz-madon/awesome-remote-job",
+      "summary": "一份精心整理的远程工作岗位与相关资源清单。",
+      "content": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python. Stars today: 127",
+      "stars": "127"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "awesome",
+      "title_zh": "各类精彩资源合集",
+      "url": "https://github.com/sindresorhus/awesome",
+      "summary": "收录各种有趣主题的优质资源集合。",
+      "content": "😎 Awesome lists about all kinds of interesting topics. Stars today: 418",
+      "stars": "418"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Did They Ghost You?",
+      "title_zh": "你被“断联”了吗？",
+      "url": "https://didtheyghostyou.com/",
+      "summary": "HN 热榜讨论：一个帮助判断对方是否突然失联的网站。",
+      "content": "HN Score: 204, Comments: 78"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "title_zh": "Claude 5 代模型的上下文工程新规则",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "summary": "HN 热榜讨论：Claude 5 代模型的上下文工程实践与规则。",
+      "content": "HN Score: 120, Comments: 70"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Stolen Buttons",
+      "title_zh": "被偷走的按钮",
+      "url": "https://anatolyzenkov.com/stolen-buttons",
+      "summary": "HN 热榜讨论：一个关于按钮设计与交互的网页项目。",
+      "content": "HN Score: 524, Comments: 123"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "title_zh": "通用汽车押注钠离子电池用于美国电网储能",
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "summary": "HN 热榜讨论：通用汽车支持钠离子电池在美国电网储能中的应用。",
+      "content": "HN Score: 87, Comments: 26"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "What is happening to jobs? Separating AI hype from reality",
+      "title_zh": "工作到底怎么了？把 AI 炒作和现实分开看",
+      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "summary": "HN 热榜讨论：围绕就业市场中 AI 炒作与现实差异的分析。",
+      "content": "HN Score: 16, Comments: 10"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company - ABC News - Breaking News, Latest News and Videos",
+      "title_zh": "OpenAI 表示其 AI 技术在一起“前所未有”的入侵中自行行动 - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONjg5RVlFTXVxa1JkakNTSVdad3RmSlE3VU5TbThTTzBBNDU5dFBaSG1PbzlKaEh3WUhWeWhxWjVwZFJzVi1rSXRZbE00SmNTQnQ3d1hBNXloSkd6Rk56OWpMSXNUVl83SVVINVR1eTRrYmdjY3QxZ0xiVGczZHBaRnJvMWdVOHNPb09xQTZTUmRvVzVWOGRiOEhLWENNWnRycy1GV0xiY9IBrAFBVV95cUxNN3lhamZtSzJXbUtDY2RWLTlZOEhUSEdHdjdqc3JHN2diZndScExKSk05Q2Zlc0s5VkxrWW0xMDJkV1hzaHNNWUpMVWs4REtreURsREhvWWVjd1M5Vkp3V1JMbjVOMHBhODNXa1pzdVU5eGNBWFFKTllVUVF5WjdYbTJkNkZQQ2VnRmd1NEN4ZkVGZnhlNjZsNDVsU3lyTlZXRVZfUkladTk1QTBQ?oc=5",
+      "summary": "ABC News 报道 OpenAI 称其 AI 技术在一起前所未有的入侵事件中自行行动。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation - CNBC",
+      "title_zh": "从硅谷到华盛顿，科技界突然迷上了 AI 的一个概念：蒸馏 - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTZqRWY5UHZ5TkhmQ0lySXFuQVpjalRWU01vR3hac3VZUXkwa0xSa0g2eEwzX1BPdkNqS1lieHR6S0VIeEFNVUNsajR1U29ZdGZOay0zT0x4em41N0xwZEE2RUlVdXYwMkxiSmVibmUzNjhZSnY0VFlJYlF5QXpVaXp3b2Z5cVl0Mm8wNlRnS1JPaHBGY2VUUkpWd0lKZnh4VFU2WlpuLUZJd9IBrwFBVV95cUxQNm9oSW1uVERRZUlmVUprQ1ZTNGJjTnVLTkw4ZGN3M3lNOU9PeklyMG5IVmQ1N2hSUThES3hwVTVRN0todkZDRk5hbWZ6THhiamdBWDZhSzNvdXlBTzZuTlJ0Z3J6cnQwQ0RrOThQTmVwYkVyb3VudzV1TGlsaDZsWi0xMUFpeXY3YklaQ3Njc3U3MTBwSTVCT0NwUkdfdnJDVWFUV19wZDBhNTBxdlBR?oc=5",
+      "summary": "CNBC 报道科技界正聚焦 AI 蒸馏这一概念。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "What's the difference between closed, open‑source and open-weight AI? A researcher explains - PBS",
+      "title_zh": "封闭、开源与开放权重 AI 有什么区别？研究员来解释 - PBS",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQk8tTDNWNWMySk52QlB0VVpFdDFVLWxQaEh0Q3VDUHZtWE9iaXFGckNUeWwyaWpGSVZiRkVYLVlzdUVxeEROYUY0cnoxS3ZFRnoydzYxZ1B3WmkyVmlYT2h2SHItdHlqdVFOTDRucjhCb1p5b0xmY2tVUHFYdTVSeDJya1E1U1lyVjJoUWpJMEU3alFhQUJhcThVZXZ4R0FnbzdIbkhyemVjNXVlWDNjajd2WVhBNTZsejFMMDdTS2lZRVRvazZSSnk3ZFljUdIB0wFBVV95cUxQRHdvaUthdXZ2cl9oLUI4REVRaWZJcUU5c0FGQUtydEQ5akszNU56TzRoanBZVUNHRk9WcklpU0FfVnZvT2JTWTBNbE1mZlNRUG1VSmJwMnByM3Bnc2ZISV9JWEZodVpaMjJieTUwSm5Zb28yRU1SbG9WS2YyTFVGaDhaTzRxSjJnSTNBMjF0M0JIRHlHRE1tWU95VGZJU1VHd1M1N2RtU3hmd0VKWXd4YzdvbnZRUXREVFV1UU1hajhuWHhrNHFpeWEyMmFXbTNpSG1V?oc=5",
+      "summary": "PBS 采访研究员，解释封闭、开源和开放权重 AI 的差异。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Sen. Ted Cruz calls for regulating kids’ use of AI chatbots at Hinson campaign event - Iowa Capital Dispatch",
+      "title_zh": "参议员 Ted Cruz 在 Hinson 竞选活动上呼吁监管儿童使用 AI 聊天机器人 - Iowa Capital Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmZNUmZueHdXeTdQU2JNYjEwWk1aWXFDZ0RZTV9FU2hwMkFoM0VHTzFsRE1wNm5uN3dlUlBpSnVWS0hLTnZXbDhOc3A5aFRmNXZKVnRGdHRPdzR1aWlsYnZhZndpb3VVNnd6RW1BQUpXNzBfb1JWYk5xdm52a3A3LXBrU25QTWtHUTVWZVB2THVPTzFNemNMaTlXWEhkb3BTd1owUmR2OTBWYXB6YjBCVWQwZlJ3ZGZ1TEMtQWZuYm8zdHhl?oc=5",
+      "summary": "Iowa Capital Dispatch 报道 Ted Cruz 在活动中呼吁监管儿童使用 AI 聊天机器人。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I. - The New York Times",
+      "title_zh": "硅谷在是否对中国 AI 关闭边界的问题上分歧加剧 - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGg1N0lvWXlpTm43VlhleE5IZmNpNDhTTWFZbzBnV1lUY1FCa212cl93ZkVtU00waTNFMnhib0RnaFl1MVBvZEpVbVVwUmlod1FMTV9Qazh4NjVVNThXTnZXN3U0RFBXU1Rwd3JLcjNPSjYxN0gzbzR0bkdUMmg4NElGRVVHZzdDSE5N?oc=5",
+      "summary": "纽约时报报道硅谷围绕是否限制中国 AI 的进入出现分歧。",
+      "content": ""
+    }
+  ]
+}
