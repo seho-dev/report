@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-27",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "permissionlesstech / bitchat",
+      "title_zh": "权限无关科技 / 蓝牙网状聊天",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "summary": "一个蓝牙网状聊天应用，带有复古 IRC 风格。",
+      "content": "bluetooth mesh chat, IRC vibes",
+      "stars": "30256"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "citrolabs / ego-lite",
+      "title_zh": "Citr o Labs / 轻量自我浏览器",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "summary": "面向 AI 代理的快速浏览器，可在不打扰用户的情况下共享已登录浏览状态。",
+      "content": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "stars": "4468"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "block / buzz",
+      "title_zh": "区块 / 嗡鸣",
+      "url": "https://github.com/block/buzz",
+      "summary": "一个蜂群式协作通信平台。",
+      "content": "A hive mind communication platform",
+      "stars": "13234"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "pingdotgg / t3code",
+      "title_zh": "PingDotGG / T3 编码",
+      "url": "https://github.com/pingdotgg/t3code",
+      "summary": "T3 生态相关的代码仓库，当前热度很高。",
+      "content": "",
+      "stars": "15037"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "CoreBunch / Instatic",
+      "title_zh": "CoreBunch / 静态化",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "summary": "开源的 Webflow、Framer 和 WordPress 替代方案，面向自托管的可视化 CMS。",
+      "content": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "stars": "5647"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Show HN: Distill and serve small models with frontier quality for half the cost",
+      "title_zh": "Show HN：以一半成本蒸馏并部署具备前沿质量的小模型",
+      "url": "https://news.ycombinator.com/item?id=0",
+      "summary": "展示一个能以更低成本提供高质量小模型服务的项目。",
+      "content": "HN Score: 16, Comments: 0"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "title_zh": "Decker：构建于 HyperCard 与经典 macOS 传统之上的平台",
+      "url": "https://news.ycombinator.com/item?id=0",
+      "summary": "一个延续 HyperCard 和经典 macOS 风格的平台。",
+      "content": "HN Score: 188, Comments: 42"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Teaching Kids Forth",
+      "title_zh": "教孩子学 Forth",
+      "url": "https://news.ycombinator.com/item?id=0",
+      "summary": "介绍如何把 Forth 教给孩子的文章。",
+      "content": "HN Score: 34, Comments: 8"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "I wanted a clock that never needed setting. Things escalated",
+      "title_zh": "我想要一只永远不用调时的钟，事情就此升级了",
+      "url": "https://news.ycombinator.com/item?id=0",
+      "summary": "关于打造一只无需手动校时的时钟的故事。",
+      "content": "HN Score: 11, Comments: 2"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Simulate cassette tape audio profiles using FFmpeg",
+      "title_zh": "用 FFmpeg 模拟磁带音频特性",
+      "url": "https://news.ycombinator.com/item?id=0",
+      "summary": "介绍如何用 FFmpeg 模拟磁带音频风格。",
+      "content": "HN Score: 49, Comments: 25"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Your AI Agent's Pull Request Looks Clean. That's the Problem",
+      "title_zh": "你的 AI 代理拉取请求看起来很干净，这才是问题所在",
+      "url": "https://news.google.com/search?q=AI%20LLM%20agents%20when:1d",
+      "summary": "讨论 AI 代理 PR 过于“干净”时隐藏的风险。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "OpenAI's own AI agent hacked Hugging Face and the company didn't know it for over a week",
+      "title_zh": "OpenAI 自家的 AI 代理入侵了 Hugging Face，而公司一周多都没发现",
+      "url": "https://news.google.com/search?q=AI%20LLM%20agents%20when:1d",
+      "summary": "一篇关于 AI 代理安全与滥用风险的报道。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Runbooks + RAG: How I Gave My AI SRE Agent the Context It Was Missing",
+      "title_zh": "Runbook + RAG：我是如何为我的 AI SRE 代理补上缺失上下文的",
+      "url": "https://news.google.com/search?q=AI%20LLM%20agents%20when:1d",
+      "summary": "介绍如何用 Runbook 和 RAG 为运维代理补充上下文。",
+      "content": ""
+    }
+  ]
+}
