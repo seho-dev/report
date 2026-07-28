@@ -1,0 +1,145 @@
+{
+  "date": "2026-07-28",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "microservices-demo",
+      "title_zh": "微服务演示项目",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "summary": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "content": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "stars": "64"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "immich",
+      "title_zh": "Immich 自托管相册",
+      "url": "https://github.com/immich-app/immich",
+      "summary": "High performance self-hosted photo and video management solution.",
+      "content": "High performance self-hosted photo and video management solution.",
+      "stars": "111"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "awesome-systematic-trading",
+      "title_zh": "系统化交易优质资源合集",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "summary": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "content": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "stars": "113"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "paperless-ngx",
+      "title_zh": "Paperless-ngx 文档管理系统",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "summary": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "content": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "stars": "68"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "nuclei",
+      "title_zh": "Nuclei 漏洞扫描器",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "summary": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "content": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "stars": "31"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Our position on open-weights models",
+      "title_zh": "我们对开放权重模型的立场",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "summary": "我们对开放权重模型的立场",
+      "content": "HN Score: 320, Comments: 384"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "DConf 2026 in London",
+      "title_zh": "2026 年伦敦 DConf",
+      "url": "https://dconf.org/2026/index.html",
+      "summary": "2026 年伦敦 DConf",
+      "content": "HN Score: 25, Comments: 2"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "title_zh": "在 SlopCodeBench 上基准测试 Opus 5",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "summary": "在 SlopCodeBench 上基准测试 Opus 5",
+      "content": "HN Score: 36, Comments: 7"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Watching Go's new garbage collector move through the heap",
+      "title_zh": "观察 Go 的新垃圾回收器穿过堆",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "summary": "观察 Go 的新垃圾回收器穿过堆",
+      "content": "HN Score: 157, Comments: 16"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "America has become an entrepreneur's paradise",
+      "title_zh": "美国已经成为创业者的天堂",
+      "url": "https://www.economist.com/business/2026/07/27/america-has-become-an-entrepreneurs-paradise",
+      "summary": "美国已经成为创业者的天堂",
+      "content": "HN Score: 28, Comments: 29"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Rethinking security for the age of AI - The Official Microsoft Blog",
+      "title_zh": "面向 AI 时代重新思考安全 - 微软官方博客",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUE1SeFVsNUUtTlBQWG1TN2JZcVl3WWpTYzVudk1iekRabVRoNHNWREtjZ19SSklYOVlPWHZ3YnZ6cVRpTWtaVllFc2xCc09hZUhJdDBPdFBpXzVFTlRtR0xsSEtHSGxxYjdNblpiZTdNOEtpOXh0WEdSdGx5OWFjVlp1VW52YnpPMlE?oc=5",
+      "summary": "面向 AI 时代重新思考安全 - 微软官方博客",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Opinion | If You’re Over 40, You’re Ready to Use A.I. - The New York Times",
+      "title_zh": "观点 | 如果你已超过 40 岁，你已经准备好使用 AI - 纽约时报",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aaTRpYWR4cGtUV0h4UDFHNUsyLWdYTnFYU01nZEx6dmxWRmotUXpWZDUxNmtMdWxMSnF2NnVub2NjOHJ6aGZuVU4zcU01WENmWFg1Wkt4Y1FqRzE2UHA1NXpINDRlYmdJVnp0V0syR3JJQnlzeWRZ?oc=5",
+      "summary": "观点 | 如果你已超过 40 岁，你已经准备好使用 AI - 纽约时报",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble - CNBC",
+      "title_zh": "Jim Cramer 警告 AI 的循环融资狂热让人想起互联网泡沫 - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR3lEcU1ielV0SXE2ZjRVM085N2w5UTFOSmNvYktWcFh0bmg3WjB3OEYtM2RMb2YtTnZ6RFR6VzFiaFRDOGE5ZXJYcHpXTkRRSnh4N3hEelBwTzJfTi13NXJ5Y1liSlNmZDFkQzFIMF81LTN0SXN6NzNnOGZQNWR6aC1uVnNPMHg1UHFHT0k2UFFMaXRZQmJsTlFTZ1ZsQdIBowFBVV95cUxNMkgzU0ZhU0NJeTVlR1ZndTNkNWFncXE1anFHSUhHa0RHa0gyaFpCV1hKRU9vRFJBQ3AxNGxMZTY5aGFBWVdDdTBORHp6STM1bkxtMVJLcVRhMUhLcTI3LVRoSElTRWs2ajFsbXZuRjdzVTVHTmpGRGZ1S1B6bHNzWi1MNWhhczktUzU3akhiTjN6MjNpd2pmaW1FQUVEYmg1dVpZ?oc=5",
+      "summary": "Jim Cramer 警告 AI 的循环融资狂热让人想起互联网泡沫 - CNBC",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Is This What Comes After AI Slop? - The Atlantic",
+      "title_zh": "AI 垃圾内容之后会是什么？- The Atlantic",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOblhfcFJMaGlQUFlHZDhvRGRack9HNU44UjZVZHlxOFRYc3BZNGlsNkNBbVR0ZXhRZ3RXS21xOTZIUzFxd2lYMEtaZVhnV21CMnBaZ0oxODNuYVV1dUVPdkxHU3ZzdVpFUEY3VkhodE5YRjZjRHlBMWtjaWFzRzQ5LWRjTTNjV3NiTDlRZFpiQQ?oc=5",
+      "summary": "AI 垃圾内容之后会是什么？- The Atlantic",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Nvidia forms industry alliance for open AI security after Hugging Face hack - Reuters",
+      "title_zh": "Hugging Face 遭黑后，Nvidia 组建开放 AI 安全产业联盟 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTA5S2htM2dsTTR2MTQxOHV6UXNETUJHTHgtQXBUQzExYkhmdlZEWmhRdU93NzF0bzMyaTFVUXJob2VCRXpIa180WmRUTDlNUHFhclk2amxvcHczaGpzTVpYenBaX3ZWVHNoUlBlRkJ1ZjB3bG5sdy1sQUhob2xTWXZYek9vN1RnVTltcUNTenRHYU4wSlk3bDFlTDZXbnMxTTQ5TXFEcnVmUnhscFlJTHRXWHpkQ1U?oc=5",
+      "summary": "Hugging Face 遭黑后，Nvidia 组建开放 AI 安全产业联盟 - Reuters",
+      "content": ""
+    }
+  ]
+}
