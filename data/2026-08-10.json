@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-10",
+  "reports": [
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "How I use LLMs to learn complex topics",
+      "title_zh": "How I use LLMs to learn complex topics（汉化）",
+      "url": "https://news.ycombinator.com/item?id=49234675",
+      "summary": "Hacker News 热门故事。",
+      "content": "HN Score: , Comments: "
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
+      "title_zh": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)（汉化）",
+      "url": "https://news.ycombinator.com/item?id=49205793",
+      "summary": "Hacker News 热门故事。",
+      "content": "HN Score: , Comments: "
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "New Zealand lost its music media, and what we're building to replace it",
+      "title_zh": "New Zealand lost its music media, and what we're building to replace it（汉化）",
+      "url": "https://news.ycombinator.com/item?id=49235641",
+      "summary": "Hacker News 热门故事。",
+      "content": "HN Score: , Comments: "
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Mea Culpa – Dark Hours",
+      "title_zh": "Mea Culpa – Dark Hours（汉化）",
+      "url": "https://news.ycombinator.com/item?id=49231154",
+      "summary": "Hacker News 热门故事。",
+      "content": "HN Score: , Comments: "
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Ask HN: What are you working on? (August 2026)",
+      "title_zh": "Ask HN: What are you working on? (August 2026)（汉化）",
+      "url": "https://news.ycombinator.com/item?id=49233423",
+      "summary": "Hacker News 热门故事。",
+      "content": "HN Score: , Comments: "
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "The Ambition Project",
+      "title_zh": "The Ambition Project（AI 资讯）",
+      "url": "https://www.betonit.ai/p/the-ambition-project",
+      "summary": "与 AI 相关的热门资讯。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "What if we let AI govern us?",
+      "title_zh": "What if we let AI govern us?（AI 资讯）",
+      "url": "https://inevolin.substack.com/p/what-if-we-let-ai-govern-us",
+      "summary": "与 AI 相关的热门资讯。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "The Airtable acquisition and what hypergrowth teaches you",
+      "title_zh": "The Airtable acquisition and what hypergrowth teaches you（AI 资讯）",
+      "url": "https://stories.thef1rstpancake.com/airtable-acquisition-and-what-hypergrowth-teaches-you/",
+      "summary": "与 AI 相关的热门资讯。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "A startup is able to detect fires within minutes using satellites and AI",
+      "title_zh": "A startup is able to detect fires within minutes using satellites and AI（AI 资讯）",
+      "url": "https://netbajura.blogspot.com/2026/08/ororatech-startup-that-detects.html",
+      "summary": "与 AI 相关的热门资讯。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Show HN: An AI chief of staff for founders who can't afford one",
+      "title_zh": "Show HN: An AI chief of staff for founders who can't afford one（AI 资讯）",
+      "url": "https://useairo.co",
+      "summary": "与 AI 相关的热门资讯。",
+      "content": ""
+    }
+  ]
+}
