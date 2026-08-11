@@ -1,0 +1,145 @@
+{
+  "date": "2026-08-11",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "semantica",
+      "title_zh": "语义体",
+      "url": "https://github.com/semantica-agi/semantica",
+      "summary": "面向上下文与可审计 AI 系统的图原生基础设施项目。",
+      "content": "Repository: semantica-agi/semantica. Description: Graph-Native Infrastructure for Context and Accountable AI Systems. Stars today: 970.",
+      "stars": "970"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "agency-agents",
+      "title_zh": "代理工坊",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "summary": "一个面向前端、社区运营和纠错等场景的完整 AI 代理团队。",
+      "content": "Repository: msitarzewski/agency-agents. Description: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. Stars today: 1349.",
+      "stars": "1349"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "MediaCrawler",
+      "title_zh": "媒体爬虫",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "summary": "一个覆盖小红书、抖音、快手、B 站、微博、贴吧和知乎等平台的内容与评论爬虫。",
+      "content": "Repository: NanmiCoder/MediaCrawler. Description: 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫. Stars today: 259.",
+      "stars": "259"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "agent-skills",
+      "title_zh": "智能体技能集",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "面向 AI 编码智能体的生产级工程技能集合。",
+      "content": "Repository: addyosmani/agent-skills. Description: Production-grade engineering skills for AI coding agents. Stars today: 659.",
+      "stars": "659"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "paperclip",
+      "title_zh": "回形针",
+      "url": "https://github.com/paperclipai/paperclip",
+      "summary": "一个用于在工作场景中管理智能体的开源应用。",
+      "content": "Repository: paperclipai/paperclip. Description: The open-source app everyone uses to manage agents at work. Stars today: 198.",
+      "stars": "198"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "title_zh": "Muse Glimmer：面向常驻本地代理工作流优化的 30B 参数模型",
+      "url": "https://news.ycombinator.com/item?id=49241679",
+      "summary": "Meta 发布了一款更适合本地常驻代理场景的 300 亿参数模型。",
+      "content": "HN Score: 994, Comments: 561"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "title_zh": "马克·扎克伯格抨击“封闭”的 AI 对手，Meta 重回开放模型路线",
+      "url": "https://news.ycombinator.com/item?id=49243880",
+      "summary": "Meta 重新押注开放模型，扎克伯格同时对竞争对手的封闭路线发起批评。",
+      "content": "HN Score: 337, Comments: 357"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Rust SIMD on the GPU",
+      "title_zh": "GPU 上的 Rust SIMD",
+      "url": "https://news.ycombinator.com/item?id=49247477",
+      "summary": "一篇讨论如何在 GPU 上使用 Rust SIMD 的技术文章。",
+      "content": "HN Score: 110, Comments: 54"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "title_zh": "展示 HN：Needle2，一款面向手机、可穿戴设备、智能家居和机器人的 14MB 代理式 LLM",
+      "url": "https://news.ycombinator.com/item?id=49246804",
+      "summary": "一个体积极小、强调工具调用和设备端运行的代理式模型项目。",
+      "content": "HN Score: 114, Comments: 61"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Publishing Schematics Before “Open Source” Was a Word",
+      "title_zh": "在“开源”一词出现之前发布电路图",
+      "url": "https://news.ycombinator.com/item?id=49212449",
+      "summary": "回顾开源概念出现之前，工程图纸和电路图的传播历史。",
+      "content": "HN Score: 44, Comments: 12"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "People don't hate AI because of Zuck. They hate the version TechCrunch sells",
+      "title_zh": "人们不讨厌 AI 不是因为扎克，而是因为 TechCrunch 卖的那个版本",
+      "url": "https://runtimewire.com/article/people-don-t-hate-ai-because-of-zuckerberg-they-hate-the-version-techcrunch-sell",
+      "summary": "这篇文章讨论人们对 AI 的反感究竟来自产品本身，还是来自媒体包装出来的版本。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "VectorGrid Core – Bare-metal C++ grid orchestration for AI data centers",
+      "title_zh": "VectorGrid Core：面向 AI 数据中心的裸机 C++ 网格编排",
+      "url": "https://github.com/MaximiH-86/GridPulse_Production_Server",
+      "summary": "一个面向 AI 数据中心的裸机 C++ 编排项目。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Text AI watermarks will always be trivial to remove",
+      "title_zh": "文本 AI 水印终究很容易移除",
+      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+      "summary": "文章认为文本水印在实践中很难提供真正可靠的防护。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Wanno – AI builder, cloud agent and infra for your apps",
+      "title_zh": "Wanno：面向应用的 AI 构建器、云端代理与基础设施",
+      "url": "https://wanno.dev/",
+      "summary": "一个把 AI 构建、云端代理和基础设施整合到一起的产品。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Show HN: AI-powered App Store replies that sound like you",
+      "title_zh": "展示 HN：能模仿你语气的 AI App Store 回复工具",
+      "url": "https://www.replyargus.com",
+      "summary": "一个帮助应用开发者生成更像本人语气的商店回复工具。",
+      "content": ""
+    }
+  ]
+}
