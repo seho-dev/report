@@ -1,0 +1,145 @@
+{
+  "date": "2026-08-12",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "agency-agents",
+      "title_zh": "代理智能体团队",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "summary": "一套可直接上手的 AI 代理团队，覆盖前端、社区运营、纠错等多种角色。",
+      "content": "Repository: msitarzewski/agency-agents. Description: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. Stars today: 958.",
+      "stars": "958"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "semantica",
+      "title_zh": "语义基础设施",
+      "url": "https://github.com/semantica-agi/semantica",
+      "summary": "面向上下文管理与可审计 AI 系统的图原生基础设施。",
+      "content": "Repository: semantica-agi/semantica. Description: Graph-Native Infrastructure for Context and Accountable AI Systems. Stars today: 893.",
+      "stars": "893"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "nvm",
+      "title_zh": "Node 版本管理器",
+      "url": "https://github.com/nvm-sh/nvm",
+      "summary": "用于管理多个 Node.js 版本的脚本化版本管理工具。",
+      "content": "Repository: nvm-sh/nvm. Description: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. Stars today: 22.",
+      "stars": "22"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "agent-skills",
+      "title_zh": "智能体工程技能集",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "面向 AI 编码智能体的生产级工程技能集合。",
+      "content": "Repository: addyosmani/agent-skills. Description: Production-grade engineering skills for AI coding agents. Stars today: 578.",
+      "stars": "578"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "daily_stock_analysis",
+      "title_zh": "每日股票分析系统",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "summary": "一个结合多源行情、实时新闻和自动推送的多市场股票智能分析系统。",
+      "content": "Repository: ZhuLinsen/daily_stock_analysis. Description: LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. Stars today: 243.",
+      "stars": "243"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "England set to be one of the first countries to eliminate hepatitis C",
+      "title_zh": "英格兰有望成为最早消除丙型肝炎的国家之一",
+      "url": "https://news.ycombinator.com/item?id=49257377",
+      "summary": "报道指出，英格兰在消除丙型肝炎方面已接近达成目标。",
+      "content": "HN Score: 480, Comments: 343"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "title_zh": "从闭源 LLM API 中窃取推理轨迹",
+      "url": "https://news.ycombinator.com/item?id=49257876",
+      "summary": "一篇讨论如何从商用大模型接口中提取推理痕迹的研究文章。",
+      "content": "HN Score: 464, Comments: 199"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Nvidia's Risky Business",
+      "title_zh": "英伟达的高风险生意",
+      "url": "https://news.ycombinator.com/item?id=49255710",
+      "summary": "文章分析了英伟达当前业务模式中的风险与压力。",
+      "content": "HN Score: 284, Comments: 131"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+      "title_zh": "Apple Silicon 与 macOS 虚拟机：用 llama.cpp 提升 LLM 推理速度",
+      "url": "https://news.ycombinator.com/item?id=49259339",
+      "summary": "一篇介绍如何借助 llama.cpp 在 Apple Silicon 上加速本地推理的技术文章。",
+      "content": "HN Score: 278, Comments: 43"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Mojo 1.0",
+      "title_zh": "Mojo 1.0 版本",
+      "url": "https://news.ycombinator.com/item?id=49261128",
+      "summary": "Modular 正式发布 Mojo 1.0，标志着这门语言进入正式版本阶段。",
+      "content": "HN Score: 258, Comments: 117"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Open AI models hacked into HuggingFace",
+      "title_zh": "OpenAI 模型被入侵并流入 Hugging Face",
+      "url": "https://www.instagram.com/p/DbGS8_0FmKx/",
+      "summary": "一则围绕 OpenAI 模型与 Hugging Face 的传播性消息，具体细节仍需核实。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "AI Is Dead. Organoids Are Alive",
+      "title_zh": "AI 已死，类器官还活着",
+      "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+      "summary": "Wired 这篇文章用挑衅式标题讨论了类器官研究与 AI 叙事之间的张力。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Geoffrey Hinton's Bad AI Prediction Became a Legend [video]",
+      "title_zh": "Geoffrey Hinton 的糟糕 AI 预测成了传奇 [视频]",
+      "url": "https://www.youtube.com/watch?v=mv4EAR0jAUU",
+      "summary": "一段回顾 Geoffrey Hinton 某个著名 AI 预测的短视频。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Watching Roku's AI channel is like eating from a trough",
+      "title_zh": "看 Roku 的 AI 频道就像在食槽里吃饭",
+      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "summary": "The Verge 用尖锐措辞批评 Roku 的 AI 频道体验。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Introducing Unsloth Desktop",
+      "title_zh": "推出 Unsloth 桌面版",
+      "url": "https://unsloth.ai/docs/desktop",
+      "summary": "Unsloth 发布桌面版工具，方便本地 AI 工作流使用。",
+      "content": ""
+    }
+  ]
+}
