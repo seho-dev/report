@@ -1,0 +1,192 @@
+{
+  "date": "2026-08-18",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "MoneyPrinterTurbo",
+      "title_zh": "印钞机Turbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "summary": "利用AI大模型和自动化工作流，根据主题或关键词一键生成高清短视频",
+      "content": "Python | 105,969 stars | 1,189 stars today",
+      "stars": "105,969"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "strix",
+      "title_zh": "Strix AI渗透测试工具",
+      "url": "https://github.com/usestrix/strix",
+      "summary": "开源AI渗透测试工具，帮助发现和修复应用程序漏洞",
+      "content": "Python | 54,136 stars | 598 stars today",
+      "stars": "54,136"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "nautilus_trader",
+      "title_zh": "Nautilus交易引擎",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "summary": "生产级Rust原生交易引擎，采用确定性事件驱动架构",
+      "content": "Rust | 25,902 stars | 120 stars today",
+      "stars": "25,902"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "ai-memory",
+      "title_zh": "AI记忆系统",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "summary": "为AI编码CLI提供长期记忆解决方案，便于不同代理供应商之间的交接",
+      "content": "Rust | 2,028 stars | 207 stars today",
+      "stars": "2,028"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "Anthropic-Cybersecurity-Skills",
+      "title_zh": "Anthropic网络安全技能库",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "summary": "817个结构化网络安全技能，映射到6大框架，支持20+平台",
+      "content": "Python | 28,406 stars | 198 stars today",
+      "stars": "28,406"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "llmfit",
+      "title_zh": "LLM硬件适配器",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "summary": "数百个模型和供应商，一条命令找出适合你硬件的模型",
+      "content": "Python | 32,245 stars | 198 stars today",
+      "stars": "32,245"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "career-ops",
+      "title_zh": "AI求职助手",
+      "url": "https://github.com/santifer/career-ops",
+      "summary": "开源AI求职搜索工具：扫描招聘网站、用A-F评分系统评估职位、定制简历、跟踪申请进度",
+      "content": "Python | 64,613 stars | 218 stars today",
+      "stars": "64,613"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "How Bluesky draws its logo on screenshots",
+      "title_zh": "Bluesky如何在截图上绘制其Logo",
+      "url": "https://news.ycombinator.com/item?id=49338459",
+      "summary": "技术分析Bluesky社交平台如何在截图中动态绘制品牌标识",
+      "content": "HN Score: 133, Comments: 97"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "title_zh": "Quake共享软件光盘：一张塞得太满的CD-ROM",
+      "url": "https://news.ycombinator.com/item?id=49338328",
+      "summary": "回顾Quake共享软件CD-ROM的设计和发行细节",
+      "content": "HN Score: 85, Comments: 35"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "title_zh": "Fairphone 6运行PostmarketOS成功驱动主摄像头",
+      "url": "https://news.ycombinator.com/item?id=49338285",
+      "summary": "开源系统PostmarketOS在Fairphone 6上成功实现主摄像头支持",
+      "content": "HN Score: 51, Comments: 12"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "title_zh": "Rust中的GPU卸载：可移植、安全且快速",
+      "url": "https://news.ycombinator.com/item?id=49334991",
+      "summary": "arXiv论文介绍Rust语言实现GPU计算卸载的新方法",
+      "content": "HN Score: 146, Comments: 31"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "A Preview of DuckDB v2.0",
+      "title_zh": "DuckDB v2.0预览版发布",
+      "url": "https://news.ycombinator.com/item?id=49330781",
+      "summary": "嵌入式分析数据库DuckDB即将迎来2.0大版本更新",
+      "content": "HN Score: 507, Comments: 90"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Incident with Github.com",
+      "title_zh": "GitHub.com服务故障事件",
+      "url": "https://news.ycombinator.com/item?id=49330597",
+      "summary": "GitHub遭遇大规模服务中断，影响全球开发者",
+      "content": "HN Score: 507, Comments: 879"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "AI-Generated GitHub Copilot Autofix Allowed Compromise of Snowflakes Jira",
+      "title_zh": "AI生成的GitHub Copilot自动修复功能导致Snowflake Jira被入侵",
+      "url": "https://news.ycombinator.com/item?id=49331423",
+      "summary": "安全研究揭示AI自动修复代码可能引入安全漏洞的真实案例",
+      "content": "HN Score: 305, Comments: 123"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "AI;DR (AI; Didnt Read)",
+      "title_zh": "AI;DR（AI没读）",
+      "url": "https://news.ycombinator.com/item?id=49336573",
+      "summary": "讨论AI时代信息过载和注意力经济的深度思考文章",
+      "content": "HN Score: 532, Comments: 325"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "title_zh": "GPT-5.6 Sol定价下调50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "summary": "OpenAI通过OpenRouter平台将GPT-5.6 Sol模型价格大幅降低一半",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "AirTag reveals Amazon is trashing rare books to train AI",
+      "title_zh": "AirTag揭露亚马逊销毁珍稀书籍用于AI训练",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "summary": "研究者通过隐藏AirTag追踪发现亚马逊正在销毁珍稀古籍以获取AI训练数据",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "title_zh": "Qwen3.8 27B在Artificial Analysis评测中获得52分",
+      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "summary": "阿里通义千问Qwen3.8 27B模型在AI评测基准中取得52分成绩",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "title_zh": "Speko发布：语音AI版的OpenRouter（YC S26）",
+      "url": "https://speko.ai/",
+      "summary": "Y Combinator孵化的新项目，提供语音AI模型的统一接入平台",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "title_zh": "以色列创建虚假智库以欺骗AI聊天机器人",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "summary": "调查发现以色列设立虚假智库网站，疑似旨在影响AI模型的知识库",
+      "content": ""
+    }
+  ]
+}
