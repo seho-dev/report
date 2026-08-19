@@ -1,0 +1,247 @@
+{
+  "date": "2026-08-19",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "MoneyPrinterTurbo",
+      "title_zh": "MoneyPrinterTurbo - AI短视频生成工具",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "summary": "利用AI大模型和自动化工作流，根据主题或关键词一键生成高清短视频",
+      "content": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars": "2,304"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "munder-difflin",
+      "title_zh": "munder-difflin - 本地多智能体框架",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "summary": "本地多智能体运行环境",
+      "content": "local multi-agent harness",
+      "stars": "306"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "ai-memory",
+      "title_zh": "ai-memory - AI智能体长期记忆解决方案",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "summary": "为编程CLI智能体提供长期记忆解决方案，并支持不同智能体厂商之间的交接",
+      "content": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": "648"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "OpenViking",
+      "title_zh": "OpenViking - AI智能体自进化上下文数据库",
+      "url": "https://github.com/volcengine/OpenViking",
+      "summary": "AI智能体的自进化上下文数据库，统一智能体记忆、知识RAG和技能管理",
+      "content": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "stars": "213"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "Anthropic-Cybersecurity-Skills",
+      "title_zh": "Anthropic网络安全技能库",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "summary": "817个结构化网络安全技能，映射到6大安全框架，支持Claude Code、GitHub Copilot等20+平台",
+      "content": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "stars": "730"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "public-apis",
+      "title_zh": "公共API合集",
+      "url": "https://github.com/public-apis/public-apis",
+      "summary": "免费API的集合列表",
+      "content": "A collective list of free APIs",
+      "stars": "1,005"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "omarchy",
+      "title_zh": "omarchy - 现代化Linux桌面环境",
+      "url": "https://github.com/basecamp/omarchy",
+      "summary": "美观、现代且有主见的Linux桌面环境",
+      "content": "Beautiful, Modern & Opinionated Linux",
+      "stars": "356"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "Motrix",
+      "title_zh": "Motrix - 全功能下载管理器",
+      "url": "https://github.com/agalwood/Motrix",
+      "summary": "全功能下载管理器",
+      "content": "A full-featured download manager.",
+      "stars": "609"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "title_zh": "基于真实FlyWire连接组的macOS桌面3D果蝇",
+      "url": "https://news.ycombinator.com/item?id=49353221",
+      "summary": "一个在macOS桌面上显示的3D果蝇模型，基于真实的FlyWire神经连接组数据",
+      "content": "HN Score: 85, Comments: 23"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Being ambitious and being a dad",
+      "title_zh": "野心与父亲身份的平衡",
+      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+      "summary": "探讨如何在追求事业雄心的同时履行父亲责任",
+      "content": "HN Score: 196, Comments: 87"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "The Amazon tax",
+      "title_zh": "亚马逊税",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "summary": "讨论亚马逊对商业生态和社会的影响",
+      "content": "HN Score: 855, Comments: 513"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "fx :Tiny, open, native coding agent.",
+      "title_zh": "fx - 轻量级开源原生编程智能体",
+      "url": "https://fx.sh",
+      "summary": "一个轻量级、开源的原生编程智能体工具",
+      "content": "HN Score: 59, Comments: 32"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "How does IKEA come up with names for its products?",
+      "title_zh": "宜家如何为产品命名？",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "summary": "揭秘宜家产品命名的规则和有趣故事",
+      "content": "HN Score: 205, Comments: 128"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "title_zh": "Claude Code教macOS原生支持HP Laser 1008a打印机",
+      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+      "summary": "使用Claude Code为macOS开发HP Laser 1008a打印机的原生驱动支持",
+      "content": "HN Score: 97, Comments: 60"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "title_zh": "Turbovec - Google的Rust向量搜索量化库",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "summary": "Google开源的Rust语言向量搜索量化库，提升搜索性能",
+      "content": "HN Score: 191, Comments: 24"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Beware Management Consultants",
+      "title_zh": "警惕管理咨询顾问",
+      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+      "summary": "冰岛故事：警惕管理咨询顾问带来的负面影响",
+      "content": "HN Score: 421, Comments: 111"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Using the railway network as a flatbed scanner",
+      "title_zh": "将铁路网络用作平板扫描仪",
+      "url": "https://philo.gay/linecam/",
+      "summary": "创意项目：利用铁路网络作为大型扫描仪的创新思路",
+      "content": "HN Score: 382, Comments: 58"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Cursor launches Origin, GitHub alternative",
+      "title_zh": "Cursor推出Origin，GitHub的替代方案",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
+      "summary": "Cursor发布Origin代码托管平台，挑战GitHub的市场地位",
+      "content": "HN Score: 441, Comments: 342"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "GLM-5.3 Artificial Analysis Benchmarks",
+      "title_zh": "GLM-5.3 人工分析基准测试",
+      "url": "https://artificialanalysis.ai/models/glm-5-3",
+      "summary": "GLM-5.3模型的人工分析基准测试结果公布",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
+      "title_zh": "数据中心对社区尺度气温影响的实地测量",
+      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "summary": "研究数据中心废热对周边社区气温的实际影响",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "title_zh": "为什么你的亚马逊订单确认邮件变得如此没用",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "summary": "分析亚马逊订单邮件质量下降的原因，与AI和数据策略相关",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
+      "title_zh": "展示：我取消了AI代码审查工具，自己写了一个免费本地版本",
+      "url": "https://github.com/mukundzha/avouch",
+      "summary": "开发者分享自建免费本地AI代码审查工具的经验",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Google has acquired the data of failed US airline Spirit",
+      "title_zh": "谷歌收购了破产美国航空公司Spirit的数据",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "summary": "谷歌在拍卖中收购了破产航空公司Spirit的数据，用于AI训练",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Ask HN: Does anyone else feel like nothing matters anymore?",
+      "title_zh": "提问HN：还有人觉得一切都不重要了吗？",
+      "url": "https://news.ycombinator.com/item?id=49340013",
+      "summary": "关于当代人虚无感的讨论，反映AI时代社会心理状态",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
+      "title_zh": "谷歌赢得Spirit航空公司破产拍卖，获得邮件、聊天记录和文档",
+      "url": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
+      "summary": "谷歌在Spirit航空公司破产拍卖中胜出，获取其商业数据",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Google to buy Spirit Airlines business data for $10M",
+      "title_zh": "谷歌将以1000万美元收购Spirit航空公司业务数据",
+      "url": "https://www.reuters.com/legal/litigation/google-buy-spirit-airlines-business-data-10-million-2026-08-17/",
+      "summary": "谷歌计划以1000万美元收购Spirit航空公司的业务数据",
+      "content": ""
+    }
+  ]
+}
