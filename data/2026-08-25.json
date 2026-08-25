@@ -1,0 +1,175 @@
+{
+  "date": "2026-08-25",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "free-claude-code",
+      "title_zh": "免费Claude Code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "summary": "在终端、应用、IDE或手机上免费使用Claude Code、Codex、Pi和OpenCode（13亿+免费token），类似OpenClaw（支持语音+符合ToS）",
+      "content": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "stars": "891"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "codex",
+      "title_zh": "Codex",
+      "url": "https://github.com/openai/codex",
+      "summary": "在终端中运行的轻量级编码代理",
+      "content": "Lightweight coding agent that runs in your terminal",
+      "stars": "1994"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "ai-job-search",
+      "title_zh": "AI求职搜索",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "summary": "在本地运行的求职工具，基于Claude Code构建的AI求职框架：评估职位、定制简历、撰写求职信、面试准备",
+      "content": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": "434"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "andrej-karpathy-skills",
+      "title_zh": "Andrej Karpathy技能配置",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "summary": "单个CLAUDE.md文件改进Claude Code行为，源自Andrej Karpathy对LLM编程陷阱的观察",
+      "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": "588"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "plane",
+      "title_zh": "Plane项目管理",
+      "url": "https://github.com/makeplane/plane",
+      "summary": "开源Jira、Linear、Monday和ClickUp替代品。Plane是现代项目管理平台，管理任务、冲刺、文档和分类",
+      "content": "Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "stars": "243"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "hermes-agent",
+      "title_zh": "Hermes Agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "与你共同成长的智能代理",
+      "content": "The agent that grows with you",
+      "stars": "896"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "claude-plugins-community",
+      "title_zh": "Claude插件社区",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "summary": "Claude Cowork和Claude Code的社区插件市场，只读镜像",
+      "content": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "stars": "489"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "OpenLogi",
+      "title_zh": "OpenLogi开源物流",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "summary": "开源物流管理系统",
+      "content": "Open source logistics management system",
+      "stars": "156"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "title_zh": "iCloud+ 隐藏我的邮箱地址将保留在 icloud.com",
+      "url": "https://news.ycombinator.com/item?id=49426564",
+      "summary": "Apple 宣布 iCloud+ 的「隐藏我的邮箱」功能生成的邮箱地址将继续保留在 icloud.com 域名下",
+      "content": "HN Score: 138, Comments: 29"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "title_zh": "小米：新CPU单线程性能匹配Apple核心，多线程快得多",
+      "url": "https://news.ycombinator.com/item?id=49420873",
+      "summary": "小米发布新CPU，声称单线程性能匹配Apple芯片，多线程性能大幅领先",
+      "content": "HN Score: 693, Comments: 471"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Moon (2024)",
+      "title_zh": "月球 (2024)",
+      "url": "https://news.ycombinator.com/item?id=49426466",
+      "summary": "关于月球的交互式可视化网页，包含轨道、相位、距离等科学信息",
+      "content": "HN Score: 67, Comments: 10"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "MS Paint and Photos invisibly watermark even locally generated output with GUID",
+      "title_zh": "MS Paint和照片应用用GUID对本地生成内容也进行隐形水印",
+      "url": "https://news.ycombinator.com/item?id=49421158",
+      "summary": "Windows的MS Paint和照片应用即使对本地生成的内容也会嵌入隐形GUID水印，引发隐私担忧",
+      "content": "HN Score: 522, Comments: 216"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "How I Read Books",
+      "title_zh": "我是如何读书的",
+      "url": "https://news.ycombinator.com/item?id=49426275",
+      "summary": "作者分享非线性阅读法：同时读多本书、跳过章节、重读重要段落、大量做笔记",
+      "content": "HN Score: 7, Comments: 4"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Open source AI is the path forward",
+      "title_zh": "开源AI是前进的道路",
+      "url": "https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/",
+      "summary": "Meta发布博客阐述开源AI的重要性，认为开源是AI发展的必由之路",
+      "content": "Meta blog post advocating for open source AI as the path forward for the industry"
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "My AI skeptic friends are all nuts",
+      "title_zh": "我的AI怀疑论者朋友们都疯了",
+      "url": "https://fly.io/blog/youre-all-nuts/",
+      "summary": "Fly.io博客文章论述为什么AI怀疑论者低估了AI的能力和影响",
+      "content": "Blog post arguing that AI skeptics are underestimating AI capabilities and impact"
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "An AI agent published a hit piece on me",
+      "title_zh": "AI代理发布了针对我的攻击性文章",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "summary": "作者遭遇AI代理自动生成并发布针对自己的负面文章，引发对AI自主性的担忧",
+      "content": "Author targeted by an AI agent that autonomously generated and published a hit piece about them"
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "title_zh": "不要发布AI生成/编辑的评论，HN是人类对话的场所",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "summary": "Hacker News更新指南明确禁止发布AI生成或编辑的评论，强调人类真实对话的价值",
+      "content": "HN updated guidelines explicitly banning AI-generated/edited comments, emphasizing value of authentic human conversation"
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Airfoil - Interactive aerodynamic visualization",
+      "title_zh": "Airfoil - 交互式空气动力学可视化",
+      "url": "https://ciechanow.ski/airfoil/",
+      "summary": "交互式网页演示机翼气动原理，包含实时流体模拟和参数调节",
+      "content": "Interactive web visualization demonstrating airfoil aerodynamics with real-time fluid simulation"
+    }
+  ]
+}
