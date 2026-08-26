@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-26",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "freestylefly/awesome-gpt-image-2",
+      "title_zh": "GPT-Image2 提示词工程宝库",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "summary": "工业级 GPT-Image2 提示词引擎与模板库，包含 530+ 逆向工程案例和 20+ 套工业模板，持续更新中",
+      "content": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": "17621"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "anthropics/claude-plugins-community",
+      "title_zh": "Claude 插件社区市场",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "summary": "面向 Claude Cowork 和 Claude Code 的社区插件市场，提供高质量插件的只读镜像",
+      "content": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "stars": "1730"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "MadsLorentzen/ai-job-search",
+      "title_zh": "本地 AI 求职框架",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "summary": "运行在本地机器上的 AI 求职应用框架，基于 Claude Code 构建，可评估职位、定制简历、撰写求职信、准备面试",
+      "content": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": "35238"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "apache/maka",
+      "title_zh": "Apache Maka 本地优先 AI Agent 工作空间",
+      "url": "https://github.com/apache/maka",
+      "summary": "本地优先的 AI Agent 工作空间，将模型消息、工具调用、结果、权限决策等记录为只追加日志",
+      "content": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "stars": "3318"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "TauricResearch/TradingAgents",
+      "title_zh": "TradingAgents 多 Agent 金融交易框架",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "summary": "基于多 Agent 和 LLM 的金融交易框架，支持复杂的交易策略和自动化执行",
+      "content": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "100222"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "AgriciDaniel/claude-obsidian",
+      "title_zh": "Claude-Obsidian 自组织 AI 第二大脑",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "summary": "为 Obsidian + Claude Code 打造的自组织 AI 第二大脑，可将任意来源自动读取、链接并整理为 Markdown 知识图谱",
+      "content": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "stars": "12698"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "title_zh": "AI 工程从零到一学习指南",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "summary": "从零开始学习 AI 工程，包含学习路径、实战项目，可供他人使用",
+      "content": "Learn it. Build it. Ship it for others.",
+      "stars": "48940"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "tinyhumansai/openhuman",
+      "title_zh": "OpenHuman 个人超级 AI 智能体",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "summary": "个人 AI 超级智能体，构建本地优先的终身记忆大脑，智能编排你的数字世界",
+      "content": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of your digital world.",
+      "stars": "37755"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "basecamp/omarchy",
+      "title_zh": "Omarchy 优美现代的 Linux 发行版",
+      "url": "https://github.com/basecamp/omarchy",
+      "summary": "Basecamp 出品的优美、现代、极简 Linux 发行版",
+      "content": "Beautiful, Modern & Opinionated Linux",
+      "stars": "31229"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "title_zh": "精选 LLM 应用合集",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "summary": "收录 100+ AI Agent、Agent Skills 和 RAG 应用，免费开源",
+      "content": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": "134216"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "multica-ai/andrej-karpathy-skills",
+      "title_zh": "Karpathy LLM Coding 技巧集合",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "summary": "从 Andrej Karpathy 的 LLM 编程实践总结出的 CLAUDE.md 技巧文件，帮助改进 Claude Code 表现",
+      "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": "207184"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "openai/codex",
+      "title_zh": "OpenAI Codex 轻量级终端编程 Agent",
+      "url": "https://github.com/openai/codex",
+      "summary": "运行在终端的轻量级编程 Agent，由 OpenAI 开发",
+      "content": "Lightweight coding agent that runs in your terminal",
+      "stars": "118084"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Python's pre-declared constants are kinda weird",
+      "title_zh": "Python 预声明常量有点奇怪",
+      "url": "https://news.ycombinator.com/item?id=42597100",
+      "summary": "探讨 Python 中预声明常量的奇怪行为和设计取舍",
+      "content": "HN Score: 103, Comments: 0"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "title_zh": "FDA 批准首款可穿戴血糖血酮监测设备",
+      "url": "https://news.ycombinator.com/item?id=42596800",
+      "summary": "美国 FDA 批准了首款可同时监测血酮和血糖水平的可穿戴设备",
+      "content": "HN Score: 219, Comments: 0"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Apple introduces M6 and M5 Ultra",
+      "title_zh": "苹果发布 M6 和 M5 Ultra 芯片",
+      "url": "https://news.ycombinator.com/item?id=42596500",
+      "summary": "苹果在新品发布会上推出新一代自研芯片，性能和能效进一步提升",
+      "content": "HN Score: 918, Comments: 0"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "title_zh": "OpenAI Jalapeño 超越 Nvidia Blackwell",
+      "url": "https://news.ycombinator.com/item?id=42596200",
+      "summary": "OpenAI 内部项目 Jalapeño 在某些基准测试中表现优于 Nvidia Blackwell 架构",
+      "content": "HN Score: 281, Comments: 0"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "title_zh": "搭载 M5 Max 和 M5 Ultra 的新款 Mac Studio",
+      "url": "https://news.ycombinator.com/item?id=42595900",
+      "summary": "苹果发布搭载 M5 Max 和 M5 Ultra 芯片的全新 Mac Studio 专业工作站",
+      "content": "HN Score: 688, Comments: 0"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Black hole singularity is a surface not a point",
+      "title_zh": "黑洞奇点其实是表面而非一个点",
+      "url": "https://news.ycombinator.com/item?id=42595600",
+      "summary": "新研究表明黑洞奇点可能是一个表面而非传统理论中的单一奇点",
+      "content": "HN Score: 168, Comments: 0"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "title_zh": "TeXbrain：浏览器中运行 pdfTeX 的 LaTeX 编辑器",
+      "url": "https://news.ycombinator.com/item?id=42595300",
+      "summary": "通过 WebAssembly 技术在浏览器中运行 pdfTeX 的开源 LaTeX 编辑器",
+      "content": "HN Score: 29, Comments: 0"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "C2PA Cameras Do Not Survive Contact with Reality",
+      "title_zh": "C2PA 相机在现实面前站不住脚",
+      "url": "https://news.ycombinator.com/item?id=42595000",
+      "summary": "实验证明 C2PA 内容认证相机在实际场景中可靠性存疑",
+      "content": "HN Score: 61, Comments: 0"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "title_zh": "当 str.lower() 成为 Python 安全漏洞",
+      "url": "https://news.ycombinator.com/item?id=42594700",
+      "summary": "探讨 Python 中 str.lower() 在特定场景下可能引发的安全问题",
+      "content": "HN Score: 39, Comments: 0"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "New Mac mini, featuring M6 and M5 Pro",
+      "title_zh": "搭载 M6 和 M5 Pro 的全新 Mac mini",
+      "url": "https://news.ycombinator.com/item?id=42594400",
+      "summary": "苹果发布搭载 M6 和 M5 Pro 芯片的新款 Mac mini 迷你主机",
+      "content": "HN Score: 410, Comments: 0"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Ask HN: How to learn AI from first principles?",
+      "title_zh": "如何从第一性原理学习 AI？",
+      "url": "https://news.ycombinator.com/item?id=42594100",
+      "summary": "HN 网友讨论如何从基础原理系统学习人工智能和机器学习",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Ask HN: What would you recommend me to update myself on AI?",
+      "title_zh": "如何跟上 AI 发展步伐？",
+      "url": "https://news.ycombinator.com/item?id=42593800",
+      "summary": "HN 网友寻求更新 AI 知识储备的推荐资源和学习路径",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Ask HN: Is the rate of progress in AI exponential?",
+      "title_zh": "AI 进步速度是指数级的吗？",
+      "url": "https://news.ycombinator.com/item?id=42593500",
+      "summary": "HN 社区热烈讨论 AI 发展是否呈指数增长趋势",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Ask HN: What are the foundational texts for learning about AI/ML/NN?",
+      "title_zh": "AI/ML/NN 入门必读经典有哪些？",
+      "url": "https://news.ycombinator.com/item?id=42593200",
+      "summary": "HN 网友推荐学习 AI、机器学习和神经网络的经典文献和教材",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+      "title_zh": "Voker：AI Agent 分析平台",
+      "url": "https://news.ycombinator.com/item?id=42592900",
+      "summary": "YC S24 孵化的 AI Agent 分析平台，可追踪和优化 AI Agent 的表现",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Show HN: I made a free (open-source) extension, to use any LLM on Google sheet",
+      "title_zh": "在 Google Sheets 中使用任意 LLM 的开源扩展",
+      "url": "https://news.ycombinator.com/item?id=42592600",
+      "summary": "开源 Chrome 扩展，让用户在 Google Sheets 中使用任意大语言模型",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Show HN: TrustGraph – Do More with AI with Less (Open Source AI Infrastructure)",
+      "title_zh": "TrustGraph：更少成本做更多 AI 之事",
+      "url": "https://news.ycombinator.com/item?id=42592300",
+      "summary": "开源 AI 基础设施项目，帮助用户以更少的资源完成更多 AI 任务",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Andrew Ng says AI has a proof-of-concept-to-production gap",
+      "title_zh": "吴恩达：AI 概念验证到生产落地存在差距",
+      "url": "https://spectrum.ieee.org/view-from-the-valley/artificial-intelligence/machine-l",
+      "summary": "深度学习先驱吴恩达指出 AI 从概念验证到实际生产部署之间存在显著差距",
+      "content": ""
+    }
+  ]
+}
