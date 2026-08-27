@@ -1,0 +1,256 @@
+{
+  "date": "2026-08-27",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "MengTo/threeui",
+      "title_zh": "ThreeUI 开源组件库",
+      "url": "https://github.com/MengTo/threeui",
+      "summary": "开源 ThreeUI 社区目录，提供实时交互式组件和组件库，用于构建现代化用户界面",
+      "content": "Open-source ThreeUI Community catalog with live interactive components and complete Community source. | Stars: 4178",
+      "stars": "4178"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "b-nnett/grok-bot-0.18-reconstructed",
+      "title_zh": "Grok Bot 0.18 非官方重构版",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "summary": "Grok Bot 0.18.0 的非官方源码重构与扩展版本",
+      "content": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS | Stars: 3014",
+      "stars": "3014"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "tobi/walgit",
+      "title_zh": "WalGit 去中心化 Git",
+      "url": "https://github.com/tobi/walgit",
+      "summary": "基于区块链的去中心化 Git 版本控制系统",
+      "content": "None | Stars: 1995",
+      "stars": "1995"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "duty1g/x64dbg-mcp-server",
+      "title_zh": "x64dbg MCP 服务器",
+      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "summary": "x64dbg 的原生 MCP 插件，支持模型上下文协议与调试器集成",
+      "content": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and con\n\n... [OUTPUT TRUNCATED - 28316 chars omitted out of 78316 total] ...\n\natermark-remover/git/refs{/sha} | Stars: 798",
+      "stars": "798"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "wide-trace/open-higgsfield",
+      "title_zh": "Open Higgsfield AI 工作室",
+      "url": "https://github.com/wide-trace/open-higgsfield",
+      "summary": "图像和视频生成工作室——统一提示栏，每个模型拥有独立设置",
+      "content": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery. | Stars: 549",
+      "stars": "549"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "themartiano/try-omarchy",
+      "title_zh": "Try Omarchy 无需配置体验",
+      "url": "https://github.com/themartiano/try-omarchy",
+      "summary": "在 Apple Silicon 上无需任何设置即可试用 Omarchy",
+      "content": "Try Omarchy on Apple Silicon without any setup. | Stars: 533",
+      "stars": "533"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "Forsy-AI/biosecurity-agent",
+      "title_zh": "AI 生物安全智能体",
+      "url": "https://github.com/Forsy-AI/biosecurity-agent",
+      "summary": "围绕任意目标构建实时生物安全世界的 AI 智能体",
+      "content": "AI agent that builds a live biosecurity world around any target. | Stars: 512",
+      "stars": "512"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "yding-git/personal-edge-proxy",
+      "title_zh": "个人边缘代理方案",
+      "url": "https://github.com/yding-git/personal-edge-proxy",
+      "summary": "实用的多入站多出站个人代理配置方案，支持 Xray 和 Hysteria",
+      "content": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing. | Stars: 501",
+      "stars": "501"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "AWS Acquires DuckLabs",
+      "title_zh": "AWS 收购 DuckLabs",
+      "url": "https://news.ycombinator.com/item?id=49448321",
+      "summary": "亚马逊云科技收购 DuckLabs，强化云基础设施服务能力",
+      "content": "HN Score: 943, Comments: 281"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "GLM-5.3-Flash",
+      "title_zh": "GLM-5.3-Flash 大模型发布",
+      "url": "https://news.ycombinator.com/item?id=49449507",
+      "summary": "智谱 AI 发布 GLM-5.3-Flash 快速推理模型，大幅提升性能",
+      "content": "HN Score: 838, Comments: 420"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Qwen3.8-Flash-Next",
+      "title_zh": "Qwen3.8-Flash-Next 模型发布",
+      "url": "https://news.ycombinator.com/item?id=49448210",
+      "summary": "阿里巴巴通义千问发布 Qwen3.8-Flash-Next 快速推理模型",
+      "content": "HN Score: 600, Comments: 194"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "title_zh": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "url": "https://news.ycombinator.com/item?id=49452990",
+      "summary": "",
+      "content": "HN Score: 440, Comments: 86"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "An ongoing 3D-printer AGPL violation",
+      "title_zh": "持续的3D打印机 AGPL 违规事件",
+      "url": "https://news.ycombinator.com/item?id=49452980",
+      "summary": "一起正在进行的3D打印机固件违反 AGPL 开源许可证事件引发社区关注",
+      "content": "HN Score: 283, Comments: 122"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "U.S. State Department Pauses Immigrant Visa Applications",
+      "title_zh": "美国国务院暂停移民签证申请",
+      "url": "https://news.ycombinator.com/item?id=49452709",
+      "summary": "美国国务院宣布暂停移民签证申请处理，引发广泛关注",
+      "content": "HN Score: 203, Comments: 227"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "GitHub Outage Tracker: Is GitHub Cooked?",
+      "title_zh": "GitHub 故障追踪：GitHub 出问题了吗？",
+      "url": "https://news.ycombinator.com/item?id=49454728",
+      "summary": "GitHub 近期频繁出现服务中断，开发者社区对此展开讨论",
+      "content": "HN Score: 139, Comments: 67"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
+      "title_zh": "Actinide 成为首家生产高浓缩低浓铀的初创企业",
+      "url": "https://news.ycombinator.com/item?id=49454419",
+      "summary": "Actinide 成为首家能够生产高浓缩低浓铀（HALEU）的初创公司，推进核能技术",
+      "content": "HN Score: 132, Comments: 61"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
+      "title_zh": "IBM 发布新一代双架构处理器",
+      "url": "https://news.ycombinator.com/item?id=49455471",
+      "summary": "IBM 发布面向 IBM Z 和 LinuxONE 的新一代双架构处理器",
+      "content": "HN Score: 67, Comments: 53"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+      "title_zh": "喜马拉雅跨境流域冰川湖最坏洪水情景",
+      "url": "https://news.ycombinator.com/item?id=49456929",
+      "summary": "研究分析了喜马拉雅跨境流域中冰川湖洪水的最坏情景",
+      "content": "HN Score: 25, Comments: 12"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "title_zh": "使用 Sentence Transformers 训练和微调多向量嵌入模型",
+      "url": "https://huggingface.co/blog/sentence-transformers-multivectors",
+      "summary": "详细介绍如何使用 Sentence Transformers 库训练和微调多向量嵌入模型，提升语义搜索质量",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "title_zh": "Granite 4.2 大语言模型：构建原理揭秘",
+      "url": "https://huggingface.co/blog/granite-4",
+      "summary": "IBM Granite 4.2 系列大语言模型的技术架构和构建方法详解",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Quantization-Aware Healing: a compressed 4-bit model that outperforms its full-precision counterpart",
+      "title_zh": "Quantization-Aware Healing: a compressed 4-bit model that outperforms its full-precision counterpart",
+      "url": "https://huggingface.co/blog/quantization-aware-healing",
+      "summary": "",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "title_zh": "连接、运行、部署：Gradio 中的 AI 工作流",
+      "url": "https://huggingface.co/blog/gradio-workflows",
+      "summary": "使用 Gradio 构建、运行和部署 AI 工作流的完整指南",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "title_zh": "Hugging Face 推理端点如何赋能 Papers with Code 搜索",
+      "url": "https://huggingface.co/blog/papers-with-code-search",
+      "summary": "揭秘 Hugging Face 推理端点、Jobs 和 Buckets 如何驱动 Papers with Code 的搜索功能",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "GLM-5.3-Flash",
+      "title_zh": "GLM-5.3-Flash 大模型发布",
+      "url": "https://news.ycombinator.com/item?id=49449507",
+      "summary": "智谱 AI 发布 GLM-5.3-Flash 快速推理模型，大幅提升性能",
+      "content": "HN Score: 838, Comments: 420"
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Qwen3.8-Flash-Next",
+      "title_zh": "Qwen3.8-Flash-Next 模型发布",
+      "url": "https://news.ycombinator.com/item?id=49448210",
+      "summary": "阿里巴巴通义千问发布 Qwen3.8-Flash-Next 快速推理模型",
+      "content": "HN Score: 600, Comments: 194"
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "The Hugging Face incident and the road ahead",
+      "title_zh": "Hugging Face 事件及未来展望",
+      "url": "https://news.ycombinator.com/item?id=49454314",
+      "summary": "Hugging Face 回顾近期安全事件并阐述未来发展路线",
+      "content": "HN Score: 142, Comments: 166"
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "title_zh": "通过 Accept 头向 AI 智能体提供 Markdown",
+      "url": "https://news.ycombinator.com/item?id=49454764",
+      "summary": "介绍如何使用 HTTP Accept 头为 AI 智能体提供 Markdown 格式内容",
+      "content": "HN Score: 71, Comments: 41"
+    }
+  ]
+}
