@@ -1,0 +1,285 @@
+{
+  "date": "2026-08-28",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "b-nnett/grok-bot-0.18-reconstructed",
+      "title_zh": "Grok Bot 0.18 重建版",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "summary": "非官方的 Grok Bot 0.18.0 macOS 版源码重建与扩展项目，提供了完整的逆向工程实现",
+      "content": "Language: TypeScript | Stars: 3339",
+      "stars": "3339"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "tobi/walgit",
+      "title_zh": "WalGit - 区块链 Git 存储",
+      "url": "https://github.com/tobi/walgit",
+      "summary": "基于区块链的 Git 版本控制系统，将代码仓库存储在去中心化网络上",
+      "content": "Language: Rust | Stars: 2241",
+      "stars": "2241"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "duty1g/x64dbg-mcp-server",
+      "title_zh": "x64dbg MCP 服务器",
+      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "summary": "x64dbg 调试器的原生 MCP 插件，暴露调试器全部功能供 AI 代理使用",
+      "content": "Language: Zig | Stars: 1542",
+      "stars": "1542"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "ApodexAI/FrontierAgent",
+      "title_zh": "FrontierAgent 智能体框架",
+      "url": "https://github.com/ApodexAI/FrontierAgent",
+      "summary": "开源 AI 代理框架，支持命令行 TUI、ReAct 模式和 Agent Team 模式",
+      "content": "Language: Python | Stars: 1126",
+      "stars": "1126"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "nateherkai/scroll-craft",
+      "title_zh": "Scroll Craft 滚动动效工具",
+      "url": "https://github.com/nateherkai/scroll-craft",
+      "summary": "Claude Code 技能包，用于创建高级滚动驱动网站，将滚动变为时间线",
+      "content": "Language: JavaScript | Stars: 1100",
+      "stars": "1100"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "title_zh": "我的女朋友惊艳 LaTeX",
+      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
+      "summary": "一个 LaTeX 项目，可能是关于排版设计的创意作品",
+      "content": "Language: TeX | Stars: 1099",
+      "stars": "1099"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "bryllim/workout-guide",
+      "title_zh": "健身训练指南",
+      "url": "https://github.com/bryllim/workout-guide",
+      "summary": "302 个开放运动插图和框架无关的 npm 包，提供健身训练指导",
+      "content": "Language: Astro | Stars: 927",
+      "stars": "927"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "ShadowAqueduct/watermark-remover",
+      "title_zh": "AI 水印去除工具",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "summary": "清除多厂商 AI 水印的工具，支持 Unicode 文本清理、统计重写和 C2PA 元数据清除",
+      "content": "Language: Python | Stars: 819",
+      "stars": "819"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "wide-trace/open-higgsfield",
+      "title_zh": "Open Higgsfield 创作工作室",
+      "url": "https://github.com/wide-trace/open-higgsfield",
+      "summary": "图像和视频生成工作室，统一提示词栏，支持多种模型设置，所有作品统一展示",
+      "content": "Language: TypeScript | Stars: 816",
+      "stars": "816"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "themartiano/try-omarchy",
+      "title_zh": "Try Omarchy 一键安装",
+      "url": "https://github.com/themartiano/try-omarchy",
+      "summary": "在 MacOS 上无需任何设置即可运行 Omarchy 的工具",
+      "content": "Language: Shell | Stars: 653",
+      "stars": "653"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "title_zh": "优化 1.1.1.1 DNS 缓存节省 100TB 内存",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "summary": "Cloudflare 分享了优化 1.1.1.1 DNS 缓存的工程实践，成功节省了 100TB 的内存资源",
+      "content": "HN Score: 453, Comments: 126"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Doctors are finally learning to manage antidepressant withdrawal",
+      "title_zh": "医生终于开始学习管理抗抑郁药停药反应",
+      "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+      "summary": "医学界开始重视抗抑郁药物停药后的戒断反应管理，改进临床实践",
+      "content": "HN Score: 44, Comments: 30"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Small Models Have Arrived",
+      "title_zh": "小模型时代已经到来",
+      "url": "https://calv.info/small-models-have-arrived",
+      "summary": "讨论小型语言模型的崛起，它们在特定任务上展现出与大模型相当的性能",
+      "content": "HN Score: 413, Comments: 187"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "507 Mechanical Movements",
+      "title_zh": "507 个机械运动机构",
+      "url": "https://507movements.com/",
+      "summary": "经典机械运动机构的数字化呈现，包含 507 种不同的机械传动方式",
+      "content": "HN Score: 439, Comments: 64"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "title_zh": "OpenTIE 和 OpenXWA：《星球大战》经典游戏现代移植版",
+      "url": "https://github.com/elyosh/OpenTIE/",
+      "summary": "Tie Fighter 和 X-Wing Alliance 的开源现代移植版本，让经典太空战斗游戏在新平台上运行",
+      "content": "HN Score: 34, Comments: 5"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Gemini-3.5-Transcribe",
+      "title_zh": "Gemini 3.5 语音转录模型",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "summary": "Google 发布 Gemini 3.5 Transcribe 模型，提供高质量语音转文字能力",
+      "content": "HN Score: 123, Comments: 33"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "title_zh": "OpenRouter：开源路由器让使用量转化为更好的模型",
+      "url": "https://github.com/experientiallabs/experiential",
+      "summary": "开源 AI 模型路由器，用户的使用数据能帮助改进模型性能",
+      "content": "HN Score: 69, Comments: 7"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Microduck",
+      "title_zh": "Microduck 微型数据库",
+      "url": "https://pollen-robotics.com/microduck/",
+      "summary": "轻量级数据库解决方案，可能是 DuckDB 的精简版本",
+      "content": "HN Score: 478, Comments: 178"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+      "title_zh": "用 AI 编写的模糊测试器发现 FFmpeg 除零漏洞",
+      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+      "summary": "开发者使用 AI 生成的模糊测试工具发现了 FFmpeg 中的除零漏洞",
+      "content": "HN Score: 158, Comments: 121"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "title_zh": "AI 工程师笔记本：免费无框架 RAG/代理/评估 Colab 教程",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "summary": "提供免费的 Google Colab 笔记本，涵盖 RAG、AI 代理和模型评估的实战教程",
+      "content": "HN Score: 26, Comments: 0"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "title_zh": "125M 参数钢琴自动补全模型，本地运行",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "summary": "开发者训练了一个 1.25 亿参数的模型，可在设备端自动补全钢琴演奏",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "title_zh": "Needle2：14MB 超轻量 AI 代理模型",
+      "url": "https://cactuscompute.com/needle",
+      "summary": "仅 14MB 的端侧 AI 代理大语言模型，适用于手机、可穿戴设备、智能家居和机器人",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "title_zh": "Huzzah：全新的 AI 编程方式",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "summary": "一种创新的 AI 辅助编程方法，提供不同于传统 Copilot 的编码体验",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "“Car Wash” test with 53 models",
+      "title_zh": "“Car Wash” test with 53 models",
+      "url": "https://opper.ai/blog/car-wash-test",
+      "summary": "“Car Wash” test with 53 models",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "title_zh": "Juggler：开源 GUI 编码代理",
+      "url": "https://github.com/juggler-ai/juggler",
+      "summary": "由 JUCE 创作者开发的开源图形界面编码代理工具",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Show HN: Boldly go where Gradient Descent has never gone before with DiscoGrad",
+      "title_zh": "DiscoGrad：探索梯度下降从未到达的地方",
+      "url": "https://github.com/DiscoGrad/DiscoGrad",
+      "summary": "创新的梯度下降算法可视化工具，帮助理解优化过程",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "title_zh": "在 Claude、Codex 和 Cursor 中实现智能模型路由",
+      "url": "https://github.com/workweave/router",
+      "summary": "在主流 AI 编程工具中直接实现智能模型选择和路由功能",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "title_zh": "Adam：开源 AI CAD 工具",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "summary": "YC W25 孵化的开源 AI 辅助计算机辅助设计工具",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Show HN: Morphik – Open-source RAG that understands PDF images, runs locally",
+      "title_zh": "Morphik：支持 PDF 图片理解的本地 RAG",
+      "url": "https://github.com/morphik-org/morphik-core",
+      "summary": "开源 RAG 系统，支持理解 PDF 中的图片内容，可完全本地运行",
+      "content": ""
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "title_zh": "Palmier Pro：为 AI 构建的 macOS 视频编辑器",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "summary": "专为 AI 辅助视频编辑设计的开源 macOS 应用",
+      "content": ""
+    }
+  ]
+}
