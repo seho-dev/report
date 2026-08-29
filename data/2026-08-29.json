@@ -1,0 +1,332 @@
+{
+  "date": "2026-08-29",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "archify",
+      "title_zh": "Archify — 架构图生成器",
+      "url": "https://github.com/tt-a1i/archify",
+      "summary": "AI Agent技能，可生成精美的架构图、工作流图、序列图、数据流图和生命周期图——独立HTML文件，支持动画和高质量导出。",
+      "content": "Repository: tt-a1i/archify, Stars: 27289",
+      "stars": "27289"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "scientific-agent-skills",
+      "title_zh": "Scientific Agent Skills — 科学AI技能库",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "summary": "将任何AI Agent变成AI科学家。全球17.5万+科学家使用的第一名Agent技能库，包含163个即用型验证技能和100+科学数据库，覆盖生物学、化学、医学和药物发现。",
+      "content": "Repository: K-Dense-AI/scientific-agent-skills, Stars: 36562",
+      "stars": "36562"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "claude-plugins-official",
+      "title_zh": "Claude Plugins Official — Anthropic官方插件目录",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "summary": "Anthropic官方管理的高质量Claude Code插件目录。",
+      "content": "Repository: anthropics/claude-plugins-official, Stars: 35020",
+      "stars": "35020"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "gods-eye-view",
+      "title_zh": "God's Eye View — 浏览器间谍卫星模拟器",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "summary": "浏览器中的间谍卫星模拟器，但数据是真实的。在照片级逼真的3D地球上展示实时开源空间情报。",
+      "content": "Repository: bilawalsidhu/gods-eye-view, Stars: 11037",
+      "stars": "11037"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "GitNexus",
+      "title_zh": "GitNexus — 零服务器代码智能引擎",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "summary": "GitNexus：零服务器代码智能引擎——纯浏览器端运行的知识图谱创建器，支持GitHub/GitLab/Azure仓库或ZIP文件，内置Graph RAG Agent，非常适合代码探索。",
+      "content": "Repository: abhigyanpatwari/GitNexus, Stars: 46154",
+      "stars": "46154"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "go-modern-guidelines",
+      "title_zh": "Go Modern Guidelines — 现代Go编程指南",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "summary": "帮助AI编码Agent编写现代化的Go代码，由JetBrains出品。",
+      "content": "Repository: JetBrains/go-modern-guidelines, Stars: 2588",
+      "stars": "2588"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "OpenMontage",
+      "title_zh": "OpenMontage — 开源AI视频制作系统",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "summary": "全球首个开源的Agent化视频制作系统。包含12条制作流水线、100+工具和700+ Agent技能/制作知识文件，可将AI编码助手变成完整的视频制作工作室。",
+      "content": "Repository: calesthio/OpenMontage, Stars: 53286",
+      "stars": "53286"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "screenshot-to-code",
+      "title_zh": "Screenshot to Code — 截图转代码",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "summary": "拖入截图即可转换为干净的代码（HTML/Tailwind/React/Vue）。",
+      "content": "Repository: abi/screenshot-to-code, Stars: 75541",
+      "stars": "75541"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "plugins",
+      "title_zh": "Cursor Plugins — Cursor插件规范",
+      "url": "https://github.com/cursor/plugins",
+      "summary": "Cursor编辑器的插件规范和官方插件集合。",
+      "content": "Repository: cursor/plugins, Stars: 5949",
+      "stars": "5949"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "awesome-gpt-image-2",
+      "title_zh": "Awesome GPT-Image 2 — GPT图片提示词引擎",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "summary": "Prompt as Code | GPT-Image2工业级提示词引擎与模板库，530+案例逆向工程，20+套工业级模板，并提炼出Skills，持续更新中。",
+      "content": "Repository: freestylefly/awesome-gpt-image-2, Stars: 24224",
+      "stars": "24224"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "tailcat",
+      "title_zh": "Tailcat — Tailscale版netcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "summary": "类似netcat，但通过Tailscale数据平面传输，无需Tailscale控制平面。",
+      "content": "Repository: tailscale/tailcat, Stars: 2660",
+      "stars": "2660"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "ghidra",
+      "title_zh": "Ghidra — NSA逆向工程框架",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "summary": "Ghidra是美国国家安全局（NSA）开发的软件逆向工程（SRE）框架。",
+      "content": "Repository: NationalSecurityAgency/ghidra, Stars: 73327",
+      "stars": "73327"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Get your Windows license refund",
+      "title_zh": "如何申请Windows许可证退款",
+      "url": "https://news.ycombinator.com/item?id=49478340",
+      "summary": "介绍如何申请Windows许可证退款，帮助用户维护自身权益，获得未使用许可证的退款。",
+      "content": "HN Score: 643, Comments: 263"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "GLM-5.3 is now open-weight",
+      "title_zh": "GLM-5.3 现已开放权重",
+      "url": "https://news.ycombinator.com/item?id=49479878",
+      "summary": "智谱AI发布了GLM-5.3模型的开放权重版本，用户可在HuggingFace上下载使用，引发社区热烈讨论。",
+      "content": "HN Score: 564, Comments: 199"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "GUIs should be fully keyboard-driven",
+      "title_zh": "图形界面应该完全由键盘驱动",
+      "url": "https://news.ycombinator.com/item?id=49479837",
+      "summary": "探讨为何GUI应该全面支持键盘操作，提升效率和可访问性，获得大量开发者共鸣。",
+      "content": "HN Score: 555, Comments: 281"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Judge rules Trump administration's blacklisting of Anthropic was illegal",
+      "title_zh": "法官裁定特朗普政府对Anthropic的黑名单行为违法",
+      "url": "https://news.ycombinator.com/item?id=49473522",
+      "summary": "法院裁定特朗普政府将Anthropic列入黑名单的行为违反法律，这是AI监管领域的重要判决。",
+      "content": "HN Score: 496, Comments: 360"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Htmx 4.0",
+      "title_zh": "Htmx 4.0 发布",
+      "url": "https://news.ycombinator.com/item?id=49478178",
+      "summary": "Htmx 4.0正式发布，这个流行的HTML超媒体库带来了新特性和改进，继续推动服务端渲染的现代Web开发。",
+      "content": "HN Score: 484, Comments: 119"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "U.S. sanctions against the A/I Collective",
+      "title_zh": "美国对A/I集体的制裁",
+      "url": "https://news.ycombinator.com/item?id=49477854",
+      "summary": "讨论美国政府对A/I集体实施制裁的相关争议和影响。",
+      "content": "HN Score: 453, Comments: 417"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "title_zh": "Luanti因AI虚假版权通知被Google Play下架",
+      "url": "https://news.ycombinator.com/item?id=49475079",
+      "summary": "开源游戏Luanti因AI生成的虚假DMCA版权通知而被Google Play下架，引发开源社区关注。",
+      "content": "HN Score: 428, Comments: 132"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Inception-style curved map for turn-by-turn directions",
+      "title_zh": "盗梦空间式弯曲地图导航",
+      "url": "https://news.ycombinator.com/item?id=49477564",
+      "summary": "展示了一种创新的弯曲地图设计，用于逐段导航指引，提供全新的导航体验。",
+      "content": "HN Score: 406, Comments: 136"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Hilariously fast volume computation with the divergence theorem (2018)",
+      "title_zh": "利用散度定理的惊人快速体积计算 (2018)",
+      "url": "https://news.ycombinator.com/item?id=49476143",
+      "summary": "一篇关于使用散度定理进行超快速体积计算的数学/编程文章，展现了数学之美。",
+      "content": "HN Score: 245, Comments: 65"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "title_zh": "如今仅凭漏洞传言就能找到攻击漏洞",
+      "url": "https://news.ycombinator.com/item?id=49480466",
+      "summary": "探讨现代安全研究中，仅凭漏洞传言就能找到实际可利用漏洞的现象。",
+      "content": "HN Score: 239, Comments: 88"
+    },
+    {
+      "id": "hn-11",
+      "type": "hn",
+      "title": "The Twelve-Factor App (2025)",
+      "title_zh": "十二要素应用 (2025)",
+      "url": "https://news.ycombinator.com/item?id=49472216",
+      "summary": "十二要素应用方法论的2025更新版本，为云原生应用开发提供最佳实践指南。",
+      "content": "HN Score: 212, Comments: 110"
+    },
+    {
+      "id": "hn-12",
+      "type": "hn",
+      "title": "Migrating to HTTPX2",
+      "title_zh": "迁移到HTTPX2",
+      "url": "https://news.ycombinator.com/item?id=49477212",
+      "summary": "OpenAI Python库宣布迁移到HTTPX2，分享迁移过程和经验。",
+      "content": "HN Score: 180, Comments: 79"
+    },
+    {
+      "id": "hn-13",
+      "type": "hn",
+      "title": "State of the Map 2026",
+      "title_zh": "State of the Map 2026 地图大会",
+      "url": "https://news.ycombinator.com/item?id=49478401",
+      "summary": "2026年State of the Map开放地图大会信息公布，涵盖OpenStreetMap等地图技术发展。",
+      "content": "HN Score: 136, Comments: 50"
+    },
+    {
+      "id": "hn-14",
+      "type": "hn",
+      "title": "Stopping the smart TV from being used against you",
+      "title_zh": "防止智能电视被利用的方法",
+      "url": "https://news.ycombinator.com/item?id=49483816",
+      "summary": "教你如何阻止智能电视收集隐私数据和被厂商利用，保护个人隐私。",
+      "content": "HN Score: 135, Comments: 104"
+    },
+    {
+      "id": "hn-15",
+      "type": "hn",
+      "title": "Smaller reactors bring nuclear power closer to fulfilling its promise",
+      "title_zh": "小型反应堆让核能更接近实现其承诺",
+      "url": "https://news.ycombinator.com/item?id=49477559",
+      "summary": "Nature报道：小型模块化反应堆（SMR）技术进展让核能更接近实现其清洁能源承诺。",
+      "content": "HN Score: 119, Comments: 163"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "GLM-5.3-Flash",
+      "title_zh": "GLM-5.3-Flash：智谱AI轻量版模型发布",
+      "url": "https://z.ai/blog/glm-5.3-flash",
+      "summary": "智谱AI发布GLM-5.3-Flash轻量版模型，在保持高性能的同时大幅提升推理速度，引发广泛关注，得分1123，评论568条。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "title_zh": "Anthropic最佳AI模型难以吸引用户，廉价工具崛起",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "summary": "金融时报报道：Anthropic最强大的AI模型用户增长缓慢，而更便宜的AI工具正在蓬勃发展，反映AI市场竞争加剧。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "title_zh": "Claude的承重词汇分析",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "summary": "深入分析Claude语言模型的'承重词汇'——那些对模型输出至关重要的关键术语和模式，帮助理解模型行为。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Tinybox – A powerful computer for deep learning",
+      "title_zh": "Tinybox：强大的深度学习计算机",
+      "url": "https://tinygrad.org/#tinybox",
+      "summary": "Tinygrad项目推出的Tinybox——一台专为深度学习设计的强大计算机，提供高性价比的本地AI训练方案。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "title_zh": "训练125M参数模型在设备端自动补全钢琴旋律",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "summary": "开发者在设备端训练了一个1.25亿参数的模型，用于实时自动补全钢琴MIDI旋律，展现端侧AI的潜力。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "title_zh": "OpenAI Jalapeño：性能超越Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "summary": "SemiAnalysis深度分析：OpenAI自研芯片Jalapeño在某些方面性能超越Nvidia Blackwell，标志着AI芯片竞争新格局。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "title_zh": "Needle2：14MB端侧Agent大模型",
+      "url": "https://cactuscompute.com/needle",
+      "summary": "仅14MB的端侧Agent大模型，可运行在手机、可穿戴设备、智能家居和机器人上，推动边缘AI发展。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "GLM-5.3 is now open-weight",
+      "title_zh": "GLM-5.3 开放权重版本发布",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "summary": "智谱AI在HuggingFace上发布GLM-5.3开放权重模型，社区反响热烈，标志着中国开源大模型的又一里程碑。",
+      "content": ""
+    }
+  ]
+}
