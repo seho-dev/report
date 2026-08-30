@@ -1,0 +1,285 @@
+{
+  "date": "2026-08-30",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "tt-a1i/archify",
+      "title_zh": "Archify - AI 架构图生成工具",
+      "url": "https://github.com/tt-a1i/archify",
+      "summary": "一款 AI Agent 技能，可生成精美的、可验证的架构图、工作流图、序列图、数据流图和生命周期图，输出为带动画效果的独立 HTML 文件。",
+      "content": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": "3902"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "bilawalsidhu/gods-eye-view",
+      "title_zh": "上帝视角 - 间谍卫星模拟器",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "summary": "浏览器中的间谍卫星模拟器，数据来自真实开源地理情报，在写实 3D 地球上实时展示空间数据。",
+      "content": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": "1855"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "title_zh": "科学 Agent 技能库",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "summary": "将任意 AI Agent 变成 AI 科学家。全球 19 万+科学家使用的排名第一的科学 Agent 技能库，包含 165 个验证技能和 100+ 科学数据库，覆盖生物、化学、医学和药物发现。",
+      "content": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery.",
+      "stars": "1587"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "tailscale/tailcat",
+      "title_zh": "Tailcat - 基于 Tailscale 的 netcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "summary": "类似 netcat，但运行在 Tailscale 数据平面上，无需 Tailscale 控制平面，可直接在 Tailscale 网络中进行 TCP 连接。",
+      "content": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "stars": "789"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "THU-MAIC/OpenMAIC",
+      "title_zh": "OpenMAIC - 开放多智能体互动课堂",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "summary": "清华大学出品的开源多智能体互动课堂系统，一键即可获得沉浸式多智能体学习体验。",
+      "content": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars": "907"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "p-e-w/heretic",
+      "title_zh": "Heretic - 大模型自动去审查",
+      "url": "https://github.com/p-e-w/heretic",
+      "summary": "全自动移除语言模型审查限制的工具，让大模型不再被内容过滤器束缚。",
+      "content": "Fully automatic censorship removal for language models",
+      "stars": "150"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "JetBrains/go-modern-guidelines",
+      "title_zh": "JetBrains Go 现代编码规范",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "summary": "JetBrains 出品的 Go 语言现代编码规范，帮助 AI 编码助手写出更现代的 Go 代码。",
+      "content": "Help AI coding agents write modern Go",
+      "stars": "303"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "calesthio/OpenMontage",
+      "title_zh": "OpenMontage - 开源 AI 视频制作系统",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "summary": "全球首个开源 AI 视频制作系统，包含 12 条生产管线、100+ 工具和 700+ Agent 技能文件，将 AI 编码助手变成完整的视频制作工作室。",
+      "content": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files.",
+      "stars": "806"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "every-app/open-seo",
+      "title_zh": "Open SEO - 开源 SEO 工具",
+      "url": "https://github.com/every-app/open-seo",
+      "summary": "Semrush 和 Ahrefs 的开源替代方案，提供搜索引擎优化分析功能。",
+      "content": "Open source alternative to Semrush and Ahrefs",
+      "stars": "517"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "abi/screenshot-to-code",
+      "title_zh": "Screenshot to Code - 截图转代码",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "summary": "将截图拖入即可转换为干净的代码，支持 HTML/Tailwind/React/Vue 等多种前端框架。",
+      "content": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "stars": "550"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "title_zh": "通过 Apple 虚拟化框架启动虚拟 iPhone",
+      "url": "https://news.ycombinator.com/item?id=49485267",
+      "summary": "vphone-cli 项目让你可以通过 Apple 的 Virtualization.framework 在 Mac 上启动虚拟 iPhone，实现了在桌面端运行 iOS 应用的可能。",
+      "content": "HN Score: 376, Comments: 101"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "title_zh": "Tether - 在 Linux 上使用 iMessage 和短信",
+      "url": "https://news.ycombinator.com/item?id=49415386",
+      "summary": "Tether 项目让你可以在 Linux 系统上收发 iMessage、短信等 Apple 消息服务，解决了 Linux 用户无法使用 iMessage 的痛点。",
+      "content": "HN Score: 302, Comments: 127"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "EVE Online moves to Python 3",
+      "title_zh": "EVE Online 迁移至 Python 3",
+      "url": "https://news.ycombinator.com/item?id=49433328",
+      "summary": "知名网游 EVE Online 宣布开始将代码库从 Python 2 迁移到 Python 3，这对于一款运营近 25 年的游戏来说是一项重大技术升级。",
+      "content": "HN Score: 290, Comments: 151"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "title_zh": "我意外地将 LLM 记忆机制变成了程序分析工具",
+      "url": "https://news.ycombinator.com/item?id=49485416",
+      "summary": "作者在研究大语言模型的记忆机制时，意外发现其可以被用于程序分析，揭示了 LLM 内部表示与程序语义之间的深层联系。",
+      "content": "HN Score: 272, Comments: 71"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "title_zh": "三星存内计算技术深度解析",
+      "url": "https://news.ycombinator.com/item?id=49487341",
+      "summary": "Chips and Cheese 深入分析了三星在 Hot Chips 2026 上展示的存内计算（PIM）技术，该技术将计算能力直接集成到内存芯片中，大幅降低数据搬运开销。",
+      "content": "HN Score: 241, Comments: 91"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "title_zh": "StemDeck - 免费开源的本地 AI 音轨分离工具",
+      "url": "https://news.ycombinator.com/item?id=49486081",
+      "summary": "StemDeck 是一款完全本地运行的 AI 音轨分离工具，可将歌曲拆分为人声、鼓、贝斯和其他乐器等独立音轨，无需联网，保护隐私。",
+      "content": "HN Score: 199, Comments: 58"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+      "title_zh": "腾讯发布并开源 Tencent Hy4 Preview",
+      "url": "https://news.ycombinator.com/item?id=49492632",
+      "summary": "腾讯发布了其最新的 AI 模型 Tencent Hy4 Preview 并选择开源，进一步加码大模型领域的开源竞争。",
+      "content": "HN Score: 158, Comments: 98"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "GrapheneOS: Pixel 11 no longer supports hardware memory tagging (MTE)",
+      "title_zh": "GrapheneOS: Pixel 11 不再支持硬件内存标记（MTE）",
+      "url": "https://news.ycombinator.com/item?id=49490702",
+      "summary": "GrapheneOS 项目披露 Google Pixel 11 取消了硬件内存标记（MTE）支持，这对安全敏感的 GrapheneOS 用户来说是一个值得关注的倒退。",
+      "content": "HN Score: 247, Comments: 113"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "title_zh": "好的文化才是最大的生产力提升手段，而非 AI",
+      "url": "https://news.ycombinator.com/item?id=49491568",
+      "summary": "文章认为相比 AI 工具，良好的工程文化、团队协作和知识共享才是提升生产力的最关键因素，引发技术社区关于 AI vs 文化的热烈讨论。",
+      "content": "HN Score: 221, Comments: 47"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "vLLM v0.28.0",
+      "title_zh": "vLLM 发布 v0.28.0 版本",
+      "url": "https://news.ycombinator.com/item?id=49492067",
+      "summary": "高性能 LLM 推理引擎 vLLM 发布 v0.28.0 版本更新，带来性能优化和新功能。",
+      "content": "HN Score: 87, Comments: 30"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "title_zh": "AI 公司正试图隐瞒巨额债务",
+      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "summary": "报道揭露多家 AI 公司通过表外融资等方式隐藏巨额债务，引发投资者对 AI 行业财务健康状况的担忧。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "title_zh": "Forge - 护栏技术将 8B 模型在代理任务上的表现从 53% 提升到 99%",
+      "url": "https://github.com/antoinezambelli/forge",
+      "summary": "Forge 项目展示了如何通过护栏技术大幅提升小型语言模型在代理任务中的表现，将准确率从 53% 提升到 99%，证明了轻量模型在正确框架下也能胜任复杂任务。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "title_zh": "Opus 5 目前位居人工智能分析智力排行榜第一名",
+      "url": "https://artificialanalysis.ai/models",
+      "summary": "Anthropic 的 Opus 5 模型在 Artificial Analysis 智力排行榜上登顶，超越其他竞品成为当前综合能力最强的 AI 模型。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
+      "title_zh": "Grok 4.6 在人工智能分析智力指数上获得 61 分",
+      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+      "summary": "xAI 的 Grok 4.6 模型在 Artificial Analysis 智力指数上获得 61 分，发布了详细的基准测试和分析报告。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "title_zh": "Juggler - JUCE 创始人打造的开源 GUI 编程代理",
+      "url": "https://github.com/juggler-ai/juggler",
+      "summary": "知名音频框架 JUCE 的创始人推出了 Juggler，一款开源的 GUI 编程代理，能通过图形界面与 AI 交互进行代码编写。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "title_zh": "智能模型路由 - 直接在 Claude、Codex 和 Cursor 中使用",
+      "url": "https://github.com/workweave/router",
+      "summary": "WorkWeave 推出了智能模型路由器，可在 Claude、Codex 和 Cursor 等 AI 编码工具中自动选择最合适的模型来完成不同任务。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)",
+      "title_zh": "Richard - 用 C++ 和 Vulkan 实现的卷积神经网络（无 ML/数学库依赖）",
+      "url": "https://github.com/robjinman/richard",
+      "summary": "一个完全用 C++ 和 Vulkan 编写的卷积神经网络实现，不依赖任何机器学习或数学库，展示了底层 GPU 编程实现 AI 的可能性。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+      "title_zh": "年轻人对 AI 公司 CEO 的厌恶程度令人难以置信",
+      "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+      "summary": "民调显示年轻人对 AI 行业 CEO 和高管的反感程度极高，反映出公众对 AI 行业发展方向和领导层的深层不满。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Implementing neural networks on the \"3 cent\" 8-bit microcontroller",
+      "title_zh": "在「3 美分」8 位微控制器上实现神经网络",
+      "url": "https://cpldcpu.wordpress.com/2024/05/02/machine-learning-mnist-inference-on-the-3-cent-microcontroller/",
+      "summary": "作者在仅价值 3 美分的 8 位 ATtiny 微控制器上实现了 MNIST 手写数字识别的神经网络推理，展示了极端资源受限环境下的 AI 部署。",
+      "content": ""
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "How to learn AI from first principles?",
+      "title_zh": "如何从第一性原理学习 AI？",
+      "url": "https://news.ycombinator.com/item?id=42827913",
+      "summary": "Hacker News 上关于从第一性原理学习 AI 的深度讨论帖，汇集了大量学习资源、路径建议和实践经验分享。",
+      "content": ""
+    }
+  ]
+}
