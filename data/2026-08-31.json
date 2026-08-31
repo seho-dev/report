@@ -1,0 +1,341 @@
+{
+  "date": "2026-08-31",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "THU-MAIC/OpenMAIC",
+      "title_zh": "开放多智能体互动课堂",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "summary": "一键获取沉浸式多智能体学习体验，由清华团队开发的开源多智能体互动课堂平台",
+      "content": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars": "26643"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "tt-a1i/archify",
+      "title_zh": "Archify 架构图生成器",
+      "url": "https://github.com/tt-a1i/archify",
+      "summary": "智能体技能工具，可生成美观可验证的架构图、工作流图、序列图和数据流图，自包含HTML输出",
+      "content": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": "38125"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "title_zh": "科学智能体技能库",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "summary": "将任意AI智能体转化为AI科学家，全球19万+科学家使用的#1科学技能库，覆盖生物、化学、医学和药物发现",
+      "content": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": "40601"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "k1tbyte/Wand-Enhancer",
+      "title_zh": "Wand增强器",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "summary": "为Wand（WeMod）应用提供的高级用户体验和互操作性扩展",
+      "content": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "stars": "23286"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "majd/ipatool",
+      "title_zh": "IPA下载工具",
+      "url": "https://github.com/majd/ipatool",
+      "summary": "命令行工具，支持从App Store搜索和下载iOS、iPadOS、tvOS和visionOS应用包（IPA文件）",
+      "content": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "stars": "10477"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "jingyaogong/minimind",
+      "title_zh": "MiniMind：2小时训练LLM",
+      "url": "https://github.com/jingyaogong/minimind",
+      "summary": "从零开始训练一个64M参数的大语言模型，仅需2小时！",
+      "content": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "stars": "55974"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "Osmantic/ODS",
+      "title_zh": "开源AI服务器套件",
+      "url": "https://github.com/Osmantic/ODS",
+      "summary": "将你的PC、Mac或Linux变成AI服务器，支持LLM推理、聊天界面、语音、智能体、工作流、RAG和图像生成",
+      "content": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "stars": "5370"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "checkstyle/checkstyle",
+      "title_zh": "Checkstyle Java代码检查工具",
+      "url": "https://github.com/checkstyle/checkstyle",
+      "summary": "Java代码规范检查开发工具，默认支持Google和Sun代码规范，高度可配置",
+      "content": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+      "stars": "9371"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "zhaoxuya520/reverse-skill",
+      "title_zh": "逆向安全技能路由包",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "summary": "逆向工程/授权渗透测试/安全研究技能路由包，AI自动路由+按需工具链+自动进化知识库，支持Claude Code等",
+      "content": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "stars": "33009"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "affaan-m/ECC",
+      "title_zh": "ECC 智能体性能优化系统",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "智能体框架性能优化系统，涵盖技能、本能、记忆、安全和研究优先开发，支持Claude Code、Codex等",
+      "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "245121"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "kaifcodec/user-scanner",
+      "title_zh": "用户信息OSINT扫描器",
+      "url": "https://github.com/kaifcodec/user-scanner",
+      "summary": "二合一邮箱和用户名OSINT套件，分析465+扫描向量，从单个邮箱/用户名提取深度数据",
+      "content": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
+      "stars": "4123"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "every-app/open-seo",
+      "title_zh": "Open SEO 开源SEO工具",
+      "url": "https://github.com/every-app/open-seo",
+      "summary": "Semrush和Ahrefs的开源替代品",
+      "content": "Open source alternative to Semrush and Ahrefs",
+      "stars": "15662"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "OpenShot 4.0 – Open-source video editor",
+      "title_zh": "OpenShot 4.0 开源视频编辑器",
+      "url": "https://news.ycombinator.com/item?id=49507822",
+      "summary": "开源视频编辑器OpenShot发布4.0大版本更新",
+      "content": "HN Score: 462, Comments: 104"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Playa Phone",
+      "title_zh": "Playa Phone 手机项目",
+      "url": "https://news.ycombinator.com/item?id=49510514",
+      "summary": "Playa Phone项目介绍",
+      "content": "HN Score: 321, Comments: 133"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "title_zh": "我把监控摄像头变成了自动鸟类识别系统",
+      "url": "https://news.ycombinator.com/item?id=49511856",
+      "summary": "开发者将家用监控摄像头改造为自动鸟类识别系统",
+      "content": "HN Score: 170, Comments: 53"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "title_zh": "苹果对Mac Mini和Mac Studio的AI需求措手不及",
+      "url": "https://news.ycombinator.com/item?id=49508982",
+      "summary": "苹果未预料到市场对Mac Mini和Mac Studio的AI需求如此旺盛",
+      "content": "HN Score: 137, Comments: 153"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "title_zh": "ChatGPT工作工具与技能参考文档",
+      "url": "https://news.ycombinator.com/item?id=49510000",
+      "summary": "ChatGPT发布工作工具和技能参考文档",
+      "content": "HN Score: 127, Comments: 45"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "I think the military commissary's freezers were hacked",
+      "title_zh": "军方超市冷库疑似遭黑客入侵",
+      "url": "https://news.ycombinator.com/item?id=49508506",
+      "summary": "有人怀疑军方福利超市的冷藏系统遭到黑客攻击",
+      "content": "HN Score: 127, Comments: 71"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Dwarf Fortress is getting the mother of all magic updates",
+      "title_zh": "矮人要塞将迎来史上最大魔法更新",
+      "url": "https://news.ycombinator.com/item?id=49467636",
+      "summary": "经典游戏矮人要塞即将获得大型魔法系统更新",
+      "content": "HN Score: 102, Comments: 16"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Internet centralization and the original sin of NAT",
+      "title_zh": "互联网中心化与NAT的原罪",
+      "url": "https://news.ycombinator.com/item?id=49504905",
+      "summary": "探讨互联网中心化趋势以及NAT（网络地址转换）的先天缺陷",
+      "content": "HN Score: 102, Comments: 67"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Konrad Zuse Museum shutting down due to lack of funding",
+      "title_zh": "康拉德·楚泽博物馆因资金不足即将关闭",
+      "url": "https://news.ycombinator.com/item?id=49511917",
+      "summary": "计算机先驱康拉德·楚泽的博物馆因缺乏资金面临关闭",
+      "content": "HN Score: 94, Comments: 50"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "title_zh": "ravynOS：基于Darwin的开源操作系统预览版",
+      "url": "https://news.ycombinator.com/item?id=49511534",
+      "summary": "基于Darwin、FreeBSD和Apple开源代码的桌面操作系统ravynOS发布预览版",
+      "content": "HN Score: 90, Comments: 64"
+    },
+    {
+      "id": "hn-11",
+      "type": "hn",
+      "title": "No country for mediocre mathematicians",
+      "title_zh": "平庸数学家无处容身",
+      "url": "https://news.ycombinator.com/item?id=49495171",
+      "summary": "探讨数学领域对顶尖人才的追求和平庸数学家的困境",
+      "content": "HN Score: 75, Comments: 43"
+    },
+    {
+      "id": "hn-12",
+      "type": "hn",
+      "title": "C++26: Standard Library Hardening Experiments",
+      "title_zh": "C++26标准库安全加固实验",
+      "url": "https://news.ycombinator.com/item?id=49510511",
+      "summary": "C++26标准库正在进行安全性加固实验",
+      "content": "HN Score: 60, Comments: 37"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Show HN: I turned my face rec system into a video codec",
+      "title_zh": "我把人脸识别系统改造成了视频编解码器",
+      "url": "https://vertigo.ai/focus/",
+      "summary": "开发者将人脸识别系统重新设计为视频编解码器",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Show HN: We open sourced our entire text-to-SQL product",
+      "title_zh": "我们开源了整个text-to-SQL产品",
+      "url": "https://github.com/Dataherald/dataherald",
+      "summary": "团队开源了完整的文本转SQL查询产品",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Ask HN: What are the foundational texts for learning about AI/ML/NN?",
+      "title_zh": "学习AI/ML/NN的基础读物有哪些？",
+      "url": "https://news.ycombinator.com/item?id=34312248",
+      "summary": "社区讨论人工智能、机器学习和神经网络的基础学习资料",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Show HN: Plandex v2 – open source AI coding agent for large projects and tasks",
+      "title_zh": "Plandex v2 开源AI编程智能体",
+      "url": "https://github.com/plandex-ai/plandex",
+      "summary": "面向大型项目和任务的开源AI编程智能体Plandex发布v2版本",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Show HN: Sim – Apache-2.0 n8n alternative",
+      "title_zh": "Sim：Apache-2.0开源n8n替代方案",
+      "url": "https://github.com/simstudioai/sim",
+      "summary": "基于Apache-2.0协议的开源工作流自动化工具n8n替代品",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "title_zh": "Rowboat：开源本地优先的Claude Desktop替代品",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "summary": "开源且本地优先的Claude Desktop桌面客户端替代方案",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "title_zh": "Adam (YC W25) 开源AI CAD工具",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "summary": "YC孵化的开源AI辅助CAD设计工具",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Show HN: Onit – Source-available ChatGPT Desktop with local mode, Claude, Gemini",
+      "title_zh": "Onit：支持本地模式的ChatGPT桌面客户端",
+      "url": "https://github.com/synth-inc/onit",
+      "summary": "开源ChatGPT桌面客户端，支持本地模式、Claude和Gemini",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Show HN: Open-source browser for AI agents",
+      "title_zh": "AI智能体开源浏览器",
+      "url": "https://github.com/theredsix/agent-browser-protocol",
+      "summary": "专为AI智能体设计的开源浏览器",
+      "content": ""
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "Ask HN: How to learn AI from first principles?",
+      "title_zh": "如何从第一性原理学习AI？",
+      "url": "https://news.ycombinator.com/item?id=42827913",
+      "summary": "社区讨论从基础原理入手学习人工智能的方法",
+      "content": ""
+    },
+    {
+      "id": "ai-11",
+      "type": "ai",
+      "title": "Everyone's trying vectors and graphs for AI memory. We went back to SQL",
+      "title_zh": "当所有人用向量和图做AI记忆，我们回归了SQL",
+      "url": "https://news.ycombinator.com/item?id=45329322",
+      "summary": "团队选择用传统SQL替代向量数据库和图数据库来构建AI记忆系统",
+      "content": ""
+    },
+    {
+      "id": "ai-12",
+      "type": "ai",
+      "title": "Show HN: Plexe – ML Models from a Prompt",
+      "title_zh": "Plexe：用提示词生成机器学习模型",
+      "url": "https://github.com/plexe-ai/plexe",
+      "summary": "通过自然语言提示自动生成和训练机器学习模型",
+      "content": ""
+    }
+  ]
+}
