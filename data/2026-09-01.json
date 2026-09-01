@@ -1,0 +1,305 @@
+{
+  "date": "2026-09-01",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "THU-MAIC/OpenMAIC",
+      "title_zh": "开放多智能体互动课堂",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "summary": "清华大学MAIC团队开发的沉浸式多智能体互动课堂平台，支持多个AI智能体之间的协作学习和对话。",
+      "content": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars": "2,824"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "tt-a1i/archify",
+      "title_zh": "Archify 架构可视化工具",
+      "url": "https://github.com/tt-a1i/archify",
+      "summary": "一款智能体技能工具，用于生成美观、可验证的架构图和工作流图，支持多种设计风格。",
+      "content": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": "3,991"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "title_zh": "科学智能体技能包",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "summary": "将任意AI智能体转变为AI科学家的技能集合，提供科研领域的专业技能和工具。",
+      "content": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": "1,980"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "k1tbyte/Wand-Enhancer",
+      "title_zh": "Wand 增强器",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "summary": "为Wand（WeMod）开发的高级UX和互操作性扩展，增强游戏辅助工具的功能体验。",
+      "content": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "stars": "582"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "majd/ipatool",
+      "title_zh": "ipatool 命令行工具",
+      "url": "https://github.com/majd/ipatool",
+      "summary": "命令行工具，允许从App Store搜索和下载iOS应用程序，支持账户认证和元数据查询。",
+      "content": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "stars": "373"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "jingyaogong/minimind",
+      "title_zh": "MiniMind 轻量大模型",
+      "url": "https://github.com/jingyaogong/minimind",
+      "summary": "从零训练64M参数大语言模型的开源项目，仅需2小时即可完成训练，适合学习和实验。",
+      "content": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "stars": "495"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "Osmantic/ODS",
+      "title_zh": "ODS 开源AI服务器",
+      "url": "https://github.com/Osmantic/ODS",
+      "summary": "将你的PC、Mac或Linux设备变成AI服务器，支持本地LLM推理，完全开源。",
+      "content": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "stars": "77"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "checkstyle/checkstyle",
+      "title_zh": "Checkstyle 代码规范检查",
+      "url": "https://github.com/checkstyle/checkstyle",
+      "summary": "Java代码风格检查工具，帮助程序员编写符合编码规范的Java代码，支持自定义规则。",
+      "content": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+      "stars": "198"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "zhaoxuya520/reverse-skill",
+      "title_zh": "逆向工程技能包",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "summary": "逆向工程/授权渗透测试/安全分析技能集，提供安全研究和漏洞分析的专业工具。",
+      "content": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "stars": "1,401"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "affaan-m/ECC",
+      "title_zh": "ECC 智能体性能优化",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "智能体调优性能优化系统，提供技能管理、评估和优化框架，提升AI智能体的整体表现。",
+      "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "512"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "kaifcodec/user-scanner",
+      "title_zh": "用户信息扫描器",
+      "url": "https://github.com/kaifcodec/user-scanner",
+      "summary": "二合一的邮箱和用户名OSINT工具，用于深度数据检索和信息收集。",
+      "content": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
+      "stars": "93"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "every-app/open-seo",
+      "title_zh": "Open SEO 开源SEO工具",
+      "url": "https://github.com/every-app/open-seo",
+      "summary": "Semrush和Ahrefs的开源替代品，提供SEO分析、关键词研究和竞品分析功能。",
+      "content": "Open source alternative to Semrush and Ahrefs",
+      "stars": "610"
+    },
+    {
+      "id": "hn-13",
+      "type": "hn",
+      "title": "Playa Phone",
+      "title_zh": "Playa Phone 火人节手机",
+      "url": "https://playaphone.com/",
+      "summary": "在火人节（Burning Man）使用的特殊手机项目，解决沙漠环境中通信难题的创意方案。",
+      "content": "HN Score: 573, Comments: 202"
+    },
+    {
+      "id": "hn-14",
+      "type": "hn",
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "title_zh": "我把监控摄像头变成了自动识鸟器",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "summary": "将家庭安防摄像头改造为自动鸟类识别系统，使用AI技术实时识别并记录到访的鸟类物种。",
+      "content": "HN Score: 437, Comments: 102"
+    },
+    {
+      "id": "hn-15",
+      "type": "hn",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "title_zh": "苹果被AI需求打了个措手不及",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "summary": "Mac Mini和Mac Studio因AI开发需求激增导致供应紧张，苹果对这一市场变化始料未及。",
+      "content": "HN Score: 366, Comments: 415"
+    },
+    {
+      "id": "hn-16",
+      "type": "hn",
+      "title": "Dwarf Fortress is getting the mother of all magic updates",
+      "title_zh": "矮人要塞即将迎来史诗级魔法更新",
+      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
+      "summary": "经典模拟经营游戏Dwarf Fortress将获得有史以来最大规模的魔法系统更新。",
+      "content": "HN Score: 364, Comments: 133"
+    },
+    {
+      "id": "hn-17",
+      "type": "hn",
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "title_zh": "陶哲轩讲解6个核心数学概念 [视频]",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "summary": "菲尔兹奖得主陶哲轩教授讲解6个数学核心概念的视频讲座，涵盖现代数学基础。",
+      "content": "HN Score: 338, Comments: 39"
+    },
+    {
+      "id": "hn-18",
+      "type": "hn",
+      "title": "I think the military commissary's freezers were hacked",
+      "title_zh": "我觉得军方超市的冷冻柜被黑客入侵了",
+      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+      "summary": "一名用户分享了疑似军方福利超市冷冻柜系统被入侵的发现，引发对关键基础设施安全的讨论。",
+      "content": "HN Score: 310, Comments: 166"
+    },
+    {
+      "id": "hn-19",
+      "type": "hn",
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "title_zh": "一个HTML文件里的可探索ASCII赛博朋克城市 [视频]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "summary": "纯HTML实现的ASCII艺术赛博朋克城市，可在浏览器中自由探索的互动体验。",
+      "content": "HN Score: 286, Comments: 35"
+    },
+    {
+      "id": "hn-20",
+      "type": "hn",
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "title_zh": "ChatGPT 工作工具与技能参考手册",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "summary": "ChatGPT工作模式下可用工具和技能的完整参考文档，帮助用户高效使用企业版功能。",
+      "content": "HN Score: 207, Comments: 53"
+    },
+    {
+      "id": "hn-21",
+      "type": "hn",
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "title_zh": "手机LED配合AI检测隐藏摄像头",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "summary": "利用手机闪光灯LED和AI算法检测隐藏摄像头的创新方法，无需专业设备。",
+      "content": "HN Score: 187, Comments: 54"
+    },
+    {
+      "id": "hn-22",
+      "type": "hn",
+      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "title_zh": "RavynOS：基于Darwin的开源操作系统",
+      "url": "https://ravynos.com/",
+      "summary": "类macOS体验的开源操作系统预览版，基于Darwin和FreeBSD构建，追求视觉与交互美学。",
+      "content": "HN Score: 187, Comments: 106"
+    },
+    {
+      "id": "hn-23",
+      "type": "hn",
+      "title": "Run macOS Software on Linux",
+      "title_zh": "在Linux上运行macOS软件",
+      "url": "https://www.darlinghq.org/",
+      "summary": "在Linux系统上运行macOS应用程序的技术方案和工具介绍。",
+      "content": "HN Score: 186, Comments: 59"
+    },
+    {
+      "id": "hn-24",
+      "type": "hn",
+      "title": "Reverse engineering my ADHD test",
+      "title_zh": "逆向工程我的ADHD测试",
+      "url": "https://nullpt.rs/reverse-engineering-adhd-test",
+      "summary": "作者对ADHD注意力缺陷多动障碍诊断测试进行逆向分析，探索其设计原理和局限性。",
+      "content": "HN Score: 182, Comments: 98"
+    },
+    {
+      "id": "ai-25",
+      "type": "ai",
+      "title": "Ask HN: Am I the longest-serving programmer – 57 years and counting?",
+      "title_zh": "问Hacker News：我是最长服役的程序员吗——57年了",
+      "url": "https://news.ycombinator.com/item?id=23366546",
+      "summary": "一位程序员分享了自己57年编程生涯的经历，引发了关于编程职业寿命和行业变迁的热烈讨论。",
+      "content": ""
+    },
+    {
+      "id": "ai-26",
+      "type": "ai",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "title_zh": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "summary": "AI领域资讯：Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "content": ""
+    },
+    {
+      "id": "ai-27",
+      "type": "ai",
+      "title": "Ask HN: What are the foundational texts for learning about AI/ML/NN?",
+      "title_zh": "问Hacker News：学习AI/ML/NN的基础读物有哪些？",
+      "url": "https://news.ycombinator.com/item?id=34312248",
+      "summary": "社区讨论AI领域的经典入门读物和基础教材，涵盖机器学习、深度学习和神经网络等方面。",
+      "content": ""
+    },
+    {
+      "id": "ai-28",
+      "type": "ai",
+      "title": "Powerful AI Can Now Be Trained on a Single Computer",
+      "title_zh": "强大AI现在可以在单台电脑上训练",
+      "url": "https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/powerful-ai-can-now-be-trained-on-a-single-computer",
+      "summary": "新突破使得高性能AI模型的训练不再依赖大规模GPU集群，单台计算机即可完成。",
+      "content": ""
+    },
+    {
+      "id": "ai-29",
+      "type": "ai",
+      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "title_zh": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "url": "https://github.com/juggler-ai/juggler",
+      "summary": "AI领域资讯：Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "content": ""
+    },
+    {
+      "id": "ai-30",
+      "type": "ai",
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "title_zh": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "summary": "AI领域资讯：Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "content": ""
+    },
+    {
+      "id": "ai-31",
+      "type": "ai",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "title_zh": "智能模型路由：直接在Claude、Codex和Cursor中实现",
+      "url": "https://github.com/workweave/router",
+      "summary": "智能路由技术可根据任务特点自动选择最佳AI模型，在Claude、Codex和Cursor等工具中直接可用。",
+      "content": ""
+    },
+    {
+      "id": "ai-32",
+      "type": "ai",
+      "title": "Show HN: I am building a map of people who lived in the Roman Empire",
+      "title_zh": "我正在构建罗马帝国居民地图",
+      "url": "https://new.roman-names.com/",
+      "summary": "一个互动地图项目，记录和可视化曾经生活在罗马帝国疆域内的人物信息。",
+      "content": ""
+    }
+  ]
+}
