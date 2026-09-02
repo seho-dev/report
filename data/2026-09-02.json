@@ -1,0 +1,269 @@
+{
+  "date": "2026-09-02",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "openclaude",
+      "title_zh": "OpenClaude 开源项目",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "summary": "一个可在任何地方运行、支持任意工具的开源AI助手框架",
+      "content": "runs anywhere. uses anything",
+      "stars": "31271"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "academic-research-skills",
+      "title_zh": "学术研究技能包",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "summary": "为Claude Code打造的学术研究技能：研究、写作、审稿、修订、定稿全流程",
+      "content": "Academic Research Skills for Claude Code: research, write, review, revise, finalize",
+      "stars": "44866"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "OpenMAIC",
+      "title_zh": "清华开放多智能体互动课堂",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "summary": "开放多智能体互动课堂——一键获得沉浸式多智能体学习体验",
+      "content": "Open Multi-Agent Interactive Classroom - Get an immersive, multi-agent learning experience in just one click",
+      "stars": "29445"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "invidious",
+      "title_zh": "Invidious 无广告YouTube前端",
+      "url": "https://github.com/iv-org/invidious",
+      "summary": "YouTube的替代前端，无广告、注重隐私的视频观看体验",
+      "content": "Invidious is an alternative front-end to YouTube",
+      "stars": "23758"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "minimind",
+      "title_zh": "MiniMind 轻量级大模型",
+      "url": "https://github.com/jingyaogong/minimind",
+      "summary": "仅需2小时从零训练一个6400万参数的大语言模型",
+      "content": "Train a 64M-parameter LLM from scratch in just 2h!",
+      "stars": "57031"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "manim",
+      "title_zh": "Manim 数学动画引擎",
+      "url": "https://github.com/3b1b/manim",
+      "summary": "3Blue1Brown使用的数学可视化动画引擎，用于制作解释性数学视频",
+      "content": "Animation engine for explanatory math videos",
+      "stars": "92544"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "pdf-inspector",
+      "title_zh": "PDF Inspector 检查工具",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "summary": "用Rust编写的快速PDF检查、分类和文本提取库，智能检测扫描件与文本PDF",
+      "content": "Fast Rust library for PDF inspection, classification, and text extraction",
+      "stars": "17904"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "video-use",
+      "title_zh": "Video Use 视频编辑工具",
+      "url": "https://github.com/browser-use/video-use",
+      "summary": "使用编程智能体编辑视频的工具",
+      "content": "Edit videos with coding agents",
+      "stars": "22916"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "scientific-agent-skills",
+      "title_zh": "科学智能体技能库",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "summary": "将任何AI智能体变为AI科学家，全球19万+科学家使用的第一科学技能库，覆盖生物、化学、医学和药物发现",
+      "content": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide.",
+      "stars": "41519"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "patent-disclosure-skill",
+      "title_zh": "中国专利撰写技能",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "summary": "专利点挖掘与交底书编写，通俗解读专利，嗅探政策动向，辅助审查答复",
+      "content": "Chinese patent skill: patent discovery and disclosure writing",
+      "stars": "6678"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "awesome-design-md",
+      "title_zh": "Awesome Design.md 设计规范合集",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "summary": "热门品牌设计系统的DESIGN.md文件分析合集，放入项目即可让编码智能体生成匹配UI",
+      "content": "A collection of DESIGN.md files analysis by popular brand design systems",
+      "stars": "112705"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "reclip",
+      "title_zh": "Reclip 视频下载器",
+      "url": "https://github.com/averygan/reclip",
+      "summary": "从几乎任何网站下载视频的轻量级自托管媒体下载器，配有清爽的Web界面",
+      "content": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "stars": "7634"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "title_zh": "Claude Fable 5.1 和 Claude Mythos 5.1 发布",
+      "url": "https://news.ycombinator.com/item?id=49525378",
+      "summary": "Anthropic发布Claude Fable和Mythos 5.1版本，带来新能力提升",
+      "content": "HN Score: 858, Comments: 813"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "title_zh": "AnkiDroid：Google Play不再允许Open Collective捐赠链接",
+      "url": "https://news.ycombinator.com/item?id=49520022",
+      "summary": "Google Play政策变更导致AnkiDroid开源项目无法通过Open Collective接收捐赠",
+      "content": "HN Score: 815, Comments: 240"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "title_zh": "我用1.5小时训练了一个小Transformer，性能超越众多LLM",
+      "url": "https://news.ycombinator.com/item?id=49519939",
+      "summary": "一位开发者分享了用1.5小时训练的小型Transformer模型在ARC测试上超越多个大语言模型的经历",
+      "content": "HN Score: 553, Comments: 148"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+      "title_zh": "Play Store封禁AuroraStore，影响GrapheneOS用户",
+      "url": "https://news.ycombinator.com/item?id=49523754",
+      "summary": "Google Play Store封禁第三方应用商店AuroraStore，对使用GrapheneOS的隐私用户造成影响",
+      "content": "HN Score: 454, Comments: 198"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "American Airlines mechanic Azriel Al Blackman has died",
+      "title_zh": "美国航空机械师Azriel Blackman去世",
+      "url": "https://news.ycombinator.com/item?id=49493468",
+      "summary": "美国航空传奇机械师Azriel Blackman辞世，享年100岁，从业80年创纪录",
+      "content": "HN Score: 366, Comments: 149"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "title_zh": "Ed Zitron的AI怀疑论预测有多准确？",
+      "url": "https://news.ycombinator.com/item?id=49526069",
+      "summary": "文章回顾分析了科技评论员Ed Zitron对AI行业悲观预测的准确率",
+      "content": "HN Score: 344, Comments: 406"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "title_zh": "Firefox iOS版推出广告拦截功能",
+      "url": "https://news.ycombinator.com/item?id=49521973",
+      "summary": "Mozilla为Firefox iOS版引入内置广告拦截器，提升移动浏览体验",
+      "content": "HN Score: 276, Comments: 100"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Hang on to Your Firefox",
+      "title_zh": "请坚守你的Firefox",
+      "url": "https://news.ycombinator.com/item?id=49527748",
+      "summary": "呼吁用户继续支持Firefox浏览器，维护互联网开放生态",
+      "content": "HN Score: 256, Comments: 137"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "title_zh": "ChatGPT/Codex应用捆绑了完整的LibreOffice",
+      "url": "https://news.ycombinator.com/item?id=49527396",
+      "summary": "Simon Willison发现ChatGPT的Codex应用内捆绑了一份完整的LibreOffice副本",
+      "content": "HN Score: 216, Comments: 106"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Ambient CSS v3 - Blender meets CSS",
+      "title_zh": "Ambient CSS v3 - 当Blender遇上CSS",
+      "url": "https://news.ycombinator.com/item?id=49523387",
+      "summary": "Ambient CSS v3发布，将3D建模工具Blender的交互理念引入CSS样式开发",
+      "content": "HN Score: 185, Comments: 67"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "title_zh": "我训练了一个1.25亿参数的模型在设备上自动补全钢琴曲",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "summary": "开发者展示了在设备端运行的钢琴自动补全AI模型，无需联网即可实时生成音乐",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "title_zh": "破解Claude Code Opus 5自动模式",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "summary": "安全研究员展示了如何破解Claude Code的Opus 5自动执行模式的安全边界",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Zen and the Art of Machine Learning Research",
+      "title_zh": "禅与机器学习研究的艺术",
+      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+      "summary": "一篇关于机器学习研究哲学与方法论的深度思考文章",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Detecting LLM-Generated Texts with Classical Machine Learning",
+      "title_zh": "用传统机器学习检测LLM生成文本",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "summary": "介绍如何使用经典机器学习方法有效检测AI生成的文本内容",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Show HN: Rowboat - Open-source, local-first alternative to Claude Desktop",
+      "title_zh": "Rowboat - 开源本地优先的Claude Desktop替代品",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "summary": "开源项目Rowboat，作为Claude Desktop的本地优先替代方案",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "title_zh": "Claude默认将会话URL附加到提交信息和PR描述中",
+      "url": "https://github.com/anthropics/claude-code/issues/66504",
+      "summary": "Claude Code默认行为引发争议，自动将会话链接附加到git提交和PR描述中",
+      "content": ""
+    }
+  ]
+}
