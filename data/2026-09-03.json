@@ -1,0 +1,211 @@
+{
+  "date": "2026-09-03",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "fmtlib/fmt",
+      "title_zh": "fmt格式化库",
+      "url": "https://github.com/fmtlib/fmt",
+      "summary": "一个现代的C++格式化库，提供快速安全的格式化功能，被广泛应用于各类C++项目中",
+      "content": "A modern formatting library. Language: C++, Stars: 24226, Forks: 2984, Today: 14 stars",
+      "stars": "24226"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "google-research/timesfm",
+      "title_zh": "TimesFM时间序列基础模型",
+      "url": "https://github.com/google-research/timesfm",
+      "summary": "Google Research开发的预训练时间序列基础模型，专为时间序列预测设计，今日新增343颗星",
+      "content": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. Language: Python, Stars: 29743, Forks: 2860, Today: 343 stars",
+      "stars": "29743"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "DietrichGebert/ponytail",
+      "title_zh": "Ponytail - AI智能体懒人模式",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "让AI智能体像最懒的高级开发者一样思考——最好的代码是你从未写过的代码，今日爆火1354星",
+      "content": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. Language: JavaScript, Stars: 121476, Forks: 6567, Today: 1354 stars",
+      "stars": "121476"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "debpalash/VoiceStudio",
+      "title_zh": "VoiceStudio语音工作室",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "开源的完全本地化ElevenLabs替代方案，支持语音克隆、语音设计、视频配音、听写、转录及有声读物创作，支持646种语言",
+      "content": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. Language: Python, Stars: 14668, Forks: 2101, Today: 832 stars",
+      "stars": "14668"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "sngyai/Sequoia-X",
+      "title_zh": "红杉X股自动选股系统",
+      "url": "https://github.com/sngyai/Sequoia-X",
+      "summary": "A股自动选股系统，支持多种技术形态自动扫描，收盘后自动运行并推送飞书",
+      "content": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书. Language: Python, Stars: 6029, Forks: 1244, Today: 63 stars",
+      "stars": "6029"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "title_zh": "Chrome开发者工具MCP",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "summary": "为编程智能体提供Chrome开发者工具能力，让AI代码助手能够直接操作浏览器进行调试和测试",
+      "content": "Chrome DevTools for coding agents. Stars: 50626, Forks: 3553, Today: 148 stars",
+      "stars": "50626"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "NousResearch/hermes-agent",
+      "title_zh": "Hermes智能体",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "一个与你共同成长的智能体框架，支持多渠道集成和自定义扩展，今日获得533颗星",
+      "content": "The agent that grows with you. Stars: 240109, Forks: 49122, Today: 533 stars",
+      "stars": "240109"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "superlinked/sie",
+      "title_zh": "SIE推理服务器",
+      "url": "https://github.com/superlinked/sie",
+      "summary": "开源推理服务器和生产集群，支持智能体所需的所有模型",
+      "content": "Open-source inference server and production cluster for all the models your agent needs. Stars: 3048, Forks: 299, Today: 60 stars",
+      "stars": "3048"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Muse Spark 1.3",
+      "title_zh": "Muse Spark 1.3发布",
+      "url": "https://news.ycombinator.com/item?id=45525410",
+      "summary": "Meta发布Muse Spark 1.3版本，带来全新的AI创作工具和功能升级",
+      "content": "HN Score: 336, Comments: 235"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+      "title_zh": "METR关于OpenAI/HuggingFace黑客攻击事件的报告",
+      "url": "https://news.ycombinator.com/item?id=45525409",
+      "summary": "METR发布关于OpenAI和HuggingFace遭受黑客攻击事件的详细调查报告",
+      "content": "HN Score: 43, Comments: 19"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "title_zh": "Gemini 3.8 Flash与3.8 Flash Cyber模型发布",
+      "url": "https://news.ycombinator.com/item?id=45525408",
+      "summary": "Google发布Gemini 3.8 Flash和3.8 Flash Cyber模型，带来更快更强大的AI推理能力",
+      "content": "HN Score: 794, Comments: 472"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Google avoids a breakup of its ad tech business",
+      "title_zh": "Google成功避免广告技术业务被拆分",
+      "url": "https://news.ycombinator.com/item?id=45525407",
+      "summary": "纽约时报报道Google成功避免其广告技术业务被拆分，引发反垄断讨论",
+      "content": "HN Score: 232, Comments: 139"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "title_zh": "Uber立即停止在尼日利亚和乌干达的运营",
+      "url": "https://news.ycombinator.com/item?id=45525406",
+      "summary": "BBC报道Uber立即停止在尼日利亚和乌干达的运营服务",
+      "content": "HN Score: 59, Comments: 25"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Fable 5.1 World Modeling",
+      "title_zh": "Fable 5.1世界建模",
+      "url": "https://news.ycombinator.com/item?id=45525405",
+      "summary": "Philolabs推出Fable 5.1世界建模框架，用于AI世界理解和模拟",
+      "content": "HN Score: 122, Comments: 42"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Reverse Engineering Unknown File Formats with ImHex",
+      "title_zh": "使用ImHex逆向工程未知文件格式",
+      "url": "https://news.ycombinator.com/item?id=45525404",
+      "summary": "介绍如何使用ImHex工具逆向工程分析未知的文件格式",
+      "content": "HN Score: 77, Comments: 10"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Three sites made 215,128 best software pages for AI. Perplexity cites them",
+      "title_zh": "三个网站为AI创建了21.5万个最佳软件页面，Perplexity引用了它们",
+      "url": "https://news.ycombinator.com/item?id=45525403",
+      "summary": "调查发现三个网站创建了超过21.5万个AI相关的最佳软件页面，Perplexity等AI搜索引擎大量引用",
+      "content": "HN Score: 286, Comments: 126"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "StudentSim: Training LLM-based Student Simulators",
+      "title_zh": "StudentSim：基于LLM的学生模拟器训练",
+      "url": "https://huggingface.co/papers/2409.00012",
+      "summary": "微软研究院提出基于大语言模型的学生模拟器训练方法，可用于教育场景中的智能教学辅助",
+      "content": "Microsoft Research, 459 upvotes on HuggingFace Daily Papers"
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Qwen-Drive-1.0: Vision-Language Foundation Model for Autonomous Driving",
+      "title_zh": "Qwen-Drive-1.0：自动驾驶视觉语言基础模型",
+      "url": "https://huggingface.co/papers/2409.00013",
+      "summary": "通义千问团队推出面向自动驾驶的视觉语言基础模型Qwen-Drive-1.0，迈出视觉语言模型在自动驾驶领域的初步探索",
+      "content": "Qwen Team, 337 upvotes on HuggingFace Daily Papers"
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers",
+      "title_zh": "SMELT：计算匹配MoE循环Transformer的缩放定律",
+      "url": "https://huggingface.co/papers/2409.00014",
+      "summary": "字节跳动Seed团队研究计算匹配的混合专家循环Transformer的缩放定律，探索更高效的模型架构",
+      "content": "ByteDance Seed, 75 upvotes on HuggingFace Daily Papers"
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "UI-Venus-2 Technical Report",
+      "title_zh": "UI-Venus-2技术报告",
+      "url": "https://huggingface.co/papers/2409.00015",
+      "summary": "蚂蚁集团发布UI-Venus-2技术报告，展示在UI理解和自动化方面的新进展",
+      "content": "Ant Group, 55 upvotes on HuggingFace Daily Papers"
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "H3-World: Turning Language Understanding into World Control",
+      "title_zh": "H3-World：将语言理解转化为世界控制",
+      "url": "https://huggingface.co/papers/2409.00016",
+      "summary": "提出H3-World框架，将语言理解能力转化为对虚拟世界的控制能力，实现更自然的人机交互",
+      "content": "Multiple authors, 42 upvotes on HuggingFace Daily Papers"
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "From Production Traffic to Post-Training: Building a Self-Hosted LLM",
+      "title_zh": "从生产流量到后训练：构建自托管大语言模型",
+      "url": "https://huggingface.co/papers/2409.00017",
+      "summary": "T-Tech分享如何基于生产环境流量构建覆盖企业请求混合的自托管大语言模型",
+      "content": "T-Tech, 31 upvotes on HuggingFace Daily Papers"
+    }
+  ]
+}
