@@ -1,0 +1,305 @@
+{
+  "date": "2026-09-04",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "fmtlib/fmt",
+      "title_zh": "fmt：现代C++格式化库",
+      "url": "https://github.com/fmtlib/fmt",
+      "summary": "一个现代C++格式化库，提供快速安全的格式化功能，是printf和iostream的高性能替代方案",
+      "content": "Stars: 25,060, Stars today: 963",
+      "stars": "25,060"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "mattpocock/skills",
+      "title_zh": "mattpocock/skills：面向工程师的AI技能集",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "面向真正工程师的技能集，直接来自我的.agents目录，提供生产级AI编码代理技能",
+      "content": "Stars: 247,336, Stars today: 1,601",
+      "stars": "247,336"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "NousResearch/hermes-agent",
+      "title_zh": "hermes-agent：与你一起成长的AI代理",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "一个能与你一起成长的AI代理框架，由Nous Research开发",
+      "content": "Stars: 240,825, Stars today: 774",
+      "stars": "240,825"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "DietrichGebert/ponytail",
+      "title_zh": "ponytail：让AI代理像懒惰老手一样思考",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "让AI代理像房间里最懒的高级开发者一样思考——最好的代码就是你从没写过的代码",
+      "content": "Stars: 123,379, Stars today: 2,128",
+      "stars": "123,379"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "anthropics/skills",
+      "title_zh": "Anthropic官方Agent技能仓库",
+      "url": "https://github.com/anthropics/skills",
+      "summary": "Anthropic官方发布的Agent Skills公共仓库，提供AI代理技能定义和管理",
+      "content": "Stars: 173,639, Stars today: 281",
+      "stars": "173,639"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "affaan-m/ECC",
+      "title_zh": "ECC：AI代理框架性能优化系统",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "代理框架性能优化系统，涵盖技能、本能、记忆、安全和研究驱动开发，支持Claude Code、Codex、Opencode、Cursor等",
+      "content": "Stars: 247,159, Stars today: 751",
+      "stars": "247,159"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "JuliusBrussee/caveman",
+      "title_zh": "caveman：用原始人语法节省65%的token",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "summary": "Claude Code技能插件，通过像原始人一样说话来大幅削减token消耗，减少65%的token用量",
+      "content": "Stars: 103,084, Stars today: 543",
+      "stars": "103,084"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "blader/humanizer",
+      "title_zh": "humanizer：消除AI生成文本痕迹",
+      "url": "https://github.com/blader/humanizer",
+      "summary": "AI代理技能插件，移除文本中AI生成的痕迹，让内容看起来更像人类写的",
+      "content": "Stars: 41,452, Stars today: 1,208",
+      "stars": "41,452"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "google-research/timesfm",
+      "title_zh": "TimesFM：Google时间序列基础模型",
+      "url": "https://github.com/google-research/timesfm",
+      "summary": "Google Research开发的预训练时间序列基础模型，专为时间序列预测设计",
+      "content": "Stars: 30,693, Stars today: 1,618",
+      "stars": "30,693"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "averygan/reclip",
+      "title_zh": "reclip：轻量级自托管视频下载器",
+      "url": "https://github.com/averygan/reclip",
+      "summary": "从几乎任何网站下载视频，轻量级自托管媒体下载器，配备简洁的Web界面",
+      "content": "Stars: 8,349, Stars today: 88",
+      "stars": "8,349"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "bannedbook/fanqiang",
+      "title_zh": "fanqiang：科学上网工具集",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "summary": "翻墙与科学上网工具集合，帮助用户绕过网络限制访问互联网",
+      "content": "Stars: 52,129, Stars today: 522",
+      "stars": "52,129"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "addyosmani/agent-skills",
+      "title_zh": "agent-skills：生产级AI编码代理技能",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "生产级别的AI编码代理工程技能集，由Google的Addy Osmani维护",
+      "content": "Stars: 92,022, Stars today: 264",
+      "stars": "92,022"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": ".name Termination",
+      "title_zh": ".name域名终结：一个域名消失的故事",
+      "url": "https://news.ycombinator.com/item?id=49550772",
+      "summary": "关于.name域名注册商终止服务的讨论，涉及域名注册体系的可靠性和用户权益保护问题",
+      "content": "HN Score: 1263, Comments: 362"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Audacity 4.0",
+      "title_zh": "Audacity 4.0发布：经典音频编辑器重大更新",
+      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "summary": "开源音频编辑器Audacity发布4.0大版本更新，带来了全新的功能和界面改进",
+      "content": "HN Score: 1032, Comments: 230"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+      "title_zh": "Any Human Ever：从历史所有人中随机抽取一个人生",
+      "url": "https://anyhumanever.com/",
+      "summary": "一个创意网站，随机从人类历史中抽取一个人，展示其生平故事，引发对人类共同命运的思考",
+      "content": "HN Score: 444, Comments: 218"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "The asteroid currently hitting front end web development",
+      "title_zh": "前端Web开发正在遭遇的小行星撞击",
+      "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+      "summary": "讨论AI对前端开发的冲击，探讨开发者如何在AI时代保持竞争力",
+      "content": "HN Score: 63, Comments: 58"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "title_zh": "用LLM阅读68000汇编：将1993年的Amiga游戏移植到Godot",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "summary": "作者用Claude Fable 5读取33年前的68000汇编代码，在一个晚上完成了将1993年Amiga游戏移植到Godot引擎的工作",
+      "content": "HN Score: 171, Comments: 56"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "title_zh": "K2 Horizon：六款开源模型组成的协作舰队",
+      "url": "https://ifm.ai/blog/k2/",
+      "summary": "IFM AI发布K2 Horizon，一个由六款开源模型组成的协作系统，展示多模型协作的潜力",
+      "content": "HN Score: 241, Comments: 79"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "title_zh": "围棋九段申真谞让两子击败AI KataGo",
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "summary": "韩国围棋九段申真谞在让两子的情况下击败围棋AI KataGo，展示了人类顶级棋手的实力",
+      "content": "HN Score: 173, Comments: 47"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "GPS glitched across the US by as much as 33 feet",
+      "title_zh": "美国GPS出现重大故障，偏差达33英尺",
+      "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+      "summary": "美国GPS系统出现前所未见的故障，偏差高达33英尺（约10米），科学家表示从未见过此类情况",
+      "content": "HN Score: 98, Comments: 38"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "The largest electric aircraft just flew",
+      "title_zh": "全球最大电动飞机成功首飞",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "summary": "世界上最大的电动飞机成功完成首飞，标志着航空电动化的重要里程碑",
+      "content": "HN Score: 151, Comments: 99"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+      "title_zh": "Google Antigravity条款：第三方使用可导致Google账号被封",
+      "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+      "summary": "Google Antigravity的条款引发争议，第三方使用可能导致Google账号被暂停，引发开发者社区讨论",
+      "content": "HN Score: 267, Comments: 182"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "GPT-6 Astra",
+      "title_zh": "OpenAI发布GPT-6 Astra：新一代多模态模型",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "summary": "OpenAI发布GPT-6 Astra系统卡，这是一款强大的多模态AI模型，在ARC-AGI-3等基准测试中取得重大突破",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Nvidia to acquire Hugging Face",
+      "title_zh": "英伟达将收购Hugging Face",
+      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "summary": "英伟达同意以近130亿美元收购Hugging Face，这将是AI领域迄今为止最大的收购之一，将加强英伟达在AI生态系统中的布局",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "title_zh": "我用1.5小时训练了一个小型Transformer，性能超越许多大语言模型",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "summary": "研究者仅用1.5小时训练了一个小型Transformer模型，在ARC-1基准测试中击败了许多大语言模型，展示了小模型的巨大潜力",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "title_zh": "人工神经网络中涌现的符号结构",
+      "url": "https://arxiv.org/abs/2608.29530",
+      "summary": "研究发现人工神经网络中会自发涌现符号化结构，为理解深度学习的内部机制提供了新视角",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "title_zh": "通义千问Qwen 3.8 27B在Cerebras上以1500 tokens/s的速度提供推理服务",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "summary": "阿里云通义千问Qwen 3.8 27B模型现已登陆Cerebras推理平台，推理速度高达每秒1500个token",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills",
+      "title_zh": "Repo-To-Skill：将GitHub仓库蒸馏为AI技能",
+      "url": "https://huggingface.co/papers",
+      "summary": "北京智源人工智能研究院提出Repo-To-Skill方法，可自动将GitHub仓库转化为AI代理可使用的技能，495个社区点赞",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?",
+      "title_zh": "HarnessDev：LLM能否创造和演化自身的代理框架？",
+      "url": "https://huggingface.co/papers",
+      "summary": "字节跳动Seed团队提出HarnessDev框架，探索LLM自我创造和演化代理框架的可能性，224个社区点赞",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
+      "title_zh": "SolarWM：长时序视频世界模型的开放数据与可扩展训练",
+      "url": "https://huggingface.co/papers",
+      "summary": "香港中文大学（深圳）提出SolarWM，为长时序视频世界模型提供开放数据集和可扩展训练方案，133个社区点赞",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Detecting LLM-Generated Texts with Classical Machine Learning",
+      "title_zh": "用传统机器学习检测LLM生成的文本",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "summary": "研究展示如何使用传统机器学习方法（如SVM、随机森林等）来检测大语言模型生成的文本，效果出人意料地好",
+      "content": ""
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "Why were OpenAI, Claude, and Grok simultaneously down?",
+      "title_zh": "为什么OpenAI、Claude和Grok同时宕机？",
+      "url": "https://news.ycombinator.com/item?id=49551096",
+      "summary": "三大AI平台同时出现故障，引发社区对AI基础设施可靠性和单点故障风险的广泛讨论",
+      "content": ""
+    }
+  ]
+}
