@@ -1,0 +1,267 @@
+{
+  "date": "2026-09-05",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "skills",
+      "title_zh": "Skills for Real Engineers",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "面向真正工程师的技能包——来自我的 .agents 目录",
+      "content": "Description: Skills for Real Engineers. Straight from my .agents directory.. Stars: 250,332, Stars today: 2,758",
+      "stars": "250,332"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "ponytail",
+      "title_zh": "Ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "让 AI 代理像懒惰的资深开发者一样思考——最好的代码是你从不写的代码",
+      "content": "Description: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.. Stars: 125,937, Stars today: 1,679",
+      "stars": "125,937"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "ECC",
+      "title_zh": "ECC - Agent Harness 性能优化系统",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "AI 代理运行时性能优化系统，涵盖技能、直觉、记忆、安全和研究优先开发，适用于 Claude Code、Codex、Opencode、Cursor 等",
+      "content": "Description: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.. Stars: 248,486, Stars today: 1,135",
+      "stars": "248,486"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "skills",
+      "title_zh": "Anthropic Skills",
+      "url": "https://github.com/anthropics/skills",
+      "summary": "Anthropic 官方公开的代理技能仓库",
+      "content": "Description: Public repository for Agent Skills. Stars: 174,119, Stars today: 511",
+      "stars": "174,119"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "humanizer",
+      "title_zh": "Humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "summary": "去除 AI 生成文本痕迹的代理技能，让输出更像人类写作",
+      "content": "Description: Agent skill that removes signs of AI-generated writing from text. Stars: 42,687, Stars today: 1,130",
+      "stars": "42,687"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "hermes-agent",
+      "title_zh": "Hermes Agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "与你共同成长的 AI 代理——Nous Research 出品",
+      "content": "Description: The agent that grows with you. Stars: 241,480, Stars today: 720",
+      "stars": "241,480"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "caveman",
+      "title_zh": "Caveman - 省 token 技能",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "summary": "用穴居人说话方式减少 65% token 消耗的 Claude Code 技能",
+      "content": "Description: why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman. Stars: 103,563, Stars today: 501",
+      "stars": "103,563"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "magnitude",
+      "title_zh": "Magnitude 推理服务器",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "summary": "开源推理服务器，为你的硬件运行最佳本地模型，兼容 Pi、OpenCode、Hermes、Codex、Claude Code 等",
+      "content": "Description: Open source inference server that runs the best local models for your hardware, plugged into the agent you already use.. Stars: 2,454, Stars today: 391",
+      "stars": "2,454"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "VoiceStudio",
+      "title_zh": "VoiceStudio 语音工作室",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "开源全本地化 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书制作",
+      "content": "Description: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.. Stars: 17,941, Stars today: 1,345",
+      "stars": "17,941"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "fmt",
+      "title_zh": "fmt 格式化库",
+      "url": "https://github.com/fmtlib/fmt",
+      "summary": "现代 C++ 格式化库",
+      "content": "Description: A modern formatting library. Stars: 25,462, Stars today: 688",
+      "stars": "25,462"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Discovery of a new OpenAI agent message board",
+      "title_zh": "发现一个新的 OpenAI 代理留言板",
+      "url": "https://collusion.wiki/",
+      "summary": "安全研究人员发现了一个新的 OpenAI 代理消息板，引发广泛关注，讨论超过1100条",
+      "content": "HN Score: 1431, Comments: 1153"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Formalizing Fermat's Last Theorem",
+      "title_zh": "形式化证明费马大定理",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "summary": "Anthropic 团队利用形式化方法证明费马大定理，获得 438 分的高关注度",
+      "content": "HN Score: 438, Comments: 288"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Solving the Jane Street reverse engineering challenge",
+      "title_zh": "破解 Jane Street 逆向工程挑战赛",
+      "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+      "summary": "技术博主详细记录了如何破解 Jane Street 的逆向工程挑战，引发技术社区热议",
+      "content": "HN Score: 387, Comments: 86"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Shutting down our public encrypted DNS",
+      "title_zh": "Mullvad 关闭公共加密 DNS 服务",
+      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "summary": "隐私 VPN 服务商 Mullvad 宣布关闭自有加密 DNS 服务器，转而赞助 Quad9",
+      "content": "HN Score: 224, Comments: 78"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "title_zh": "开源电子墨水自行车电脑",
+      "url": "https://opentrailpaper.com",
+      "summary": "一款开源的电子墨水屏自行车电脑项目亮相 Hacker News，兼具实用与创意",
+      "content": "HN Score: 216, Comments: 74"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "title_zh": "所有 Chromium 版本存在可被利用的沙箱 RCE 漏洞",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "summary": "Chrome/Chromium 浏览器发现严重沙箱逃逸远程代码执行漏洞，正在被积极利用",
+      "content": "HN Score: 124, Comments: 53"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "The Rust React Compiler is now native in Vite",
+      "title_zh": "Rust React 编译器现已原生集成到 Vite",
+      "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+      "summary": "React 编译器的 Rust 实现版本现已原生支持 Vite，大幅提升前端构建速度",
+      "content": "HN Score: 103, Comments: 19"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "title_zh": "Project HydraFusion：通过多模型编排实现前沿质量",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "summary": "GitHub Copilot 发布 HydraFusion 项目，通过多模型编排提升 AI 代码生成质量",
+      "content": "HN Score: 59, Comments: 29"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Next-token predictor is the wrong mental model for LLMs",
+      "title_zh": "「下一个 token 预测器」是理解大语言模型的错误心智模型",
+      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+      "summary": "一篇引发 155 条评论的深度文章，质疑「下一个 token 预测器」作为 LLM 心智模型的准确性",
+      "content": "HN Score: 67, Comments: 155"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "title_zh": "Forge：护栏让 8B 模型在代理任务上从 53% 提升到 99%",
+      "url": "https://github.com/antoinezambelli/forge",
+      "summary": "通过护栏机制大幅增强小型开源模型在代理任务上的表现，从 53% 准确率提升至 99%",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "title_zh": "OpenKnowledge：开源 AI 优先的 Obsidian/Notion 替代方案",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "summary": "一款以 AI 为核心的开源知识管理工具，定位为 Obsidian 和 Notion 的替代品",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
+      "title_zh": "Now I Get It：将科学论文转化为交互式网页",
+      "url": "https://nowigetit.us",
+      "summary": "把学术论文自动转化为可交互的网页，让复杂研究更易理解",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "title_zh": "Juggler：JUCE 创始人打造的开源 GUI 编程代理",
+      "url": "https://github.com/juggler-ai/juggler",
+      "summary": "由 JUCE 框架创始人开发的开源图形界面编程代理工具",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Show HN: A real-time strategy game that AI agents can play",
+      "title_zh": "AI 代理可以玩的实时战略游戏",
+      "url": "https://llmskirmish.com/",
+      "summary": "一款专为 AI 代理设计的实时战略游戏，让大语言模型在游戏世界中对抗",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "title_zh": "Rowboat：开源本地优先的 Claude Desktop 替代方案",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "summary": "开源且支持本地运行的 AI 桌面客户端，定位为 Claude Desktop 的替代品",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "title_zh": "智能模型路由：直接集成到 Claude、Codex 和 Cursor 中",
+      "url": "https://github.com/workweave/router",
+      "summary": "智能模型路由器，可在 Claude、Codex 和 Cursor 中直接进行模型选择和路由",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Show HN: AI agents play SimCity through a REST API",
+      "title_zh": "AI 代理通过 REST API 玩模拟城市",
+      "url": "https://hallucinatingsplines.com",
+      "summary": "让 AI 代理通过 REST API 接口操控经典游戏模拟城市",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Show HN: AI in SolidWorks",
+      "title_zh": "SolidWorks 中的 AI 应用",
+      "url": "https://www.trylad.com",
+      "summary": "将 AI 技术集成到 SolidWorks CAD 软件中的创新项目",
+      "content": ""
+    }
+  ]
+}
