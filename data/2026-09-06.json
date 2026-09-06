@@ -1,0 +1,345 @@
+{
+  "date": "2026-09-06",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "mattpocock/skills",
+      "title_zh": "Mattpocock Skills（工程师技能库）",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "面向真实工程师的技能集合，直接从 .agents 目录中提取",
+      "content": "Total stars: 252,589, Stars today: 2,692",
+      "stars": "252,589"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "affaan-m/ECC",
+      "title_zh": "ECC（Agent 性能优化系统）",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "Agent 框架性能优化系统，涵盖技能、本能、记忆、安全和研究优先开发，适用于 Claude Code、Codex、Opencode、Cursor 等",
+      "content": "Total stars: 249,868, Stars today: 1,314",
+      "stars": "249,868"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "DietrichGebert/ponytail",
+      "title_zh": "Ponytail（AI 代码懒人优化器）",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "让你的 AI Agent 像房间里最懒的高级开发者一样思考——最好的代码就是你从未写过的代码",
+      "content": "Total stars: 127,909, Stars today: 2,845",
+      "stars": "127,909"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "NousResearch/hermes-agent",
+      "title_zh": "Hermes Agent（与你一同成长的 AI 助手）",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "与你一同成长的 AI Agent",
+      "content": "Total stars: 241,989, Stars today: 575",
+      "stars": "241,989"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "fmtlib/fmt",
+      "title_zh": "fmt（现代 C++ 格式化库）",
+      "url": "https://github.com/fmtlib/fmt",
+      "summary": "一个现代的格式化库",
+      "content": "Total stars: 25,567, Stars today: 134",
+      "stars": "25,567"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "anthropics/skills",
+      "title_zh": "Anthropic Skills（官方 Agent 技能库）",
+      "url": "https://github.com/anthropics/skills",
+      "summary": "Agent 技能的公开仓库",
+      "content": "Total stars: 174,551, Stars today: 475",
+      "stars": "174,551"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "cathrynlavery/diagram-design",
+      "title_zh": "Diagram Design（编辑图表设计模板）",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "38 种编辑图表类型，适用于 Claude Code、Codex 和 Pi。自包含 HTML + SVG，无阴影，无 Mermaid 混乱",
+      "content": "Total stars: 31,675, Stars today: 855",
+      "stars": "31,675"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "anomalyco/opencode",
+      "title_zh": "OpenCode（开源编程 Agent）",
+      "url": "https://github.com/anomalyco/opencode",
+      "summary": "开源编程 Agent",
+      "content": "Total stars: 204,665, Stars today: 725",
+      "stars": "204,665"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "ruvnet/ruflo",
+      "title_zh": "Ruflo（多智能体元框架）",
+      "url": "https://github.com/ruvnet/ruflo",
+      "summary": "原始的 Agent 元框架，可部署智能多人协作群体、协调自主工作流并构建对话式 AI 系统，支持自适应记忆、自主学习、RAG 集成",
+      "content": "Total stars: 70,687, Stars today: 136",
+      "stars": "70,687"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "humanlayer/skills",
+      "title_zh": "HumanLayer Skills（人类层技能库）",
+      "url": "https://github.com/humanlayer/skills",
+      "summary": "HumanLayer 的 Agent 技能集合",
+      "content": "Total stars: 2,683, Stars today: 442",
+      "stars": "2,683"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "blader/humanizer",
+      "title_zh": "Humanizer（AI 写作去标记工具）",
+      "url": "https://github.com/blader/humanizer",
+      "summary": "去除 AI 生成文本痕迹的 Agent 技能",
+      "content": "Total stars: 43,459, Stars today: 990",
+      "stars": "43,459"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "BraveOPotato/FckSignups",
+      "title_zh": "FckSignups（免注册工具合集）",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "summary": "开源、浏览器端、无需注册的工具列表",
+      "content": "Total stars: 2,878, Stars today: 68",
+      "stars": "2,878"
+    },
+    {
+      "id": "gh-13",
+      "type": "github",
+      "title": "WorldFlowAI/everything-claude-code",
+      "title_zh": "Everything Claude Code（Claude Code 工具箱）",
+      "url": "https://github.com/WorldFlowAI/everything-claude-code",
+      "summary": "Claude Code 工具包——agents、commands、skills、rules 和 hooks，助力高效 AI 辅助开发",
+      "content": "Total stars: 2,342, Stars today: 95",
+      "stars": "2,342"
+    },
+    {
+      "id": "gh-14",
+      "type": "github",
+      "title": "magnitudedev/magnitude",
+      "title_zh": "Magnitude（本地模型推理服务器）",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "summary": "开源推理服务器，根据你的硬件运行最佳本地模型，兼容 Pi、OpenCode、Hermes、Codex、Claude Code 等",
+      "content": "Total stars: 3,185, Stars today: 674",
+      "stars": "3,185"
+    },
+    {
+      "id": "gh-15",
+      "type": "github",
+      "title": "bikini/exploitarium",
+      "title_zh": "Exploitarium（公开漏洞利用库）",
+      "url": "https://github.com/bikini/exploitarium",
+      "summary": "公开漏洞 PoC 和安全研究文章的单一归档，旨在吸引人们进入安全研究领域",
+      "content": "Total stars: 4,699, Stars today: 230",
+      "stars": "4,699"
+    },
+    {
+      "id": "gh-16",
+      "type": "github",
+      "title": "nvm-sh/nvm",
+      "title_zh": "NVM（Node 版本管理器）",
+      "url": "https://github.com/nvm-sh/nvm",
+      "summary": "POSIX 兼容的 Bash 脚本，用于管理多个活跃的 Node.js 版本",
+      "content": "Total stars: 94,910, Stars today: 22",
+      "stars": "94,910"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Discovery of a new OpenAI agent message board",
+      "title_zh": "发现新的 OpenAI Agent 留言板",
+      "url": "https://news.ycombinator.com/item?id=49563355",
+      "summary": "OpenAI 被发现有一个新的 Agent 消息板，引发社区对 AI Agent 未来发展方向的讨论",
+      "content": "HN Score: 2081, Comments: 1508"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Formalizing Fermat's Last Theorem",
+      "title_zh": "费马大定理的形式化证明",
+      "url": "https://news.ycombinator.com/item?id=49568506",
+      "summary": "利用形式化方法对费马大定理进行数学证明的最新进展",
+      "content": "HN Score: 742, Comments: 479"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "title_zh": "所有 Chromium 版本中被积极利用的沙箱远程代码执行漏洞",
+      "url": "https://news.ycombinator.com/item?id=49570669",
+      "summary": "所有 Chromium 版本中存在一个正在被积极利用的沙箱远程代码执行漏洞，影响 Chrome、Edge 等浏览器",
+      "content": "HN Score: 735, Comments: 434"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Nitter has more working instances than before the takedowns",
+      "title_zh": "Nitter 的可用实例数已超过被封禁前",
+      "url": "https://news.ycombinator.com/item?id=49571634",
+      "summary": "开源 Twitter 前端 Nitter 在遭遇大规模封禁后，目前可用实例数量反而比之前更多",
+      "content": "HN Score: 611, Comments: 291"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Statichost.eu – European static site hosting",
+      "title_zh": "Statichost.eu——欧洲静态网站托管服务",
+      "url": "https://news.ycombinator.com/item?id=49569896",
+      "summary": "欧洲本土的静态网站托管服务，注重数据隐私和 GDPR 合规",
+      "content": "HN Score: 439, Comments: 200"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Can AI design circuit boards yet?",
+      "title_zh": "AI 能设计电路板了吗？",
+      "url": "https://news.ycombinator.com/item?id=49569366",
+      "summary": "探讨 AI 在 PCB 电路板设计领域的能力与局限性",
+      "content": "HN Score: 372, Comments: 205"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "title_zh": "德国私人火箭创造历史，从欧洲本土进入轨道",
+      "url": "https://news.ycombinator.com/item?id=49580369",
+      "summary": "德国私人航天公司成功从欧洲本土发射火箭并进入轨道，创造欧洲航天新纪录",
+      "content": "HN Score: 293, Comments: 147"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "title_zh": "「60 美元的游戏 PC」——AMD BC-250（2025）",
+      "url": "https://news.ycombinator.com/item?id=49576386",
+      "summary": "使用 AMD BC-250 挖矿卡打造仅需 60 美元的入门级游戏 PC 方案",
+      "content": "HN Score: 261, Comments: 78"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": ".gitignore Everything by Default",
+      "title_zh": "默认忽略所有文件的 .gitignore 策略",
+      "url": "https://news.ycombinator.com/item?id=49576258",
+      "summary": "讨论一种反向的 .gitignore 策略：默认忽略所有文件，只显式添加需要跟踪的文件",
+      "content": "HN Score: 151, Comments: 148"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Learn Programming with OCaml",
+      "title_zh": "使用 OCaml 学习编程",
+      "url": "https://news.ycombinator.com/item?id=49578280",
+      "summary": "OCaml 函数式编程语言的学习资源推荐",
+      "content": "HN Score: 148, Comments: 67"
+    },
+    {
+      "id": "hn-11",
+      "type": "hn",
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "title_zh": "可视化 Rust 的虚表：dyn Trait 在内存中如何工作",
+      "url": "https://news.ycombinator.com/item?id=49576343",
+      "summary": "深入图解 Rust 语言中动态分发（dyn Trait）的虚表内存布局",
+      "content": "HN Score: 121, Comments: 14"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+      "title_zh": "通过训练编译：将自然语言规范转化为本地神经函数",
+      "url": "https://huggingface.co/papers/2609.04199",
+      "summary": "滑铁卢大学研究，将自然语言描述直接编译为可本地运行的神经网络函数，310 个赞",
+      "content": "HuggingFace Daily Paper, 310 upvotes"
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+      "title_zh": "Terminal-Universe：将 Agent 轨迹转化为可扩展的终端环境",
+      "url": "https://huggingface.co/papers/2609.04148",
+      "summary": "Qwen 团队提出，将 AI Agent 的操作轨迹自动生成可扩展的终端训练环境，265 个赞",
+      "content": "HuggingFace Daily Paper, 265 upvotes"
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
+      "title_zh": "LLaDA-Image：用完全开放的训练方案构建强大图像生成器",
+      "url": "https://huggingface.co/papers/2609.03796",
+      "summary": "inclusionAI 推出的开源图像生成模型，使用完全公开的训练流程，222 个赞",
+      "content": "HuggingFace Daily Paper, 222 upvotes"
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning",
+      "title_zh": "随机注意力：重新思考高效推理中的 KV 缓存淘汰策略",
+      "url": "https://huggingface.co/papers/2609.03430",
+      "summary": "Salesforce AI Research 提出新的 KV 缓存淘汰方法，提升大模型推理效率，159 个赞",
+      "content": "HuggingFace Daily Paper, 159 upvotes"
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "title_zh": "Forge——护栏让 8B 小模型在 Agent 任务上从 53% 提升到 99%",
+      "url": "https://github.com/antoinezambelli/forge",
+      "summary": "通过护栏机制大幅提升了 8B 参数小模型在 Agent 任务上的表现，从 53% 跃升至 99%",
+      "content": "HN Score: 687"
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "title_zh": "OpenKnowledge——开源 AI 优先的 Obsidian/Notion 替代品",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "summary": "开源的知识管理工具，以 AI 为核心设计，作为 Obsidian 和 Notion 的替代方案",
+      "content": "HN Score: 381"
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "title_zh": "Juggler——JUCE 创始人打造的开源 GUI 编程 Agent",
+      "url": "https://github.com/juggler-ai/juggler",
+      "summary": "知名音频框架 JUCE 的创始人推出的开源图形界面编程 Agent",
+      "content": "HN Score: 280"
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "title_zh": "Rowboat——开源本地优先的 Claude Desktop 替代品",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "summary": "开源的本地优先 AI 桌面客户端，作为 Claude Desktop 的替代方案",
+      "content": "HN Score: 219"
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "LLMs as a Cognitive Virus",
+      "title_zh": "LLM 作为认知病毒",
+      "url": "https://news.ycombinator.com/item?id=49580164",
+      "summary": "探讨大语言模型对人类认知和思维方式的潜在负面影响",
+      "content": "HN Score: 147"
+    }
+  ]
+}
