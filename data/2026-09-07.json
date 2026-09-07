@@ -1,0 +1,398 @@
+{
+  "date": "2026-09-07",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "affaan-m/ECC",
+      "title_zh": "ECC - 智能体性能优化系统",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "智能体框架性能优化系统，涵盖技能、本能、记忆等模块，帮助AI智能体更高效地运行。",
+      "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "251,279"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "mattpocock/skills",
+      "title_zh": "Skills - 面向真正工程师的技能包",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "来自Mattpocock的.agents目录，为真正工程师设计的AI智能体技能集合。",
+      "content": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": "254,495"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "cathrynlavery/diagram-design",
+      "title_zh": "图表设计 - 38种编辑级图表类型",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "为Claude Code、Codex和Pi提供的38种编辑级图表类型，包含自包含的HTML文件，可直接使用。",
+      "content": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "32,324"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "NousResearch/hermes-agent",
+      "title_zh": "Hermes Agent - 与你共同成长的智能体",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "NousResearch出品的开源AI智能体框架，可配置、可扩展，能与用户一起成长进化。",
+      "content": "The agent that grows with you",
+      "stars": "242,529"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "openai/skills",
+      "title_zh": "OpenAI Skills - Codex技能目录",
+      "url": "https://github.com/openai/skills",
+      "summary": "OpenAI官方推出的Codex技能目录，提供一系列预定义的AI智能体能力模块。",
+      "content": "Skills Catalog for Codex",
+      "stars": "25,607"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "anomalyco/opencode",
+      "title_zh": "OpenCode - 开源编程智能体",
+      "url": "https://github.com/anomalyco/opencode",
+      "summary": "开源的AI编程智能体，可辅助代码编写、调试和项目开发。",
+      "content": "The open source coding agent.",
+      "stars": "205,245"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "blader/humanizer",
+      "title_zh": "Humanizer - AI文本拟人化工具",
+      "url": "https://github.com/blader/humanizer",
+      "summary": "AI智能体技能，可移除AI生成文本中的机器痕迹，让文字更像人类写作。",
+      "content": "Agent skill that removes signs of AI-generated writing from text",
+      "stars": "44,212"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "llvm/llvm-project",
+      "title_zh": "LLVM项目 - 模块化编译器工具链",
+      "url": "https://github.com/llvm/llvm-project",
+      "summary": "LLVM项目是模块化、可复用编译器和工具链技术的集合，支持多种编程语言。",
+      "content": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+      "stars": "40,207"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "DietrichGebert/ponytail",
+      "title_zh": "Ponytail - 让AI像老练程序员一样思考",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "让你的AI智能体像最懒的资深开发者一样思考，提供最佳代码实践和效率优化。",
+      "content": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": "129,311"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "ruvnet/ruflo",
+      "title_zh": "RuFlo - 智能多体协作平台",
+      "url": "https://github.com/ruvnet/ruflo",
+      "summary": "原生智能体元框架，可部署智能多体协作群组，协调多个AI智能体共同完成任务。",
+      "content": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": "70,973"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "magnitudedev/magnitude",
+      "title_zh": "Magnitude - 开源本地推理服务器",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "summary": "开源推理服务器，根据你的硬件自动运行最佳本地模型，支持多种AI模型部署。",
+      "content": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "stars": "3,663"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "BraveOPotato/FckSignups",
+      "title_zh": "免注册工具合集 - 无需注册即可使用",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "summary": "收录了一系列开源、浏览器端、无需注册即可使用的实用工具列表。",
+      "content": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "stars": "3,304"
+    },
+    {
+      "id": "gh-13",
+      "type": "github",
+      "title": "coreyhaines31/marketingskills",
+      "title_zh": "营销技能 - Claude Code营销工具集",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "summary": "为Claude Code和AI智能体设计的营销技能集合，覆盖转化率优化、文案、SEO和数据分析。",
+      "content": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "stars": "47,497"
+    },
+    {
+      "id": "gh-14",
+      "type": "github",
+      "title": "aipoch/open-science",
+      "title_zh": "Open Science - 开源AI科研平台",
+      "url": "https://github.com/aipoch/open-science",
+      "summary": "AIPOCH的开源本地优先、模型无关的AI科研平台，支持开放科学研究。",
+      "content": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.",
+      "stars": "3,845"
+    },
+    {
+      "id": "gh-15",
+      "type": "github",
+      "title": "OpenWhispr/openwhispr",
+      "title_zh": "OpenWhispr - 语音转文字听写应用",
+      "url": "https://github.com/OpenWhispr/openwhispr",
+      "summary": "语音转文字听写应用，支持本地模型（Nvidia Parakeet/Whisper）和云端模型。",
+      "content": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+      "stars": "7,338"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "title_zh": "Isar Aerospace第二次飞行成功入轨并部署载荷",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "summary": "欧洲航天初创公司Isar Aerospace在第二次试飞中成功进入轨道并部署载荷，标志着商业航天的重要里程碑。",
+      "content": "HN Score: 551, Comments: 178"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "A/I shuts down – Stay human",
+      "title_zh": "A/I关闭——请保持人性",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "summary": "一个名为A/I的AI相关项目宣布关闭，并呼吁人们在AI时代保持人性和独立思考。引发社区广泛讨论。",
+      "content": "HN Score: 494, Comments: 355"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Your intellectual fly is open (2025)",
+      "title_zh": "你的知识拉链开了（2025）",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "summary": "一篇关于学术界知识传播和知识产权开放性的讨论文章，引发对知识共享边界的思考。",
+      "content": "HN Score: 485, Comments: 312"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Nitter and XCancel resume service after legal advice",
+      "title_zh": "Nitter和XCancel在法律咨询后恢复服务",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "summary": "Twitter第三方前端Nitter和XCancel在获得法律建议后重新上线，为用户提供替代的社交媒体访问方式。",
+      "content": "HN Score: 403, Comments: 219"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Doomscrolling Ourselves to Death",
+      "title_zh": "无尽刷屏正在杀死我们",
+      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+      "summary": "探讨无止境地浏览负面新闻（doomscrolling）对心理健康的影响，以及如何在信息过载时代保持心理健康。",
+      "content": "HN Score: 351, Comments: 251"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Asahi Linux on M3",
+      "title_zh": "Asahi Linux支持M3芯片",
+      "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+      "summary": "Asahi Linux项目宣布支持Apple M3芯片，进一步推进Linux在Apple Silicon上的原生运行。",
+      "content": "HN Score: 329, Comments: 185"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "An Alien Mind",
+      "title_zh": "外星智慧",
+      "url": "https://openai.com/index/an-alien-mind/",
+      "summary": "探讨外星智慧生命可能性的深度文章，从科学和哲学角度分析人类与外星文明接触的可能性。",
+      "content": "HN Score: 297, Comments: 256"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
+      "title_zh": "M-DISC — 可保存千年的DVD/蓝光兼容光盘",
+      "url": "https://en.wikipedia.org/wiki/M-DISC",
+      "summary": "介绍M-DISC技术，一种DVD/Blu-ray兼容的持久存储介质，理论寿命可达1000年。",
+      "content": "HN Score: 178, Comments: 82"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "title_zh": "GrapheneOS全面改进默认应用和安全剪贴板",
+      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "summary": "隐私操作系统GrapheneOS对默认应用进行了全面改进，并新增安全剪贴板功能，增强用户隐私保护。",
+      "content": "HN Score: 149, Comments: 59"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "title_zh": "Anubis项目用了一年才将WebAssembly落地",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "summary": "Anubis项目团队分享了将WebAssembly集成到项目中的曲折历程，耗时整整一年。",
+      "content": "HN Score: 113, Comments: 76"
+    },
+    {
+      "id": "hn-11",
+      "type": "hn",
+      "title": "Research acceleration: The view inside OpenAI",
+      "title_zh": "研究加速：OpenAI内部视角",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "summary": "OpenAI研究员分享了关于AI研究加速的内部观点，讨论了AI研究效率和未来方向。",
+      "content": "HN Score: 98, Comments: 68"
+    },
+    {
+      "id": "hn-12",
+      "type": "hn",
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "title_zh": "NetBSD 9.5发布，NetBSD-9系列即将终止支持",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+      "summary": "NetBSD发布9.5版本，同时宣布NetBSD-9系列正式进入生命周期终点。",
+      "content": "HN Score: 98, Comments: 4"
+    },
+    {
+      "id": "hn-13",
+      "type": "hn",
+      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
+      "title_zh": "古巴比伦甜菜羊肉炖（公元前1750-1730年）",
+      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
+      "summary": "还原一道来自公元前1750-1730年的古巴比伦食谱，将甜菜与羊肉炖煮的历史烹饪实践。",
+      "content": "HN Score: 81, Comments: 33"
+    },
+    {
+      "id": "hn-14",
+      "type": "hn",
+      "title": "Research carried out using NetBSD",
+      "title_zh": "使用NetBSD进行的科学研究",
+      "url": "https://www.netbsd.org/gallery/research.html",
+      "summary": "介绍使用NetBSD操作系统进行科学研究的案例，展示其在学术领域的应用价值。",
+      "content": "HN Score: 73, Comments: 16"
+    },
+    {
+      "id": "hn-15",
+      "type": "hn",
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "title_zh": "Mador — 用80行Proxy代码实现任意DOM响应式",
+      "url": "https://github.com/marsbos/mador",
+      "summary": "一个轻量级JavaScript库，仅80行代码即可让任何DOM元素实现响应式状态管理。",
+      "content": "HN Score: 57, Comments: 21"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+      "title_zh": "编译式训练：将自然语言规范转化为本地神经网络函数",
+      "url": "https://huggingface.co/papers/2509.02820",
+      "summary": "滑铁卢大学研究提出通过训练将自然语言描述直接编译为本地神经网络函数，实现从语言规范到可执行模型的端到端转换。",
+      "content": "Upvotes: 317, Source: HuggingFace Daily Papers"
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+      "title_zh": "Terminal-Universe：将智能体轨迹转化为可扩展的终端环境",
+      "url": "https://huggingface.co/papers/2509.03006",
+      "summary": "Qwen团队提出将AI智能体的交互轨迹自动转化为可复用的终端测试环境，实现智能体训练数据的大规模生成。",
+      "content": "Upvotes: 272, Source: HuggingFace Daily Papers"
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
+      "title_zh": "LLaDA-Image：完全开源训练方案构建强力图像生成器",
+      "url": "https://huggingface.co/papers/2509.02888",
+      "summary": "inclusionAI团队发布完全开源的图像生成模型训练方案，提供从数据到模型的全流程可复现训练方法。",
+      "content": "Upvotes: 227, Source: HuggingFace Daily Papers"
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning",
+      "title_zh": "随机注意力：重新思考高效推理中的KV缓存淘汰策略",
+      "url": "https://huggingface.co/papers/2509.03005",
+      "summary": "Salesforce AI Research提出随机注意力机制来优化KV缓存淘汰策略，显著提升大模型推理效率。",
+      "content": "Upvotes: 163, Source: HuggingFace Daily Papers"
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training",
+      "title_zh": "知道何时不该复用：自主LLM后训练中的条件经验迁移",
+      "url": "https://huggingface.co/papers/2509.03003",
+      "summary": "研究提出条件经验迁移方法，让大语言模型在后训练阶段能自主判断何时复用已有经验、何时需要学习新模式。",
+      "content": "Upvotes: 150, Source: HuggingFace Daily Papers"
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "LatentPress: Context Compression Beyond Text and Vision",
+      "title_zh": "LatentPress：超越文本和视觉的上下文压缩",
+      "url": "https://huggingface.co/papers/2509.03028",
+      "summary": "提出超越文本和视觉模态的通用上下文压缩方法，在保持信息完整性的同时大幅降低推理成本。",
+      "content": "Upvotes: 110, Source: HuggingFace Daily Papers"
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian",
+      "title_zh": "OpenKnowledge — 开源AI优先的Obsidian替代方案",
+      "url": "https://news.ycombinator.com/item?id=45276889",
+      "summary": "开源的AI优先笔记工具，作为Obsidian的替代方案，将AI能力深度集成到知识管理流程中。",
+      "content": "HN Points: 381"
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Show HN: Juggler – an open-source GUI coding agent",
+      "title_zh": "Juggler — 开源GUI编程智能体",
+      "url": "https://news.ycombinator.com/item?id=45275280",
+      "summary": "由知名开发者打造的开源图形界面编程智能体，提供可视化的AI辅助编码体验。",
+      "content": "HN Points: 280"
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "title_zh": "Rowboat — 开源本地优先的Claude桌面替代方案",
+      "url": "https://news.ycombinator.com/item?id=45276145",
+      "summary": "开源的本地优先AI助手应用，作为Claude桌面版的替代方案，注重数据隐私和本地运行。",
+      "content": "HN Points: 219"
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "Distilling DeepSeek into GPT-OSS doesn't transfer censorship",
+      "title_zh": "将DeepSeek蒸馏到GPT-OSS中不会转移审查行为",
+      "url": "https://news.ycombinator.com/item?id=45275007",
+      "summary": "研究发现将DeepSeek模型知识蒸馏到开源GPT模型中时，原始模型的审查和安全限制不会被迁移。",
+      "content": "HN Points: 170"
+    },
+    {
+      "id": "ai-11",
+      "type": "ai",
+      "title": "Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity",
+      "title_zh": "Expanse (YC P26) — 释放闲置GPU算力",
+      "url": "https://news.ycombinator.com/item?id=45273839",
+      "summary": "Y Combinator孵化的Expanse平台，通过共享和调度闲置GPU算力来降低AI计算成本。",
+      "content": "HN Points: 103"
+    },
+    {
+      "id": "ai-12",
+      "type": "ai",
+      "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into AI",
+      "title_zh": "Screenpipe (YC S26) — 录制你的工作过程并转化为AI能力",
+      "url": "https://news.ycombinator.com/item?id=45273616",
+      "summary": "Y Combinator孵化的Screenpipe项目，通过录制屏幕工作流程来训练个性化AI模型，实现工作流程自动化。",
+      "content": "HN Points: 88"
+    }
+  ]
+}
