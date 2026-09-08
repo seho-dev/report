@@ -1,0 +1,424 @@
+{
+  "date": "2026-09-08",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "heygen-com/hyperframes",
+      "title_zh": "超帧视频渲染引擎",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "summary": "允许用户通过HTML编写内容并渲染为视频，专为AI代理构建的视频生成工具",
+      "content": "Write HTML. Render video. Built for agents.",
+      "stars": "45851"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "microsoft/markitdown",
+      "title_zh": "微软文档转换工具",
+      "url": "https://github.com/microsoft/markitdown",
+      "summary": "微软开源的文档转换工具，支持将各种文件格式转换为Markdown",
+      "content": "Python tool for converting files and office documents to Markdown.",
+      "stars": "180174"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "mksglu/context-mode",
+      "title_zh": "上下文模式",
+      "url": "https://github.com/mksglu/context-mode",
+      "summary": "为AI代理提供上下文管理功能的轻量级工具",
+      "content": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": "98"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "jo-inc/camofox-browser",
+      "title_zh": "CamoFox浏览器",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "summary": "基于Firefox的隐私保护浏览器，集成反检测功能",
+      "content": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "stars": "9674"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "MoonTechLab/LunaTV",
+      "title_zh": "LunaTV流媒体平台",
+      "url": "https://github.com/MoonTechLab/LunaTV",
+      "summary": "开源流媒体视频平台，支持多种视频源",
+      "content": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+      "stars": "9699"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "affaan-m/ECC",
+      "title_zh": "企业云协调器",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "企业级云基础设施管理与编排工具",
+      "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "252819"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "coreyhaines31/marketingskills",
+      "title_zh": "营销技能学习资源",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "summary": "营销技能学习资源集合，涵盖SEO、内容营销等",
+      "content": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "stars": "31"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "The-Swarm-Corporation/AutoHedge",
+      "title_zh": "自动对冲系统",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "summary": "基于AI的自动对冲交易系统，用于金融风险管理",
+      "content": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "stars": "5249"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "BraveOPotato/FckSignups",
+      "title_zh": "反注册轰炸工具",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "summary": "防止邮箱被注册轰炸的防护工具",
+      "content": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "stars": "3809"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "bytedance/deer-flow",
+      "title_zh": "字节跳动鹿流框架",
+      "url": "https://github.com/bytedance/deer-flow",
+      "summary": "字节跳动开源的深度推理与研究流程框架",
+      "content": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": "81844"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "openai/skills",
+      "title_zh": "OpenAI技能库",
+      "url": "https://github.com/openai/skills",
+      "summary": "OpenAI开源的AI代理技能工具库",
+      "content": "Skills Catalog for Codex",
+      "stars": "26023"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "lightpanda-io/browser",
+      "title_zh": "Lightpanda轻量浏览器",
+      "url": "https://github.com/lightpanda-io/browser",
+      "summary": "专为AI代理和自动化设计的超轻量级浏览器引擎",
+      "content": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": "34839"
+    },
+    {
+      "id": "gh-13",
+      "type": "github",
+      "title": "pascalorg/editor",
+      "title_zh": "Pascal编辑器",
+      "url": "https://github.com/pascalorg/editor",
+      "summary": "基于Web的Pascal语言集成开发环境",
+      "content": "Create and share 3D architectural projects.",
+      "stars": "22324"
+    },
+    {
+      "id": "gh-14",
+      "type": "github",
+      "title": "ruvnet/ruflo",
+      "title_zh": "Ruflo金融数据分析",
+      "url": "https://github.com/ruvnet/ruflo",
+      "summary": "加密货币与金融数据分析工具，支持实时市场监控",
+      "content": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": "71386"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Keep Our Servers Running",
+      "title_zh": "保持我们的服务器运行",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "summary": "Hacker News热门讨论，获得939分，244条评论",
+      "content": "HN Score: 939, Comments: 244"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+      "title_zh": "2.16亿台间谍电视——LG智能电视隐私问题",
+      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "summary": "Hacker News热门讨论，获得447分，700条评论",
+      "content": "HN Score: 447, Comments: 700"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "bzip3",
+      "title_zh": "bzip3压缩工具",
+      "url": "https://github.com/iczelia/bzip3",
+      "summary": "Hacker News热门讨论，获得364分，104条评论",
+      "content": "HN Score: 364, Comments: 104"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "title_zh": "Caltech Mathathon——首届专注研究级数学的黑客马拉松",
+      "url": "https://mathathonchallenge.com/index.html",
+      "summary": "加州理工学院举办的首个以研究级数学为导向的黑客马拉松",
+      "content": "HN Score: 216, Comments: 76"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "WeatherNext 3",
+      "title_zh": "WeatherNext 3天气预报模型",
+      "url": "https://deepmind.google/science/weathernext/",
+      "summary": "Hacker News热门讨论，获得201分，41条评论",
+      "content": "HN Score: 201, Comments: 41"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "title_zh": "看洛杉矶如何一座座建筑拔地而起（1880–2026）",
+      "url": "https://lax-skyline.parcelscope.net/",
+      "summary": "可视化展示洛杉矶1880年至2026年的城市发展与建筑变迁",
+      "content": "HN Score: 189, Comments: 92"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Live map of public transport in Belgium",
+      "title_zh": "比利时公共交通实时地图",
+      "url": "https://openbaarvervoerbelgie.be/",
+      "summary": "比利时全国公共交通实时运行地图",
+      "content": "HN Score: 182, Comments: 75"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Simple Is Not Small",
+      "title_zh": "简单不等于渺小",
+      "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+      "summary": "关于软件设计中简单性与规模关系的深度思考",
+      "content": "HN Score: 177, Comments: 58"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "This Month in Ladybird – August 2026",
+      "title_zh": "Ladybird浏览器月报——2026年8月",
+      "url": "https://ladybird.org/newsletter/2026-08-31/",
+      "summary": "独立浏览器引擎Ladybird的2026年8月开发进展月报",
+      "content": "HN Score: 136, Comments: 28"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "title_zh": "针对整个Linux发行版的信任攻击",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "summary": "利用编译器信任链对Linux发行版实施的后门攻击技术分析",
+      "content": "HN Score: 127, Comments: 31"
+    },
+    {
+      "id": "hn-11",
+      "type": "hn",
+      "title": "Scientists observe Einstein's gravity in the quantum world",
+      "title_zh": "科学家在量子世界观测到爱因斯坦引力效应",
+      "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+      "summary": "物理学家首次在量子尺度上观测到引力效应，验证广义相对论",
+      "content": "HN Score: 121, Comments: 27"
+    },
+    {
+      "id": "hn-12",
+      "type": "hn",
+      "title": "Icy Moons Are Ocean Worlds",
+      "title_zh": "冰冻卫星是海洋世界",
+      "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+      "summary": "木卫二等冰冻卫星被证实拥有地下海洋，具备生命存在的可能性",
+      "content": "HN Score: 120, Comments: 12"
+    },
+    {
+      "id": "hn-13",
+      "type": "hn",
+      "title": "Decoding the NEC V20 Microcode",
+      "title_zh": "解码NEC V20微码",
+      "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+      "summary": "逆向工程分析NEC V20处理器的微程序控制器",
+      "content": "HN Score: 111, Comments: 7"
+    },
+    {
+      "id": "hn-14",
+      "type": "hn",
+      "title": "The Dataflow Model Revisited",
+      "title_zh": "重访数据流模型",
+      "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+      "summary": "重新审视数据流编程模型及其在现代系统中的应用",
+      "content": "HN Score: 78, Comments: 14"
+    },
+    {
+      "id": "hn-15",
+      "type": "hn",
+      "title": "How to bring up the Linux Kernel on a new platform",
+      "title_zh": "如何在新平台上启动Linux内核",
+      "url": "https://werwolv.net/posts/linux_bringup/",
+      "summary": "Linux内核移植到新硬件平台的完整指南",
+      "content": "HN Score: 65, Comments: 5"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems",
+      "title_zh": "双层协调反思：多智能体大语言模型系统的博弈论方法",
+      "url": "https://huggingface.co/papers/2609.02750",
+      "summary": "提出基于博弈论的双层协调机制，提升多智能体LLM系统推理能力",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Iris: Climbing to the Search Frontier",
+      "title_zh": "Iris：攀登搜索前沿",
+      "url": "https://huggingface.co/papers/2609.04304",
+      "summary": "新型检索增强生成系统，在搜索前沿领域取得突破",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Motion-Omni: End-to-End Joint Speech and Full-Body Motion for Spoken Dialogue",
+      "title_zh": "Motion-Omni：端到端联合语音与全身对话动作生成",
+      "url": "https://huggingface.co/papers/2609.04250",
+      "summary": "支持同时生成语音和全身动作的端到端AI模型",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "The Attention Triangle in Audio-Video Models",
+      "title_zh": "音视频模型中的注意力三角",
+      "url": "https://huggingface.co/papers/2609.03586",
+      "summary": "揭示音视频多模态模型中注意力机制的三角关系",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
+      "title_zh": "WorldSculpt：从真实视频生成组合式3D世界",
+      "url": "https://huggingface.co/papers/2609.05416",
+      "summary": "基于真实视频进行3D世界组合式生成的新方法",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Enoki: Efficient Multi-Level Hallucination Detection",
+      "title_zh": "Enoki：高效多层次幻觉检测",
+      "url": "https://huggingface.co/papers/2609.00581",
+      "summary": "针对大语言模型的高效多层次幻觉检测框架",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Ask Before You Optimize: Dynamic Pre-Formulation Clarification for Interactive Optimization",
+      "title_zh": "先问再优化：交互式优化的动态预构建澄清方法",
+      "url": "https://huggingface.co/papers/2609.05258",
+      "summary": "通过动态预构建澄清提升交互式优化推理效果",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference",
+      "title_zh": "不要丢弃Dropout：优化层稀疏性以高效训练LLM",
+      "url": "https://huggingface.co/papers/2609.05275",
+      "summary": "通过保留Dropout优化层稀疏性，提升大语言模型训练和推理效率",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Formalizing Fermat's Last Theorem",
+      "title_zh": "形式化费马大定理",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "summary": "用形式化数学证明方法验证费马大定理",
+      "content": ""
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "title_zh": "使用LLM发帖时你的知识大门敞开了（2025）",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "summary": "讨论使用大语言模型撰写帖子时的知识安全隐患",
+      "content": ""
+    },
+    {
+      "id": "ai-11",
+      "type": "ai",
+      "title": "An Alien Mind",
+      "title_zh": "外星思维",
+      "url": "https://openai.com/index/an-alien-mind/",
+      "summary": "探讨人工智能是否能产生类似外星智能的思维方式",
+      "content": ""
+    },
+    {
+      "id": "ai-12",
+      "type": "ai",
+      "title": "Bill Gates tries to install MovieMaker (2003)",
+      "title_zh": "比尔·盖茨尝试安装MovieMaker（2003年）",
+      "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+      "summary": "回顾2003年比尔·盖茨演示安装Windows MovieMaker的尴尬视频",
+      "content": ""
+    },
+    {
+      "id": "ai-13",
+      "type": "ai",
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "title_zh": "人工神经网络的涌现符号结构",
+      "url": "https://arxiv.org/abs/2608.29530",
+      "summary": "研究人工神经网络中涌现出的符号化表示结构",
+      "content": ""
+    },
+    {
+      "id": "ai-14",
+      "type": "ai",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "title_zh": "Spotify的Portal将我的Claude Code令牌使用量降低了90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "summary": "Spotify开源的Portal工具大幅降低Claude Code的令牌消耗",
+      "content": ""
+    },
+    {
+      "id": "ai-15",
+      "type": "ai",
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "title_zh": "TERMy——一个不使用LLM的快速终端助手",
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "summary": "开源终端AI助手，不依赖大语言模型，注重实际操作能力",
+      "content": ""
+    },
+    {
+      "id": "ai-16",
+      "type": "ai",
+      "title": "Fermat's Last Theorem in Lean 4",
+      "title_zh": "Lean 4中的费马大定理",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "summary": "在Lean 4形式化证明系统中形式化费马大定理",
+      "content": ""
+    }
+  ]
+}
