@@ -1,0 +1,305 @@
+{
+  "date": "2026-09-09",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "ayghri/i-have-adhd",
+      "title_zh": "I-have-ADHD：防止编程代理遗忘任务的技能",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "summary": "一个让AI编程代理保持专注、避免任务遗漏的技能模块，帮助开发者管理注意力分散问题。",
+      "content": "Stars: 30345, Stars today: 656\nA skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": "30345"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "cathrynlavery/diagram-design",
+      "title_zh": "Diagram Design：图表设计指南",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "关于如何设计清晰、美观的技术图表的实践指南，涵盖架构图、流程图等常见图表类型。",
+      "content": "Stars: 34750, Stars today: 710\n38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "34750"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "openai/skills",
+      "title_zh": "OpenAI Skills：技能系统模板",
+      "url": "https://github.com/openai/skills",
+      "summary": "OpenAI官方发布的技能系统模板，为AI助手提供可复用的技能定义和组织框架。",
+      "content": "Stars: 26498, Stars today: 490\nSkills Catalog for Codex",
+      "stars": "26498"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "affaan-m/ECC",
+      "title_zh": "ECC：企业级通信组件库",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "一套企业级通信组件库，提供高性能的消息传递和通信解决方案。",
+      "content": "Stars: 254282, Stars today: 1,427\nThe agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "254282"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "heygen-com/hyperframes",
+      "title_zh": "HyperFrames：AI视频帧生成引擎",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "summary": "HeyGen推出的AI视频帧生成引擎，用于创建高质量的数字人视频内容。",
+      "content": "Stars: 47736, Stars today: 2,627\nWrite HTML. Render video. Built for agents.",
+      "stars": "47736"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "coreyhaines31/marketingskills",
+      "title_zh": "Marketing Skills：营销技能集",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "summary": "面向AI编程代理的营销技能集合，涵盖SEO、内容营销、社交媒体运营等能力。",
+      "content": "Stars: 48792, Stars today: 666\nMarketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "stars": "48792"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "obra/superpowers",
+      "title_zh": "Superpowers：AI代理超级能力集",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "为AI编程代理提供一系列强大的\"超能力\"技能，增强代理的编码和问题解决能力。",
+      "content": "Stars: 283345, Stars today: 452\nAn agentic skills framework & software development methodology that works.",
+      "stars": "283345"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "multica-ai/andrej-karpathy-skills",
+      "title_zh": "Andrej Karpathy 技能集：AI大师权威编程方法",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "summary": "以Andrej Karpathy的编程理念和方法论为核心的AI编程技能集，涵盖深度学习最佳实践。",
+      "content": "Stars: 211435, Stars today: 333\nA single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": "211435"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "microsoft/markitdown",
+      "title_zh": "MarkItDown：微软文档转换工具",
+      "url": "https://github.com/microsoft/markitdown",
+      "summary": "微软开源的文档转换工具，可将各种格式的文档（PDF、PPT、Word等）转换为Markdown。",
+      "content": "Stars: 181660, Stars today: 2,047\nPython tool for converting files and office documents to Markdown.",
+      "stars": "181660"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "jo-inc/camofox-browser",
+      "title_zh": "CamoFox Browser：隐私优先的浏览器",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "summary": "一款注重隐私保护的浏览器项目，提供隐形浏览和反追踪功能。",
+      "content": "Stars: 10472, Stars today: 871\nStealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "stars": "10472"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "MoonTechLab/LunaTV",
+      "title_zh": "LunaTV：开源流媒体平台",
+      "url": "https://github.com/MoonTechLab/LunaTV",
+      "summary": "MoonTechLab开发的开源流媒体平台，提供视频播放和内容管理功能。",
+      "content": "Stars: 10154, Stars today: 505\n本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+      "stars": "10154"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "browser-use/browser-use",
+      "title_zh": "Browser Use：AI浏览器自动化框架",
+      "url": "https://github.com/browser-use/browser-use",
+      "summary": "一个强大的AI浏览器自动化框架，让AI代理能够像人类一样操作网页浏览器。",
+      "content": "Stars: 113472, Stars today: 228\nAgents that use the browser.",
+      "stars": "113472"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "title_zh": "Navier-Stokes方程：Tristan Buckmaster研究论文",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "summary": "关于Navier-Stokes方程的最新研究论文，该方程是流体力学的核心问题之一，也是千禧年数学难题。",
+      "content": "HN Score: 1163, Comments: 510"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "title_zh": "关于Navier-Stokes千禧年奖问题",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "summary": "深入探讨Navier-Stokes千禧年奖问题，该问题关乎流体运动的数学理解，悬赏100万美元。",
+      "content": "HN Score: 1056, Comments: 896"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "title_zh": "AlphaGenome图谱：人类DNA高分辨率地图",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "summary": "AlphaGenome发布了人类DNA的高分辨率映射图谱，为基因组研究提供新的重要参考。",
+      "content": "HN Score: 475, Comments: 114"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "DaVinci Resolve 21.1",
+      "title_zh": "DaVinci Resolve 21.1发布",
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "summary": "Blackmagic Design发布DaVinci Resolve 21.1版本，带来新的编辑和调色功能。",
+      "content": "HN Score: 338, Comments: 151"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "title_zh": "I-have-ADHD：防止编程代理遗漏任务的技能",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "summary": "一个帮助AI编程代理保持注意力集中、防止遗漏已分配任务的实用技能模块。",
+      "content": "HN Score: 291, Comments: 226"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Muse – Meta’s personal AI agent",
+      "title_zh": "Muse：Meta推出的个人AI代理",
+      "url": "https://ai.meta.com/muse/",
+      "summary": "Meta发布Muse个人AI代理，具备记忆、推理和多模态交互能力。",
+      "content": "HN Score: 214, Comments: 207"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "The two Christian saints who are the Buddha",
+      "title_zh": "两位基督教圣人与佛陀的渊源",
+      "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+      "summary": "一篇探讨基督教圣人与佛教之间历史和哲学联系的文章。",
+      "content": "HN Score: 206, Comments: 145"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "title_zh": "Qwen3.8 27B量化基准测试：4位保持性能，1位崩溃",
+      "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+      "summary": "对Qwen3.8 27B模型不同量化精度的性能基准测试，4位量化表现稳健但1位量化严重退化。",
+      "content": "HN Score: 202, Comments: 99"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Show HN: Copperhead – Cursor for circuit boards",
+      "title_zh": "HN展示：: Copperhead – Cursor for circuit boards",
+      "url": "https://copperhead.sh/",
+      "summary": "Hacker News上的项目展示帖：Show HN: Copperhead – Cursor for circuit boards",
+      "content": "HN Score: 200, Comments: 77"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+      "title_zh": "Kimi K3（2.8T参数）在MacBook Pro上以1 token/s运行，通过四块SSD流式读取",
+      "url": "https://github.com/argonautlabsai/deltafin",
+      "summary": "Moonshot AI的Kimi K3大模型（2.8万亿参数）成功在MacBook Pro上运行，通过四块SSD流式加载实现推理。",
+      "content": "HN Score: 195, Comments: 95"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "title_zh": "Rowboat：开源本地Claude桌面端替代方案",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "summary": "Rowboat是一个开源、本地优先的AI助手，可作为Claude桌面端的替代方案。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Launch HN: TeamOut (YC W22) – AI agent for planning company retreats",
+      "title_zh": "TeamOut：AI代理规划公司团建",
+      "url": "https://app.teamout.com/ai",
+      "summary": "TeamOut（YC W22）推出AI代理，帮助公司自动规划和组织团建活动。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+      "title_zh": "通过离散扩散实现LLM无损加速",
+      "url": "https://huggingface.co/papers/2609.04010",
+      "summary": "研究论文：通过离散扩散方法实现大语言模型的无损推理加速。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience",
+      "title_zh": "FlowBalance：基于验证器的策略内推理自改进",
+      "url": "https://huggingface.co/papers/2609.03241",
+      "summary": "一种通过验证器引导的自改进方法，让AI模型从自己的推理过程中学习和优化。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation",
+      "title_zh": "ENEAS：嵌入引导的自适应分割神经集成",
+      "url": "https://huggingface.co/papers/2609.03756",
+      "summary": "一种嵌入引导的神经网络集成方法，用于自适应图像分割任务。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Causal Foundation Models",
+      "title_zh": "因果基础模型",
+      "url": "https://huggingface.co/papers/2609.03003",
+      "summary": "研究如何将因果推理能力融入基础模型，提升模型的因果理解能力。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Verify Before You Distill: Prompt-Level Teacher Gating for On-Policy Distillation",
+      "title_zh": "蒸馏前先验证：基于提示级别的教师门控策略内蒸馏方法",
+      "url": "https://huggingface.co/papers/2609.02998",
+      "summary": "一种新的知识蒸馏方法，在蒸馏过程中引入验证机制和教师门控，提升策略内蒸馏效果。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents",
+      "title_zh": "EmbodiedSkills：统一的具身智能体技能编排、训练和部署框架",
+      "url": "https://huggingface.co/papers/2609.01281",
+      "summary": "一个统一框架，支持具身智能体技能的编排、训练和部署，简化机器人技能管理流程。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation",
+      "title_zh": "一个症状三个杠杆：策略内自蒸馏方法批判性综述",
+      "url": "https://huggingface.co/papers/2608.25936",
+      "summary": "对策略内自蒸馏方法的批判性综述，分析了三种改进策略并评估其效果。",
+      "content": ""
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "Unifying Conformal Language Tasks with In-Context Ensembles",
+      "title_zh": "用上下文集成统一符合性语言任务",
+      "url": "https://huggingface.co/papers/2609.03005",
+      "summary": "提出用上下文集成方法统一处理符合性语言任务的新框架。",
+      "content": ""
+    }
+  ]
+}
