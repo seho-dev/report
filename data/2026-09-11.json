@@ -1,0 +1,464 @@
+{
+  "date": "2026-09-11",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "summary": "一个防止编程助手埋没答案的技能，专为ADHD用户优化输出格式，让关键信息不再被淹没。",
+      "content": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": "38226",
+      "stars_today": "3,882",
+      "language": "Python",
+      "title_zh": "i-have-adhd：编程助手ADHD友好输出技能"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "summary": "浏览器中的间谍卫星模拟器，使用真实数据——基于开源空间情报数据，在逼真3D地球上实时可视化全球情报信息。",
+      "content": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": "24197",
+      "stars_today": "1,762",
+      "language": "JavaScript",
+      "title_zh": "上帝之眼：浏览器中的间谍卫星模拟器"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一个经过验证的Agent技能框架和软件开发方法论，帮助开发者构建更强大的AI辅助开发工作流。",
+      "content": "An agentic skills framework & software development methodology that works.",
+      "stars": "284691",
+      "stars_today": "732",
+      "language": "Shell",
+      "title_zh": "Superpowers：Agent技能框架与软件开发方法论"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "summary": "开源AI交易代理，可在1000+市场自主运行——包括Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX和5条EVM链。自动扫描套利机会、即时执行交易、管理风险，支持机器间支付协议，基于Claude构建。",
+      "content": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "stars": "1625",
+      "stars_today": "277",
+      "language": "TypeScript",
+      "title_zh": "CloddsBot：开源AI交易Agent"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "Tencent/teamai-cli",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "summary": "腾讯开源的团队AI命令行工具，旨在让每个团队都能实现AI原生化工作流。",
+      "content": "Make Every Team AI Native",
+      "stars": "3763",
+      "stars_today": "841",
+      "language": "TypeScript",
+      "title_zh": "腾讯teamai-cli：让每个团队都AI原生化"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "summary": "支持数百种模型和提供商，一条命令即可找到适合你硬件配置运行的LLM模型，支持本地和云端推理。",
+      "content": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "stars": "35719",
+      "stars_today": "258",
+      "language": "Rust",
+      "title_zh": "LLMFit：一键找到适配硬件的LLM模型"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "liquidslr/system-design-notes",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "summary": "《System Design Interview - An Insider's Guide》一书的读书笔记，系统设计面试备考学习资源。",
+      "content": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "stars": "18757",
+      "stars_today": "900",
+      "language": "",
+      "title_zh": "系统设计面试笔记"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "为Claude Code、Codex和Pi提供38种编辑级图表类型，自包含HTML+SVG格式，无需外部依赖。",
+      "content": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "37718",
+      "stars_today": "1,294",
+      "language": "HTML",
+      "title_zh": "图表设计：38种编辑级图表类型"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "summary": "GPT Image 2/2.5提示词与案例库，包含530+案例、20+套工业级模板与可复用Skills，新增2.5同提示词对比专区。",
+      "content": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "stars": "30817",
+      "stars_today": "962",
+      "language": "JavaScript",
+      "title_zh": "Awesome GPT Image 2：GPT图像提示词案例库"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "summary": "开源3D纹理绘画工具，用于游戏开发和3D建模中的材质纹理创作，支持PBR工作流。",
+      "content": "Graphics Creation Tools",
+      "stars": "4404",
+      "stars_today": "72",
+      "language": "C",
+      "title_zh": "ArmorPaint：3D纹理绘画工具"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "summary": "免费MIT AI网关：单一端点接入352个提供商、1200+模型，支持Claude Code、Codex、Cursor等工具，具备配额感知自动回退和令牌压缩功能。",
+      "content": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+      "stars": "64224",
+      "stars_today": "626",
+      "language": "TypeScript",
+      "title_zh": "OmniRoute：免费开源AI网关"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "summary": "用纯C语言在现有硬件上运行前沿MoE模型，零依赖，专家层从磁盘流式加载——小引擎跑大模型。",
+      "content": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "stars": "27444",
+      "stars_today": "98",
+      "language": "C",
+      "title_zh": "Colibri：轻量级MoE模型推理引擎"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "iPhone Duo",
+      "title_zh": "苹果iPhone Duo双机产品发布",
+      "url": "https://www.apple.com/iphone-duo/",
+      "summary": "苹果发布iPhone Duo双机产品，引发科技社区热议。",
+      "content": "HN Score: 1406, Comments: 2425, Author: thecosmicfrog"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "title_zh": "Shopify从React Native回归Swift和Kotlin原生开发",
+      "url": "https://shopify.engineering/back-to-native",
+      "summary": "Shopify宣布将其移动应用从React Native迁移回Swift和Kotlin原生开发，引发跨平台与原生开发路线讨论。",
+      "content": "HN Score: 704, Comments: 467, Author: fnthawar2"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "title_zh": "研究者能否信任OpenAI处理未发表数学成果？质疑声再起",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "summary": "研究者对OpenAI处理未发表数学成果的信任问题引发更多讨论和质疑，关注学术合作中的数据安全。",
+      "content": "HN Score: 592, Comments: 594, Author: pred_"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Rust is tier-1 language at Microsoft",
+      "title_zh": "Rust成为微软一级支持语言",
+      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "summary": "微软正式将Rust列为一级支持语言，标志着Rust在企业级开发中的重要地位进一步提升。",
+      "content": "HN Score: 582, Comments: 320, Author: mmastrac"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "List of references on Sony websites to players \"owning\" their digital games",
+      "title_zh": "索尼官网关于玩家拥有数字游戏的引用列表",
+      "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
+      "summary": "整理了索尼官网上关于玩家拥有其数字游戏的各种表述引用列表，引发数字所有权讨论。",
+      "content": "HN Score: 352, Comments: 117, Author: haunter"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "title_zh": "Cognition发布SWE-2软件工程模型",
+      "url": "https://cognition.com/blog/swe-2",
+      "summary": "Cognition发布新款软件工程AI模型SWE-2，性能可与Fable 5.1和GPT-Astra相媲美。",
+      "content": "HN Score: 341, Comments: 140, Author: seelos"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "title_zh": "Windows XP选择初始用户头像的算法",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "summary": "探讨Windows XP操作系统选择默认用户头像时所使用的算法机制。",
+      "content": "HN Score: 335, Comments: 164, Author: soheilpro"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Don't let anyone take away your big box of cables",
+      "title_zh": "别让任何人拿走你的线缆收藏箱",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "summary": "一篇关于程序员必备线缆收藏的趣味文章，引发开发者对工具和线缆收集的共鸣。",
+      "content": "HN Score: 281, Comments: 221, Author: Brajeshwar"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+      "title_zh": "日立推出支持太阳能电价控制的CO2热泵热水器",
+      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+      "summary": "日立发布新型CO2热泵热水器，内置太阳能友好型电价控制功能，帮助用户节能降费。",
+      "content": "HN Score: 280, Comments: 219, Author: thelastgallon"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Stockfish 19",
+      "title_zh": "Stockfish 19国际象棋引擎发布",
+      "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
+      "summary": "开源国际象棋引擎Stockfish发布第19版，持续提升引擎棋力和搜索效率。",
+      "content": "HN Score: 262, Comments: 149, Author: atiedebee"
+    },
+    {
+      "id": "hn-11",
+      "type": "hn",
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "title_zh": "卫星照片操控技术意外揭示古代影像",
+      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "summary": "一种操控卫星照片的技术被用于揭示历史影像，发现了古代地表特征和历史遗迹。",
+      "content": "HN Score: 249, Comments: 36, Author: gumby"
+    },
+    {
+      "id": "hn-12",
+      "type": "hn",
+      "title": "Neki – Sharded Postgres",
+      "title_zh": "Neki：PostgreSQL分片解决方案",
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "summary": "Neki——一个面向PostgreSQL的分片解决方案，帮助提升数据库横向扩展能力。",
+      "content": "HN Score: 188, Comments: 97, Author: simon_weber"
+    },
+    {
+      "id": "hn-13",
+      "type": "hn",
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "title_zh": "Forgejo <=16.0.3严重远程代码执行漏洞",
+      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "summary": "Forgejo代码托管平台16.0.3及以下版本存在严重的远程代码执行漏洞，建议立即升级。",
+      "content": "HN Score: 143, Comments: 52, Author: weierstass"
+    },
+    {
+      "id": "hn-14",
+      "type": "hn",
+      "title": "Silicon Valley is transforming the military-industrial complex?",
+      "title_zh": "硅谷正在重塑军工复合体？",
+      "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
+      "summary": "探讨硅谷科技公司如何改变和重塑传统军事工业复合体的格局与运作模式。",
+      "content": "HN Score: 141, Comments: 274, Author: paimapi"
+    },
+    {
+      "id": "hn-15",
+      "type": "hn",
+      "title": "Music Theory for the 21st-Century Classroom",
+      "title_zh": "21世纪课堂音乐理论教学",
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "summary": "面向21世纪课堂的音乐理论教学资源和方法论更新。",
+      "content": "HN Score: 140, Comments: 66, Author: aanet"
+    },
+    {
+      "id": "hn-16",
+      "type": "hn",
+      "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
+      "title_zh": "道格拉斯·霍夫施塔特：类比是认知的核心",
+      "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
+      "summary": "认知科学家Douglas Hofstadter的演讲视频，深入阐述类比思维在人类认知中的核心地位。",
+      "content": "HN Score: 130, Comments: 70, Author: tosh"
+    },
+    {
+      "id": "hn-17",
+      "type": "hn",
+      "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+      "title_zh": "OpenAI的Navier-Stokes成果包含Lean 4形式化证明",
+      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+      "summary": "OpenAI发布的Navier-Stokes方程相关成果中包含Lean 4形式化验证证明，引发数学界关注。",
+      "content": "HN Score: 123, Comments: 121, Author: ibobev"
+    },
+    {
+      "id": "hn-18",
+      "type": "hn",
+      "title": "Creativity is the new moat",
+      "title_zh": "创造力是AI时代的新护城河",
+      "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+      "summary": "在AI工具日趋普及的背景下，创造力正在成为个人和企业的新竞争壁垒。",
+      "content": "HN Score: 121, Comments: 62, Author: virgil_disgr4ce"
+    },
+    {
+      "id": "hn-19",
+      "type": "hn",
+      "title": "OpenAI Agents API",
+      "title_zh": "OpenAI Agents API发布",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "summary": "OpenAI发布Agent API，为开发者提供构建和编排AI代理的标准化接口。",
+      "content": "HN Score: 90, Comments: 63, Author: aquir"
+    },
+    {
+      "id": "hn-20",
+      "type": "hn",
+      "title": "Python sets and dictionaries can have quadratic-time performance",
+      "title_zh": "Python集合和字典可能出现二次方时间复杂度",
+      "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/",
+      "summary": "Python的set和dict在特定场景下可能出现O(n²)性能问题，开发者需注意哈希碰撞风险。",
+      "content": "HN Score: 85, Comments: 50, Author: ibobev"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "title_zh": "Forge：护栏让8B小模型在Agent任务中从53%提升到99%",
+      "url": "https://github.com/antoinezambelli/forge",
+      "summary": "Forge项目展示如何通过护栏机制将80亿参数小模型在代理任务上的表现从53%大幅提升至99%。",
+      "content": "HN Score: 687, Comments: 252"
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "title_zh": "Needle2：14MB超轻量Agent大模型",
+      "url": "https://cactuscompute.com/needle",
+      "summary": "Needle2是一个仅14MB的Agent LLM，可直接运行在手机、智能手表、智能家居设备和机器人上。",
+      "content": "HN Score: 537, Comments: 185"
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "title_zh": "围棋九段棋手让两子击败AI KataGo",
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "summary": "围棋职业棋手申真谞在让两子的情况下击败了AI围棋程序KataGo，展示人类顶尖棋手实力。",
+      "content": "HN Score: 467, Comments: 187"
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
+      "title_zh": "Grok 4.6在智能分析指数中获61分",
+      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+      "summary": "xAI的Grok 4.6模型在Artificial Analysis智能评估指数中获得61分的成绩。",
+      "content": "HN Score: 343, Comments: 417"
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Ask HN: Fable hacked my piano, can I release the results?",
+      "title_zh": "Fable破解了我的钢琴，可以公开吗？",
+      "url": "https://news.ycombinator.com/item?id=49577129",
+      "summary": "一位用户询问是否可以公开AI模型Fable破解其钢琴控制系统的安全研究成果。",
+      "content": "HN Score: 299, Comments: 165"
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "title_zh": "Juggler：JUCE创作者开源的图形界面编程Agent",
+      "url": "https://github.com/juggler-ai/juggler",
+      "summary": "JUCE框架的创建者发布了一个开源的图形界面编程代理工具Juggler。",
+      "content": "HN Score: 280, Comments: 119"
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "title_zh": "OpenAI开始推出GPT-6 Astra模型",
+      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "summary": "OpenAI开始逐步推出GPT-6 Astra模型，标志着最新一代大语言模型正式问世。",
+      "content": "HN Score: 278, Comments: 253"
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "title_zh": "举报两篇虚假作者论文，均被接受为口头报告",
+      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "summary": "研究者举报了两篇虚假作者的学术论文，但两篇均被会议接受为口头报告，揭示严重学术审核漏洞。",
+      "content": "HN Score: 276, Comments: 162"
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Show HN: Write It Down – Personal finance tracker",
+      "title_zh": "Write It Down：个人财务追踪器",
+      "url": "https://write-it-down.com",
+      "summary": "一款简洁的开源个人财务追踪工具，帮助用户便捷记录和管理日常收支。",
+      "content": "HN Score: 271, Comments: 173"
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "title_zh": "用四大AI模型绘制蒙娜丽莎对比",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "summary": "对比GPT-5.6、Claude、Gemini和Grok四大顶级AI模型生成蒙娜丽莎图像的效果差异。",
+      "content": "HN Score: 249, Comments: 104"
+    },
+    {
+      "id": "ai-11",
+      "type": "ai",
+      "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
+      "title_zh": "LLM工作原理：Karpathy讲座交互式可视化指南",
+      "url": "https://ynarwal.github.io/how-llms-work/",
+      "summary": "基于Andrej Karpathy经典讲座制作的交互式可视化指南，帮助直观理解大语言模型的工作原理。",
+      "content": "HN Score: 245, Comments: 55"
+    },
+    {
+      "id": "ai-12",
+      "type": "ai",
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "title_zh": "安全审计国防部承包商：发现多租户授权漏洞",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "summary": "安全研究人员在国防部承包商系统中发现多租户授权漏洞的实战案例分析。",
+      "content": "HN Score: 221, Comments: 101"
+    },
+    {
+      "id": "ai-13",
+      "type": "ai",
+      "title": "Show HN: I am building a map of people who lived in the Roman Empire",
+      "title_zh": "构建罗马帝国居民历史地图",
+      "url": "https://new.roman-names.com/",
+      "summary": "一个旨在构建罗马帝国历史居民分布地图的开源项目，可视化古代人口迁移。",
+      "content": "HN Score: 210, Comments: 52"
+    },
+    {
+      "id": "ai-14",
+      "type": "ai",
+      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "title_zh": "Palmier Pro：AI驱动的开源macOS视频编辑器",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "summary": "一款开源macOS视频编辑器，专为AI辅助视频创作工作流而设计。",
+      "content": "HN Score: 191, Comments: 41"
+    },
+    {
+      "id": "ai-15",
+      "type": "ai",
+      "title": "Show HN: Richard – A CNN written in C++ and Vulkan (no ML or math libs)",
+      "title_zh": "Richard：纯C++和Vulkan实现的CNN",
+      "url": "https://github.com/robjinman/richard",
+      "summary": "一个用纯C++和Vulkan实现的卷积神经网络，完全不依赖机器学习或数学库。",
+      "content": "HN Score: 184, Comments: 24"
+    }
+  ]
+}
