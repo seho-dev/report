@@ -1,0 +1,323 @@
+{
+  "date": "2026-09-12",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "i-have-adhd",
+      "title_zh": "i-have-adhd：编程助手ADHD友好输出技能",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "summary": "一个防止编程助手埋没答案的技能，专为ADHD用户优化输出格式，让关键信息不再被淹没。",
+      "content": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": "41745"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "gods-eye-view",
+      "title_zh": "上帝之眼：浏览器中的间谍卫星模拟器",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "summary": "浏览器中的间谍卫星模拟器，使用真实数据——基于开源空间情报数据，在逼真3D地球上实时可视化全球情报信息。",
+      "content": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": "27058"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "iloader",
+      "title_zh": "iLoader：用户友好的侧载工具",
+      "url": "https://github.com/nab138/iloader",
+      "summary": "一款用户友好的侧载工具，简化应用侧载流程。",
+      "content": "User friendly sideloader",
+      "stars": "2901"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "DeskcommCRM",
+      "title_zh": "DeskcommCRM：开源AI销售操作系统",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "summary": "开源AI销售操作系统——自托管CRM，内置原生AI代理和WhatsApp集成，是Kommo、Octadesk和Intercom的开源替代方案。",
+      "content": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "stars": "1328"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "PI-Desktop",
+      "title_zh": "PI-Desktop：本地优先AI编码代理桌面端",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "summary": "本地优先的AI编码代理桌面应用，基于Electron + Rust宿主核心 + pi Agent Harness，支持用户安装插件。",
+      "content": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "stars": "2767"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "armorpaint",
+      "title_zh": "ArmorPaint：3D纹理绘画工具",
+      "url": "https://github.com/armory3d/armorpaint",
+      "summary": "开源3D纹理绘画工具，用于游戏开发和3D建模中的材质纹理创作，支持PBR工作流。",
+      "content": "Graphics Creation Tools",
+      "stars": "4715"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "CloddsBot",
+      "title_zh": "CloddsBot：开源AI交易代理",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "summary": "开源AI交易代理，可在1000+市场自主运行——包括Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX和5条EVM链。自动扫描套利机会、即时执行交易、管理风险。",
+      "content": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "stars": "2139"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "llm_wiki",
+      "title_zh": "LLM Wiki：文档知识库桌面应用",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "summary": "跨平台桌面应用，将你的文档自动转化为有组织的、相互关联的知识库——LLM增量构建并维护持久化的wiki。",
+      "content": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically.",
+      "stars": "18721"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "superpowers",
+      "title_zh": "Superpowers：Agent技能框架与软件开发方法论",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一个经过验证的Agent技能框架和软件开发方法论，帮助开发者构建更强大的AI辅助开发工作流。",
+      "content": "An agentic skills framework & software development methodology that works.",
+      "stars": "285358"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "Sonarr",
+      "title_zh": "Sonarr：智能PVR下载管理器",
+      "url": "https://github.com/Sonarr/Sonarr",
+      "summary": "面向新闻组和BT用户的智能PVR（个人视频录像器），自动搜索、下载和整理电视节目。",
+      "content": "Smart PVR for newsgroup and bittorrent users.",
+      "stars": "15729"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "MathModelAgent",
+      "title_zh": "MathModelAgent：数学建模AI代理",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "summary": "专为数学建模设计的Agent和技能集，自动完成数学建模并生成一份完整的可以直接提交的论文。",
+      "content": "An Agent Designed for Mathematical Modeling, Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "stars": "4851"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "OpenFlux",
+      "title_zh": "OpenFlux：网络栈研究工具",
+      "url": "https://github.com/p1neappleXpress/OpenFlux",
+      "summary": "网络栈研究工具，支持可插拔传输层的TCP隧道。",
+      "content": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "stars": "1138"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "So you want to use OpenRouter?",
+      "title_zh": "想用OpenRouter？你需要知道这些",
+      "url": "https://news.ycombinator.com/item?id=49621546",
+      "summary": "一篇关于如何使用OpenRouter的详细指南，涵盖配置、使用场景和最佳实践。",
+      "content": "HN Score: 689"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "The EPA is planning to scrap public review rules for data center pollution",
+      "title_zh": "EPA计划取消数据中心污染的公众审查规则",
+      "url": "https://news.ycombinator.com/item?id=49662672",
+      "summary": "美国环保署正计划取消数据中心污染排放的公众审查规则，引发环境监管争议。",
+      "content": "HN Score: 313"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "title_zh": "我花了220美元投Google广告，60%的安装来自机器人",
+      "url": "https://news.ycombinator.com/item?id=49662990",
+      "summary": "开发者分享在Google Play投放广告的经历，发现大部分安装量来自机器人刷量。",
+      "content": "HN Score: 234"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Logo Programming Language",
+      "title_zh": "Logo编程语言",
+      "url": "https://news.ycombinator.com/item?id=49622406",
+      "summary": "MIT媒体实验室的Logo编程语言——一种面向教育的编程语言，以其海龟绘图闻名。",
+      "content": "HN Score: 233"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "title_zh": "GrapheneOS重写的消息应用发布",
+      "url": "https://news.ycombinator.com/item?id=49663373",
+      "summary": "注重隐私的GrapheneOS系统发布了全新重写的消息应用。",
+      "content": "HN Score: 173"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+      "title_zh": "我运维PB级ClickHouse集群的5年经验",
+      "url": "https://news.ycombinator.com/item?id=49601138",
+      "summary": "分享运营PB级ClickHouse分布式数据库集群5年的实战经验和教训。",
+      "content": "HN Score: 170"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Show HN: Bodily Oddities",
+      "title_zh": "Show HN：身体奇观——人体冷知识互动网站",
+      "url": "https://news.ycombinator.com/item?id=49649789",
+      "summary": "一个展示人体各种奇特现象和冷知识的互动网站。",
+      "content": "HN Score: 153"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Global Glacier Extinction Explorer",
+      "title_zh": "全球冰川消亡探索器",
+      "url": "https://news.ycombinator.com/item?id=49660576",
+      "summary": "一个可视化展示全球冰川消亡趋势的数据探索工具。",
+      "content": "HN Score: 149"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Rune is now open source",
+      "title_zh": "Rune框架现已开源",
+      "url": "https://news.ycombinator.com/item?id=49660149",
+      "summary": "Rune框架宣布完全开源，提供更广泛的社区参与和贡献机会。",
+      "content": "HN Score: 130"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "A Design Space Exploration of Async/Await",
+      "title_zh": "异步/await的设计空间探索",
+      "url": "https://news.ycombinator.com/item?id=49626718",
+      "summary": "深入分析异步编程模型中async/await的设计空间和各种实现方案。",
+      "content": "HN Score: 101"
+    },
+    {
+      "id": "hn-11",
+      "type": "hn",
+      "title": "How the Chorleywood Bread Process transformed British bread",
+      "title_zh": "Chorleywood面包工艺如何改变了英国面包",
+      "url": "https://news.ycombinator.com/item?id=49610834",
+      "summary": "介绍Chorleywood工艺——一种彻底改变了英国面包生产方式的工业面包制作技术。",
+      "content": "HN Score: 96"
+    },
+    {
+      "id": "hn-12",
+      "type": "hn",
+      "title": "The Epic of Gilgamesh, the oldest story ever told",
+      "title_zh": "《吉尔伽美什史诗》——人类最古老的故事",
+      "url": "https://news.ycombinator.com/item?id=49653664",
+      "summary": "对人类已知最古老的故事《吉尔伽美什史诗》的深入解读和文学分析。",
+      "content": "HN Score: 89"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "title_zh": "Gemini 3.8 Flash与3.8 Flash Cyber发布",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash/",
+      "summary": "谷歌发布Gemini 3.8 Flash和3.8 Flash Cyber两个新版本模型，提升推理速度和安全性。",
+      "content": "HN Score: 1159"
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "A misalignment of AI in mathematics",
+      "title_zh": "AI在数学领域的错位问题",
+      "url": "https://mathandai.org/",
+      "summary": "探讨人工智能在数学应用中存在的偏差和错位问题，以及对数学研究的影响。",
+      "content": "HN Score: 560"
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Claude is only available to people over 18 years",
+      "title_zh": "Claude仅对18岁以上用户开放",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "summary": "Anthropic宣布Claude将仅对18岁及以上用户开放，引发AI年龄限制讨论。",
+      "content": "HN Score: 557"
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "title_zh": "Qwen 3.8 27B在Cerebras上实现1500 tokens/s推理速度",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "summary": "通义千问3.8 27B模型在Cerebras硬件上实现超高速推理，达到每秒1500 tokens。",
+      "content": "HN Score: 691"
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Muse Spark 1.3",
+      "title_zh": "Muse Spark 1.3发布",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "summary": "Meta发布Muse Spark 1.3版本，带来新的创意AI能力提升。",
+      "content": "HN Score: 690"
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "title_zh": "Forge：护栏技术将8B模型在代理任务上的表现从53%提升至99%",
+      "url": "https://github.com/antoinezambelli/forge",
+      "summary": "介绍Forge框架如何通过护栏机制大幅提升小型模型在代理任务中的准确率。",
+      "content": "HN Score: 687"
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "title_zh": "AlphaGenome图谱：人类DNA高分辨率地图",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "summary": "Google DeepMind发布人类DNA的高分辨率图谱，提供前所未有的基因组细节视图。",
+      "content": "HN Score: 598"
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "title_zh": "围棋九段棋手让两子击败AI KataGo",
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "summary": "职业围棋棋手在让两子的情况下击败了AI围棋程序KataGo，展现人类棋手的实力。",
+      "content": "HN Score: 467"
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "title_zh": "谷歌AI模式展示相同产品价格比传统搜索贵21.6%",
+      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "summary": "研究发现谷歌AI搜索模式返回的商品价格平均比传统搜索结果贵21.6%。",
+      "content": "HN Score: 403"
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "title_zh": "RTK报告节省token，但我们的成本基准测试结果不同",
+      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "summary": "对RTK声称的token节省效果进行独立基准测试，发现实际成本并未如宣传般降低。",
+      "content": "HN Score: 142"
+    }
+  ]
+}
