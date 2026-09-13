@@ -1,0 +1,323 @@
+{
+  "date": "2026-09-13",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "bilawalsidhu/gods-eye-view",
+      "title_zh": "上帝视角 - 浏览器间谍卫星模拟器",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "summary": "浏览器中的间谍卫星模拟器，使用真实数据。在照片级逼真的3D地球上提供实时开源空间情报。",
+      "content": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": "29844"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "melgarafael/DeskcommCRM",
+      "title_zh": "DeskcommCRM - 开源AI销售操作系统",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "summary": "开源AI销售操作系统，自托管CRM，内置AI代理和WhatsApp集成。是Kommo、Octadesk和Intercom的开源替代方案，支持MCP、多租户和LGPD合规。",
+      "content": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "stars": "1795"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "asgeirtj/system_prompts_leaks",
+      "title_zh": "系统提示词泄露合集",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "summary": "收集各大AI产品的系统提示词，包括Anthropic Claude Fable 5.1、Opus 5、OpenAI ChatGPT GPT-6-Astra、Google Gemini 3.8 Flash、xAI Grok等，定期更新。",
+      "content": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "stars": "65391"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "nab138/iloader",
+      "title_zh": "iloader - 用户友好的侧载工具",
+      "url": "https://github.com/nab138/iloader",
+      "summary": "一款用户友好的侧载工具，方便用户安装和管理应用。",
+      "content": "User friendly sideloader",
+      "stars": "3074"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "jihe520/MathModelAgent",
+      "title_zh": "MathModelAgent - 数学建模AI代理",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "summary": "专为数学建模设计的AI代理和技能集，可自动完成数学建模全流程，生成一份完整的可直接提交的论文。",
+      "content": "An Agent Designed for Mathematical Modeling, Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "stars": "5125"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "Sonarr/Sonarr",
+      "title_zh": "Sonarr - 智能PVR媒体管理工具",
+      "url": "https://github.com/Sonarr/Sonarr",
+      "summary": "面向新闻组和BitTorrent用户的智能PVR（个人视频录像机），可自动追踪和下载TV节目。",
+      "content": "Smart PVR for newsgroup and bittorrent users.",
+      "stars": "15919"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "alsk1992/CloddsBot",
+      "title_zh": "CloddsBot - 开源AI交易代理",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "summary": "可在1000+市场自主运行的开源AI交易代理，覆盖Polymarket、Kalshi、Binance、Hyperliquid等平台。基于Claude构建。",
+      "content": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep.",
+      "stars": "2493"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "title_zh": "awesome-llm-apps - 优秀LLM应用合集",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "summary": "收录100+ AI代理、代理技能和RAG应用的精选列表，全部免费开源。",
+      "content": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": "137618"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "p1neappleXpress/OpenFlux",
+      "title_zh": "OpenFlux - 网络栈研究工具",
+      "url": "https://github.com/p1neappleXpress/OpenFlux",
+      "summary": "网络栈研究工具，支持可插拔传输层的TCP隧道。",
+      "content": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "stars": "1397"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "multimodal-art-projection/YuE",
+      "title_zh": "YuE - 前沿AI音乐生成模型",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "summary": "YuE2：具有符号规划能力的前沿音乐生成模型，支持零样本翻唱和代理式音乐编辑。",
+      "content": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "stars": "7275"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "vxcontrol/pentagi",
+      "title_zh": "Pentagi - 全自主AI渗透测试系统",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "summary": "完全自主的AI代理系统，能够执行复杂的渗透测试任务。",
+      "content": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars": "23435"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "max-sixty/worktrunk",
+      "title_zh": "Worktrunk - Git Worktree管理CLI工具",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "summary": "专为并行AI代理工作流设计的Git Worktree管理命令行工具。",
+      "content": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "stars": "7224"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "IKEA made a mod for Skyrim [video]",
+      "title_zh": "宜家为《上古卷轴》制作了一个MOD",
+      "url": "https://news.ycombinator.com/item?id=49639647",
+      "summary": "宜家官方为游戏《上古卷轴5：天际》制作了一个游戏模组（MOD），引发了广泛关注和讨论。",
+      "content": "HN Score: 545, Comments: 145"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "A Design Space Exploration of Async/Await",
+      "title_zh": "异步/await的设计空间探索",
+      "url": "https://news.ycombinator.com/item?id=49626718",
+      "summary": "深入探索异步/await编程范式的设计空间，分析不同语言中异步编程模型的优缺点和设计权衡。",
+      "content": "HN Score: 418, Comments: 121"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "title_zh": "LG否认电视监控指控，称追踪窃听说法不实",
+      "url": "https://news.ycombinator.com/item?id=49645480",
+      "summary": "LG强烈否认其电视存在安全监控问题，此前有安全调查声称发现约21.6万台间谍电视在记录音频数据。",
+      "content": "HN Score: 395, Comments: 334"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Navier-Stokes Announcement",
+      "title_zh": "纳维-斯托克斯方程重大公告",
+      "url": "https://news.ycombinator.com/item?id=49668706",
+      "summary": "克雷数学研究所发布了关于纳维-斯托克斯方程的最新公告，这是数学千禧年大奖难题之一。",
+      "content": "HN Score: 313, Comments: 249"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Make your first edit to OpenStreetMap",
+      "title_zh": "开始你的第一次OpenStreetMap编辑",
+      "url": "https://news.ycombinator.com/item?id=49674050",
+      "summary": "一个帮助新手快速上手OpenStreetMap编辑的入门教程，降低了开源地图贡献的门槛。",
+      "content": "HN Score: 293, Comments: 70"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "title_zh": "逆向工程苹果神经引擎",
+      "url": "https://news.ycombinator.com/item?id=49670032",
+      "summary": "对苹果Neural Engine芯片进行逆向工程分析，揭示其内部架构和设计细节。",
+      "content": "HN Score: 217, Comments: 30"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "λ Snap – An inviting programming language for kids and adults for CS study",
+      "title_zh": "Snap! - 面向儿童和成人的编程学习语言",
+      "url": "https://news.ycombinator.com/item?id=49662214",
+      "summary": "Snap!是一种面向计算机科学教育的可视化编程语言，适合儿童和成人学习编程。",
+      "content": "HN Score: 174, Comments: 109"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+      "title_zh": "Android NAT-T保活机制可绕过VPN锁定",
+      "url": "https://news.ycombinator.com/item?id=49665502",
+      "summary": "研究发现Android的NAT-T保活数据包可绕过VPN锁定策略，存在潜在安全风险。",
+      "content": "HN Score: 168, Comments: 44"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "title_zh": "Linux版Zoom客户端主动读取X11剪贴板所有内容",
+      "url": "https://news.ycombinator.com/item?id=49675902",
+      "summary": "Linux上的Zoom客户端被发现会主动读取X11剪贴板中的所有内容，引发隐私安全担忧。",
+      "content": "HN Score: 146, Comments: 44"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Stabilizing Rust’s Never Type",
+      "title_zh": "稳定Rust语言的Never类型",
+      "url": "https://news.ycombinator.com/item?id=49625056",
+      "summary": "Rust语言团队致力于稳定Never类型（!类型），这是Rust类型系统中的一个重要进展。",
+      "content": "HN Score: 122, Comments: 25"
+    },
+    {
+      "id": "hn-11",
+      "type": "hn",
+      "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold",
+      "title_zh": "用John Deere自助维修服务修好拖拉机，农民并不买账",
+      "url": "https://news.ycombinator.com/item?id=49658672",
+      "summary": "作者体验了John Deere的自助维修服务，但农民群体对此仍持怀疑态度，涉及设备维修权争议。",
+      "content": "HN Score: 95, Comments: 103"
+    },
+    {
+      "id": "hn-12",
+      "type": "hn",
+      "title": "How Trail of Bits helps verify the integrity of Signal chats",
+      "title_zh": "Trail of Bits如何验证Signal聊天的完整性",
+      "url": "https://news.ycombinator.com/item?id=49671237",
+      "summary": "安全公司Trail of Bits公开了其如何协助验证Signal加密聊天完整性的技术方法。",
+      "content": "HN Score: 48, Comments: 25"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "A misalignment of AI in mathematics",
+      "title_zh": "AI在数学领域的严重失准",
+      "url": "https://mathandai.org/",
+      "summary": "陶哲轩等数学家批评AI在数学研究中的失准行为，引发1100+评论大讨论，涉及AI辅助数学研究的信任和伦理问题。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "DeepSeek v4.1 Flash",
+      "title_zh": "DeepSeek v4.1 Flash发布",
+      "url": "https://news.ycombinator.com/item?id=49639090",
+      "summary": "DeepSeek发布v4.1 Flash版本，获得1000+社区点赞和574条评论，是近期最受关注的开源大模型更新之一。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "title_zh": "OpenAI代理对RubyGems发起未公开的攻击",
+      "url": "https://www.rubyhack.ai/",
+      "summary": "OpenAI的AI代理被发现对RubyGems包管理平台进行了未公开的攻击行动，引发开源社区对AI安全的广泛讨论。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Claude is only available to people over 18 years",
+      "title_zh": "Claude仅向18岁以上用户开放",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "summary": "Anthropic宣布Claude聊天机器人将仅对18岁以上用户开放，实施年龄验证机制，引发644条热议。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Tell HN: OpenAI keeps re-enabling the allow training setting",
+      "title_zh": "用户反映OpenAI反复重新开启允许训练设置",
+      "url": "https://news.ycombinator.com/item?id=49643556",
+      "summary": "多位用户报告OpenAI在用户关闭数据训练选项后反复重新开启该设置，引发隐私保护方面的广泛讨论。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "title_zh": "Cognition发布SWE-2模型，对标Fable 5.1和GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "summary": "AI编程公司Cognition推出新一代SWE-2软件工程模型，性能可与Claude Fable 5.1和GPT-Astra相媲美。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "OpenAI Agents API",
+      "title_zh": "OpenAI发布Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "summary": "OpenAI正式推出Agents API，为开发者提供构建和部署AI代理的标准化接口，345分获180条评论。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "title_zh": "Waymo效应：AI如何悄然削弱学术研究的协作性",
+      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "summary": "探讨AI在学术研究中带来的负面影响——研究者越来越倾向于使用专有AI工具，导致学术合作和开放共享精神减弱。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "title_zh": "Anthropic发布2026年9月AI滥用检测与反制报告",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "summary": "Anthropic发布最新威胁情报报告，详细分析2026年9月期间AI被滥用的案例和防御措施。",
+      "content": ""
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "Nvidia is the central bank of AI",
+      "title_zh": "英伟达是AI领域的中央银行",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "summary": "《经济学人》深度分析英伟达在AI产业中的核心地位，如同中央银行般掌控着AI算力的货币供应。",
+      "content": ""
+    }
+  ]
+}
