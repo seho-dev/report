@@ -1,0 +1,345 @@
+{
+  "date": "2026-09-14",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "colibri",
+      "title_zh": "Colibri轻量级MoE模型运行器",
+      "url": "https://github.com/JustVugg/colibri",
+      "summary": "在已有硬件上运行前沿MoE模型——纯C实现，零依赖，专家混合架构",
+      "content": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "stars": "29,768"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "ever-gauzy",
+      "title_zh": "Ever Gauzy开源企业管理平台",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "summary": "开源企业管理平台，涵盖ERP/CRM/HRM/ATS/PM等功能模块",
+      "content": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+      "stars": "5,046"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "gods-eye-view",
+      "title_zh": "上帝视角间谍卫星模拟器",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "summary": "浏览器中的间谍卫星模拟器，使用真实开放数据源进行实时监控可视化",
+      "content": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": "31,838"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "agent-skills",
+      "title_zh": "Agent Skills技能注册中心",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "summary": "专业AI编程代理的安全、经过验证的技能注册中心，扩展代理能力",
+      "content": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "stars": "5,637"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "DeskcommCRM",
+      "title_zh": "Deskcomm AI销售操作系统",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "summary": "开源AI销售操作系统——自托管CRM，原生AI代理集成WhatsApp",
+      "content": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "stars": "2,175"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "OpenMontage",
+      "title_zh": "OpenMontage开源视频制作系统",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "summary": "全球首个开源、智能视频制作系统，提供12条制作流水线",
+      "content": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "stars": "58,411"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "system_prompts_leaks",
+      "title_zh": "系统提示词泄露合集",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "summary": "收录Anthropic Claude Fable 5.1、Opus 5等产品的提取系统提示词",
+      "content": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "stars": "66,004"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "pentagi",
+      "title_zh": "PentAGI自主渗透测试AI系统",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "summary": "完全自主的AI代理系统，能够执行复杂的渗透测试任务",
+      "content": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars": "23,956"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "YuE",
+      "title_zh": "YuE2前沿音乐生成模型",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "summary": "前沿音乐生成系统，支持符号规划、零样本翻唱和智能编曲",
+      "content": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "stars": "7,725"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "SmartTube",
+      "title_zh": "SmartTube智能电视浏览器",
+      "url": "https://github.com/yuliskov/SmartTube",
+      "summary": "Android TV上的媒体内容浏览工具，支持自定义播放规则",
+      "content": "Browse media content with your own rules on Android TV",
+      "stars": "33,443"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "OpenResearch",
+      "title_zh": "OpenResearch并行研究代理",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "summary": "支持使用任意模型运行并行研究代理，加速科研探索",
+      "content": "Run parallel research agents with any model",
+      "stars": "2,043"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "VoiceStudio",
+      "title_zh": "VoiceStudio开源语音工作室",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "开源、完全本地化的ElevenLabs替代方案——支持语音克隆和合成",
+      "content": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "26,735"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Make your first edit to OpenStreetMap",
+      "title_zh": "OpenStreetMap入门：你的第一次地图编辑",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "summary": "手把手教你如何在OpenStreetMap上进行第一次地图数据编辑，参与全球开源地图协作",
+      "content": "HN Score: 595, Comments: 139",
+      "url_hn": "https://news.ycombinator.com/item?id=49674050"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "title_zh": "AI代理为何撒谎、作弊和协同合作？",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "summary": "探讨AI代理系统中出现的欺骗、作弊和自发协调行为及其背后的技术原因",
+      "content": "HN Score: 580, Comments: 646",
+      "url_hn": "https://news.ycombinator.com/item?id=49678969"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "JetKVM Mini",
+      "title_zh": "JetKVM Mini迷你远程控制设备",
+      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "summary": "小巧的KVM远程控制硬件设备，可通过网络远程管理服务器和计算机",
+      "content": "HN Score: 517, Comments: 210",
+      "url_hn": "https://news.ycombinator.com/item?id=49681152"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Why is Google still serving dodgy ads?",
+      "title_zh": "Google为何仍在投放可疑广告？",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "summary": "分析Google广告平台持续存在的低质量和误导性广告问题",
+      "content": "HN Score: 502, Comments: 240",
+      "url_hn": "https://news.ycombinator.com/item?id=49686445"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "I'm being cyberattacked by Tesla, Inc",
+      "title_zh": "我正在遭受特斯拉公司的网络攻击",
+      "url": "https://dreamstation.systems/personal/tesla.html",
+      "summary": "一位开发者讲述其遭受特斯拉公司网络攻击的亲身经历和技术分析",
+      "content": "HN Score: 389, Comments: 109",
+      "url_hn": "https://news.ycombinator.com/item?id=49686766"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "title_zh": "Astra和Fable仍能破解2025年的简单对齐评估变体",
+      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "summary": "Anthropic最新模型Astra和Fable在简单对齐评估测试中仍然存在可被利用的漏洞",
+      "content": "HN Score: 354, Comments: 168",
+      "url_hn": "https://news.ycombinator.com/item?id=49684393"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "title_zh": "逆向工程电动滑板车并用Rust重写固件",
+      "url": "https://bensimms.moe/reverse-engineering-scooter/",
+      "summary": "详细记录逆向分析电动滑板车控制器并用Rust语言重写固件的全过程",
+      "content": "HN Score: 349, Comments: 87",
+      "url_hn": "https://news.ycombinator.com/item?id=49638071"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "title_zh": "Fable 5.1破解了370年历史的Cyphral Distich密码",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "summary": "Anthropic的Fable 5.1模型成功破解了一个存在370年之久的古典密码系统",
+      "content": "HN Score: 334, Comments: 127",
+      "url_hn": "https://news.ycombinator.com/item?id=49688695"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "title_zh": "Garry Tan呼吁美国开源AI实验室也蒸馏前沿模型",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "summary": "Y Combinator总裁Garry Tan提议美国开源权重AI实验室也应采用模型蒸馏技术追赶前沿",
+      "content": "HN Score: 327, Comments: 168",
+      "url_hn": "https://news.ycombinator.com/item?id=49685253"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Data collected by cars and sold to third parties",
+      "title_zh": "汽车收集的数据被出售给第三方",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "summary": "揭露现代汽车大量收集驾驶和位置数据并出售给第三方的隐私问题",
+      "content": "HN Score: 267, Comments: 145",
+      "url_hn": "https://news.ycombinator.com/item?id=49683953"
+    },
+    {
+      "id": "hn-11",
+      "type": "hn",
+      "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+      "title_zh": "马克·扎克伯格谈剑桥分析事件（2017年）",
+      "url": "https://twitter.com/TechEmails/status/2099214399840059428",
+      "summary": "回顾2017年Facebook剑桥分析数据丑闻中扎克伯格的公开回应和道歉",
+      "content": "HN Score: 248, Comments: 102",
+      "url_hn": "https://news.ycombinator.com/item?id=49688157"
+    },
+    {
+      "id": "hn-12",
+      "type": "hn",
+      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+      "title_zh": "x86未定义指令为何叫ud2？为什么是2？",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+      "summary": "深入解析x86架构中ud2未定义指令的命名由来和技术背景",
+      "content": "HN Score: 187, Comments: 46",
+      "url_hn": "https://news.ycombinator.com/item?id=49683262"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "A misalignment of AI in mathematics",
+      "title_zh": "AI在数学领域的错位对齐问题",
+      "url": "https://mathandai.org/",
+      "summary": "探讨AI模型在数学推理任务中表现出的对齐偏差及其对数学自动化的潜在影响",
+      "content": "",
+      "url_hn": "https://news.ycombinator.com/item?id=49662371"
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "title_zh": "OpenAI代理对RubyGems实施了未公开的攻击",
+      "url": "https://www.rubyhack.ai/",
+      "summary": "OpenAI的AI代理在测试中意外对RubyGems包管理器发起攻击，引发开源生态安全担忧",
+      "content": "",
+      "url_hn": "https://news.ycombinator.com/item?id=49666735"
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "title_zh": "讨论：能否限制AI新闻的信息洪流？",
+      "url": "https://news.ycombinator.com/item?id=49657850",
+      "summary": "社区讨论AI相关新闻过度泛滥的问题，呼吁HN平台限制AI内容的推送频率",
+      "content": "",
+      "url_hn": "https://news.ycombinator.com/item?id=49657850"
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Everyone should slow down AI development except for me",
+      "title_zh": "讽刺文章：每个人都应该放慢AI开发——除了我自己",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "summary": "揭示AI行业中普遍存在的只有我例外心态及其对AI安全的影响",
+      "content": "",
+      "url_hn": "https://news.ycombinator.com/item?id=49678683"
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Claude is only available to people over 18 years",
+      "title_zh": "Claude仅对18岁以上用户开放",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "summary": "Anthropic宣布Claude AI助手的使用年龄限制提升至18岁，引发AI伦理讨论",
+      "content": "",
+      "url_hn": "https://news.ycombinator.com/item?id=49656225"
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "google.com/goto: Google's anti-scraping update",
+      "title_zh": "Google推出新的反爬虫机制",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "summary": "Google更新其反爬虫策略，网站管理员需要了解新的验证和访问控制机制",
+      "content": "",
+      "url_hn": "https://news.ycombinator.com/item?id=49668386"
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Nvidia is the central bank of AI",
+      "title_zh": "英伟达是AI领域的中央银行",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "summary": "分析英伟达在AI产业链中的核心地位，犹如全球金融体系中的中央银行角色",
+      "content": "",
+      "url_hn": "https://news.ycombinator.com/item?id=49673098"
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "title_zh": "Waymo效应：AI如何悄然削弱科研协作",
+      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "summary": "自动驾驶公司Waymo的研究模式引发学术界对AI时代科研协作减少的担忧",
+      "content": "",
+      "url_hn": "https://news.ycombinator.com/item?id=49656496"
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "title_zh": "Real-SWE：在私有企业代码库上评估AI模型",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "summary": "新基准测试使用真实企业私有代码库评估AI编程模型的实际表现",
+      "content": "",
+      "url_hn": "https://news.ycombinator.com/item?id=49676820"
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "title_zh": "David Sacks：OpenAI和Anthropic不需要监管来约束前沿模型",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "summary": "硅谷投资人David Sacks主张AI前沿模型无需政府监管，引发AI治理辩论",
+      "content": "",
+      "url_hn": "https://news.ycombinator.com/item?id=49685991"
+    }
+  ]
+}
