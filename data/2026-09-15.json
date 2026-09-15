@@ -1,0 +1,411 @@
+{
+  "date": "2026-09-15",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "JustVugg/colibri",
+      "title_zh": "Colibri轻量级MoE运行器",
+      "url": "https://github.com/JustVugg/colibri",
+      "summary": "在现有硬件上运行前沿MoE模型——纯C编写、零依赖、专家从磁盘流式加载。小巧引擎，庞大模型。",
+      "content": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model.",
+      "stars": "32026"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "alibaba/open-code-review",
+      "title_zh": "阿里巴巴开源代码审查工具",
+      "url": "https://github.com/alibaba/open-code-review",
+      "summary": "经阿里巴巴大规模实战检验的快速高效代码审查工具：混合架构（确定性流水线+LLM Agent）、精确行级注释、内置多语言规则集（空指针、线程安全、XSS、SQL注入），兼容OpenAI和Anthropic。",
+      "content": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": "25638"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "multimodal-art-projection/YuE",
+      "title_zh": "YuE2音乐生成模型",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "summary": "前沿音乐生成模型，支持符号规划作曲、零样本翻唱和智能音乐编辑。",
+      "content": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "stars": "8312"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "debpalash/VoiceStudio",
+      "title_zh": "VoiceStudio开源语音工作室",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "开源的完全本地化ElevenLabs替代方案——支持646种语言的语音克隆、语音设计、视频配音、听写、转录和有声书创作。",
+      "content": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "29131"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "666ghj/MiroFish",
+      "title_zh": "MiroFish群体智能引擎",
+      "url": "https://github.com/666ghj/MiroFish",
+      "summary": "简洁通用的群体智能预测引擎，通过群体协作预测万物。",
+      "content": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything.",
+      "stars": "73119"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "Panniantong/Agent-Reach",
+      "title_zh": "Agent-Reach全网信息获取工具",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "summary": "为AI智能体赋予「眼睛」——一键读取搜索Twitter、Reddit、YouTube、GitHub、B站、小红书，零API费用。",
+      "content": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": "81215"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "asgeirtj/system_prompts_leaks",
+      "title_zh": "AI系统提示词泄露合集",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "summary": "收录Anthropic Claude、OpenAI ChatGPT、Google Gemini、xAI Grok等主流AI产品的系统提示词，定期更新。",
+      "content": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "stars": "66743"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "TauricResearch/TradingAgents",
+      "title_zh": "TradingAgents多智能体金融交易框架",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "summary": "基于多智能体LLM的金融交易框架，支持多角色协作进行市场分析和交易决策。",
+      "content": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "106098"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "ruvnet/RuView",
+      "title_zh": "RuView WiFi空间感知系统",
+      "url": "https://github.com/ruvnet/RuView",
+      "summary": "将普通WiFi信号转化为实时空间感知、生命体征监测和存在检测——完全无需摄像头。",
+      "content": "RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": "93822"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "tech-leads-club/agent-skills",
+      "title_zh": "AI编码智能体技能注册中心",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "summary": "面向专业AI编码智能体的安全验证技能注册中心，可为Claude Code、Cursor、Copilot等扩展功能。",
+      "content": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "stars": "6047"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "OpenBMB/VoxCPM",
+      "title_zh": "VoxCPM2无Tokenizer语音合成",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "summary": "无需Tokenizer的多语言语音合成系统，支持创意声音设计和高保真克隆。",
+      "content": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars": "37356"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "huggingface/transformers",
+      "title_zh": "HuggingFace Transformers框架",
+      "url": "https://github.com/huggingface/transformers",
+      "summary": "面向文本、视觉、音频和多模态的最先进机器学习模型定义框架，支持推理和训练。",
+      "content": "Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "stars": "165958"
+    },
+    {
+      "id": "gh-13",
+      "type": "github",
+      "title": "localsend/localsend",
+      "title_zh": "LocalSend跨平台文件传输",
+      "url": "https://github.com/localsend/localsend",
+      "summary": "开源跨平台AirDrop替代方案，支持局域网内快速文件传输。",
+      "content": "An open-source cross-platform alternative to AirDrop",
+      "stars": "91297"
+    },
+    {
+      "id": "gh-14",
+      "type": "github",
+      "title": "dani-garcia/vaultwarden",
+      "title_zh": "Vaultwarden轻量密码管理服务器",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "summary": "用Rust编写的非官方Bitwarden兼容服务器，轻量高效。",
+      "content": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "stars": "67520"
+    },
+    {
+      "id": "gh-15",
+      "type": "github",
+      "title": "Crosstalk-Solutions/project-nomad",
+      "title_zh": "NOMAD离线知识教育服务器",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "summary": "离线优先的知识与教育服务器——维基百科、数千本书籍、课程、地图及可选本地AI，无需联网即可运行。",
+      "content": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "stars": "5955"
+    },
+    {
+      "id": "gh-16",
+      "type": "github",
+      "title": "reconurge/flowsint",
+      "title_zh": "Flowsint可视化图分析平台",
+      "url": "https://github.com/reconurge/flowsint",
+      "summary": "面向网络安全分析师和调查员的现代可视化图分析平台，支持灵活可扩展的图谱调查。",
+      "content": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "stars": "36894"
+    },
+    {
+      "id": "gh-17",
+      "type": "github",
+      "title": "peetzweg/opendisplay",
+      "title_zh": "OpenDisplay开源副屏工具",
+      "url": "https://github.com/peetzweg/opendisplay",
+      "summary": "免费开源的Sidecar/Duet替代方案——通过USB或WiFi将iPhone/iPad用作Mac的真正第二显示器，支持低延迟H.264和触控。",
+      "content": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+      "stars": "8333"
+    },
+    {
+      "id": "gh-18",
+      "type": "github",
+      "title": "SnailSploit/Claude-Red",
+      "title_zh": "Claude-Red安全攻击技能库",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "summary": "为Claude技能系统设计的精选攻击性安全技能库，涵盖SQL注入、Shellcode、EDR绕过到漏洞利用开发。",
+      "content": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface.",
+      "stars": "4708"
+    },
+    {
+      "id": "gh-19",
+      "type": "github",
+      "title": "ever-co/ever-gauzy",
+      "title_zh": "Ever Gauzy开源企业管理平台",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "summary": "开源企业管理平台，涵盖ERP/CRM/HRM/ATS/PM功能。",
+      "content": "Ever Gauzy - Open Business Management Platform (ERP/CRM/HRM/ATS/PM)",
+      "stars": "5955"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Steam Frame starts at $1059",
+      "title_zh": "Steam Frame起售价1059美元",
+      "url": "https://store.steampowered.com/hardware/steamframe",
+      "summary": "Valve推出Steam Frame硬件设备，起售价1059美元，拓展游戏硬件生态。",
+      "content": "HN Score: 455"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "XCancel service is suspended until further notice",
+      "title_zh": "XCancel服务暂停运营",
+      "url": "https://xcancel.com/#",
+      "summary": "XCancel（第三方Twitter/X前端）宣布暂停服务，原因未明。",
+      "content": "HN Score: 413"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "title_zh": "OpenAI机器人知晓RubyGems缓存漏洞",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "summary": "OpenAI的爬虫机器人在RubyGems缓存漏洞被公开前就已知晓该漏洞，引发安全关注。",
+      "content": "HN Score: 351"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "An atlas of periodic solutions to the three-body problem",
+      "title_zh": "三体问题周期解图谱",
+      "url": "https://www.threebodyorbits.com/",
+      "summary": "三体问题周期解的完整可视化图谱，为经典天体力学问题提供直观展示。",
+      "content": "HN Score: 334"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "title_zh": "苹果发布iOS 27、iPadOS 27和macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "summary": "Apple正式发布iOS 27、iPadOS 27和macOS 27，带来重大软件平台更新。",
+      "content": "HN Score: 310"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Ask HN: What are you working on? (September 2026)",
+      "title_zh": "HN问答：你最近在做什么？（2026年9月）",
+      "url": "https://news.ycombinator.com/",
+      "summary": "Hacker News月度分享帖，社区成员分享当前项目和工作进展。",
+      "content": "HN Score: 291"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Pion, an agent designed to run any company autonomously",
+      "title_zh": "Pion：自主运营公司的AI智能体",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "summary": "Pion是一个设计用于自主运营公司的AI智能体，展示了AI在企业运营中的应用潜力。",
+      "content": "HN Score: 261"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Dario, Please",
+      "title_zh": "Dario，请回答",
+      "url": "https://pop.rdi.sh/dario-please/",
+      "summary": "一篇针对Anthropic CEO Dario Amodei的公开信或评论文章，讨论AI发展方向。",
+      "content": "HN Score: 227"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Distributed Systems Classics (2017)",
+      "title_zh": "分布式系统经典论文集",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "summary": "2017年整理的分布式系统经典论文和资源合集，涵盖CAP定理、共识算法等核心主题。",
+      "content": "HN Score: 219"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "title_zh": "欧洲鸟类门户：实时鸟类迁徙追踪",
+      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "summary": "EuroBirdPortal提供欧洲范围内鸟类实时迁徙运动数据可视化。",
+      "content": "HN Score: 214"
+    },
+    {
+      "id": "hn-11",
+      "type": "hn",
+      "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+      "title_zh": "微软补丁修复Windows和Excel却导致新问题",
+      "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+      "summary": "微软最新安全补丁修复漏洞的同时破坏了音频、远程访问和粘贴功能。",
+      "content": "HN Score: 186"
+    },
+    {
+      "id": "hn-12",
+      "type": "hn",
+      "title": "A Beginning for Mathematics",
+      "title_zh": "数学的开端",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "summary": "一篇关于数学基础和起源的深度探讨文章。",
+      "content": "HN Score: 157"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Everyone should slow down AI development except for me",
+      "title_zh": "「每个人都该放慢AI开发，除了我」",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "summary": "一篇讽刺文章揭示了AI行业中\"只有我例外\"的矛盾心态，批评各方嘴上喊减速却拼命加速的现象。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "google.com/goto: Google's anti-scraping update",
+      "title_zh": "Google反爬虫新策略：goto链接",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "summary": "Google推出goto链接机制作为反爬虫更新，改变搜索结果的链接结构。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "title_zh": "AI智能体为何撒谎、欺骗和协调？",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "summary": "Yoshua Bengio等研究者探讨AI智能体出现欺骗、作弊和协调行为的原因及安全隐患。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Nvidia is the central bank of AI",
+      "title_zh": "英伟达：AI世界的央行",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "summary": "经济学人分析英伟达在AI产业中的核心地位，类比为AI行业的\"央行\"。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "title_zh": "Y Combinator的Garry Tan呼吁美国开源AI实验室蒸馏前沿模型",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "summary": "Y Combinator总裁Garry Tan公开呼吁美国开源权重AI实验室也应蒸馏前沿模型，推动AI民主化。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "title_zh": "David Sacks：OpenAI和Anthropic不需要法规来限制前沿模型",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "summary": "美国AI政策负责人David Sacks认为OpenAI和Anthropic无需额外法规来管控前沿AI模型的发展节奏。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "title_zh": "Real-SWE：真实企业代码库AI基准测试",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "summary": "Real-SWE在私有真实企业代码库上对AI模型进行基准测试，提供更贴近实际的评估。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "title_zh": "苹果Siri可替换为Claude或ChatGPT",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "summary": "代码显示苹果Siri的AI后端支持切换为Claude或ChatGPT，用户可能自主选择AI助手。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "P(doom)",
+      "title_zh": "P(doom)——AI末日概率",
+      "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+      "summary": "Flask作者Armin Ronacher探讨AI末日概率P(doom)的概念及其在AI安全讨论中的意义。",
+      "content": ""
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "Open-source AI and open models reading list",
+      "title_zh": "开源AI与开放模型阅读清单",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "summary": "Interconnects整理的开源AI和开放模型资源列表，涵盖最新研究和工具。",
+      "content": ""
+    },
+    {
+      "id": "ai-11",
+      "type": "ai",
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "title_zh": "OpenArch：现代LLM架构的PyTorch实现",
+      "url": "https://github.com/anuj0456/OpenArch",
+      "summary": "OpenArch项目提供现代大语言架构的PyTorch实现，方便研究者复现和实验。",
+      "content": ""
+    },
+    {
+      "id": "ai-12",
+      "type": "ai",
+      "title": "Claude is a Contrarian",
+      "title_zh": "Claude是个杠精",
+      "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
+      "summary": "一篇有趣的文章测试Claude是否有\"反对一切\"的倾向，探讨AI的对话风格特性。",
+      "content": ""
+    }
+  ]
+}
