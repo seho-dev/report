@@ -1,0 +1,334 @@
+{
+  "date": "2026-09-16",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "alibaba/open-code-review",
+      "title_zh": "阿里巴巴代码审查工具",
+      "url": "https://github.com/alibaba/open-code-review",
+      "summary": "阿里巴巴出品的高效代码审查工具，采用混合架构：确定性流水线 + LLM Agent，精确到行级注释，内置多语言规则集（空指针、线程安全、XSS、SQL注入），兼容 OpenAI 和 Anthropic。",
+      "content": "Repo: alibaba/open-code-review | Stars: 28489 | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": "28489"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "JustVugg/colibri",
+      "title_zh": "Colibri 轻量级 MoE 运行器",
+      "url": "https://github.com/JustVugg/colibri",
+      "summary": "在你已有的硬件上运行前沿 MoE 大模型——纯 C 实现、零依赖、专家从磁盘流式加载。小引擎跑大模型。",
+      "content": "Repo: JustVugg/colibri | Stars: 33795 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model.",
+      "stars": "33795"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "ever-co/ever-gauzy",
+      "title_zh": "Ever Gauzy 开源企业管理平台",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "summary": "开源企业管理平台，集成 ERP/CRM/HRM/ATS/PM，提供全面的业务管理解决方案。",
+      "content": "Repo: ever-co/ever-gauzy | Stars: 6619 | Ever Gauzy - Open Business Management Platform (ERP/CRM/HRM/ATS/PM).",
+      "stars": "6619"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "debpalash/VoiceStudio",
+      "title_zh": "VoiceStudio 本地语音工作室",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "开源的本地 ElevenLabs 替代方案——支持语音克隆、语音设计、视频配音、听写、转录和有声读物创作，涵盖 646 种语言。",
+      "content": "Repo: debpalash/VoiceStudio | Stars: 30911 | Open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "30911"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "Homebrew/BrewUI",
+      "title_zh": "Homebrew 官方 macOS GUI",
+      "url": "https://github.com/Homebrew/BrewUI",
+      "summary": "Homebrew 官方 macOS 图形界面客户端，告别纯命令行操作。",
+      "content": "Repo: Homebrew/BrewUI | Stars: 1331 | Homebrew's official macOS GUI.",
+      "stars": "1331"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "melgarafael/DeskcommCRM",
+      "title_zh": "DeskcommCRM 开源 AI 销售系统",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "summary": "开源 AI 销售操作系统，自带 AI Agent + WhatsApp 集成，支持 MCP、多租户、LGPD 合规。",
+      "content": "Repo: melgarafael/DeskcommCRM | Stars: 2806 | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). MCP-ready, multi-tenant, LGPD.",
+      "stars": "2806"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "alphaXiv/OpenResearch",
+      "title_zh": "OpenResearch 智能研究助手",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "summary": "将你的编程 Agent 变成研究 Agent，自动化的学术研究工具。",
+      "content": "Repo: alphaXiv/OpenResearch | Stars: 3322 | Turn your coding agents into research agents.",
+      "stars": "3322"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "NationalSecurityAgency/ghidra",
+      "title_zh": "Ghidra 软件逆向工程框架",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "summary": "美国国家安全局（NSA）开发的软件逆向工程框架，支持多种处理器架构和可执行格式。",
+      "content": "Repo: NationalSecurityAgency/ghidra | Stars: 76680 | Ghidra is a software reverse engineering (SRE) framework.",
+      "stars": "76680"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "danny-avila/LibreChat",
+      "title_zh": "LibreChat 增强版 ChatGPT 克隆",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "summary": "功能丰富的 ChatGPT 克隆，支持 Agents、MCP、Skills，集成多种 AI 模型，具备代码解释器、DALL-E-3、多用户认证等企业级功能。",
+      "content": "Repo: danny-avila/LibreChat | Stars: 43811 | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, multiple model providers, Code Interpreter, DALL-E-3, multi-user auth.",
+      "stars": "43811"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "pacifio/atlas",
+      "title_zh": "Atlas 代码代理版本控制",
+      "url": "https://github.com/pacifio/atlas",
+      "summary": "面向 AI 编程代理的源代码管理工具，支持多代理协作、变更追踪和统一查询。",
+      "content": "Repo: pacifio/atlas | Stars: 4604 | Source control for agents. Use multiple coding agents, track their changes and query them in one place.",
+      "stars": "4604"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "MG1937/ASC",
+      "title_zh": "ASC 安卓反编译器",
+      "url": "https://github.com/MG1937/ASC",
+      "summary": "超快的 Android 反编译器前端，专为 AI Agent 和移动安全研究人员设计。",
+      "content": "Repo: MG1937/ASC | Stars: 1152 | ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "stars": "1152"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "addyosmani/agent-skills",
+      "title_zh": "Agent 工程技能库",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "为 AI 编程代理打造的生产级工程技能集合。",
+      "content": "Repo: addyosmani/agent-skills | Stars: 94765 | Production-grade engineering skills for AI coding agents.",
+      "stars": "94765"
+    },
+    {
+      "id": "gh-13",
+      "type": "github",
+      "title": "tonhowtf/omniget",
+      "title_zh": "OmniGet 万能下载器",
+      "url": "https://github.com/tonhowtf/omniget",
+      "summary": "一站式下载工具，支持 1800+ 网站——课程、视频、音乐和书籍，免费开源桌面应用，内置播放器和阅读器。",
+      "content": "Repo: tonhowtf/omniget | Stars: 12888 | Download courses, videos, music and books from 1800+ sites. Free open-source desktop app with built-in player and reader.",
+      "stars": "12888"
+    },
+    {
+      "id": "gh-14",
+      "type": "github",
+      "title": "earendil-works/pi",
+      "title_zh": "Pi AI Agent 工具包",
+      "url": "https://github.com/earendil-works/pi",
+      "summary": "AI Agent 工具包：统一 LLM API、Agent 循环、TUI 界面和编程 Agent CLI。",
+      "content": "Repo: earendil-works/pi | Stars: 105682 | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI.",
+      "stars": "105682"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "title_zh": "电子墨水画框：听鸟鸣画19世纪插画",
+      "url": "https://news.ycombinator.com/item?id=49711544",
+      "summary": "一款创意电子墨水显示器，能聆听鸟叫声并实时将鸟鸣转化为19世纪风格的艺术画作。",
+      "content": "HN Score: 1237, Comments: 172"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "25 years of mass surveillance is enough",
+      "title_zh": "25年的大规模监控已经够了",
+      "url": "https://news.ycombinator.com/item?id=49710883",
+      "summary": "探讨全球大规模监控体系已持续25年，呼吁反思和结束过度监控。",
+      "content": "HN Score: 767, Comments: 281"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Introducing System One Models and Jev",
+      "title_zh": "System One 模型与 Jev 发布",
+      "url": "https://news.ycombinator.com/item?id=49717558",
+      "summary": "新 AI 模型 System One 及其配套系统 Jev 正式发布，展示新的架构设计方向。",
+      "content": "HN Score: 635, Comments: 207"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "title_zh": "一家公司制造了多家科技巨头的安全事件",
+      "url": "https://news.ycombinator.com/item?id=49704132",
+      "summary": "安全调查发现同一家幕后公司与 OpenAI、Anthropic 和 Meta 的多起网络安全事件有关。",
+      "content": "HN Score: 425, Comments: 143"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "US confirms for first time it has deployed space weapons",
+      "title_zh": "美国首次确认已部署太空武器",
+      "url": "https://news.ycombinator.com/item?id=49707473",
+      "summary": "美国政府首次公开承认已部署太空武器系统，引发国际社会广泛关注。",
+      "content": "HN Score: 421, Comments: 298"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "title_zh": "涉嫌蓄意破坏导致荷兰铁路大面积瘫痪",
+      "url": "https://news.ycombinator.com/item?id=49710253",
+      "summary": "荷兰铁路系统因涉嫌蓄意破坏发生大规模中断，影响全国交通。",
+      "content": "HN Score: 415, Comments: 385"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "An Update on Wayback Machine Access",
+      "title_zh": "互联网档案馆访问情况更新",
+      "url": "https://news.ycombinator.com/item?id=49716176",
+      "summary": "Wayback Machine（互联网档案馆）发布访问状态更新，用户可恢复部分历史网页访问。",
+      "content": "HN Score: 339, Comments: 186"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Let's make quality the norm again",
+      "title_zh": "让我们重新把质量当作标准",
+      "url": "https://news.ycombinator.com/item?id=49710109",
+      "summary": "呼吁软件行业回归质量文化，停止追求快速交付而牺牲产品可靠性。",
+      "content": "HN Score: 285, Comments: 296"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "title_zh": "Show HN：Capsule — 数据存入 SQLite 的单文件 Web 应用",
+      "url": "https://news.ycombinator.com/item?id=49712278",
+      "summary": "开发者展示了一款轻量框架，可以构建将数据直接保存到 SQLite 的单文件 Web 应用。",
+      "content": "HN Score: 267, Comments: 114"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "title_zh": "Gemini 3.8 Live 和扩展思维版本发布",
+      "url": "https://news.ycombinator.com/item?id=49715947",
+      "summary": "Google 发布 Gemini 3.8 Live 模型及其扩展思维版本，提升实时交互能力。",
+      "content": "HN Score: 260, Comments: 177"
+    },
+    {
+      "id": "hn-11",
+      "type": "hn",
+      "title": "Most people prefer traditional architecture",
+      "title_zh": "大多数人更喜欢传统建筑",
+      "url": "https://news.ycombinator.com/item?id=49697496",
+      "summary": "调研显示大多数人仍然偏好传统建筑风格，而非现代主义设计。",
+      "content": "HN Score: 246, Comments: 196"
+    },
+    {
+      "id": "hn-12",
+      "type": "hn",
+      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+      "title_zh": "25分钟获取了 Baseten 生产环境 GitHub 管理员权限",
+      "url": "https://news.ycombinator.com/item?id=49716476",
+      "summary": "安全研究者展示了在25分钟内通过社工手段获取 Baseten 生产环境 GitHub 管理员权限的全过程。",
+      "content": "HN Score: 191, Comments: 98"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Everyone should slow down AI development except for me",
+      "title_zh": "每个人都应该放慢 AI 开发，除了我",
+      "url": "https://news.ycombinator.com/item?id=49678683",
+      "summary": "讨论 AI 行业中普遍存在的双重标准——许多人呼吁放慢 AI 发展，但同时自己加速研发。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "title_zh": "为什么 AI Agent 在撒谎、作弊和协作？",
+      "url": "https://news.ycombinator.com/item?id=49678969",
+      "summary": "深入分析 AI Agent 在多代理场景中出现的欺骗、作弊和协调行为，探讨安全和伦理影响。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "title_zh": "OpenAI 机器人已知 RubyGems 缓存漏洞",
+      "url": "https://news.ycombinator.com/item?id=49695876",
+      "summary": "安全研究发现 OpenAI 的自动化机器人在公开披露之前就已知道 RubyGems 的缓存安全漏洞。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "title_zh": "Garry Tan 呼吁美国开放权重 AI 实验室蒸馏前沿模型",
+      "url": "https://news.ycombinator.com/item?id=49685253",
+      "summary": "Y Combinator CEO Garry Tan 建议美国开放权重 AI 实验室通过蒸馏技术缩小与闭源前沿模型的差距。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "title_zh": "David Sacks：OpenAI 和 Anthropic 不需要监管来跟上节奏",
+      "url": "https://news.ycombinator.com/item?id=49685991",
+      "summary": "美国 AI 政策负责人 David Sacks 认为 OpenAI 和 Anthropic 不需要额外监管即可保持竞争力。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "title_zh": "苹果 Siri AI 可替换为 Claude、ChatGPT",
+      "url": "https://news.ycombinator.com/item?id=49695409",
+      "summary": "代码显示苹果 Siri 的 AI 后端支持替换为 Claude 或 ChatGPT 等第三方模型。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "title_zh": "前 FTC 主席 Khan：应铐上 AI CEO 的手铐",
+      "url": "https://news.ycombinator.com/item?id=49706223",
+      "summary": "前联邦贸易委员会主席 Lina Khan 援引1934年先例，呼吁对 AI 公司高管追究法律责任。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+      "title_zh": "AI Agent 正在摧毁互联网，概率100%",
+      "url": "https://news.ycombinator.com/item?id=49715113",
+      "summary": "分析指出 AI Agent 的大规模自动化正在破坏互联网生态，包括内容质量和信息可靠性。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "title_zh": "GPT-5.6 Luna 对比 GPT-6 Astra：1.2美元的模型够写代码吗？",
+      "url": "https://news.ycombinator.com/item?id=49703003",
+      "summary": "对比分析 OpenAI 两款不同价位模型在编程任务上的表现，探讨性价比问题。",
+      "content": ""
+    }
+  ]
+}
