@@ -1,0 +1,380 @@
+{
+  "date": "2026-09-17",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "Open Code Review",
+      "title_zh": "阿里巴巴开源的高效代码审查工具，采用混合架构：确定性规则+LLM分析，经受过阿里巴巴大规模实战检验",
+      "url": "https://github.com/alibaba/open-code-review",
+      "summary": "阿里巴巴开源的高效代码审查工具，采用混合架构：确定性规则+LLM分析，经受过阿里巴巴大规模实战检验",
+      "content": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic rules + LLM analysis",
+      "stars": "3231"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "Colibri - 本地MoE模型推理",
+      "title_zh": "在自有硬件上运行前沿MoE大模型——纯C实现、零依赖、专家从磁盘流式加载",
+      "url": "https://github.com/JustVugg/colibri",
+      "summary": "在自有硬件上运行前沿MoE大模型——纯C实现、零依赖、专家从磁盘流式加载",
+      "content": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk.",
+      "stars": "1546"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "WeKnora 知识平台",
+      "title_zh": "腾讯开源的LLM知识平台：将原始文档转化为可查询的RAG和自主推理引擎",
+      "url": "https://github.com/Tencent/WeKnora",
+      "summary": "腾讯开源的LLM知识平台：将原始文档转化为可查询的RAG和自主推理引擎",
+      "content": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning engine",
+      "stars": "1197"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "Tinycast - macOS启动器",
+      "title_zh": "Tinycast——轻量级原生macOS启动器、快捷键管理和剪贴板历史工具",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "summary": "Tinycast——轻量级原生macOS启动器、快捷键管理和剪贴板历史工具",
+      "content": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "stars": "1179"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "Ghidra 逆向工程框架",
+      "title_zh": "NSA开源的Ghidra软件逆向工程(SRE)框架，专业级安全分析工具",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "summary": "NSA开源的Ghidra软件逆向工程(SRE)框架，专业级安全分析工具",
+      "content": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": "1059"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "OpenResearch 开放研究",
+      "title_zh": "将你的编程代理转变为研究代理，开启AI辅助科研新范式",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "summary": "将你的编程代理转变为研究代理，开启AI辅助科研新范式",
+      "content": "Turn your coding agents into research agents",
+      "stars": "1017"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "Cloudflare安全审计技能",
+      "title_zh": "Cloudflare推出的多阶段安全审计编程代理技能，输出独立验证的机器可读结果",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "Cloudflare推出的多阶段安全审计编程代理技能，输出独立验证的机器可读结果",
+      "content": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": "927"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "Agent Skills 技能库",
+      "title_zh": "Addy Osmani打造的生产级AI编程代理工程技能集",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "Addy Osmani打造的生产级AI编程代理工程技能集",
+      "content": "Production-grade engineering skills for AI coding agents.",
+      "stars": "658"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "VoiceBox - AI语音工作室",
+      "title_zh": "开源AI语音工作室：克隆、听写、创作，一站式语音工具",
+      "url": "https://github.com/jamiepine/voicebox",
+      "summary": "开源AI语音工作室：克隆、听写、创作，一站式语音工具",
+      "content": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": "417"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "Claude-Red 安全技能库",
+      "title_zh": "为Claude技能系统设计的精选攻击性安全技能库",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "summary": "为Claude技能系统设计的精选攻击性安全技能库",
+      "content": "claude-red is a curated library of offensive security skills designed for the Claude skills system.",
+      "stars": "367"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "YuE2 音乐生成",
+      "title_zh": "YuE2：前沿音乐生成系统，支持符号规划、零样本翻唱和代理式音乐编辑",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "summary": "YuE2：前沿音乐生成系统，支持符号规划、零样本翻唱和代理式音乐编辑",
+      "content": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "stars": "332"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "Roboflow Supervision",
+      "title_zh": "Roboflow团队打造的可复用计算机视觉工具集",
+      "url": "https://github.com/roboflow/supervision",
+      "summary": "Roboflow团队打造的可复用计算机视觉工具集",
+      "content": "We write your reusable computer vision tools. 💜",
+      "stars": "260"
+    },
+    {
+      "id": "gh-13",
+      "type": "github",
+      "title": "Claude Code 编程助手",
+      "title_zh": "Anthropic的Claude Code——运行在终端的智能编程代理，理解代码库并加速开发",
+      "url": "https://github.com/anthropics/claude-code",
+      "summary": "Anthropic的Claude Code——运行在终端的智能编程代理，理解代码库并加速开发",
+      "content": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster",
+      "stars": "165"
+    },
+    {
+      "id": "gh-14",
+      "type": "github",
+      "title": "Cline 自主编程代理",
+      "title_zh": "Cline——可作为SDK、IDE扩展或CLI助手的自主编程代理",
+      "url": "https://github.com/cline/cline",
+      "summary": "Cline——可作为SDK、IDE扩展或CLI助手的自主编程代理",
+      "content": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "stars": "112"
+    },
+    {
+      "id": "gh-15",
+      "type": "github",
+      "title": "知识工作插件",
+      "title_zh": "Anthropic开源的知识工作者插件集，主要用于Claude Cowork协作场景",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "Anthropic开源的知识工作者插件集，主要用于Claude Cowork协作场景",
+      "content": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": "110"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "title_zh": "Show HN：听鸟鸣并绘制19世纪风格插画的电子墨水相框",
+      "url": "https://news.ycombinator.com/item?id=49711544",
+      "summary": "Show HN：听鸟鸣并绘制19世纪风格插画的电子墨水相框",
+      "content": "HN Score: 2051, Comments: 236"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "title_zh": "Mistral × Mozilla：隐私优先的多语言AI浏览体验",
+      "url": "https://news.ycombinator.com/item?id=49723408",
+      "summary": "Mistral × Mozilla：隐私优先的多语言AI浏览体验",
+      "content": "HN Score: 520, Comments: 184"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Small programming tricks",
+      "title_zh": "实用编程小技巧合集",
+      "url": "https://news.ycombinator.com/item?id=49729000",
+      "summary": "实用编程小技巧合集",
+      "content": "HN Score: 366, Comments: 178"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "title_zh": "训练40亿参数模型生成比PostgreSQL快81%的查询计划",
+      "url": "https://news.ycombinator.com/item?id=49731285",
+      "summary": "训练40亿参数模型生成比PostgreSQL快81%的查询计划",
+      "content": "HN Score: 358, Comments: 68"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "title_zh": "小米Mimo 2.6训练后优化实时看板",
+      "url": "https://news.ycombinator.com/item?id=49732270",
+      "summary": "小米Mimo 2.6训练后优化实时看板",
+      "content": "HN Score: 205, Comments: 55"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+      "title_zh": "AWS称无法恢复被伊朗袭击的中东设施部分数据",
+      "url": "https://news.ycombinator.com/item?id=49719249",
+      "summary": "AWS称无法恢复被伊朗袭击的中东设施部分数据",
+      "content": "HN Score: 187, Comments: 160"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Nvidia announces native GPU programming in Rust",
+      "title_zh": "英伟达宣布支持Rust原生GPU编程",
+      "url": "https://news.ycombinator.com/item?id=49724881",
+      "summary": "英伟达宣布支持Rust原生GPU编程",
+      "content": "HN Score: 133, Comments: 43"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Performance Improvements in .NET 11",
+      "title_zh": ".NET 11性能提升详解",
+      "url": "https://news.ycombinator.com/item?id=49711424",
+      "summary": ".NET 11性能提升详解",
+      "content": "HN Score: 132, Comments: 25"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Reversing Factorio's RNG",
+      "title_zh": "逆向工程Factorio的随机数生成器",
+      "url": "https://news.ycombinator.com/item?id=49674451",
+      "summary": "逆向工程Factorio的随机数生成器",
+      "content": "HN Score: 126, Comments: 13"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "title_zh": "突破三值大模型的1.58位量化瓶颈",
+      "url": "https://news.ycombinator.com/item?id=49732931",
+      "summary": "突破三值大模型的1.58位量化瓶颈",
+      "content": "HN Score: 117, Comments: 10"
+    },
+    {
+      "id": "hn-11",
+      "type": "hn",
+      "title": "Japan's book scene is moving from bookstores to libraries",
+      "title_zh": "日本阅读生态正从书店向图书馆转型",
+      "url": "https://news.ycombinator.com/item?id=49677916",
+      "summary": "日本阅读生态正从书店向图书馆转型",
+      "content": "HN Score: 84, Comments: 30"
+    },
+    {
+      "id": "hn-12",
+      "type": "hn",
+      "title": "Anecdotally, programmers dislike \"reduce\"",
+      "title_zh": "据程序员们反映，大家普遍不喜欢reduce方法",
+      "url": "https://news.ycombinator.com/item?id=49725541",
+      "summary": "据程序员们反映，大家普遍不喜欢reduce方法",
+      "content": "HN Score: 77, Comments: 134"
+    },
+    {
+      "id": "hn-13",
+      "type": "hn",
+      "title": "How good are frontier models at physics?",
+      "title_zh": "前沿大模型的物理能力究竟如何？",
+      "url": "https://news.ycombinator.com/item?id=49731620",
+      "summary": "前沿大模型的物理能力究竟如何？",
+      "content": "HN Score: 64, Comments: 28"
+    },
+    {
+      "id": "hn-14",
+      "type": "hn",
+      "title": "Australia says it could follow Canada in forging deeper ties with EU",
+      "title_zh": "澳大利亚表示可能效仿加拿大深化与欧盟关系",
+      "url": "https://news.ycombinator.com/item?id=49734171",
+      "summary": "澳大利亚表示可能效仿加拿大深化与欧盟关系",
+      "content": "HN Score: 59, Comments: 12"
+    },
+    {
+      "id": "hn-15",
+      "type": "hn",
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "title_zh": "美国战略石油储备背后的工程学",
+      "url": "https://news.ycombinator.com/item?id=49719596",
+      "summary": "美国战略石油储备背后的工程学",
+      "content": "HN Score: 58, Comments: 11"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic and OpenAI want to embed safety evaluators",
+      "title_zh": "Anthropic和OpenAI计划在模型中嵌入安全评估器",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "summary": "Anthropic和OpenAI计划在模型中嵌入安全评估器，但其独立性受到质疑",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "After accusations of selling 'perv glasses,' Meta prepares to sell a wearable with cameras",
+      "title_zh": "Meta在争议中准备推出带摄像头的可穿戴设备",
+      "url": "https://techcrunch.com/2026/09/15/meta- Ray-Ban-Meta-Wearables/",
+      "summary": "Meta在'偷窥眼镜'争议后准备推出带摄像头的可穿戴设备",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "title_zh": "AI实验室渴望建立内部审计机制",
+      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors/",
+      "summary": "AI实验室希望设立内部审计机制，但业界认为它们应先解决外部透明度问题",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Your AI agents can now control your Google Home devices",
+      "title_zh": "AI代理现已支持控制Google Home智能家居",
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-google-home/",
+      "summary": "AI代理现在可以控制Google Home智能家居设备",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "title_zh": "Anthropic统一Claude对话与Cowork协作界面",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-cowork/",
+      "summary": "Anthropic将Claude对话和Cowork协作功能合并为统一界面",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Mozilla's new Smart Window assistant runs on Mistral's models",
+      "title_zh": "Mozilla Smart Window助手采用Mistral模型",
+      "url": "https://the-decoder.com/mozillas-new-smart-window-assistant-runs-on-mistral-models/",
+      "summary": "Mozilla推出Smart Window助手，采用Mistral模型驱动",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Political opposites unite in Washington to rein in AI",
+      "title_zh": "美国政界跨党派联手推动AI监管",
+      "url": "https://the-decoder.com/political-opposites-unite-in-washington-to-rein-in-ai/",
+      "summary": "美国华盛顿政界罕见地跨党派合作，推动AI监管立法",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Nearly one in five AI researchers already expected an extinction scenario from AI",
+      "title_zh": "近五分之一AI研究人员预见AI灭绝风险",
+      "url": "https://the-decoder.com/ai-researchers-extinction/",
+      "summary": "近五分之一的AI研究人员已经预见到AI可能带来灭绝级风险",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1",
+      "title_zh": "Google发布Gemini 3.8 Live对决GPT-Live-1",
+      "url": "https://the-decoder.com/google-launches-gemini-3-8-live/",
+      "summary": "Google发布Gemini 3.8 Live，与OpenAI的GPT-Live-1展开实时AI竞争",
+      "content": ""
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "AI labs have a data trust problem that their policies haven't solved",
+      "title_zh": "AI实验室数据信任危机仍未解决",
+      "url": "https://the-decoder.com/ai-labs-data-trust-problem/",
+      "summary": "AI实验室面临数据信任危机，现有政策未能有效解决",
+      "content": ""
+    }
+  ]
+}
