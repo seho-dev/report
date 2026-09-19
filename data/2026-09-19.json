@@ -1,0 +1,490 @@
+{
+  "date": "2026-09-19",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "cloudflare / security-audit-skill",
+      "title_zh": "Cloudflare安全审计技能",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "一个用于多阶段安全审计的编码代理技能，提供独立验证的机器可读结果",
+      "content": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": "13,635"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "anthropics / claude-code",
+      "title_zh": "Anthropic Claude Code智能编码工具",
+      "url": "https://github.com/anthropics/claude-code",
+      "summary": "Claude Code是一款运行在终端中的智能编码工具，能够理解你的代码库，通过自然语言命令帮助你执行日常任务、解释复杂代码、处理Git工作流，从而加快编码速度",
+      "content": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": "146,282"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "alibaba / open-code-review",
+      "title_zh": "阿里巴巴开源代码审查工具",
+      "url": "https://github.com/alibaba/open-code-review",
+      "summary": "安全、快速、高效，经过阿里巴巴大规模实战检验。混合架构代码审查工具：确定性流水线 + LLM Agent，精确行级注释，内置多语言规则集（空指针、线程安全、XSS、SQL注入），兼容OpenAI和Anthropic",
+      "content": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": "36,645"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "affaan-m / ECC",
+      "title_zh": "ECC智能体性能优化系统",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "智能体运行时性能优化系统，提供技能、直觉、记忆、安全及研究优先开发，支持Claude Code、Codex、Opencode、Cursor等",
+      "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "262,047"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "Tencent / BrowserSkill",
+      "title_zh": "腾讯BrowserSkill浏览器技能",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "summary": "让AI智能体使用你真实的、已登录的浏览器而不打断你的工作。提供CLI+浏览器扩展，支持任何具备Shell能力的AI智能体进行浏览器自动化",
+      "content": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "stars": "5,281"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "addyosmani / agent-skills",
+      "title_zh": "AI编码智能体工程技能集",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "面向AI编码智能体的生产级工程技能集合",
+      "content": "Production-grade engineering skills for AI coding agents.",
+      "stars": "96,393"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "TencentCloud / Octop",
+      "title_zh": "腾讯云Octop智能助手",
+      "url": "https://github.com/TencentCloud/Octop",
+      "summary": "更智能的自托管AI助手，支持多用户、多智能体",
+      "content": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "stars": "3,947"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "Fission-AI / OpenSpec",
+      "title_zh": "Fission-AI OpenSpec规范驱动开发",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "summary": "面向AI编码助手的规范驱动开发（SDD）框架",
+      "content": "Spec-driven development (SDD) for AI coding assistants.",
+      "stars": "69,337"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "ankitects / anki",
+      "title_zh": "Anki智能间隔重复卡片",
+      "url": "https://github.com/ankitects/anki",
+      "summary": "Anki是一款智能间隔重复的闪卡学习程序",
+      "content": "Anki is a smart spaced repetition flashcard program",
+      "stars": "31,207"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "anthropics / knowledge-work-plugins",
+      "title_zh": "Anthropic知识工作插件",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "Anthropic开源的知识工作者插件仓库，主要用于Claude Cowork",
+      "content": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": "24,874"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "supermemoryai / supermemory",
+      "title_zh": "Supermemory AI记忆引擎",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "summary": "超快速、可扩展的AI记忆和上下文引擎，支持完全本地运行。面向AI时代的记忆API",
+      "content": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+      "stars": "30,264"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "tradesdontlie / tradingview-mcp",
+      "title_zh": "TradingView MCP图表分析",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "summary": "AI辅助的TradingView图表分析工具，将Claude Code连接到TradingView桌面端实现个人工作流自动化",
+      "content": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "stars": "6,463"
+    },
+    {
+      "id": "gh-13",
+      "type": "github",
+      "title": "rustfs / rustfs",
+      "title_zh": "RustFS高性能对象存储",
+      "url": "https://github.com/rustfs/rustfs",
+      "summary": "开源的S3兼容高性能对象存储系统，支持与MinIO、Ceph等S3兼容平台的迁移和共存",
+      "content": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "stars": "33,156"
+    },
+    {
+      "id": "gh-14",
+      "type": "github",
+      "title": "supabase / supabase",
+      "title_zh": "Supabase后端开发平台",
+      "url": "https://github.com/supabase/supabase",
+      "summary": "基于Postgres的开发平台，提供专用Postgres数据库，用于构建Web、移动和AI应用",
+      "content": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "stars": "110,141"
+    },
+    {
+      "id": "gh-15",
+      "type": "github",
+      "title": "coder / coder",
+      "title_zh": "Coder开发者安全环境",
+      "url": "https://github.com/coder/coder",
+      "summary": "为开发者及其智能体提供安全环境",
+      "content": "Secure environments for developers and their agents",
+      "stars": "15,278"
+    },
+    {
+      "id": "gh-16",
+      "type": "github",
+      "title": "ahmedkhaleel2004 / gitdiagram",
+      "title_zh": "GitDiagram交互式仓库图表",
+      "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+      "summary": "为任何GitHub仓库生成免费、简单、快速的交互式图表",
+      "content": "Free, simple, fast interactive diagrams for any GitHub repository",
+      "stars": "16,463"
+    },
+    {
+      "id": "gh-17",
+      "type": "github",
+      "title": "asciimoo / hister",
+      "title_zh": "Hister个人搜索引擎",
+      "url": "https://github.com/asciimoo/hister",
+      "summary": "打造你自己的搜索引擎",
+      "content": "Your own search engine",
+      "stars": "4,958"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "title_zh": "Claude Code现在支持读取AGENTS.md文件",
+      "url": "https://news.ycombinator.com/item?id=49760187",
+      "summary": "当不存在Claude.md时，Claude Code会自动读取AGENTS.md配置文件",
+      "content": "HN Score: 441, Comments: 159"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "title_zh": "翻译缺失",
+      "url": "https://news.ycombinator.com/item?id=49758736",
+      "summary": "翻译缺失",
+      "content": "HN Score: 438, Comments: 208"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "title_zh": "OpenAI如何用自家大模型设计Jalapeño芯片",
+      "url": "https://news.ycombinator.com/item?id=49761432",
+      "summary": "OpenAI利用自身大语言模型参与其Jalapeño芯片的设计过程",
+      "content": "HN Score: 25, Comments: 15"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Saving another 100TB of RAM",
+      "title_zh": "再节省100TB内存",
+      "url": "https://news.ycombinator.com/item?id=49758580",
+      "summary": "一项新的内存优化技术可为大规模系统再节省100TB的RAM",
+      "content": "HN Score: 190, Comments: 36"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Cloudflare Quick Tunnels",
+      "title_zh": "Cloudflare快速隧道",
+      "url": "https://news.ycombinator.com/item?id=49754785",
+      "summary": "Cloudflare推出快速隧道功能，简化网络部署流程",
+      "content": "HN Score: 536, Comments: 237"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Xcode 27.1 Beta Release Notes",
+      "title_zh": "Xcode 27.1测试版发布说明",
+      "url": "https://news.ycombinator.com/item?id=49758419",
+      "summary": "苹果发布Xcode 27.1测试版，包含多项改进和新功能",
+      "content": "HN Score: 109, Comments: 63"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "title_zh": "翻译缺失",
+      "url": "https://news.ycombinator.com/item?id=49758615",
+      "summary": "翻译缺失",
+      "content": "HN Score: 61, Comments: 11"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "title_zh": "翻译缺失",
+      "url": "https://news.ycombinator.com/item?id=49757050",
+      "summary": "翻译缺失",
+      "content": "HN Score: 143, Comments: 47"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "How to Write with an LLM",
+      "title_zh": "如何用大语言模型辅助写作",
+      "url": "https://news.ycombinator.com/item?id=49747070",
+      "summary": "探讨利用LLM提升写作质量和效率的实践方法",
+      "content": "HN Score: 366, Comments: 258"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "title_zh": "翻译缺失",
+      "url": "https://news.ycombinator.com/item?id=49748553",
+      "summary": "翻译缺失",
+      "content": "HN Score: 156, Comments: 73"
+    },
+    {
+      "id": "hn-11",
+      "type": "hn",
+      "title": "A 1542 papal cipher cracked with simulated annealing",
+      "title_zh": "用模拟退火算法破解1542年教皇密码",
+      "url": "https://news.ycombinator.com/item?id=49744036",
+      "summary": "研究者使用模拟退火算法成功破解了一封1542年的教皇加密信件",
+      "content": "HN Score: 11, Comments: 1"
+    },
+    {
+      "id": "hn-12",
+      "type": "hn",
+      "title": "The first new cat species discovered in 100 years",
+      "title_zh": "百年来首次发现新的猫科物种",
+      "url": "https://news.ycombinator.com/item?id=49744704",
+      "summary": "科学家发现了100年来的第一个新猫科动物物种",
+      "content": "HN Score: 145, Comments: 47"
+    },
+    {
+      "id": "hn-13",
+      "type": "hn",
+      "title": "OpenJev",
+      "title_zh": "OpenJev项目",
+      "url": "https://news.ycombinator.com/item?id=49752041",
+      "summary": "开源Java虚拟机项目",
+      "content": "HN Score: 534, Comments: 239"
+    },
+    {
+      "id": "hn-14",
+      "type": "hn",
+      "title": "Cyclomatic Complexity in C#",
+      "title_zh": "C#中的圈复杂度",
+      "url": "https://news.ycombinator.com/item?id=49731413",
+      "summary": "探讨C#编程中圈复杂度的计算与代码质量优化",
+      "content": "HN Score: 23, Comments: 12"
+    },
+    {
+      "id": "hn-15",
+      "type": "hn",
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "title_zh": "翻译缺失",
+      "url": "https://news.ycombinator.com/item?id=49755533",
+      "summary": "翻译缺失",
+      "content": "HN Score: 101, Comments: 51"
+    },
+    {
+      "id": "hn-16",
+      "type": "hn",
+      "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
+      "title_zh": "翻译缺失",
+      "url": "https://news.ycombinator.com/item?id=49761178",
+      "summary": "翻译缺失",
+      "content": "HN Score: 133, Comments: 67"
+    },
+    {
+      "id": "hn-17",
+      "type": "hn",
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "title_zh": "语言不可读性对大语言模型安全的影响",
+      "url": "https://news.ycombinator.com/item?id=49758689",
+      "summary": "研究探讨语言层面的不可读性对LLM安全性的深远影响",
+      "content": "HN Score: 46, Comments: 17"
+    },
+    {
+      "id": "hn-18",
+      "type": "hn",
+      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+      "title_zh": "翻译缺失",
+      "url": "https://news.ycombinator.com/item?id=49746406",
+      "summary": "翻译缺失",
+      "content": "HN Score: 139, Comments: 171"
+    },
+    {
+      "id": "hn-19",
+      "type": "hn",
+      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+      "title_zh": "Warez：盗版的基础设施与美学（2021）",
+      "url": "https://news.ycombinator.com/item?id=49749724",
+      "summary": "深入探讨盗版软件的基础设施生态系统和文化美学",
+      "content": "HN Score: 94, Comments: 14"
+    },
+    {
+      "id": "hn-20",
+      "type": "hn",
+      "title": "Minimal Phone 2",
+      "title_zh": "Minimal Phone 2极简手机",
+      "url": "https://news.ycombinator.com/item?id=49749369",
+      "summary": "Minimal Phone 2发布，继续主打极简设计理念",
+      "content": "HN Score: 168, Comments: 159"
+    },
+    {
+      "id": "hn-21",
+      "type": "hn",
+      "title": "Size-Specialized Memory Allocation",
+      "title_zh": "大小特化内存分配",
+      "url": "https://news.ycombinator.com/item?id=49735057",
+      "summary": "一种根据对象大小进行特化处理的新型内存分配策略",
+      "content": "HN Score: 12, Comments: 3"
+    },
+    {
+      "id": "hn-22",
+      "type": "hn",
+      "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+      "title_zh": "翻译缺失",
+      "url": "https://news.ycombinator.com/item?id=49750694",
+      "summary": "翻译缺失",
+      "content": "HN Score: 247, Comments: 89"
+    },
+    {
+      "id": "hn-23",
+      "type": "hn",
+      "title": "How SpaceX streamlined the Raptor engine",
+      "title_zh": "SpaceX如何简化猛禽发动机",
+      "url": "https://news.ycombinator.com/item?id=49746626",
+      "summary": "SpaceX对猛禽发动机进行简化设计以提高可制造性和可靠性",
+      "content": "HN Score: 151, Comments: 28"
+    },
+    {
+      "id": "hn-24",
+      "type": "hn",
+      "title": "A search-and-inference database from scratch in pure Zig",
+      "title_zh": "用纯Zig从零构建搜索推理数据库",
+      "url": "https://news.ycombinator.com/item?id=49714157",
+      "summary": "开发者使用Zig语言从零开始构建了一个搜索与推理数据库",
+      "content": "HN Score: 49, Comments: 16"
+    },
+    {
+      "id": "hn-25",
+      "type": "hn",
+      "title": "I vibed a proof of Conway's conjecture",
+      "title_zh": "我用AI辅助证明了康威猜想",
+      "url": "https://news.ycombinator.com/item?id=49755024",
+      "summary": "作者利用AI编程辅助工具（vibed）给出了康威猜想的一个证明",
+      "content": "HN Score: 201, Comments: 180"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "title_zh": "翻译缺失",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "summary": "翻译缺失",
+      "content": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations."
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "title_zh": "Anthropic正在运营一个进行生物实验的实验室",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "summary": "Anthropic被曝正在运营进行生物学实验的实验室，引发AI安全讨论",
+      "content": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all."
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "AI hallucination nearly triggers US military operation",
+      "title_zh": "AI幻觉险些触发美军军事行动",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "summary": "AI系统产生的幻觉内容差点导致美国军方发起真实军事行动",
+      "content": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns. "
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "title_zh": "翻译缺失",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "summary": "翻译缺失",
+      "content": "Accenture is about to take on its most high-risk consulting engagement ever. "
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "World model companies are keeping a lot of secrets",
+      "title_zh": "世界模型公司保守着大量秘密",
+      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "summary": "各大世界模型开发公司在技术细节上保持高度保密",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "title_zh": "ChatGPT发明者推出新型AI模型令开发者兴奋",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "summary": "ChatGPT的发明者推出了一种全新的AI模型架构，引发开发者社区热议",
+      "content": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence. "
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "title_zh": "翻译缺失",
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "summary": "翻译缺失",
+      "content": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer. "
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "title_zh": "翻译缺失",
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "summary": "翻译缺失",
+      "content": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more."
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "title_zh": "翻译缺失",
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "summary": "翻译缺失",
+      "content": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already "
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+      "title_zh": "翻译缺失",
+      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "summary": "翻译缺失",
+      "content": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already "
+    }
+  ]
+}
