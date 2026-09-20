@@ -1,0 +1,211 @@
+{
+  "date": "2026-09-20",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "cloudflare/security-audit-skill",
+      "title_zh": "Cloudflare安全审计技能",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "Cloudflare推出的编码代理安全审计技能，支持多阶段安全审计流程，提供独立验证的机器可读审计结果",
+      "content": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": "16,287"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "trycua/cua",
+      "title_zh": "CUA计算机操作开源框架",
+      "url": "https://github.com/trycua/cua",
+      "summary": "开源计算机操作驱动框架，支持跨操作系统设备群组管理和基准测试，可用于AI训练、评估和数据生成",
+      "content": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars": "24,384"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "addyosmani/agent-skills",
+      "title_zh": "AI编程代理工程技能集",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "Google Chrome团队负责人Addy Osmani维护的AI编程代理生产级工程技能集合，包含丰富的最佳实践",
+      "content": "Production-grade engineering skills for AI coding agents.",
+      "stars": "97,008"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "coder/coder",
+      "title_zh": "Coder安全开发环境",
+      "url": "https://github.com/coder/coder",
+      "summary": "为开发者和AI代理提供安全隔离的云端开发环境，支持远程开发工作流",
+      "content": "Secure environments for developers and their agents",
+      "stars": "15,610"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "anthropics/claude-code",
+      "title_zh": "Anthropic Claude Code终端编码工具",
+      "url": "https://github.com/anthropics/claude-code",
+      "summary": "Anthropic推出的终端内智能编码工具，可通过自然语言命令执行日常任务、解释复杂代码、处理Git工作流",
+      "content": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": "146,698"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "Open-Dev-Society/OpenStock",
+      "title_zh": "OpenStock开源股票平台",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "summary": "开源替代昂贵市场平台的股票追踪工具，提供实时价格、个性化提醒和公司深度分析",
+      "content": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "stars": "16,023"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "higgsfield-ai/higgsfield",
+      "title_zh": "Higgsfield分布式GPU训练框架",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "summary": "容错、高度可扩展的GPU编排和机器学习框架，专为训练数十亿至数万亿参数的模型而设计",
+      "content": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "stars": "4,945"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "docling-project/docling",
+      "title_zh": "Docling文档AI预处理工具",
+      "url": "https://github.com/docling-project/docling",
+      "summary": "IBM开源的文档预处理工具，帮助将各种文档格式转换为适合生成式AI使用的结构化数据",
+      "content": "Get your documents ready for gen AI",
+      "stars": "67,029"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "title_zh": "Hacker News排名机制详解：评分、争议与惩罚（2013）",
+      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+      "summary": "深入解析Hacker News的排名算法机制，包括评分系统、争议处理和惩罚规则",
+      "content": "HN Score: 92, Comments: 47"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "title_zh": "我一年前用强化学习构建了非自回归决策模型",
+      "url": "https://laya.convaiinnovations.com/",
+      "summary": "开发者分享了一年前构建非自回归决策模型的实践经验，结合强化学习技术展示了该方法在推理速度和性能上的优势",
+      "content": "HN Score: 1054, Comments: 247"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "AI-generated posters don't have to be horrible",
+      "title_zh": "AI生成的海报不必如此糟糕",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "summary": "探讨如何让AI生成的活动海报摆脱低质量困境，通过合理的提示词工程和设计原则实现专业级视觉效果",
+      "content": "HN Score: 1328, Comments: 737"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "title_zh": "测量互联网审查，为最大开放数据集做贡献",
+      "url": "https://ooni.org/install",
+      "summary": "OONI项目号召用户安装工具测量互联网审查，共同构建全球最大的网络审查开放数据集",
+      "content": "HN Score: 77, Comments: 40"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Brood War Bench",
+      "title_zh": "星际争霸AI基准测试",
+      "url": "https://bw.swerdlow.dev/report",
+      "summary": "星际争霸：母巢之战的AI基准测试项目，用于评估游戏AI的决策能力",
+      "content": "HN Score: 123, Comments: 62"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Compiler-style optimization for drawing via Skia",
+      "title_zh": "通过Skia实现编译器风格的绘图优化",
+      "url": "https://arxiv.org/abs/2603.23696",
+      "summary": "论文介绍通过Skia图形库实现编译器风格的绘图优化技术，提升渲染性能",
+      "content": "HN Score: 53, Comments: 16"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Mayday Mysteries",
+      "title_zh": "五朔节之谜",
+      "url": "http://www.maydaymystery.org/mayday/",
+      "summary": "一个历史悠久的谜题网站，包含自1981年以来持续发布的神秘谜题",
+      "content": "HN Score: 22, Comments: 3"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "title_zh": "两种平行的神经外胚层祖细胞促进大脑发育",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "summary": "斯坦福大学研究发现大脑发育过程中存在两种平行的神经外胚层祖细胞，对理解神经发育和AI神经网络架构设计有重要启示",
+      "content": "HN Score: 603, Comments: 234"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "title_zh": "用强化学习构建非自回归决策模型的实践经验",
+      "url": "https://laya.convaiinnovations.com/",
+      "summary": "开发者分享了一年前构建非自回归决策模型的实践经验，结合强化学习技术，展示了该方法在推理速度和性能上的优势",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "AI-generated posters don't have to be horrible",
+      "title_zh": "AI生成的海报不必如此糟糕",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "summary": "探讨如何让AI生成的活动海报摆脱低质量困境，通过合理的提示词工程和设计原则实现专业级视觉效果",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "title_zh": "GPT-6 Astra成功破解一战德国无线电密码",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "summary": "OpenAI的GPT-6 Astra模型成功破解了一战时期的德国无线电密码，展示了大语言模型在密码分析领域的突破性能力",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+      "title_zh": "CUA-S1：面向计算机操作的系统级模型",
+      "url": "https://github.com/trycua/cua",
+      "summary": "CUA-S1是一个系统级计算机操作模型，支持跨操作系统设备群组管理，为AI智能体提供标准化的计算机交互能力",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "title_zh": "两种平行的神经外胚层祖细胞促进大脑发育",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "summary": "斯坦福大学研究发现大脑发育过程中存在两种平行的神经外胚层祖细胞，对理解神经发育和AI神经网络架构设计有重要启示",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "I think you should almost never use AI to write",
+      "title_zh": "我认为你几乎永远不该用AI写作",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "summary": "作者认为在绝大多数写作场景中不应使用AI辅助，强调原创思考和人类表达能力的重要性",
+      "content": ""
+    }
+  ]
+}
