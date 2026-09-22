@@ -1,0 +1,332 @@
+{
+  "date": "2026-09-22",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "BuilderIO/agent-native",
+      "title_zh": "Agent-Native 构建框架",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "summary": "一个用于构建智能体应用的开发框架，支持开发者快速构建基于AI代理的原生应用程序。",
+      "content": "Stars: 5877",
+      "stars": "5877"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "trycua/cua",
+      "title_zh": "CUA 计算机使用框架",
+      "url": "https://github.com/trycua/cua",
+      "summary": "CUA 是一个开源计算机使用框架，提供跨操作系统驱动、集群管理和基准测试，用于训练、评估和数据生成，旨在规模化计算机使用2.0。",
+      "content": "Stars: 25683",
+      "stars": "25683"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "Open-Dev-Society/OpenStock",
+      "title_zh": "OpenStock 开源股票平台",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "summary": "OpenStock 是一个开源的免费股票交易平台替代方案，支持实时价格追踪、个性化提醒和详细的公司洞察分析，永久免费。",
+      "content": "Stars: 17697",
+      "stars": "17697"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "akitaonrails/ai-memory",
+      "title_zh": "AI-Memory 智能体记忆方案",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "summary": "为代理编码CLI提供长期记忆解决方案，并支持不同代理供应商之间的上下文交接，让AI编程助手能够记住跨会话的信息。",
+      "content": "Stars: 7660",
+      "stars": "7660"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "coder/coder",
+      "title_zh": "Coder 开发环境平台",
+      "url": "https://github.com/coder/coder",
+      "summary": "Coder 为开发者及其AI代理提供安全的云端开发环境，支持远程开发、容器化工作区和安全隔离。",
+      "content": "Stars: 16411",
+      "stars": "16411"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "anthropics/financial-services",
+      "title_zh": "Anthropic 金融服务示例",
+      "url": "https://github.com/anthropics/financial-services",
+      "summary": "Anthropic官方提供的金融服务AI应用示例集，展示如何将Claude等AI模型应用于金融分析、风险评估等场景。",
+      "content": "Stars: 35808",
+      "stars": "35808"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "cloudflare/quiche",
+      "title_zh": "Quiche QUIC协议实现",
+      "url": "https://github.com/cloudflare/quiche",
+      "summary": "Cloudflare开发的QUIC传输协议和HTTP/3协议的Rust实现，提供高性能、安全的网络传输解决方案。",
+      "content": "Stars: 12341",
+      "stars": "12341"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "mvt-project/mvt",
+      "title_zh": "MVT 移动取证工具",
+      "url": "https://github.com/mvt-project/mvt",
+      "summary": "MVT（移动验证工具包）帮助对移动设备进行取证分析，检测潜在的设备入侵和安全威胁，支持iOS和Android系统。",
+      "content": "Stars: 13576",
+      "stars": "13576"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "zhouxiaoka/autoclip",
+      "title_zh": "AutoClip 智能视频剪辑",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "summary": "AI驱动的视频剪辑和高光片段自动生成工具，支持智能识别精彩瞬间并自动剪辑，适合短视频二次创作。",
+      "content": "Stars: 8213",
+      "stars": "8213"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "ruanyf/weekly",
+      "title_zh": "阮一峰科技爱好者周刊",
+      "url": "https://github.com/ruanyf/weekly",
+      "summary": "由阮一峰维护的科技爱好者周刊，每周五发布，汇总前沿技术资讯、开源项目和实用工具推荐。",
+      "content": "Stars: 103913",
+      "stars": "103913"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "Crosstalk-Solutions/project-nomad",
+      "title_zh": "NOMAD 离线知识服务器",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "summary": "Project NOMAD是一个离线优先的知识和教育服务器，包含维基百科、数千本图书、课程、地图和可选的本地AI功能，无需互联网即可使用。",
+      "content": "Stars: 37845",
+      "stars": "37845"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "yynxxxxx/Codex-X",
+      "title_zh": "Codex-X 可视化管理工具",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "summary": "OpenAI Codex桌面端/CLI的可视化管理工具，支持Provider/API切换、会话同步、提示词注入、Skills/MCP管理和TOML配置可视化。",
+      "content": "Stars: 3668",
+      "stars": "3668"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Attention is all you have",
+      "title_zh": "注意力就是一切：Transformer架构深度解析",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "summary": "一篇深入解析Transformer注意力机制的技术文章，探讨为什么\"注意力\"这一核心概念在现代AI架构中如此重要。",
+      "content": "HN Score: 548, Comments: 158"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "What Sun got wrong",
+      "title_zh": "Sun做错了什么：回顾Sun Microsystems的战略失误",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "summary": "回顾Sun Microsystems在技术演进中的关键决策失误，分析其从辉煌走向衰落的原因，对技术公司战略决策的深刻反思。",
+      "content": "HN Score: 482, Comments: 264"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Grok 4.7",
+      "title_zh": "Grok 4.7大语言模型发布",
+      "url": "https://x.ai/news/grok-4-7",
+      "summary": "xAI发布Grok 4.7版本大语言模型，带来性能提升和新功能，展示了AI模型持续迭代竞争的最新进展。",
+      "content": "HN Score: 469, Comments: 385"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Xiaomi MiMo v2.6",
+      "title_zh": "小米MiMo v2.6模型发布",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "summary": "小米发布MiMo v2.6版本的AI推理模型，在基准测试中展现强劲性能，中国科技公司在AI领域的持续投入成果。",
+      "content": "HN Score: 441, Comments: 221"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "title_zh": "Kev：基于Qwen3.5构建的轻量级决策模型家族",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "summary": "开源项目Kev是一个类似于Jev的轻量级决策模型家族，基于通义千问Qwen3.5构建，专注于高效决策任务。",
+      "content": "HN Score: 396, Comments: 175"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "title_zh": "NASA火星样本返回任务宣告终止",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "summary": "NASA正式宣布取消火星样本返回任务，这一耗资巨大的行星科学项目因预算超支和技术挑战而被迫放弃。",
+      "content": "HN Score: 273, Comments: 200"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Heretic removes restrictions from language models",
+      "title_zh": "Heretic：移除语言模型限制的工具",
+      "url": "https://heretic-project.org/",
+      "summary": "Heretic是一个开源工具，可以绕过和移除大语言模型的安全限制和审查机制，引发了关于AI安全的广泛讨论。",
+      "content": "HN Score: 235, Comments: 96"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "title_zh": "如何在Mac上关闭和限制Apple Intelligence功能",
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "summary": "详细介绍在macOS系统上关闭和限制苹果AI智能功能的方法，包括隐私设置和功能管理选项。",
+      "content": "HN Score: 227, Comments: 151"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "title_zh": "美国东海岸繁忙机场航班停飞：光纤线路被切断",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "summary": "美国东海岸多个繁忙机场因光纤通信线路被切断而被迫暂停航班起降，引发对关键基础设施安全的担忧。",
+      "content": "HN Score: 179, Comments: 101"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Python Workers are now generally available",
+      "title_zh": "Python Workers现已正式发布",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "summary": "Python Workers功能现已全面开放，这是一个支持Python运行时的边缘计算/无服务器计算平台，简化了Python应用的部署。",
+      "content": "HN Score: 175, Comments: 28"
+    },
+    {
+      "id": "hn-11",
+      "type": "hn",
+      "title": "Transformers Explained Visually",
+      "title_zh": "图解Transformer架构：视觉化深度讲解",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "summary": "通过可视化方式深入浅出地讲解Transformer神经网络架构，帮助读者直观理解注意力机制、位置编码等核心概念。",
+      "content": "HN Score: 151, Comments: 25"
+    },
+    {
+      "id": "hn-12",
+      "type": "hn",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "title_zh": "AI编程让CI成为瓶颈，我们重新设计了CI流程",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "summary": "AI代码生成工具的普及导致CI流水线成为开发瓶颈，团队分享了如何重新设计持续集成流程以应对AI时代的挑战。",
+      "content": "HN Score: 114, Comments: 98"
+    },
+    {
+      "id": "hn-13",
+      "type": "hn",
+      "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
+      "title_zh": "美国暂停800美元以下小额进口免税豁免",
+      "url": "https://www.personalimportation.org/advocacy",
+      "summary": "美国海关暂停了针对800美元以下小额进口商品的行政免税豁免政策，将对跨境电商和国际物流产生重大影响。",
+      "content": "HN Score: 113, Comments: 72"
+    },
+    {
+      "id": "hn-14",
+      "type": "hn",
+      "title": "I don't want to read what you didn't write",
+      "title_zh": "我不想阅读你未曾亲笔写下的内容",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "summary": "探讨AI时代内容创作的真实性问题，反思当AI代笔成为常态后，原创写作和真实表达的价值与意义。",
+      "content": "HN Score: 113, Comments: 39"
+    },
+    {
+      "id": "hn-15",
+      "type": "hn",
+      "title": "Why does mathmain need an encrypted loader?",
+      "title_zh": "为什么mathmain需要加密加载器？",
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "summary": "技术分析文章，探讨mathmain程序为何需要使用加密加载器，涉及软件保护、反逆向工程和许可证管理等话题。",
+      "content": "HN Score: 97, Comments: 27"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "title_zh": "苹果零售店创始人不看好硅谷AI购物赌注",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "summary": "苹果零售店的缔造者对硅谷押注AI驱动购物体验表示怀疑，认为技术不能替代真实的人性化零售体验。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "title_zh": "OpenAI成立数学顾问委员会：AI已解决超100个未解数学问题",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "summary": "OpenAI宣布成立数学顾问委员会，其AI系统已在数学领域成功解决了超过100个长期未解的开放性问题，标志着AI在纯数学研究中的重大突破。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+      "title_zh": "TechCrunch Disrupt 2026门票限时优惠",
+      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "summary": "TechCrunch Disrupt 2026大会门票限时优惠活动，距离截止还有5天，最高可节省200美元。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "title_zh": "Meta Muse移动端发布势头超越ChatGPT早期表现",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "summary": "Meta的AI助手Muse在移动端的表现超越了ChatGPT同期的用户增长速度，展示了Meta在AI消费端应用的强劲竞争力。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "title_zh": "Meta的AI代理被阻止访问Amazon.com",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "summary": "亚马逊阻止了Meta的AI代理访问其网站，反映了大型科技公司在AI数据抓取和自动化访问方面的竞争与冲突。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "title_zh": "Tabby：前会计师用AI让传统会计行业面临变革",
+      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "summary": "一位前会计师创办了Tabby公司，利用AI技术自动化会计工作流程，引发了关于AI是否会取代传统会计职业的讨论。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "title_zh": "下一个爆款创业公司从何而来？Benchmark合伙人在TechCrunch Disrupt 2026上分享观点",
+      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "summary": "顶级风投Benchmark的合伙人们在TechCrunch Disrupt 2026大会上深入探讨了下一个颠覆性创业公司可能诞生的领域和方向。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "title_zh": "谷歌推出899美元Googlebook：押注你会为Gemini购买新笔记本",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "summary": "谷歌发布售价899美元的Googlebook笔记本电脑，深度集成Gemini AI助手，押注消费者会为AI体验购买新硬件。",
+      "content": ""
+    }
+  ]
+}
