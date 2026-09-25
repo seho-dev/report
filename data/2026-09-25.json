@@ -1,0 +1,343 @@
+{
+  "date": "2026-09-25",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "ai-engineering-from-scratch",
+      "title_zh": "AI工程实战指南",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "summary": "从零开始学习AI工程的完整教程，涵盖构建和部署AI系统的全流程",
+      "content": "Learn it. Build it. Ship it for others.",
+      "stars": "56,528"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "hindsight",
+      "title_zh": "Hindsight：能自主学习的AI智能体记忆系统",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "summary": "为AI智能体设计的记忆框架，能够从交互中持续学习和积累经验",
+      "content": "Hindsight: Agent Memory That Learns",
+      "stars": "27,757"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "univer",
+      "title_zh": "Univer：AI智能体的全能办公套件",
+      "url": "https://github.com/dream-num/univer",
+      "summary": "集成电子表格、文档、幻灯片、画布、关系型表和PDF的AI智能体运行时环境",
+      "content": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": "17,569"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "ax",
+      "title_zh": "Google AX：开源智能体编排运行时",
+      "url": "https://github.com/google/ax",
+      "summary": "Google开源的智能体编排框架，用于构建和管理AI智能体工作流",
+      "content": "Google's open agentic orchestration runtime",
+      "stars": "10,393"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "Model-Optimizer",
+      "title_zh": "NVIDIA Model-Optimizer：模型优化统一库",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "summary": "NVIDIA推出的统一模型优化库，支持量化、蒸馏、剪枝、神经架构搜索等前沿技术",
+      "content": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc.",
+      "stars": "4,065"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "FxEmbed",
+      "title_zh": "FxEmbed：修复社交平台嵌入显示",
+      "url": "https://github.com/FxEmbed/FxEmbed",
+      "summary": "修复X/Twitter和Bluesky的内容嵌入，支持在Discord、Telegram等平台展示多图、视频、投票等内容",
+      "content": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "stars": "5,361"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "financial-services",
+      "title_zh": "Anthropic金融服务工具集",
+      "url": "https://github.com/anthropics/financial-services",
+      "summary": "Anthropic公司开源的金融服务相关工具和资源库",
+      "content": "Anthropic financial services tools and resources",
+      "stars": "37,347"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "CLI-Anything",
+      "title_zh": "CLI-Anything：让所有软件原生支持智能体",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "将任意软件转变为智能体原生应用的CLI工具框架，包含CLI-Hub注册中心",
+      "content": "CLI-Anything: Making ALL Software Agent-Native",
+      "stars": "50,324"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "mvt",
+      "title_zh": "MVT移动设备取证工具包",
+      "url": "https://github.com/mvt-project/mvt",
+      "summary": "用于移动设备取证分析的安全工具，帮助检测设备是否被入侵",
+      "content": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "stars": "14,724"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "superpowers",
+      "title_zh": "Superpowers：智能体技能框架与开发方法论",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一套实用的智能体技能框架和软件开发方法论，291k星标",
+      "content": "An agentic skills framework & software development methodology that works.",
+      "stars": "291,223"
+    },
+    {
+      "id": "gh-11",
+      "type": "github",
+      "title": "harness-sdk",
+      "title_zh": "Harness SDK：生产级AI智能体开发套件",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "summary": "端到端构建和控制AI智能体的开源SDK，支持Python和TypeScript，兼容任意模型和云平台",
+      "content": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "stars": "8,245"
+    },
+    {
+      "id": "gh-12",
+      "type": "github",
+      "title": "lap",
+      "title_zh": "LAP：离线优先照片管理器",
+      "url": "https://github.com/julyx10/lap",
+      "summary": "面向大型本地照片库的离线优先照片管理应用",
+      "content": "An offline-first photo manager for large local libraries",
+      "stars": "2,860"
+    },
+    {
+      "id": "gh-13",
+      "type": "github",
+      "title": "treg",
+      "title_zh": "Treg：智能体工具的OpenRouter",
+      "url": "https://github.com/superdesigndev/treg",
+      "summary": "为AI智能体工具提供统一接入的开源平台",
+      "content": "OpenRouter for agent tools",
+      "stars": "3,151"
+    },
+    {
+      "id": "gh-14",
+      "type": "github",
+      "title": "stable-diffusion.cpp",
+      "title_zh": "Stable Diffusion C++推理引擎",
+      "url": "https://github.com/leejet/stable-diffusion.cpp",
+      "summary": "纯C/C++实现的扩散模型推理引擎，支持SD、Flux、Wan、Qwen Image等多种模型",
+      "content": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+      "stars": "7,240"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "F-Droid 2.0",
+      "title_zh": "F-Droid 2.0发布：Android自由新篇章",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "summary": "F-Droid开源应用商店发布2.0大版本更新，为Android自由软件生态开启新篇章，获得879分和248条评论",
+      "content": "HN Score: 879, Comments: 248"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "title_zh": "制造邪典字体：Times New Bastard等",
+      "url": "https://bastardica.mitpit.com",
+      "summary": "一个在线工具，可以生成各种扭曲风格的邪典字体，如Times New Bastard，获得418分",
+      "content": "HN Score: 418, Comments: 58"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Why is the liver so weirdly regenerative?",
+      "title_zh": "肝脏为什么有如此奇特的再生能力？",
+      "url": "https://dynomight.substack.com/p/liver",
+      "summary": "深入探讨肝脏独特的再生机制，获210分135条评论",
+      "content": "HN Score: 210, Comments: 135"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Show HN: Whiteboard (YC W26) - An open-source IDE for thoughtful software design",
+      "title_zh": "Whiteboard：面向深思熟虑的软件设计的开源IDE",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "summary": "YC W26孵化项目Whiteboard，一款专注于软件设计思考的开源集成开发环境，获168分",
+      "content": "HN Score: 168, Comments: 75"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Fearless SIMD v1.0",
+      "title_zh": "Fearless SIMD v1.0发布",
+      "url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "summary": "Rust SIMD库Fearless SIMD发布1.0正式版，提供安全的向量化编程接口，获160分",
+      "content": "HN Score: 160, Comments: 28"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Toyota is taking the Corolla electric",
+      "title_zh": "丰田卡罗拉即将推出电动版",
+      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "summary": "丰田宣布最畅销车型卡罗拉将推出电动版本，获181分261条评论",
+      "content": "HN Score: 181, Comments: 261"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Google's Project Suncatcher to put ML infrastructure in space",
+      "title_zh": "Google Project Suncatcher：将ML基础设施送入太空",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "summary": "Google研究部门的Suncatcher项目计划将机器学习基础设施部署到太空，获86分170条评论",
+      "content": "HN Score: 86, Comments: 170"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Show HN: Koi.rest - watch some fish and regain your balance",
+      "title_zh": "Koi.rest：看鱼放松找回平衡",
+      "url": "https://koi.rest",
+      "summary": "一个Show HN项目，提供观看鱼儿游动来帮助放松身心的网页体验，获100分",
+      "content": "HN Score: 100, Comments: 24"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "California is chasing wealth that has feet",
+      "title_zh": "加州正在流失有脚的财富",
+      "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+      "summary": "探讨加州财富和企业外迁现象的深度分析文章，获103分282条评论",
+      "content": "HN Score: 103, Comments: 282"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "title_zh": "用LLM追溯炼金术知识并解码17世纪信件",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "summary": "利用大语言模型追踪历史炼金术知识并解码17世纪信件的研究项目",
+      "content": "HN Score: 48, Comments: 9"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "title_zh": "PrismML将小型LLM带到高通智能眼镜平台",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-power",
+      "summary": "PrismML将其轻量级大语言模型引入高通芯片驱动的智能眼镜，推动端侧AI应用发展",
+      "content": "Source: TechCrunch"
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "title_zh": "Oracle对新墨西哥州Stargate数据中心发出不可抗力通知",
+      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-m",
+      "summary": "Oracle因不可抗力因素对其位于新墨西哥州的Stargate超大规模数据中心项目发出法律通知",
+      "content": "Source: TechCrunch"
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Meta's Muse Charm looks like a Tamagotchi, but it's tapping into a much newer trend",
+      "title_zh": "Meta Muse Charm外观像电子宠物，但瞄准更新趋势",
+      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-i",
+      "summary": "Meta推出的Muse Charm设备外形酷似经典电子宠物Tamagotchi，但实际瞄准的是更前沿的AI可穿戴趋势",
+      "content": "Source: TechCrunch"
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Google Photos 'Clueless'-inspired virtual closet is now available on Android and iOS",
+      "title_zh": "Google Photos受《独领风骚》启发的虚拟衣橱上线",
+      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet",
+      "summary": "Google Photos推出受电影《独领风骚》启发的虚拟衣橱功能，现已在Android和iOS平台可用",
+      "content": "Source: TechCrunch"
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "ElevenLabs' CEO on margins, IPO timing, and telling customers they're talking to a bot",
+      "title_zh": "ElevenLabs CEO谈利润率、IPO时机及告知客户在与AI对话",
+      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-",
+      "summary": "ElevenLabs首席执行官分享公司利润率、IPO上市时间规划，以及如何向客户透明说明正在与AI机器人对话",
+      "content": "Source: TechCrunch"
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Google tests letting Gemini call businesses for you",
+      "title_zh": "Google测试让Gemini助手替你打电话给商家",
+      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-i",
+      "summary": "Google正在测试Gemini AI助手代用户拨打商家电话的功能，拓展AI语音交互场景",
+      "content": "Source: TechCrunch"
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option",
+      "title_zh": "Shield AI、Waabi和通用汽车谈在零容错场景下构建AI",
+      "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building",
+      "summary": "三家公司在TechCrunch Disrupt 2026上分享在自动驾驶、国防等零容错领域构建AI系统的经验",
+      "content": "Source: TechCrunch"
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+      "title_zh": "SpeakerMem-R1：面向多方对话的说话人中心双轨记忆模型",
+      "url": "https://huggingface.co/papers/2609.26780",
+      "summary": "提出以说话人为中心的双轨记忆机制，提升多方对话场景下的记忆准确性",
+      "content": "Source: HuggingFace"
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World",
+      "title_zh": "Spatial-Interactor：通过与物理世界交互学习空间推理",
+      "url": "https://huggingface.co/papers/2609.23038",
+      "summary": "通过与可观测物理世界交互来学习空间推理能力的新方法",
+      "content": "Source: HuggingFace"
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "The Past Frames the Future: Memory for Autoregressive Video Generation",
+      "title_zh": "过去定义未来：自回归视频生成的记忆机制",
+      "url": "https://huggingface.co/papers/2609.28466",
+      "summary": "探索如何利用记忆机制改进自回归视频生成模型的质量和连贯性",
+      "content": "Source: HuggingFace"
+    },
+    {
+      "id": "ai-11",
+      "type": "ai",
+      "title": "Just-in-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents",
+      "title_zh": "即时记忆：为LLM智能体学习策划任务自适应记忆",
+      "url": "https://huggingface.co/papers/2609.27334",
+      "summary": "提出为大语言模型智能体设计的即时记忆系统，能够根据任务动态策划和调整记忆内容",
+      "content": "Source: HuggingFace"
+    },
+    {
+      "id": "ai-12",
+      "type": "ai",
+      "title": "Schrödinger's Code Repository: Have LLMs Learned SWE-bench or Memorized It?",
+      "title_zh": "薛定谔的代码仓库：LLM是学会了SWE-bench还是记住了它？",
+      "url": "https://huggingface.co/papers/2609.27891",
+      "summary": "探讨大语言模型在SWE-bench基准测试中究竟是真正学会了解题还是仅仅记住了训练数据",
+      "content": "Source: HuggingFace"
+    }
+  ]
+}
