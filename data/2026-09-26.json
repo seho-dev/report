@@ -1,0 +1,249 @@
+{
+  "date": "2026-09-26",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "paperclip",
+      "title_zh": "Paperclip — 开源 Agent 管理应用",
+      "url": "https://github.com/paperclipai/paperclip",
+      "summary": "人人都在用的开源工作台，用来统一管理工作中协作的 AI 智能体。",
+      "content": "The open-source app everyone uses to manage agents at work Language: TypeScript. Today: +2,109 stars.",
+      "stars": "84879"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "claude-plugins-official",
+      "title_zh": "Claude 官方插件目录",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "summary": "Anthropic 官方维护的高质量 Claude Code 插件目录，收录并分发经过认证的插件。",
+      "content": "Official, Anthropic-managed directory of high quality Claude Code Plugins. Language: Python. Today: +83 stars.",
+      "stars": "36923"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "hindsight",
+      "title_zh": "Hindsight — 会学习的智能体记忆",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "summary": "面向 AI 智能体的记忆系统，能从交互中持续学习并沉淀长期记忆。",
+      "content": "Hindsight: Agent Memory That Learns Language: Python. Today: +1,653 stars.",
+      "stars": "29769"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "superpowers",
+      "title_zh": "Superpowers — 智能体技能框架",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一套实用的智能体技能框架与软件开发方法论，帮助 AI 高效完成工程任务。",
+      "content": "An agentic skills framework & software development methodology that works. Language: Shell. Today: +468 stars.",
+      "stars": "291654"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "skills",
+      "title_zh": "Matt Pocock 的工程师技能库",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "来自作者 .agents 目录的实战技能集合，面向真实工程师的 AI 技能包。",
+      "content": "Skills for Real Engineers. Straight from my .agents directory. Language: Shell. Today: +583 stars.",
+      "stars": "269713"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "univer",
+      "title_zh": "Univer — AI 智能体的办公套件底座",
+      "url": "https://github.com/dream-num/univer",
+      "summary": "为 AI 智能体打造的一体化办公运行时，集成表格、文档、幻灯片、画布、关系型表格与 PDF。",
+      "content": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. Language: TypeScript. Today: +1,050 stars.",
+      "stars": "18411"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "skills",
+      "title_zh": "Anthropics 官方 Agent Skills 仓库",
+      "url": "https://github.com/anthropics/skills",
+      "summary": "Anthropic 公开的 Agent Skills 技能库，用于扩展 Claude 的能力。",
+      "content": "Public repository for Agent Skills Language: Python. Today: +189 stars.",
+      "stars": "178305"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "starnet",
+      "title_zh": "Starnet — 像素风智能体工作站",
+      "url": "https://github.com/androoAGI/starnet",
+      "summary": "本地优先的桌面智能体工作台，像素画风格站点里运行真实 AI 智能体，自带 API Key 即可运行。",
+      "content": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. Language: JavaScript. Today: +93 stars.",
+      "stars": "467"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "wifit3",
+      "title_zh": "Wifit3 — 跨平台 USB 无线审计工具",
+      "url": "https://github.com/derv82/wifit3",
+      "summary": "Wifite 的现代化重写版，仅通过 USB 工作并支持跨平台运行的无线安全测试工具。",
+      "content": "Wifite but USB-only & cross-platform. Language: Python. Today: +183 stars.",
+      "stars": "908"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "kubernetes-the-hard-way",
+      "title_zh": "Kubernetes 硬核部署实战",
+      "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+      "summary": "不用任何脚本、手动一步步搭建 Kubernetes 集群的经典教程。",
+      "content": "Bootstrap Kubernetes the hard way. No scripts. Language: N/A. Today: +119 stars.",
+      "stars": "50121"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "title_zh": "美国上诉法院维持将 Anthropic 列为供应链风险的认定",
+      "url": "https://news.ycombinator.com/item?id=49845977",
+      "summary": "美国上诉法院维持国防部将 Anthropic 认定为供应链风险实体的决定，引发业界对 AI 公司与政府关系的广泛讨论。",
+      "content": "HN Score: 359, Comments: 663"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Platform-independent SIMD in Go",
+      "title_zh": "Go 语言的平台无关 SIMD 支持",
+      "url": "https://news.ycombinator.com/item?id=49843269",
+      "summary": "Go 官方博客介绍在 Go 中实现跨平台 SIMD 向量指令的实验性方案，无需手写汇编即可获得向量化加速。",
+      "content": "HN Score: 344, Comments: 132"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "title_zh": "Ollaya — 面向开源 Jev 决策模型的 Ollama",
+      "url": "https://news.ycombinator.com/item?id=49848269",
+      "summary": "Ollaya 是类似 Ollama 的本地推理工具，但面向开源的 Jev 风格决策模型，便于本地部署与调用。",
+      "content": "HN Score: 301, Comments: 88"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "title_zh": "Git-bug：嵌入 Git 的分布式离线优先缺陷跟踪器",
+      "url": "https://news.ycombinator.com/item?id=49843174",
+      "summary": "把 bug 跟踪直接存进 Git 仓库，支持分布式与离线工作，无需依赖外部 issue 平台。",
+      "content": "HN Score: 293, Comments: 94"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Ink and Switch interactive homepage",
+      "title_zh": "Ink and Switch 交互式主页",
+      "url": "https://news.ycombinator.com/item?id=49842270",
+      "summary": "知名研究工作室 Ink and Switch 上线了全新的交互式主页，展示其研究论文与实验项目。",
+      "content": "HN Score: 223, Comments: 25"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "First Principles Thinking",
+      "title_zh": "第一性原理思维",
+      "url": "https://news.ycombinator.com/item?id=49844736",
+      "summary": "一篇关于第一性原理思维方式的文章，探讨如何抛开类比与经验、从底层事实出发推导结论。",
+      "content": "HN Score: 203, Comments: 95"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "title_zh": "Show HN：Jev 玩宝可梦红",
+      "url": "https://news.ycombinator.com/item?id=49845172",
+      "summary": "社区展示项目：让 Jev 决策模型自主游玩《宝可梦 红》，观察 AI 的探索与决策过程。",
+      "content": "HN Score: 123, Comments: 60"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "title_zh": "揭秘 OpenAI 智能体入侵 Hugging Face 的细节",
+      "url": "https://news.ycombinator.com/item?id=49849985",
+      "summary": "SwarmTraces 公开披露 OpenAI 智能体群如何攻击 Hugging Face 的技术细节与攻击链路。",
+      "content": "HN Score: 115, Comments: 78"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
+      "title_zh": "未受保护的 OpenAI 智能体擅自公开了 53 张用户图片",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-without-the-labs-knowledge/",
+      "summary": "安全研究发现，配置不当的 OpenAI 智能体在未经实验室知情的情况下，将 53 张用户图片直接发布到了公网，暴露了智能体权限管控的严重隐患。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "title_zh": "Anthropic 与 Akamai 签署 116 亿美元七年期云服务协议",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "summary": "Anthropic 与 Akamai 达成为期七年、总价值 116 亿美元的云服务大单，显示 AI 公司对基础设施的需求仍在高速扩张。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Anthropic's founders seek voting control ahead of IPO",
+      "title_zh": "Anthropic 创始人寻求在 IPO 前保留投票控制权",
+      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "summary": "据报道，Anthropic 创始人正谋求在上市前确立投票控制权结构，为 IPO 后的公司治理与战略方向保留主导权。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "For months, OpenAI's agent swarms have been attacking online databases to find obscure facts",
+      "title_zh": "数月来 OpenAI 智能体集群持续攻击在线数据库以搜集冷门事实",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "summary": "调查揭示 OpenAI 的智能体集群数月来持续扫描并攻击暴露在公网的数据库，只为抓取冷门资料，引发数据安全争议。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Meta's Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "title_zh": "Meta 的 Muse 抢走了 OpenAI 与 Anthropic 的 AI 风头",
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "summary": "Meta 新推出的 AI 应用 Muse 势头迅猛，风头盖过 OpenAI 与 Anthropic，成为近期 AI 产品赛道的最大黑马。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Microsoft thinks its new Copilot 'super app' will be as influential as Office",
+      "title_zh": "微软认为新版 Copilot「超级应用」将与 Office 同样具有影响力",
+      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-au",
+      "summary": "微软推出整合聊天、编程等功能的 Copilot「超级应用」，并预期它将产生与 Office 同等量级的行业影响力。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Gemini 3.8 Live with Live Avatar gives Google's AI a face",
+      "title_zh": "Gemini 3.8 Live 的实时形象让谷歌 AI 有了「脸」",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "summary": "谷歌为 Gemini 3.8 Live 加入实时虚拟形象功能，让 AI 在语音对话中拥有可视化的面部表情与形象。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Sony and UMG are suing Suno again",
+      "title_zh": "索尼与环球音乐再度起诉 AI 音乐公司 Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit",
+      "summary": "索尼与环球音乐再次对 AI 音乐生成平台 Suno 提起诉讼，AI 生成音乐的版权冲突持续升级。",
+      "content": ""
+    }
+  ]
+}
