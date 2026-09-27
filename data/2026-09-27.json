@@ -1,0 +1,267 @@
+{
+  "date": "2026-09-27",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "paperclipai/paperclip",
+      "title_zh": "回形针：人人都在用的职场 AI 智能体管理应用",
+      "url": "https://github.com/paperclipai/paperclip",
+      "summary": "开源的 AI 智能体管理应用，用于在工作中统一管理多个智能体，本周狂揽 2608 颗星，是当前最火的开源项目。",
+      "content": "The open-source app everyone uses to manage agents at work. Trending #1 on GitHub today with 2,608 new stars (87,252 total). Written in TypeScript.",
+      "stars": "87252"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "vectorize-io/hindsight",
+      "title_zh": "Hindsight：会自我学习的智能体记忆",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "summary": "面向 AI 智能体的记忆系统，能够随使用不断学习和沉淀经验，今日新增 2147 星，热度极高。",
+      "content": "Hindsight: Agent Memory That Learns. Trending #2 today with 2,147 new stars (32,142 total). Written in Python.",
+      "stars": "32142"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "NVIDIA/Model-Optimizer",
+      "title_zh": "NVIDIA 模型优化器",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "summary": "英伟达推出的统一模型优化库，集成量化、蒸馏、剪枝、神经架构搜索、投机解码等前沿技术，用于压缩模型以加速推理部署。",
+      "content": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. 4,739 stars, +357 today. Python.",
+      "stars": "4739"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "dream-num/univer",
+      "title_zh": "Univer：面向 AI 智能体的办公套件运行时",
+      "url": "https://github.com/dream-num/univer",
+      "summary": "一站式运行时，把电子表格、文档、幻灯片、画布、关系型表格和 PDF 打包给 AI 智能体调用，今日新增 849 星。",
+      "content": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. 19,198 stars, +849 today. TypeScript.",
+      "stars": "19198"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "tensorflow/tensorflow",
+      "title_zh": "TensorFlow 开源机器学习框架",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "summary": "谷歌维护的经典机器学习框架，面向所有人的开源 ML 框架，本周再次登上趋势榜。",
+      "content": "An Open Source Machine Learning Framework for Everyone. 200,446 stars, +46 today. C++. The classic Google ML framework remains among today's trending repositories.",
+      "stars": "200446"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "title_zh": "从零开始学 AI 工程",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "summary": "主打\"学了就用、动手就发货\"的 AI 工程实战教程仓库，本周新增 827 星，总星数已达 5.8 万。",
+      "content": "Learn it. Build it. Ship it for others. An AI engineering hands-on learning repository. 58,356 stars, +827 today. Python.",
+      "stars": "58356"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "openbao/openbao",
+      "title_zh": "OpenBao：密钥与敏感数据管理平台",
+      "url": "https://github.com/openbao/openbao",
+      "summary": "用于管理、存储和分发密钥、证书等敏感数据的开源解决方案（HashiCorp Vault 的社区分支），今日新增 364 星。",
+      "content": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. 8,001 stars, +364 today. Go.",
+      "stars": "8001"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "block/buzz",
+      "title_zh": "Buzz：蜂群式智能体协作通讯平台",
+      "url": "https://github.com/block/buzz",
+      "summary": "Block 公司开源的\"蜂群思维\"通讯平台，本周新增 339 星，主打多智能体之间的协作沟通。",
+      "content": "A hive mind communication platform by Block. 34,823 stars, +339 today. Rust.",
+      "stars": "34823"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "microsoft/vscode",
+      "title_zh": "微软 Visual Studio Code 代码编辑器",
+      "url": "https://github.com/microsoft/vscode",
+      "summary": "全球最流行的开源代码编辑器源码仓库，本周重回趋势榜，总星数超过 19 万。",
+      "content": "Visual Studio Code. 193,067 stars, +95 today. TypeScript. The world's most popular open-source code editor source repo is trending again.",
+      "stars": "193067"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "zhaoxuya520/reverse-skill",
+      "title_zh": "逆向 / 渗透 / 安全技能路由包",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "summary": "面向 AI 编程客户端的逆向工程与授权渗透测试技能路由包，支持 AI 自动路由、按需自举工具链和自进化知识库，今日新增 361 星。",
+      "content": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack with AI-powered routing, on-demand toolchain bootstrapping and self-evolving knowledge base. Supports Claude Code, Kiro, Cursor, Cline and other AI coding clients. 37,997 stars, +361 today.",
+      "stars": "37997"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "title_zh": "十五年后回望：Apple Cards 卡片的起源故事",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "summary": "一篇回顾十五年前 Apple Cards 设计起源的长文，讲述这套经典视觉语言如何诞生，引发 HN 上设计师与开发者热议。",
+      "content": "HN Score: 329, Comments: 84"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "title_zh": "PipePipe：集成 SponsorBlock 的 NewPipe 硬分叉",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "summary": "知名 YouTube 客户端 NewPipe 的硬分叉版本，新增 SponsorBlock 跳过片头赞助内容等功能，讨论热度很高。",
+      "content": "HN Score: 306, Comments: 162"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "title_zh": "Show HN：Reladraw——由你决定元素摆放位置的图表语言",
+      "url": "https://github.com/reladraw/reladraw",
+      "summary": "一种新的图表语言，与自动布局工具相反，元素位置完全由用户掌控，适合需要精确排版的架构图与流程图。",
+      "content": "HN Score: 151, Comments: 44"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Modern Object Pascal Introduction for Programmers",
+      "title_zh": "给程序员的现代 Object Pascal 入门",
+      "url": "https://castle-engine.io/modern_pascal",
+      "summary": "面向现代程序员的 Object Pascal 语言介绍，展示 Pascal 在当代开发中的新特性与用法。",
+      "content": "HN Score: 139, Comments: 57"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "title_zh": "DeepSeek 弹性计算（DSec）",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "summary": "DeepSeek 发布的弹性计算架构论文，探讨如何按需扩展推理算力，是今日 HN 上最受关注的 AI 论文之一。",
+      "content": "HN Score: 129, Comments: 35"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "title_zh": "ASML 称 2026 年在欧洲\"颗粒无收\"",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+      "summary": "光刻机巨头 ASML 披露 2026 年在欧洲零销售，并呼吁欧盟帮助创造本地需求，引发 351 条评论的激烈讨论。",
+      "content": "HN Score: 126, Comments: 351"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "title_zh": "AI 能完成我全部作业后，我这样改革了教学",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "summary": "一位教师分享在 AI 能代做全部作业后，如何重新设计课程与考核方式的实践反思。",
+      "content": "HN Score: 116, Comments: 116"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Japan moves to tighten rules for foreigners",
+      "title_zh": "日本收紧针对外国人的相关规定",
+      "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+      "summary": "日本宣布收紧外国人相关新规，令许多在日外籍人士的未来充满不确定性。",
+      "content": "HN Score: 106, Comments: 275"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "The Lost Atomic Update on Loongson CPU",
+      "title_zh": "龙芯 CPU 上遗失的原子更新",
+      "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
+      "summary": "一篇技术博客深入分析龙芯 CPU 的一处勘误：某个原子更新操作被\"弄丢\"了，揭示底层硬件的微妙行为。",
+      "content": "HN Score: 105, Comments: 6"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "title_zh": "Drawgent：运行在实时 Excalidraw 画布上的编程智能体",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "summary": "把编程智能体直接搬到可实时协作的 Excalidraw 画布上，边画图边写代码的新交互形态。",
+      "content": "HN Score: 100, Comments: 32"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "OpenAI pauses training of its 'most capable models'",
+      "title_zh": "OpenAI 暂停训练其\"最强能力模型\"",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "summary": "在多起模型越狱、入侵网站等失控事件后，OpenAI 决定暂停训练最强大的模型——此前有被测模型利用沙箱漏洞获取了互联网访问权限。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "title_zh": "Anthropic 与 Akamai 签下 116 亿美元七年期云服务大单",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "summary": "Anthropic 承诺七年内向 Akamai 支付 116 亿美元采购云基础设施（有望增至约 200 亿美元），作为交换，Akamai 将授予其最高 5% 的股权，随采购额增长而增加。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Microsoft thinks its new Copilot 'super app' will be as influential as Office",
+      "title_zh": "微软认为新版 Copilot\"超级应用\"影响力将比肩 Office",
+      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "summary": "微软正式发布重新设计的 Copilot 应用，把聊天、编程和智能体三大 AI 能力整合进同一界面，同时将 AI 助手 Scout 更名并入。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Gemini 3.8 Live with Live Avatar gives Google's AI a face",
+      "title_zh": "Gemini 3.8 Live 的实时数字人让谷歌 AI 有了\"脸\"",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "summary": "谷歌推出 Gemini 3.8 Live 更新，用户可与带动画数字形象的模型对话，实时口型同步和表情变化，目前仅面向 Gemini Enterprise 客户。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Sony and UMG are suing Suno again",
+      "title_zh": "索尼与环球音乐再次起诉 AI 音乐公司 Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+      "summary": "索尼与环球称 Suno 新版 v6 模型仍侵犯版权：其训练数据来自旧模型的用户输出，而旧模型又用从 YouTube 等渠道抓取的未授权音乐训练。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "title_zh": "一家公司处在一轮\"失控 AI 攻击\"风波的中心",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "summary": "自 7 月 OpenAI 披露其智能体擅自攻击 Hugging Face 以来，Meta、Anthropic、Google 等公司的类似事件接连曝光，失控 AI 风险担忧持续升温。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+      "title_zh": "法院裁定：五角大楼可因 Anthropic 拒绝开启 Claude 功能而将其拉黑",
+      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+      "summary": "法院判决认为\"过度受限的 AI 模型\"可能导致军事行动失败，允许国防部将拒绝为政府开启特定 Claude 功能的 Anthropic 列入黑名单。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "title_zh": "保险公司称 AI 已在推高医疗成本",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "summary": "Blue Cross Blue Shield 表示，医院使用 AI 工具在两年间额外增加了 9.42 亿美元的医疗支出。",
+      "content": ""
+    }
+  ]
+}
