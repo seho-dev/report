@@ -1,0 +1,267 @@
+{
+  "date": "2026-09-28",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "paperclipai/paperclip",
+      "title_zh": "回形针：开源企业级智能体协同管理平台",
+      "url": "https://github.com/paperclipai/paperclip",
+      "summary": "一款在工作中管理AI智能体的开源应用，支持统一调度和监控多个智能体，今日新增2401颗星，稳居GitHub热榜第一。",
+      "content": "The open-source app everyone uses to manage agents at work. Trending #1 on GitHub today with 2,401 new stars (89,786 total). Written in TypeScript.",
+      "stars": "89786"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "vectorize-io/hindsight",
+      "title_zh": "Hindsight：具备自学习能力的AI智能体记忆系统",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "summary": "专为AI智能体设计的自适应记忆框架，能够从交互中持续学习和积累经验，今日暴涨4520星，热度极高。",
+      "content": "Hindsight: Agent Memory That Learns. Trending with 4,520 new stars today (37,227 total). Written in Python.",
+      "stars": "37227"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "debpalash/VoiceStudio",
+      "title_zh": "VoiceStudio：完全本地运行的开源语音克隆与工作站",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "ElevenLabs的开源、完全本地替代方案，提供高保真语音克隆、TTS合成与音频制作，今日新增3086星。",
+      "content": "VoiceStudio is the open-source, fully-local ElevenLabs alternative. 40,063 stars, +3,086 today. Python.",
+      "stars": "40063"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "title_zh": "从零单排AI工程实践全套教程",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "summary": "面向开发者的从零手写现代AI系统全套指南，涵盖模型微调、RAG、智能体系统等端到端落地实战，今日新增790星。",
+      "content": "Learn it. Build it. Ship it for others. Comprehensive hands-on guide for AI engineering from scratch. 59,245 stars, +790 today. Python.",
+      "stars": "59245"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "InfinityLoop1308/PipePipe",
+      "title_zh": "PipePipe：开源多平台流媒体聚合客户端",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "summary": "一款轻量级开源Android应用，无需谷歌服务即可畅享YouTube、Bilibili等平台的无广告流媒体浏览与播放。",
+      "content": "An open-source Android app to let you browse YouTube and other streaming platforms without ads. 6,559 stars, +242 today.",
+      "stars": "6559"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "vercel-labs/scriptc",
+      "title_zh": "ScriptC：Vercel推出的TypeScript原生编译器",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "summary": "Vercel实验团队开源的高性能TypeScript到原生二进制编译器，大幅提升启动速度与执行效率。",
+      "content": "TypeScript-to-Native Compiler by Vercel Labs. 5,389 stars, +102 today. TypeScript.",
+      "stars": "5389"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "mvschwarz/openrig",
+      "title_zh": "OpenRig：Claude Code与Codex多智能体协同运行套件",
+      "url": "https://github.com/mvschwarz/openrig",
+      "summary": "能够协同并发运行Claude Code和OpenAI Codex的多智能体工作流运行套件，支持复杂编程任务分工。",
+      "content": "Multi-agent harness that runs Claude Code and Codex together. 947 stars, +114 today. TypeScript.",
+      "stars": "947"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "dream-num/univer",
+      "title_zh": "Univer：面向AI智能体的全功能办公套件核心",
+      "url": "https://github.com/dream-num/univer",
+      "summary": "专为AI智能体设计的办公套件运行时，将电子表格、文档、演示文稿和画板全面封装为智能体可调用的API，今日新增895星。",
+      "content": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, and Canvas. 20,151 stars, +895 today. TypeScript.",
+      "stars": "20151"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "willfaust/Madeira",
+      "title_zh": "Madeira：免越狱iOS设备运行x86-64 Windows游戏的模拟器",
+      "url": "https://github.com/willfaust/Madeira",
+      "summary": "基于FEX-Emu和Wine开发，支持在未越狱的iOS苹果设备上流畅运行x86-64架构的Windows PC游戏。",
+      "content": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine. 803 stars, +83 today. C.",
+      "stars": "803"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "NVIDIA/Model-Optimizer",
+      "title_zh": "NVIDIA模型优化器工具库",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "summary": "英伟达推出的前沿模型优化综合库，涵盖量化、知识蒸馏、剪枝与投机解码，深度适配TensorRT-LLM与vLLM。",
+      "content": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. 4,935 stars. Python.",
+      "stars": "4935"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "When did Google get so weird?",
+      "title_zh": "谷歌搜索从何时起变得如此离奇？",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "summary": "深入剖析谷歌搜索在过去几年的体验变化，探讨充斥赞助内容、SEO农场与AI概览的现代搜索体验为何令人感到陌生与困惑。",
+      "content": "HN Score: 610, Comments: 331"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Ember-1",
+      "title_zh": "Fireworks AI发布Ember-1轻量推理模型",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "summary": "Fireworks AI正式推出Ember-1模型，专注于极致推理速度与低延迟生成，在代码与逻辑任务中表现抢眼。",
+      "content": "HN Score: 312, Comments: 167"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Lunar Terminator Paradox",
+      "title_zh": "月球晨昏线视觉悖论解析",
+      "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+      "summary": "讨论天文学与几何视觉中著名的月球晨昏线悖论：为什么月球受光面与太阳直射方向在人眼观察时常常显得对不上？",
+      "content": "HN Score: 35, Comments: 23"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Alan Kay answer to: Did the ENIAC have a BIOS?",
+      "title_zh": "计算机先驱阿兰·凯解答：ENIAC早期计算机有BIOS吗？",
+      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "summary": "图灵奖得主Alan Kay深入回顾早期计算机架构历史，从第一代电子计算机ENIAC的物理连线编程机制解答现代BIOS概念的演进。",
+      "content": "HN Score: 62, Comments: 23"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Show HN: Lofi Cities - Pixel-art city nights with browser-generated lofi",
+      "title_zh": "Lofi Cities：浏览器端实时生成的像素风夜景与Lofi音乐空间",
+      "url": "https://loficities.com/",
+      "summary": "一个优雅的开源Web项目，在浏览器中通过算法实时合成低保真Lo-Fi音乐，并配以多座城市的精致像素风夜景动画。",
+      "content": "HN Score: 143, Comments: 68"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "The state of SIMD in Rust in 2026",
+      "title_zh": "2026年Rust语言中SIMD向量化指令支持现状",
+      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "summary": "详尽总结2026年Rust生态中SIMD指令集的发展现状，包括std::simd标准库进展、跨平台性能测试与未来演进路线。",
+      "content": "HN Score: 82, Comments: 19"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "There is more to code review than (automatable) detection",
+      "title_zh": "代码审查的本质远不止可自动化的缺陷检测",
+      "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
+      "summary": "探讨AI与自动化Linter时代代码审查的真正价值：除了发现语法与逻辑Bug，代码审查的核心在于团队心智模型对齐与系统认知共享。",
+      "content": "HN Score: 44, Comments: 16"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Don't couple your Go code to GitHub",
+      "title_zh": "避免将Go语言包导入路径过度绑定到GitHub",
+      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "summary": "分析Go模块导入路径直接硬编码github.com带来的迁移和依赖风险，建议使用自定义 Vanity 导入域名以提升代码独立性。",
+      "content": "HN Score: 121, Comments: 54"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+      "title_zh": "在80美元的廉价汽车旅馆里，一项关于生命起源的意外科学发现",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "summary": "纽约时报特写：科学家如何在极其简陋的汽车旅馆实验环境中，发现了揭示地球早期原始细胞前体形成机制的关键线索。",
+      "content": "HN Score: 194, Comments: 79"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic's CEO is about to have dinner with President Trump",
+      "title_zh": "Anthropic首席执行官达里奥·阿莫代将与特朗普共进晚餐探讨AI政策",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "summary": "Anthropic首席执行官Dario Amodei受邀与特朗普会面，就前沿人工智能监管、国家安全政策以及算力基础设施投资展开交流。",
+      "content": "TechCrunch AI News"
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Meta's Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "title_zh": "Meta全新AI应用Muse引爆关注，抢占OpenAI与Anthropic风头",
+      "url": "https://techcrunch.com/2026/09/27/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "summary": "Meta推出的多模态个人AI伴侣应用Muse凭借突破性的实时情感交互和极低延迟体验在社交网络走红，成为当前AI领域焦点。",
+      "content": "TechCrunch AI News"
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "title_zh": "AI算力基建商Crusoe取消12.5亿美元在AI数据中心部署超音速燃气轮机计划",
+      "url": "https://techcrunch.com/2026/09/27/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "summary": "算力基础设施初创公司Crusoe叫停了原定投资12.5亿美元采用Boom超音速燃机为AI数据中心供电的计划，转向更成熟的微电网方案。",
+      "content": "TechCrunch AI News"
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
+      "title_zh": "配置漏洞导致OpenAI智能体在未经授权情况下公开发布53张用户图片",
+      "url": "https://techcrunch.com/2026/09/27/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "summary": "安全研究人员发现因第三方配置失误，部分基于OpenAI的自定义智能体在执行网页任务时将包含隐私的用户图片公开泄露至网络。",
+      "content": "TechCrunch AI News"
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "title_zh": "谷歌在印度测试通过Gemini和AI搜索模式直接在Flipkart完成电商购物",
+      "url": "https://techcrunch.com/2026/09/27/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "summary": "谷歌在印度市场测试一项深度集成功能，用户可在Gemini对话或AI搜索模式中直接完成沃尔玛旗下Flipkart商品的选购与结算。",
+      "content": "TechCrunch AI News"
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "title_zh": "冲刺美股IPO前夕，英国新兴AI算力云厂商Nscale完成33.6亿美元可转债融资",
+      "url": "https://techcrunch.com/2026/09/27/ahead-of-us-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-financing/",
+      "summary": "欧洲顶级AI算力云供应商Nscale在赴美上市前斩获巨额可转债融资，资金将主要用于采购最新一代GPU集群并扩展欧洲绿色数据中心。",
+      "content": "TechCrunch AI News"
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "title_zh": "美多家健康险巨头警告：医疗AI应用正在推高医疗保健整体成本",
+      "url": "https://techcrunch.com/2026/09/27/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "summary": "最新行业调研显示，医院使用AI辅助诊断后开出了更多深度筛查和高额检查账单，使商业医保机构面临赔付成本上涨的意外压力。",
+      "content": "TechCrunch AI News"
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "At Meta Connect, the company's smart glasses were everywhere",
+      "title_zh": "Meta Connect开发者大会全景：智能眼镜成为全场核心硬件载体",
+      "url": "https://techcrunch.com/2026/09/27/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "summary": "深入报道Meta Connect大会：搭载多模态AI大模型的智能眼镜Ray-Ban Meta系列成为开发者与参会人员标配，端侧AI硬件生态正在加速普及。",
+      "content": "TechCrunch AI News"
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Some Supabase customers are publicly exposing reams of people's data to the web",
+      "title_zh": "配置失误导致部分Supabase开发者的AI应用数据库暴露海量敏感用户数据",
+      "url": "https://techcrunch.com/2026/09/27/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "summary": "安全研究人员警示，许多由独立开发者和初创团队构建的AI应用在配置Supabase后端时未正确开启行级安全策略（RLS），造成用户数据外泄。",
+      "content": "TechCrunch AI News"
+    }
+  ]
+}
