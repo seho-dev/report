@@ -1,0 +1,267 @@
+{
+  "date": "2026-09-29",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "debpalash/VoiceStudio",
+      "title_zh": "VoiceStudio：开源本地化全功能ElevenLabs平替语音工作站",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "一款完全开源、支持本地运行的ElevenLabs替代工具，支持语音克隆、声音设计、视频配音、听写转录及有声书制作，覆盖多达646种语言。",
+      "content": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "43980"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "paperclipai/paperclip",
+      "title_zh": "Paperclip：开源企业级AI智能体协同管理平台",
+      "url": "https://github.com/paperclipai/paperclip",
+      "summary": "专为工作场景打造的开源AI智能体管理软件，提供智能体编排、任务监控与协作调度，今日持续登顶GitHub趋势榜。",
+      "content": "The open-source app everyone uses to manage agents at work. High velocity growth with over 3,000 new stars today.",
+      "stars": "92739"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "vectorize-io/hindsight",
+      "title_zh": "Hindsight：具备自主学习能力的智能体记忆架构",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "summary": "为AI智能体赋予长期自适应记忆能力，通过历史交互轨迹自主提炼知识并演进，今日斩获4561颗新星。",
+      "content": "Hindsight: Agent Memory That Learns. Provides autonomous long-term adaptive memory for LLM agents.",
+      "stars": "40929"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "NawfalMotii79/PLFM_RADAR",
+      "title_zh": "PLFM_RADAR：开源低成本10.5GHz相控阵雷达系统",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "summary": "全开源、低成本的10.5 GHz脉冲线性调频（PLFM）相控阵雷达系统，支持微波遥感、高精度测距与运动目标跟踪。",
+      "content": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system for microwave sensing and ranging.",
+      "stars": "25748"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "cs341-illinois/coursebook",
+      "title_zh": "UIUC CS341：开源系统级编程经典教材与实践手册",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "summary": "伊利诺伊大学厄巴纳-香槟分校（UIUC）CS 341课程的开源系统级编程教材，涵盖操作系统内核、并发与POSIX接口实践。",
+      "content": "Open Source Introductory Systems Programming Textbook for the University of Illinois CS 341 course.",
+      "stars": "2494"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "byoungd/up",
+      "title_zh": "Up进阶指南：程序员与技术人终身成长思维导引",
+      "url": "https://github.com/byoungd/up",
+      "summary": "一本系统性的个人技术进阶与认知升级指南，涵盖工程素养、职业规划、思维模型与底层认知提升。",
+      "content": "An advanced personal growth guide for engineers covering technical mastery and career progression.",
+      "stars": "64637"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "mvschwarz/openrig",
+      "title_zh": "OpenRig：协同运行Claude Code与Codex的多智能体测试基座",
+      "url": "https://github.com/mvschwarz/openrig",
+      "summary": "一款轻量高效的多智能体运行底座，支持将Claude Code与OpenAI Codex等多款编程智能体组合协作，自动化解决复杂工程难题。",
+      "content": "Multi-agent harness that runs Claude Code and Codex together for complex coding workflows.",
+      "stars": "1699"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "dream-num/univer",
+      "title_zh": "Univer：面向AI智能体的开源文档与表格协同套件",
+      "url": "https://github.com/dream-num/univer",
+      "summary": "专为AI智能体优化的下一代企业级协同办公开发框架，全方位支持在线电子表格、富文本文档与演示幻灯片深度集成。",
+      "content": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides framework built for agent integration.",
+      "stars": "21235"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "0x4m4/hexstrike-ai",
+      "title_zh": "HexStrike AI：面向150余种网络安全工具的自动化渗透测试MCP服务",
+      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "summary": "高级MCP服务器端框架，允许Claude、GPT等AI大模型自主调用150多种网络安全与渗透测试工具，实现全自动漏洞挖掘与红蓝对抗。",
+      "content": "HexStrike AI MCP Agents lets AI agents autonomously run 150+ cybersecurity tools for automated pentesting and vulnerability discovery.",
+      "stars": "12218"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "microsoft/SkillOpt",
+      "title_zh": "微软SkillOpt：基于轨迹驱动的冻结智能体自然语言技能优化器",
+      "url": "https://github.com/microsoft/SkillOpt",
+      "summary": "微软开源的文本空间优化系统，通过轨迹评估与验证门控机制为冻结的LLM智能体训练并提炼可复用的标准化Markdown技能模块。",
+      "content": "SkillOpt is a text-space optimizer from Microsoft that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits.",
+      "stars": "17801"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Pirating the Pirates",
+      "title_zh": "海盗之海盗：数字迷影与当代盗版文化变迁考",
+      "url": "https://news.ycombinator.com/item?id=49880036",
+      "summary": "MUBI Notebook发表深度文化评论，梳理当代互联网盗版文化的演变脉络，探讨流媒体割裂时代下数字迷影群体的档案保存与影视流通困境。",
+      "content": "HN Score: 379, Comments: 202"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "MongoDB CEO resigns to join Meta",
+      "title_zh": "MongoDB首席执行官辞职并加盟Meta领导企业平台业务",
+      "url": "https://news.ycombinator.com/item?id=49879000",
+      "summary": "MongoDB首席执行官Dev Ittycheria宣布卸任，并将正式加入Meta主导其企业级技术平台建设，引发数据库行业与华尔街高度关注。",
+      "content": "HN Score: 319, Comments: 257"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "title_zh": "Parley：原生支持经典IRC协议的联邦去中心化聊天服务",
+      "url": "https://news.ycombinator.com/item?id=49875913",
+      "summary": "一款基于标准IRC协议构建的去中心化聊天系统，将传统IRC客户端的简洁高效与现代联邦分布式架构无缝融合。",
+      "content": "HN Score: 294, Comments: 162"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+      "title_zh": "青少年将低频访问的NPR播客Spotify评论区改造成秘密群聊基地",
+      "url": "https://news.ycombinator.com/item?id=49879697",
+      "summary": "《This American Life》节目揭露有趣网络现象：青少年群体利用冷门NPR节目的Spotify留言板块交流闲聊，成功避开家长的社交媒体监管。",
+      "content": "HN Score: 257, Comments: 158"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Hijacking the PS5's RTMP stream",
+      "title_zh": "劫持PlayStation 5主机的RTMP直播视频推流",
+      "url": "https://news.ycombinator.com/item?id=49879702",
+      "summary": "安全研究人员详细复盘如何通过DNS重定向与自建中间人RTMP代理服务器，截获并重定向索尼PS5游戏控制台的无损推流视频信号。",
+      "content": "HN Score: 179, Comments: 58"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
+      "title_zh": "车牌监控巨头Flock要求全美30万监控探头开源分布地图下线",
+      "url": "https://news.ycombinator.com/item?id=49884363",
+      "summary": "车牌识别与监控硬件商Flock致函开源调查社区，要求撤除标记全美30万台监控摄像头位置的交互地图，再次引发关于公民隐私与监控扩张的争论。",
+      "content": "HN Score: 134, Comments: 59"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Updated Google Maps shows destruction of the city of Rafah",
+      "title_zh": "谷歌地图高分卫星影像更新直观呈现拉法城市损毁现状",
+      "url": "https://news.ycombinator.com/item?id=49879645",
+      "summary": "谷歌地图最新更新的高分辨率卫星遥感底图，清晰展示了加沙地带南部城市拉法基础设施与居民建筑的大范围损毁情况。",
+      "content": "HN Score: 133, Comments: 57"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+      "title_zh": "Show HN：HN.watch——将Hacker News热门帖子自动化转成短视频",
+      "url": "https://news.ycombinator.com/item?id=49879401",
+      "summary": "开发者推出的实验性项目，利用自动化管线将HN每日高赞贴与热门讨论转录生成短视频，为技术爱好者提供视觉化速览体验。",
+      "content": "HN Score: 118, Comments: 74"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Cf: The Agentic CLI for the Cloudflare API",
+      "title_zh": "Cloudflare发布全新CLI工具cf：面向AI智能体优化API调用",
+      "url": "https://news.ycombinator.com/item?id=49879577",
+      "summary": "Cloudflare官方发布专为AI智能体设计的现代化命令行交互工具cf，提供精简结构化输出与上下文感知，方便智能体自主配置边缘网络与Workers。",
+      "content": "HN Score: 107, Comments: 44"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "title_zh": "AMD宣布以82亿美元巨资收购李飞飞创立的空间智能公司World Labs",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "summary": "AMD宣布以超80亿美元现金加股票收购李飞飞创办的物理世界生成模型企业World Labs，旨在全面加速空间智能硬件基础设施与大模型融合。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic releases Sonnet 5.5, significantly cheaper and faster work partner",
+      "title_zh": "Anthropic正式发布Claude Sonnet 5.5：推理速度翻倍且成本大幅降低",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "summary": "Anthropic推出全新一代中量级旗舰模型Sonnet 5.5，在编程、复杂多步推理与企业级智能体自动化方面性能显著提升，调用延迟降低40%。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "title_zh": "OpenAI因多项严重安全对齐风险搁置全新前沿推测模型",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "summary": "知情人士透露OpenAI在内部红队评估中发现某代号前沿大模型存在难以收敛的越狱对抗风险，决定暂缓公开发布并重构安全防护层。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "title_zh": "无服务器AI算力平台Modal Labs拟以157.5亿美元估值完成7.5亿美元融资",
+      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "summary": "无服务器GPU计算平台Modal Labs正洽谈新一轮7.5亿美元融资，估值飙升至157.5亿美元，彰显AI智能体与大规模推理对弹性云基础设施的强劲需求。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "title_zh": "Shopify全面向浏览器自主AI智能体开放原生结账与支付接口",
+      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "summary": "电商巨头Shopify推出针对自主智能体的原生交易协议与身份校验体系，允许经过授权的AI智能体代替消费者直接在独立站完成一键结算。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "title_zh": "英伟达推出全新AI智能体安全治理框架防范失控越权",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "summary": "英伟达发布名为AgentShield的企业级智能体实时护栏监控系统，提供运行时上下文审计与异常行为截断，防止自主智能体误操作核心数据。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "It's Time to Investigate the AI Labs",
+      "title_zh": "知名学者Cal Newport发文：是时候对前沿AI实验室开展合规审查了",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "summary": "乔治城大学计算机副教授、《深度工作》作者Cal Newport发文呼吁建立对头部AI实验室算力集约、能耗黑箱与模型训练数据透明度的独立审计制度。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "MicroLLM Lab – Try 7 tiny LLMs in the browser",
+      "title_zh": "MicroLLM Lab：在纯浏览器端零依赖本地运行7款轻量级大语言模型",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "summary": "一款基于WebGPU与Wasm构建的前端实验平台，无需后端服务器即可在本地浏览器中直接加载并交互7款1B以下超小型端侧语言模型。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "FuseReg: Regularizing Layer Fusion Mitigates Reconstruction Gap in Autoencoders",
+      "title_zh": "FuseReg论文：正则化层融合机制攻克表征自编码器重建与生成断层难题",
+      "url": "https://huggingface.co/papers/2609.31620",
+      "summary": "最新前沿论文提出FuseReg正则化层融合方案，显著缓解表征自编码器在潜空间高保真重建与泛化生成之间的固有鸿沟，登顶HF每日论文热榜。",
+      "content": ""
+    }
+  ]
+}
