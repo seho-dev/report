@@ -1,0 +1,267 @@
+{
+  "date": "2026-09-30",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "debpalash/VoiceStudio",
+      "title_zh": "VoiceStudio：开源本地化全功能ElevenLabs语音工作站",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "一款完全开源、支持全本地运行的ElevenLabs替代工具，集成了语音克隆、声音设计、视频配音、语音听写转录及有声书制作功能，覆盖多达646种语言。",
+      "content": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "48037"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "NVIDIA/OpenShell",
+      "title_zh": "英伟达OpenShell：自主AI智能体安全隔离运行沙盒",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "summary": "英伟达官方开源的自主AI智能体安全运行时沙盒，为LLM代码执行和自动化Agent提供高安全、私密隔离且可观测的环境。",
+      "content": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": "10562"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "vectorize-io/hindsight",
+      "title_zh": "Hindsight：具备自进化学习能力的AI智能体记忆架构",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "summary": "面向AI智能体的终身学习记忆架构，使Agent能够在长期交互中自主反思、更新知识并避免重复犯错。",
+      "content": "Hindsight: Agent Memory That Learns",
+      "stars": "42812"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "paperclipai/paperclip",
+      "title_zh": "Paperclip：开源企业级工作流AI智能体协同管理平台",
+      "url": "https://github.com/paperclipai/paperclip",
+      "summary": "广受开发者欢迎的企业级开源智能体管理平台，支持在工作场景下统一调度、协同和管理多个自主AI Agent。",
+      "content": "The open-source app everyone uses to manage agents at work",
+      "stars": "94431"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "t8y2/dbx",
+      "title_zh": "dbx：仅25MB超轻量跨平台通用数据库客户端",
+      "url": "https://github.com/t8y2/dbx",
+      "summary": "仅25MB体积的高性能跨平台轻量级数据库管理工具，原生支持连接与管理超过100种常见关系型与非关系型数据库。",
+      "content": "25 MB lightweight cross-platform database client for 100+ databases",
+      "stars": "21968"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "mvschwarz/openrig",
+      "title_zh": "OpenRig：协同运行Claude Code与Codex的多智能体测试基座",
+      "url": "https://github.com/mvschwarz/openrig",
+      "summary": "支持同时调度和协同运行Claude Code与OpenAI Codex等多个前沿编程智能体的多Agent集成测试框架与编排基座。",
+      "content": "Multi-agent harness that runs Claude Code and Codex together",
+      "stars": "2421"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "oblien/openship",
+      "title_zh": "OpenShip：轻量级自托管应用自动化部署运维平台",
+      "url": "https://github.com/oblien/openship",
+      "summary": "简洁高效的自托管式DevOps部署平台，帮助开发者和团队快速将Web应用打包、部署并在自己的服务器集群上平滑运维。",
+      "content": "Self-hosted deployment platform",
+      "stars": "13806"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "averygan/reclip",
+      "title_zh": "Reclip：开源自托管全网视频极速下载管理工具",
+      "url": "https://github.com/averygan/reclip",
+      "summary": "一款极简轻巧、支持自建部署的视频下载工具，几乎支持从任何主流视频网站一键抓取并本地归档高清音视频。",
+      "content": "Download videos from almost any website. Lightweight, self-hosted video downloader.",
+      "stars": "10076"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "cs341-illinois/coursebook",
+      "title_zh": "UIUC CS341系统编程实践公开教材与参考指南",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "summary": "伊利诺伊大学厄巴纳-香槟分校（UIUC）经典CS341课程的开源教材，深入浅出讲解Linux系统编程、进程线程调度与网络通信核心机制。",
+      "content": "Open Source Introductory Systems Programming Textbook for the University of Illinois Urbana-Champaign (UIUC) CS 341 course.",
+      "stars": "3088"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "title_zh": "AI工程化零基础到生产实践全栈实战路线图",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "summary": "系统性开源AI工程实战教程，涵盖从零构建大模型应用、微调、推理加速到生产级部署交付的全流程核心技能。",
+      "content": "Learn it. Build it. Ship it for others. A comprehensive hands-on guide for AI engineering.",
+      "stars": "61327"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "title_zh": "德里如何将电力输送损耗从50%断崖式削减至5%",
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "summary": "IEEE Spectrum刊文深度剖析印度德里电网的私有化与数字化改造，通过智能电表和防窃电技术将电网线损与盗电损失降至历史最低水平。",
+      "content": "HN Score: 421, Comments: 247"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "America.gov",
+      "title_zh": "America.gov：美国官方门户网站全新改版上线",
+      "url": "https://america.gov/",
+      "summary": "美国联邦政府官方综合门户网站America.gov完成大规模技术与设计重构，引发Hacker News社区对于公共数字服务架构与可访问性的广泛探讨。",
+      "content": "HN Score: 288, Comments: 232"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "title_zh": "叶序律动：基于植物几何算法的音频响应式LED矩阵装置",
+      "url": "https://jagi.studio/posts/phyllotaxis/",
+      "summary": "创客展示将向日葵种子的自然螺旋叶序几何算法应用于LED显示硬件，通过实时音频频率频谱驱动绚丽的动态声光交互效果。",
+      "content": "HN Score: 257, Comments: 43"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Tcl/Tk 9.1",
+      "title_zh": "经典脚本语言与GUI工具包Tcl/Tk 9.1正式发布",
+      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+      "summary": "经典动态语言Tcl/Tk发布9.1大版本更新，全面强化Unicode 16支持、64位大文件处理性能以及现代化图形界面绘制引擎。",
+      "content": "HN Score: 229, Comments: 78"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "PS5 Relapse Exploit",
+      "title_zh": "PS5 Relapse漏洞公布：索尼PlayStation 5内核提权突破",
+      "url": "https://github.com/ntfargo/Relapse-Exploit",
+      "summary": "安全研究员开源了针对索尼PlayStation 5游戏主机的Relapse内核利用方案，展示了其在特定固件版本下获取特权执行权限的技术细节。",
+      "content": "HN Score: 220, Comments: 119"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "A Staff Engineer's Guide to Inventing Work",
+      "title_zh": "主任工程师指南：如何主动在组织中发现并创造高价值工作",
+      "url": "https://sujithjay.com/inventing-work",
+      "summary": "资深技术主管分享从高级工程师到主任工程师的进阶心得，阐述如何从被动接需求转变为主动识别系统瓶颈、对齐商业价值并自驱推动技术变革。",
+      "content": "HN Score: 175, Comments: 35"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "title_zh": "美国邮政检查局联合执法查封大型假冒邮资标签黑产网站",
+      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-counterfeit-postage-labels/",
+      "summary": "美国邮政检察执法部门捣毁一个利用数字篡改制造假冒USPS邮资条码的黑产网络，截断了涉案金额巨大的电商物流走私通道。",
+      "content": "HN Score: 152, Comments: 79"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "NAND-16: a computer built from 277,248 NAND gates",
+      "title_zh": "NAND-16：仅由277,248个与非门硬件搭建的16位完整计算机",
+      "url": "https://somethingbig.ai/computer",
+      "summary": "硬件极客完全使用分立的与非门（NAND）构建了一台包含完整算术逻辑单元、寄存器和总线的16位计算机实体，并成功运行复杂测试程序。",
+      "content": "HN Score: 104, Comments: 54"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Deser: Rethinking Rust Serialization",
+      "title_zh": "Deser：重新思考Rust生态下的高效序列化设计范式",
+      "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+      "summary": "Flask与Sentry作者Armin Ronacher撰文反思当前Rust serde库的架构权衡，提出兼顾轻量内存开销与跨平台灵活性的一体化序列化框架设计思考。",
+      "content": "HN Score: 12, Comments: 3"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "OpenAI DevDay 2026: GPT-6.1 Sol and Dots autonomous agents introduced",
+      "title_zh": "OpenAI DevDay 2026：重磅发布GPT-6.1 Sol与全天候智能体Dots",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "summary": "OpenAI在DevDay 2026大会发布GPT-6.1 Sol，以五分之一的调用价格实现逼近顶流Astra模型的推理水准；同时推出首个常驻全天候自主智能体Dots。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "title_zh": "OpenAI被曝正在洽谈以1.4万亿美元估值筹集300亿美元巨额融资",
+      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "summary": "据TechCrunch报道，OpenAI正与主权财富基金和全球科技巨头洽谈新一轮300亿美元融资，估值将达到惊人的1.4万亿美元，用于建设前沿超算集群。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "title_zh": "OpenAI为Codex推出支持跨设备无缝漫游的可复用云端开发环境",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "summary": "OpenAI升级编程智能体Codex，引入可跨终端设备无缝同步的标准化云端开发沙箱，使Agent能够直接在云端安全构建、测试与部署完整代码工程。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+      "title_zh": "Anthropic在上市招股说明书预览中严肃警告AI灾难性风险",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "summary": "Claude开发商Anthropic在筹备上市的招股文件中明确将前沿大模型的网络安全武器化、生物风险以及失控级灾难列入最高等级核心风险因素。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Trump orders US government to call AI ‘Super Intelligence’",
+      "title_zh": "特朗普签署行政命令要求美国联邦机构将AI统一命名为超级智能",
+      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "summary": "白宫发布最新行政令，要求美国联邦所有行政部门在官方政策文件中将人工智能技术术语升级为“超级智能”，引发业界对政策导向的强烈关注。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Elon Musk’s AI-powered Grokipedia is updating again",
+      "title_zh": "马斯克旗下SpaceX与xAI联合打造的AI驱动百科Grokipedia恢复动态更新",
+      "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "summary": "马斯克旗下由Grok大模型赋能的实时百科全书Grokipedia经历短暂停滞后重新恢复全量更新，主打基于第一性原理的AI事实校验与内容合成。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality",
+      "title_zh": "YuE2音乐生成大模型：首次实现符号乐谱与端到端音频的高质量统一",
+      "url": "https://huggingface.co/papers/2609.33757",
+      "summary": "最新AI音乐生成前沿论文YuE2提出统一多模态生成架构，同时支持符号化乐谱生成与高保真全频带音频直出，显著超越现有工业级音乐生成方案。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Post-Training Leaves Behavioral Shadows on Unrelated Decisions",
+      "title_zh": "模型后训练研究：对齐阶段会在不相关决策任务中遗留行为阴影",
+      "url": "https://huggingface.co/papers/2609.29233",
+      "summary": "前沿对齐安全论文揭示大语言模型在经过强化学习与偏好对齐（Post-Training）后，在看似完全不相干的开放决策场景中会产生不可预测的系统性偏差。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "MassAlloc Attention: Let Attention Allocate Its Own Compute",
+      "title_zh": "MassAlloc注意力架构：让Transformer自适应动态分配计算开销",
+      "url": "https://huggingface.co/papers/2609.32712",
+      "summary": "论文提出一种自适应注意力计算分配算法MassAlloc，动态为关键上下文Token分配计算权重，在大模型长上下文推理中实现大幅提速与显存精简。",
+      "content": ""
+    }
+  ]
+}
