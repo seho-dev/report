@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-01",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "NVIDIA/OpenShell",
+      "title_zh": "英伟达OpenShell自主智能体安全沙箱运行时",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "summary": "英伟达开源的自主AI智能体安全运行时环境，提供细粒度权限控制与私密沙箱隔离保护。",
+      "content": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": "12602"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "debpalash/VoiceStudio",
+      "title_zh": "VoiceStudio开源本地化语音工作站",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "完全本地运行的开源ElevenLabs替代方案，支持646种语言的声音克隆、声音设计、配音与转录。",
+      "content": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "50402"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "mvschwarz/openrig",
+      "title_zh": "openrig多智能体协同运行套件",
+      "url": "https://github.com/mvschwarz/openrig",
+      "summary": "将Claude Code与Codex融合并统一调度的多智能体协同运行框架，打破单智能体局限。",
+      "content": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "stars": "3005"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "mksglu/context-mode",
+      "title_zh": "context-mode上下文窗口压缩优化工具",
+      "url": "https://github.com/mksglu/context-mode",
+      "summary": "专为AI编程智能体打造的上下文优化工具，沙箱化工具输出减少98%消耗，支持会话持久化与跨17个平台的MCP路由。",
+      "content": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": "24479"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "DietrichGebert/ponytail",
+      "title_zh": "ponytail资深程序员思维引导框架",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "引导AI智能体像资深工程师一样思考，用最精简优雅的无冗余代码实现需求，避免过度设计。",
+      "content": "Makes your AI agent think like the laziest senior dev in the room. The best code is no code.",
+      "stars": "149155"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "title_zh": "MoneyPrinterTurbo高清短视频自动化创作工具",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "summary": "利用大模型和自动化工作流，根据主题或关键词一键生成高清短视频的爆款内容创作工具。",
+      "content": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keywords.",
+      "stars": "127543"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "openclaw/openclaw",
+      "title_zh": "openclaw跨平台自主任务执行智能体",
+      "url": "https://github.com/openclaw/openclaw",
+      "summary": "真正落地的跨平台自主智能体框架，支持在任意操作系统上执行复杂自动化任务与工作流。",
+      "content": "The AI that really does things. Any OS. Any Platform. The lobster way.",
+      "stars": "390984"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "ComposioHQ/awesome-claude-skills",
+      "title_zh": "Claude技能与工具精选资源库",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "summary": "精选的Claude Skills资源合集，包含定制Claude工作流的工具、模板与实战配置。",
+      "content": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude workflows.",
+      "stars": "76119"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "heygen-com/hyperframes",
+      "title_zh": "hyperframes基于HTML渲染视频的智能体引擎",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "summary": "通过编写HTML即可渲染高质量动态视频，专为AI智能体设计的轻量级内容生成引擎。",
+      "content": "Write HTML. Render video. Built for agents.",
+      "stars": "54712"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "VectifyAI/PageIndex",
+      "title_zh": "PageIndex无向量化推理RAG文档索引器",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "summary": "专为基于推理的RAG打造的文档索引系统，无需向量嵌入即可实现精准结构化检索。",
+      "content": "PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": "38110"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "You said no MCP",
+      "title_zh": "反思模型上下文协议（MCP）：为什么有人拒绝MCP",
+      "url": "https://news.ycombinator.com/item?id=49906637",
+      "summary": "深度探讨模型上下文协议（MCP）在实际工程落地中的争议，分析其过度抽象和潜在维护负担。",
+      "content": "HN Score: 592, Comments: 332"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "I could've accessed 17T Microsoft records",
+      "title_zh": "安全研究员披露曾可访问微软17万亿条内部记录的配置漏洞",
+      "url": "https://news.ycombinator.com/item?id=49883970",
+      "summary": "安全研究员披露其发现的一个严重配置失误，曾使其有能力未授权访问微软内部海量数据。",
+      "content": "HN Score: 238, Comments: 106"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "A brief history of the Bloomberg terminal",
+      "title_zh": "彭博终端机简史：华尔街专属硬件与软件帝国",
+      "url": "https://news.ycombinator.com/item?id=49909583",
+      "summary": "回顾彭博终端从1980年代诞生至今的演进史，剖析其为何在现代金融界依然拥有不可动摇的霸主地位。",
+      "content": "HN Score: 209, Comments: 84"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "The last time my family was replaced by technology",
+      "title_zh": "回忆上一次我的家族被技术浪潮替代的往事",
+      "url": "https://news.ycombinator.com/item?id=49908394",
+      "summary": "作者以家族世代手工业受技术冲击的经历为引，探讨AI技术革命对当代知识工作者的深远影响。",
+      "content": "HN Score: 166, Comments: 397"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+      "title_zh": "新加坡政府婚恋应用采用盖尔-沙普利稳定匹配算法",
+      "url": "https://news.ycombinator.com/item?id=49906432",
+      "summary": "新加坡官方交友产品创新引入经典的盖尔-沙普利稳定婚姻匹配算法，以数学机制保障配对稳定性。",
+      "content": "HN Score: 145, Comments: 66"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "What TLA+ can and can't check",
+      "title_zh": "形式化验证工具TLA+能检查什么与不能检查什么",
+      "url": "https://news.ycombinator.com/item?id=49909056",
+      "summary": "深入解析形式化规格与验证工具TLA+的能力边界，指导系统工程师何时以及如何有效应用形式化方法。",
+      "content": "HN Score: 131, Comments: 29"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "EDG C++ front-end goes public",
+      "title_zh": "工业级EDG C++编译器前端开源发布",
+      "url": "https://news.ycombinator.com/item?id=49913192",
+      "summary": "被各大商业编译器广泛使用的传奇EDG C++编译器前端正式公开代码，对编译器学术界与工业界意义重大。",
+      "content": "HN Score: 129, Comments: 50"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "title_zh": "边缘函数性能提升5倍：从V8隔离区转向Firecracker轻量虚拟机",
+      "url": "https://news.ycombinator.com/item?id=49912444",
+      "summary": "详解边缘无服务器运行时架构重构，将V8 Isolates替换为基于Firecracker MicroVM后实现性能飞跃。",
+      "content": "HN Score: 100, Comments: 38"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Burning Man death rates – A short lesson in statistics",
+      "title_zh": "火人节死亡率分析：一堂通俗的统计学思维课",
+      "url": "https://news.ycombinator.com/item?id=49882754",
+      "summary": "通过对比火人节与同等人口规模常态社会的死亡率数据，剖析基础比率偏差与常见的统计学误区。",
+      "content": "HN Score: 97, Comments: 121"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "title_zh": "谷歌正式发布Gemini 4 Argon大模型，号称其史上最强AI模型",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "summary": "谷歌发布新一代前沿旗舰模型Gemini 4 Argon，展示了极强的高阶逻辑推理与多模态协同能力。",
+      "content": "谷歌发布新一代旗舰模型Gemini 4 Argon，在代码、数学及自主防御多项评测中大幅刷新SOTA纪录。"
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "title_zh": "AI语音独角兽ElevenLabs估值翻倍达220亿美元",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "summary": "随着生成式语音在游戏、娱乐及企业自动化中的全面普及，ElevenLabs新一轮融资估值暴涨至220亿美元。",
+      "content": "AI语音合成独角兽ElevenLabs完成新一轮战略融资，估值翻倍至220亿美元。"
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "title_zh": "红杉等多家顶尖风投领投AI初创公司Flow Engineering，估值达7.5亿美元",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "summary": "专注复杂工程自动化与智能体调优的Flow Engineering完成大额融资，获得红杉资本鼎力支持。",
+      "content": "Flow Engineering获得7.5亿美元估值融资，红杉等风投持续重注AI工程化工具赛道。"
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "title_zh": "OpenAI测试Jev克隆系统以管控大规模集群智能体行为",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "summary": "为应对智能体群集（Agent Swarms）失控风险，OpenAI研发了监督与防御系统用于熔断异常自主行为。",
+      "content": "OpenAI推出智能体集群监管与安全熔断框架，确保海量自主智能体并发协同时的可控性。"
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "The AI Tamagotchis are coming",
+      "title_zh": "AI电子宠物热潮来袭：具身化个人伴侣设备兴起",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "summary": "融合大语言模型与边缘计算的新一代AI电子宠物硬件设备正席卷消费电子市场，重塑情感陪伴体验。",
+      "content": "边缘大模型驱动的新型硬件玩具与桌面伴侣正在成为AI消费级产品的新增长点。"
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+      "title_zh": "Meta推出个性化AI伴侣智能体Muse",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "summary": "Meta最新展示的Muse智能体兼具萌态与高度拟人特征，具备长期情感记忆与全双工实时语音交互功能。",
+      "content": "Meta展示了下一代多模态拟人智能体Muse，引发行业对人机亲密关系与隐私伦理的热烈讨论。"
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Raven: The Harness of Harnesses for Composable Agentic Intelligence",
+      "title_zh": "Raven论文：面向可组合智能体系统的元调度测试框架",
+      "url": "https://huggingface.co/papers/2609.33439",
+      "summary": "研究团队提出Raven框架，通过统一接口协调不同智能体运行时，实现复杂多智能体系统的高效组合。",
+      "content": "论文提出Raven统一测试与编排套件，解决跨平台自主AI智能体协同互操作的核心难题。"
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "In-Context Learning for Robots: Methods and Applications",
+      "title_zh": "机器人上下文学习论文：方法与实践应用综述",
+      "url": "https://huggingface.co/papers/2609.36012",
+      "summary": "探讨将大模型强大的上下文学习机制迁移至具身智能机器人控制，使机械臂无需微调即可泛化新技能。",
+      "content": "研究系统阐述了机器人具身决策中的上下文学习范式，显著降低物理交互任务的样本复杂度。"
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "MaLiang-Harness: A Programmable Path to Image and Video Generation",
+      "title_zh": "马良Harness论文：图像与视频生成的可编程控制架构",
+      "url": "https://huggingface.co/papers/2609.34309",
+      "summary": "提出MaLiang生成调度框架，将复杂的扩散模型流水线解耦为可编程代码组件，实现极高的视觉控制自由度。",
+      "content": "论文提出模块化图像与视频生成框架，为自主智能体生成精细视觉内容提供程序化API接口。"
+    }
+  ]
+}
