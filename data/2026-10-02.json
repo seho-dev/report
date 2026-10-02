@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-02",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "DietrichGebert/ponytail",
+      "title_zh": "Ponytail：让AI智能体具备资深架构师极简思维的轻量调度器",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "专为AI智能体设计的轻量思维调度器，让Agent具备资深开发者的极简务实思考模式，避免过度设计与无效冗余代码生成。",
+      "content": "Makes your AI agent think like the laziest senior dev in the room.",
+      "stars": "150473"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "mattpocock/skills",
+      "title_zh": "Skills：面向真实工程场景的专业工程师AI技能库",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "知名开发者Matt Pocock开源的真实工程实战AI技能集，直接提取自生产环境.agents目录，赋能各类编码智能体高质量交付。",
+      "content": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": "273878"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "NVIDIA/OpenShell",
+      "title_zh": "英伟达OpenShell：自主AI智能体安全隔离运行沙盒",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "summary": "英伟达开源的自主AI智能体安全运行时，提供端到端私密沙箱隔离、细粒度调用权限审计与多智能体安全交互环境。",
+      "content": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": "13996"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "firebase/firebase-ios-sdk",
+      "title_zh": "谷歌Firebase官方Apple应用开发全功能SDK",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "summary": "谷歌Firebase官方专为iOS、macOS等苹果生态打造的开发者SDK，集成实时数据库、身份认证、云消息推送与崩溃监控服务。",
+      "content": "Firebase SDK for Apple App Development across iOS, iPadOS, macOS, and watchOS.",
+      "stars": "6857"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "mvschwarz/openrig",
+      "title_zh": "OpenRig：协同运行Claude Code、Codex与Pi的多智能体集成网络基座",
+      "url": "https://github.com/mvschwarz/openrig",
+      "summary": "现代化多智能体协同运行底座，支持将Claude Code、Codex与Pi多款顶级编码Agent接入统一网络，实现持久化协作与自主任务分工。",
+      "content": "Build your own network of agents from Claude Code, Codex and Pi: persistent, composable multi-agent harness.",
+      "stars": "3704"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "cursor/plugins",
+      "title_zh": "Cursor官方插件标准规范与官方精选插件生态",
+      "url": "https://github.com/cursor/plugins",
+      "summary": "Cursor编辑器官方发布的插件规范协议与精选插件库，支持第三方开发者深度扩展AI编程环境的工作流与上下文集成能力。",
+      "content": "Cursor plugin specification and official plugins for enhancing AI coding workflows.",
+      "stars": "9318"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "obra/superpowers",
+      "title_zh": "Superpowers：真正落地的智能体技能框架与软件工程开发方法论",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一套经过大规模实战验证的AI智能体技能框架与现代软件工程方法论，通过标准技能范式显著提升Agent解决复杂代码任务的成功率。",
+      "content": "An agentic skills framework & software development methodology that works for real-world software engineering.",
+      "stars": "293956"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "mksglu/context-mode",
+      "title_zh": "Context-Mode：面向AI编码智能体的上下文窗口沙箱优化器",
+      "url": "https://github.com/mksglu/context-mode",
+      "summary": "专为AI编程智能体打造的上下文窗口精简工具，通过沙盒化工具输出与智能Token压缩，大幅降低上下文膨胀并提升长程推理效率。",
+      "content": "Context window optimization for AI coding agents. Sandboxes tool output and compresses token waste.",
+      "stars": "24774"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "heygen-com/hyperframes",
+      "title_zh": "Hyperframes：通过编写HTML渲染视频的智能体专属视频生成引擎",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "summary": "HeyGen团队开源的AI智能体视频渲染框架，允许Agent通过编写标准HTML与CSS即可高效合成并渲染高质量动态视频内容。",
+      "content": "Write HTML. Render video. Built for agents.",
+      "stars": "55329"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "earendil-works/pi",
+      "title_zh": "Pi：集统一大模型API、智能体循环与TUI于一体的终端编码工具箱",
+      "url": "https://github.com/earendil-works/pi",
+      "summary": "全栈开源AI智能体工具箱，内置统一LLM接口适配层、可控自主智能体Loop循环、精美终端交互界面（TUI）与命令行编程Agent。",
+      "content": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI.",
+      "stars": "111198"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "RIP, vector database",
+      "title_zh": "向量数据库的终结：传统关系数据库与搜索引擎的全面整合",
+      "url": "https://news.ycombinator.com/item?id=49923466",
+      "summary": "业内知名架构师撰文分析专用向量数据库的生存空间，指出pgvector、Elasticsearch等传统数据基建原生集成向量检索后，独立向量库正迅速失去竞争壁垒。",
+      "content": "HN Score: 261, Comments: 75"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "StreetComplete on iOS is now in public beta",
+      "title_zh": "开源众包地图众测应用StreetComplete正式开启iOS公开测试",
+      "url": "https://news.ycombinator.com/item?id=49920160",
+      "summary": "广受好评的OpenStreetMap众包数据贡献应用StreetComplete终于登陆iOS平台，通过趣味任务形式让大众轻松补充完善全球开源地图要素。",
+      "content": "HN Score: 506, Comments: 121"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "How to speed up the Rust compiler in September 2026",
+      "title_zh": "2026年9月Rust官方编译器提速全景技术复盘",
+      "url": "https://news.ycombinator.com/item?id=49920896",
+      "summary": "Rust核心编译器团队深度复盘近期针对rustc编译耗时的各项底层优化，包括元数据缓存重构、增量编译流水线改进与LLVM后端调优策略。",
+      "content": "HN Score: 225, Comments: 112"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Cloudflare K2: serverless event streams",
+      "title_zh": "Cloudflare发布K2：全球分布式无服务器实时事件流引擎",
+      "url": "https://news.ycombinator.com/item?id=49921923",
+      "summary": "Cloudflare推出无服务器事件流引擎K2，兼容Kafka API协议并结合全球边缘节点，提供毫秒级发布订阅与超高弹性流式数据处理。",
+      "content": "HN Score: 186, Comments: 77"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "title_zh": "Git 3.0即将默认启用SHA-256哈希算法：一次高昂代价的工程抉择",
+      "url": "https://news.ycombinator.com/item?id=49924179",
+      "summary": "软件工程师长文剖析Git 3.0将哈希算法从SHA-1彻底切换至SHA-256的生态代价，分析海量跨仓库依赖兼容性断裂与存储开销激增问题。",
+      "content": "HN Score: 177, Comments: 203"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+      "title_zh": "极客社区在低成本ESP32微控制器中发掘隐藏的软件定义无线电（SDR）潜力",
+      "url": "https://news.ycombinator.com/item?id=49922674",
+      "summary": "多个硬件开源项目逆向揭示百元级ESP32芯片在物理射频基带上的潜在功能，通过低阶寄存器操控成功实现简易SDR接收与频谱嗅探。",
+      "content": "HN Score: 152, Comments: 25"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "title_zh": "自动变速箱与车联隐私：网联汽车海量用户数据静默上传安全调查",
+      "url": "https://news.ycombinator.com/item?id=49926628",
+      "summary": "安全研究机构发布对多家主流车企智能车联网系统的深度遥测分析，曝光网联汽车在用户不知情下静默上传行车轨迹、生物特征与环境感知数据。",
+      "content": "HN Score: 132, Comments: 128"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Bez: Generating a browser engine from specs and tests",
+      "title_zh": "Bez：完全基于Web标准规范与合规测试集自动生成浏览器渲染引擎",
+      "url": "https://news.ycombinator.com/item?id=49925036",
+      "summary": "一项突破性的系统实验性项目Bez，探索利用形式化Web标准规范定义和官方WPT测试套件，自动化合成验证严格合规的轻量现代浏览器引擎。",
+      "content": "HN Score: 83, Comments: 31"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "The death of web development education",
+      "title_zh": "现代Web开发教育的困境：在高度封装与框架内卷下底层知识的流失",
+      "url": "https://news.ycombinator.com/item?id=49927100",
+      "summary": "资深前端讲师撰文反思当前Web前端教学体系的异化，指出过度依赖庞大框架和AI自动生成导致新生代开发者对HTTP基础、DOM底层与网络性能理解匮乏。",
+      "content": "HN Score: 134, Comments: 102"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation",
+      "title_zh": "强化学习表征蒸馏前沿论文：教师模型是指引方向而非终点",
+      "url": "https://huggingface.co/papers/2609.36484",
+      "summary": "最新前沿论文揭示策略内蒸馏新机制，通过外推强化学习诱导的表征残差，使学生模型能力大幅突破教师模型本身的性能天花板。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visual Evidence",
+      "title_zh": "反思潜空间视觉推理：将多模态隐式推理锚定于真实视觉证据",
+      "url": "https://huggingface.co/papers/2609.34563",
+      "summary": "论文探讨多模态大模型在潜空间进行复杂视觉推理时的幻觉成因，提出将隐式思考过程强约束锚定在图像细粒度视觉证据上的全新架构。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+      "title_zh": "AREX-2：通过长程反思任务驱动自主AI智能体实现持续自演进",
+      "url": "https://huggingface.co/papers/2609.38288",
+      "summary": "提出新一代智能体自进化框架AREX-2，构建涵盖长程时域规划与跨轨迹反思机制的训练范式，显著提升Agent在复杂未知环境中的自主学习能力。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "title_zh": "Clef开源权重决策大模型与全新强化学习微调平台正式发布",
+      "url": "https://news.ycombinator.com/item?id=49923692",
+      "summary": "研究机构开源了高性能开放权重决策模型Clef系列，并同步推出配套的企业级端到端RL微调基础设施，专注复杂战略运筹与高阶策略决策。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "title_zh": "谷歌Gemini Live推出全新Guided Vision功能：实时辅助辨识复杂协议微小文字",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "summary": "谷歌为Gemini Live引入多模态端侧视觉辅助功能Guided Vision，能够通过手机摄像头实时对焦、识别并语音解读复杂法律合同及药品说明书中的微小印刷条款。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "title_zh": "OpenAI常驻智能体正面迎击Meta Muse：闭源高精与开源免费路线的大对决",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "summary": "The Verge深度分析OpenAI最新推出的全天候自主智能体Dots与Meta开源Muse智能体的竞争格局，探讨企业与个人用户在商业闭源与本地免费开源生态间的权衡。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "title_zh": "ChatGPT上线多模态虚拟试衣功能：支持根据用户身形实时渲染服饰穿搭",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "summary": "OpenAI在ChatGPT中推出基于高精度物理级多模态扩散模型的虚拟试衣特性，允许用户上传全身照片并实时预览各类服装的贴合度与面料垂坠效果。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "title_zh": "华尔街日报报道：OpenAI与三名核心安全研究员解除劳动合同引发业界震动",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "summary": "据《华尔街日报》报道，OpenAI日前解雇了三名长期负责前沿超对齐与灾难风险评估的核心安全团队成员，再度引发公众对商业化竞争中AI安全把控力度的担忧。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "title_zh": "谷歌研究估算：太空AI数据中心落地前SpaceX星舰需至少执行1800次发射",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "summary": "谷歌云基础设施前瞻研究团队发布报告，详尽测算了将超算集群和核热供电部署在低轨太空的物理可行性，指出其经济效益依赖星舰超高频次的成熟复用。",
+      "content": ""
+    }
+  ]
+}
