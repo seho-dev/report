@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-03",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "Panniantong/Agent-Reach",
+      "title_zh": "Agent-Reach 全网免API数据探索工具",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "summary": "让AI Agent拥有访问全网的视觉与检索能力，支持直接读取并搜索Twitter、Reddit、YouTube、GitHub、B站与小红书等平台，单一CLI零API费用。",
+      "content": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. Stars today: 696",
+      "stars": "88593"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "JuliusBrussee/caveman",
+      "title_zh": "Caveman 原始人语风Token极致压缩代理",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "summary": "专为编程Agent打造的极简代理与技能，通过模拟穴居人极简语法表达，将交互Token消耗削减高达65%，火爆全网。",
+      "content": "why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. Stars today: 209",
+      "stars": "109091"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "obra/superpowers",
+      "title_zh": "Superpowers 智能体核心技能框架",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "经过实战验证的Agent技能框架与软件开发工程方法论，提供模块化扩展能力与标准化工具链。",
+      "content": "An agentic skills framework & software development methodology that works. Stars today: 556",
+      "stars": "294446"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "DietrichGebert/ponytail",
+      "title_zh": "Ponytail 极简懒人资深架构思维代理",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "让AI Agent像最有经验且最懒的资深开发一样思考：最好的代码就是你根本不需要写的代码，专注极简系统架构。",
+      "content": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. Stars today: 1435",
+      "stars": "151772"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "pbakaus/impeccable",
+      "title_zh": "Impeccable 面向AI的专业设计语言系统",
+      "url": "https://github.com/pbakaus/impeccable",
+      "summary": "一套专为赋能AI环境打造的设计语言，大幅提升AI生成界面与前端设计的审美与规范度。",
+      "content": "The design language that makes your AI harness better at design. Stars today: 722",
+      "stars": "74305"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "mattpocock/skills",
+      "title_zh": "MattPocock 工程师Agent实战技能库",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "知名TypeScript专家Matt Pocock开源的真实工程级技能集，直接提取自其实际生产运行的.agents环境。",
+      "content": "Skills for Real Engineers. Straight from my .agents directory. Stars today: 955",
+      "stars": "274690"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "NVIDIA/OpenShell",
+      "title_zh": "英伟达OpenShell自主智能体安全运行时",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "summary": "英伟达开源的自主AI智能体安全隔离运行时，提供严格的沙箱隔离、权限管控与隐私计算环境。",
+      "content": "OpenShell is the safe, private runtime for autonomous AI agents. Stars today: 594",
+      "stars": "14425"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "coreyhaines31/marketingskills",
+      "title_zh": "MarketingSkills 智能体增长与营销技能集",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "summary": "面向Claude Code与自主智能体的专业营销技能，涵盖转化率优化、文案撰写、SEO、数据分析与增长工程。",
+      "content": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. Stars today: 140",
+      "stars": "52401"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "heygen-com/hyperframes",
+      "title_zh": "Hyperframes 代码驱动智能视频渲染引擎",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "summary": "HeyGen开源的Agent原生视频渲染框架，允许AI通过编写HTML与现代Web技术直接渲染生成高精度视频。",
+      "content": "Write HTML. Render video. Built for agents. Stars today: 580",
+      "stars": "55885"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "mksglu/context-mode",
+      "title_zh": "Context-Mode 编码Agent上下文极简优化器",
+      "url": "https://github.com/mksglu/context-mode",
+      "summary": "专为AI编程Agent设计的上下文优化利器，通过工具输出沙箱化减少98%冗余Token，持久化会话记忆并通过MCP跨17个平台统一路由。",
+      "content": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. Stars today: 282",
+      "stars": "25026"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "title_zh": "美法院支持EFF诉求：犹他州针对VPN的新法要求技术上根本无法实现",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "summary": "电子前沿基金会（EFF）胜诉，法院裁定犹他州强制VPN服务商审查用户身份及地理位置的要求存在严重违宪与技术不可行性。",
+      "content": "HN Score: 451, Comments: 203"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Apple Pass Designer",
+      "title_zh": "苹果官方发布 Apple Pass 凭证在线设计工具",
+      "url": "https://developer.apple.com/pass-designer/",
+      "summary": "苹果面向开发者推出全新官方网页端Pass Designer工具，支持可视化构建钱包凭证、登机牌及会员卡布局与JSON清单。",
+      "content": "HN Score: 280, Comments: 190"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "title_zh": "数学大师哈尔莫斯经典回忆录：冯·诺依曼传奇（1973）",
+      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "summary": "著名数学家Paul Halmos于1973年撰写的冯·诺依曼纪念文章再度引发热议，生动重现了20世纪最天才科学家的思考速度与跨学科成就。",
+      "content": "HN Score: 234, Comments: 136"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Zig v0.17.0",
+      "title_zh": "Zig 编程语言 v0.17.0 正式版发布",
+      "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "summary": "系统级编程语言Zig迎来0.17.0重大版本更新，带来编译器性能大幅提升、自举LLVM后端优化以及标准库网络API重构。",
+      "content": "HN Score: 186, Comments: 95"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Greg Kroah-Hartman – Security in the LLM Age",
+      "title_zh": "Linux内核核心维护者Greg KH演讲：大模型时代的内核安全防护",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "summary": "Linux稳定分支维护者Greg Kroah-Hartman就大语言模型涌入开源贡献展开深度剖析，讨论AI自动生成补丁对内核安全的利弊与应对机制。",
+      "content": "HN Score: 159, Comments: 32"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Loss of cell identity drives human aging: Two new papers",
+      "title_zh": "两篇顶刊重磅新论文：细胞身份的渐进丧失是人类衰老的核心驱动机制",
+      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+      "summary": "著名医学学者Eric Topol解读最新两篇衰老生物学研究，揭示表观遗传噪声导致的人体细胞特征混淆是机体退化的根本驱动力。",
+      "content": "HN Score: 155, Comments: 40"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "title_zh": "在高度不完全信息博弈中：AI终于突破经典军棋 Stratego 并击败人类历史顶尖选手",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "summary": "经典棋盘博弈Stratego由于绝大部分棋子暗置而极具挑战，新型低算力开销强化学习算法首次攻克该游戏并战胜历史最高分人类大师。",
+      "content": "HN Score: 152, Comments: 74"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Anatomy of a Lean proof for software engineers",
+      "title_zh": "面向软件工程师的 Lean 形式化证明剖析",
+      "url": "https://agostbiro.net/posts/2026-10-anatomy-of-a-lean-proof/",
+      "summary": "文章以通俗的工程视角向程序员拆解交互式定理证明器Lean 4的工作原理，阐述如何利用类型系统和归纳法验证关键软件算法正确性。",
+      "content": "HN Score: 68, Comments: 6"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
+      "title_zh": "Show HN：Pyxel 8位像素复古游戏引擎内置美术与音效编辑器",
+      "url": "https://github.com/kitao/pyxel",
+      "summary": "经典Python复古游戏引擎Pyxel发布新版，原生集成像素画调色盘、精灵图编辑器与多通道声音合成器，极简开箱即用。",
+      "content": "HN Score: 60, Comments: 8"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+      "title_zh": "OneStreamer论文：流式视频交互中统一感知、记忆与主动响应的多模态架构",
+      "url": "https://huggingface.co/papers/2610.01762",
+      "summary": "多模态交互重磅研究提出OneStreamer架构，通过统一时间感知、长周期会话记忆与自适应主动打断，实现了零延迟的人机连续视频流交互。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL",
+      "title_zh": "自适应奖励路由论文：前向过程强化学习驱动的音视频联合扩散动态多目标优化",
+      "url": "https://huggingface.co/papers/2609.37200",
+      "summary": "最新音频-视频联合生成扩散模型研究，提出在前向去噪过程中动态路由分配多重对齐奖励，极大解决了音画同步与生成画质兼顾的痛点。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States",
+      "title_zh": "超越记忆论文：引入显式信念状态掌控超长视野自主智能体决策",
+      "url": "https://huggingface.co/papers/2610.01415",
+      "summary": "论文探讨复杂不确定环境下智能体长期决策问题，指出简单检索记忆无法应对动态世界，提出以显式概率信念状态为核心的全新规划框架。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Hierarchical Continuous Diffusion Language Models",
+      "title_zh": "分层连续扩散语言模型研究",
+      "url": "https://huggingface.co/papers/2610.02193",
+      "summary": "针对自回归LLM生成瓶颈，探索利用连续空间分层扩散机制进行文本生成与推理，在长文本规划与并行采样效率上取得显著突破。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "title_zh": "Meta 开源家庭物联网 Muse AI 智能硬件全套代码与工具链",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "summary": "Meta宣布开源其面向智能家居与穿戴设备的Muse AI Gadgets软硬件生态，允许开发者自制低功耗本地AI终端并无缝接入家庭网络。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "title_zh": "OpenAI 推出 Dot 全功能企业智能体：既能处理专业工作流也能打理日常生活",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "summary": "OpenAI正式公开上手体验其代号Dot的自主Agent，展示了其在无缝整合企业数据报表、复杂任务自动执行及外部订餐订票等全场景跨界能力。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "AI music maker Suno now generates spoken words",
+      "title_zh": "AI 音乐生成平台 Suno 新增自然语音与口播生成功能",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "summary": "知名AI音乐创作工具Suno开启公测新特性，除了歌曲旋律与人声演唱外，现已支持高保真情感自然语音配音与多角色播客口播生成。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "title_zh": "肖恩·帕克重构 Stability AI：全力押注 AI 音乐与多媒体创作生态",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "summary": "Napster创始人Sean Parker掌舵Stability AI后推行全面战略重塑，以全新多模态音频扩散算法重回其音乐科技本源。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "title_zh": "苹果宣布收紧 macOS 全盘访问权限：防范自主 AI 智能体带来的系统级越权风险",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "summary": "由于第三方AI Coding Agent与系统级智能体的大量普及，苹果宣布将对macOS的Full Disk Access施加更细粒度的动态权限审批与行为审计。",
+      "content": ""
+    }
+  ]
+}
