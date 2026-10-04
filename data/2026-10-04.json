@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-04",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "DietrichGebert/ponytail",
+      "title_zh": "Ponytail 极简主义 AI 开发代理",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "让 AI 编程代理像资深懒惰工程师一样思考，主张'最好的代码就是未曾编写的代码'，通过极简架构减少冗余代码生成。",
+      "content": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. Stars today: 1281",
+      "stars": "153377"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "pbakaus/impeccable",
+      "title_zh": "Impeccable 面向 AI 代理的设计语言系统",
+      "url": "https://github.com/pbakaus/impeccable",
+      "summary": "专为 AI 工具和智能代理框架量身定制的设计语言规范，显著提升 AI 自动化设计与界面生成能力。",
+      "content": "The design language that makes your AI harness better at design. Stars today: 699",
+      "stars": "75286"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "affaan-m/ECC",
+      "title_zh": "ECC 智能代理性能优化体系",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "面向智能代理的性能优化系统，提供技能、直觉、记忆、安全与研究驱动开发能力，全面适配 Claude Code、Codex、Opencode 及 Cursor 等工具。",
+      "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. Stars today: 897",
+      "stars": "272232"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "Effect-TS/effect",
+      "title_zh": "Effect 生产级 TypeScript 函数式编程框架",
+      "url": "https://github.com/Effect-TS/effect",
+      "summary": "用于构建生产就绪型应用程序的 TypeScript 强化框架，提供全面的类型安全、异步控制流与错误处理解决方案。",
+      "content": "Build production-ready applications in TypeScript. Stars today: 302",
+      "stars": "16808"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "JuliusBrussee/caveman",
+      "title_zh": "Caveman 穴居人极简 Token 节省代理代理",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "summary": "采用极简洞穴人语言风格的编码代理技能与代理层，减少冗余对话修饰词，直接削减 65% 的 Token 消耗。",
+      "content": "why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. Stars today: 507",
+      "stars": "109524"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "Panniantong/Agent-Reach",
+      "title_zh": "Agent-Reach 全网免 API 数据检索工具",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "summary": "为 AI 代理提供访问全网的视觉与检索能力，支持零 API 费用读取并搜索 Twitter、Reddit、YouTube、GitHub、B站与小红书等平台。",
+      "content": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. Stars today: 1696",
+      "stars": "89785"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "thedotmack/claude-mem",
+      "title_zh": "claude-mem 跨会话持久记忆管理框架",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "为各类智能代理提供会话间持久上下文支持，自动捕获交互行为并用 AI 进行智能压缩，在后续会话中按需注入相关上下文。",
+      "content": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Stars today: 79",
+      "stars": "95565"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "cloudflare/cloudflare-os",
+      "title_zh": "cloudflare-os 基于 Workers 的企业代理工作区",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "summary": "构建在 Cloudflare Workers 上的智能代理工作区，用于在企业上下文与系统内创建文档、构建应用并运行智能代理。",
+      "content": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. Stars today: 85",
+      "stars": "10559"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "addyosmani/agent-skills",
+      "title_zh": "agent-skills 生产级 AI 编码工程技能集",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "谷歌知名工程师 Addy Osmani 出品的生产级软件工程技能套件，专为自动化编程与智能开发代理设计。",
+      "content": "Production-grade engineering skills for AI coding agents. Stars today: 252",
+      "stars": "100830"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "mksglu/context-mode",
+      "title_zh": "context-mode 编码代理上下文窗口优化插件",
+      "url": "https://github.com/mksglu/context-mode",
+      "summary": "面向 AI 编程代理的上下文窗口优化方案，通过沙箱化工具输出降低 98% 冗余上下文，持久化会话记忆并支持 17 个平台的 MCP 路由。",
+      "content": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. Stars today: 256",
+      "stars": "25245"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "title_zh": "Kolibri：主权级开源权重基础大模型发布",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "summary": "欧洲人工智能领头羊 Aleph Alpha 正式发布主权级开源权重模型 Kolibri，强调欧洲技术自主性与高性能透明开源。",
+      "content": "HN Score: 479, Comments: 292"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "title_zh": "Hole Punch：在引力场中驾驶飞船的物理模拟游戏",
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "summary": "一款极具极客精神的太空引力弹弓物理模拟游戏，玩家需要利用天体引力场精确操控飞船弹道穿行宇宙。",
+      "content": "HN Score: 205, Comments: 52"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+      "title_zh": "美联邦法官裁定车牌识别系统 Flock 构成大规模无差别监控",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "summary": "美国联邦法官在一项关键裁决中直指知名车牌自动识别监控网络 Flock 属于无差别的大规模公共监视，引发隐私权重大法律反思。",
+      "content": "HN Score: 173, Comments: 100"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "FTL: A new operating system for clouds",
+      "title_zh": "FTL：专为现代云计算打造的新型操作系统",
+      "url": "https://ftl-os.org/",
+      "summary": "开源云原生操作系统 FTL 亮相，专为现代无服务器计算与高并发超微型虚拟机提供纳秒级启动与极致内存隔离。",
+      "content": "HN Score: 142, Comments: 58"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "title_zh": "庆祝少年时期移植肾脏的 100 岁生物学诞辰",
+      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "summary": "医学史上的罕见奇迹：一名男子为其少年时期由母亲捐赠的肾脏庆祝 100 岁生物学年龄生日，展现器官移植的长效潜力。",
+      "content": "HN Score: 126, Comments: 36"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Woking Electrical Control Room (2016)",
+      "title_zh": "沃金电力控制中心城市废墟探秘（2016）",
+      "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
+      "summary": "摄影师通过详实影像记录英国沃金历史电力控制中心的复古模拟仪表盘与工业遗产风貌。",
+      "content": "HN Score: 120, Comments: 23"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "title_zh": "Cloudflare 号召开发者基于其边缘架构构建下一代 Git 托管平台",
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "summary": "Cloudflare 发布技术倡议，展示如何利用全球边缘网络、分布式存储 R2 与计算基础设施构建颠覆传统的下一代代码托管平台。",
+      "content": "HN Score: 93, Comments: 84"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "title_zh": "Valve 工程师 Timur Kristóf 大幅改善 Linux 旧款 AMD 显卡驱动性能",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "summary": "开源图形技术会议 XDC 上披露了 Valve 工程师针对 GCN 架构老款 AMD 显卡在 Linux Mesa 驱动下的重构优化成果。",
+      "content": "HN Score: 72, Comments: 8"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Vx – One Language, Every Chip",
+      "title_zh": "Vx 编程语言：一套代码通用所有异构计算芯片",
+      "url": "https://vxlang.org/",
+      "summary": "全新异构硬件编程语言 Vx 发布，旨在打破 CPU、GPU、TPU 与定制 NPU 之间的编程壁垒，提供统一的统一指令级抽象。",
+      "content": "HN Score: 55, Comments: 29"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+      "title_zh": "OneStreamer：流式视频交互中统一感知、记忆与主动响应的多模态前沿论文",
+      "url": "https://huggingface.co/papers/2610.01762",
+      "summary": "多模态流媒体交互新架构 OneStreamer 登顶 HF 论文热榜，将连续视频感知、长程工作记忆与代理主动响应有机融合。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "GraphForge: Training Working Agents with Graph-Anchored Workspace Synthesis",
+      "title_zh": "GraphForge：利用图结构锚定工作区合成训练工作智能代理论文",
+      "url": "https://huggingface.co/papers/2609.38923",
+      "summary": "提出利用基于图谱的工作空间合成技术来高效构建复杂多步骤软件工程与工具调用场景，训练具备真实工作能力的 AI 代理。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States",
+      "title_zh": "超越单纯记忆：基于显式信念状态驱动长程复杂任务智能代理论文",
+      "url": "https://huggingface.co/papers/2610.01415",
+      "summary": "针对复杂长程任务代理易遗忘与状态漂移的痛点，论文构建显式信念状态模型，大幅提升代理长时间自主推理的稳定性与容错率。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "World Observer: Joint Actor-Observer Generation for Persistent World Modeling",
+      "title_zh": "World Observer：联合行动者与观察者生成持久世界模型论文",
+      "url": "https://huggingface.co/papers/2610.02162",
+      "summary": "探索持久化世界物理模拟的新范式，结合行动生成与全景观察统一建模，为下一代空间具身智能与交互式模拟提供理论支撑。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Hierarchical Continuous Diffusion Language Models",
+      "title_zh": "分层连续扩散语言模型前沿研究论文",
+      "url": "https://huggingface.co/papers/2610.02193",
+      "summary": "将分层扩散机制引入自然语言建模，挑战传统自回归式 Transformer 生成机制，在长文本多粒度并行连贯生成上取得突破。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "title_zh": "卡普空正布局全面与 AI 协同开发游戏的未来创作模式",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "summary": "知名游戏巨头卡普空（Capcom）披露战略技术展望，正积极研发 AI 协同开发工具，探索人类设计师与 AI 协同创造沉浸式游戏世界。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "title_zh": "Meta 开源 Muse AI 硬件设备代码与接口规范",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "summary": "Meta 宣布全面开源其 Muse 智能硬件开发协议与控制代码，允许极客与硬件开发者构建适配大模型智能体的新型随身 AI 交互设备。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "title_zh": "苹果收紧 macOS 磁盘完全访问权限以防范 AI 代理安全隐患",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "summary": "苹果宣布将在新版 macOS 中更严格限制完全磁盘访问权限（FDA），指出拥有广泛自动化系统操作权限的 AI 代理正大幅增加安全外溢风险。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "title_zh": "Splice CEO 探讨 AI 自动化邮件正削弱真实人际沟通与协作深度",
+      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "summary": "知名音乐科技公司 Splice 首席执行官在专访中直言，泛滥的 AI 生成商务邮件正在扼杀真正有深度的人际对话，呼吁保留人类真诚交互。",
+      "content": ""
+    }
+  ]
+}
