@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-06",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "tester-army/e2e",
+      "title_zh": "E2E 新一代全平台端到端自动化测试框架",
+      "url": "https://github.com/tester-army/e2e",
+      "summary": "专为 Web 与移动端应用打造的新一代端到端自动化测试框架，提供统一的跨端测试 API 与极致的执行速度。",
+      "content": "Next generation e2e testing framework for web and mobile app. Stars: 4752, Stars today: 1398",
+      "stars": "4752"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "thedotmack/claude-mem",
+      "title_zh": "Claude-Mem 跨会话智能体持久化记忆上下文管理工具",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "为各类 AI 智能体打造的跨会话持久化上下文系统，自动捕获、组织并压缩交互历史与项目记忆。",
+      "content": "Persistent Context Across Sessions for Every Agent – Capture, compress and recall. Stars: 96622, Stars today: 534",
+      "stars": "96622"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "earthtojake/text-to-cad",
+      "title_zh": "Text-to-CAD 自然语言转三维工程模型生成工具",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "summary": "赋予 AI 智能体计算机辅助设计 (CAD) 超能力，支持将自然语言提示词直接转换为高精度 3D 机械零件与 CAD 模型。",
+      "content": "Give your agent CAD superpowers. Generate 3D parametric CAD models from text. Stars: 17392, Stars today: 437",
+      "stars": "17392"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "boykopovar/AnyPS5",
+      "title_zh": "AnyPS5 主机可执行文件跨平台移植辅助工具",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "summary": "用于将 PS5 原生可执行文件自动化移植与运行在 Linux 和 Windows 系统的跨平台逆向与兼容性转换工具。",
+      "content": "Tool for automatic PS5 executables porting to Linux and Windows. Stars: 4939, Stars today: 997",
+      "stars": "4939"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "Panniantong/Agent-Reach",
+      "title_zh": "Agent-Reach 全网信息多模态检索与交互智能体",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "summary": "为 AI 智能体提供全网信息检索与理解能力的工具库，支持实时网页读取、多模态搜索与结构化数据提取。",
+      "content": "Give your AI agent eyes to see the entire internet. Read & search web pages with ease. Stars: 91867, Stars today: 1155",
+      "stars": "91867"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "calesthio/OpenMontage",
+      "title_zh": "OpenMontage 开源智能体驱动视频剪辑与制作引擎",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "summary": "全球首个开源的智能体驱动视频制作系统，通过自主 Agent 协同完成素材分析、脚本对齐、多轨剪辑与特效渲染。",
+      "content": "World's first open-source, agentic video production system. Stars: 64015, Stars today: 742",
+      "stars": "64015"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "caddyserver/caddy",
+      "title_zh": "Caddy 高性能自动化 HTTPS Web 服务器",
+      "url": "https://github.com/caddyserver/caddy",
+      "summary": "具备自动 HTTPS 证书配置、高性能与强大扩展能力的跨平台现代 Web 服务器，原生支持 HTTP/1、HTTP/2 和 HTTP/3。",
+      "content": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS. Stars: 77096, Stars today: 515",
+      "stars": "77096"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "DuarteSantos8/openGym",
+      "title_zh": "OpenGym 自托管健身训练与体重追踪系统",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "summary": "完全自托管的健身与体重跟踪管理系统，支持制定训练计划、记录动作组数与重量，并提供清晰的身体数据可视化。",
+      "content": "Self-hosted gym & body-weight tracker — plan routines, log workouts. Stars: 4191, Stars today: 1433",
+      "stars": "4191"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "cloudflare/cloudflare-os",
+      "title_zh": "Cloudflare-OS 边缘智能体工作空间与运行时",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "summary": "基于 Cloudflare Workers 构建的边缘智能体工作空间，支持创建文档、执行脚本、调度多 Agent 并提供分布式上下文。",
+      "content": "Agent workspace built on Cloudflare Workers for creating docs, running code. Stars: 10998, Stars today: 101",
+      "stars": "10998"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "msitarzewski/agency-agents",
+      "title_zh": "Agency-Agents 全功能数字化企业级 AI 代理机构",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "summary": "开箱即用的 AI 数字化代理团队套件，涵盖前端开发、UI设计、内容运营与营销策略等多角色自主协作智能体。",
+      "content": "A complete AI agency at your fingertips - From frontend wizards to marketing specialists. Stars: 157243, Stars today: 744",
+      "stars": "157243"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "title_zh": "Anthropic 将用户模型对话日记向警方报案，涉事女子面临重罪指控",
+      "url": "https://news.ycombinator.com/item?id=49961057",
+      "summary": "一名女子在 Claude 中记录个人情绪与日记内容，Anthropic 安全系统触发报警机制并主动联系执法部门，引发技术社区关于 AI 隐私与责任边界的激烈争论。",
+      "content": "HN Score: 489, Comments: 417"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Web Search API",
+      "title_zh": "全新高性能开放网络搜索 API 服务上线",
+      "url": "https://news.ycombinator.com/item?id=49963171",
+      "summary": "开发者推出免验证码、低延迟且支持结构化数据提取的 Web Search API，专为 LLM 应用与自主智能体网络搜索场景优化。",
+      "content": "HN Score: 472, Comments: 215"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Apple and a hacker's future",
+      "title_zh": "苹果公司安全防御机制与越狱黑客群体的未来演变",
+      "url": "https://news.ycombinator.com/item?id=49962857",
+      "summary": "深度探讨苹果不断收紧的 iOS 安全生态与底层漏洞挖掘者的博弈，分析独立安全研究员在现代防御体系下的生存空间与法律风险。",
+      "content": "HN Score: 194, Comments: 177"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+      "title_zh": "高通与华为达成专利交叉许可，涵盖 LogicFolding 逻辑折叠芯片技术",
+      "url": "https://news.ycombinator.com/item?id=49961861",
+      "summary": "高通公司获得华为先进的 LogicFolding 芯片架构专利授权，该技术能够在高密度半导体制造中大幅降低能耗并提升晶体管利用率。",
+      "content": "HN Score: 172, Comments: 113"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Making a GTK application in Haskell, part 1",
+      "title_zh": "使用 Haskell 开发 GTK 桌面应用实战教程（第一部分）",
+      "url": "https://news.ycombinator.com/item?id=49965308",
+      "summary": "详细讲解如何通过纯函数式编程语言 Haskell 绑定并构建现代 GTK 桌面应用程序，涵盖环境搭建、事件循环与状态管理。",
+      "content": "HN Score: 126, Comments: 29"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
+      "title_zh": "2026 年诺贝尔生理学或医学奖揭晓：光遗传学先驱获此殊荣",
+      "url": "https://news.ycombinator.com/item?id=49962572",
+      "summary": "卡罗琳医学院宣布将 2026 年诺贝尔生理学或医学奖授予 Deisseroth、Hegemann 与 Nagel，以表彰其在光遗传学发明与神经环路控制方面的开创性贡献。",
+      "content": "HN Score: 120, Comments: 45"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "The lamps in my house",
+      "title_zh": "探讨家居照明与人居环境氛围的灯具设计随笔",
+      "url": "https://news.ycombinator.com/item?id=49965152",
+      "summary": "作者通过对家中各类不同色温、材质与结构灯具的长期使用体验，分享光源设计对专注度、放松状态及空间美感的影响。",
+      "content": "HN Score: 115, Comments: 60"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "title_zh": "经典算法竞赛入门指南《Competitive Programmer's Handbook》",
+      "url": "https://news.ycombinator.com/item?id=49944049",
+      "summary": "广受好评的算法竞赛免费教科书再次引发关注，系统梳理了数据结构、动态规划、图论算法与数学思维的核心要点。",
+      "content": "HN Score: 100, Comments: 21"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Linux containers in 500 lines of code (2016)",
+      "title_zh": "仅用 500 行 C 语言代码实现极简 Linux 容器系统",
+      "url": "https://news.ycombinator.com/item?id=49965118",
+      "summary": "经典技术解析：不依赖 Docker 等重型组件，仅通过 Linux 原生命名空间 (namespaces) 和控制组 (cgroups) 系统调用构建轻量隔离容器。",
+      "content": "HN Score: 89, Comments: 21"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "title_zh": "Reflection 发布 Beam 501B 开源权重模型，以更低算力成本对标前沿大模型",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "summary": "AI 初创公司 Reflection 推出拥有 5010 亿参数的开源权重模型 Beam，采用激进的稀疏化架构，在单张消费级 GPU 级算力集群上实现极高吞吐推理。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "title_zh": "OpenAI 宣布将在欧盟地区为 ChatGPT 生成文本添加不可见数字水印",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "summary": "为配合欧盟人工智能法案 (EU AI Act) 合规要求，OpenAI 正式在欧盟地区的 ChatGPT 与 Codex 中部署基于统计学密码学的文本水印机制。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Gemini Call for Me might tell your mom you’re running late",
+      "title_zh": "谷歌 Gemini 测试 Call for Me 代理通话新特性，可自主代接与传达日常事务",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "summary": "Google 正在拓展 Gemini 语音代理功能，允许 AI 助手在用户开会或驾驶时，自动识别来电意图并代为回复家人或处理日常预约。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+      "title_zh": "维基媒体基金会指控 OpenAI 异常爬虫流量导致维基百科五月服务中断",
+      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "summary": "维基媒体调查报告披露，OpenAI 旗下未遵守速率限制的自动化爬虫集群曾发起短时海量并发请求，成为导致此前维基百科宕机的主要诱因。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "All the drama around AI’s takeover of mathematics",
+      "title_zh": "数学界关于大模型自动定理证明与学术突破的争端全景回顾",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "summary": "深入梳理 OpenAI、DeepMind 与顶尖数学家在国际数学奥赛 (IMO) 金牌突破及形式化验证工具上的争议与合作，展望人机协同数学证明新范式。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "title_zh": "TikTok 推出全新 AI 电商导购助手并上线一键快捷结算功能",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "summary": "TikTok 在欧美市场为其电商平台引入生成式 AI 智能导购助手，支持根据短视频偏好实时推荐商品并整合一键无感支付。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations",
+      "title_zh": "RealCompanion 论文：基于真实长周期多轮对话评估模型的人类理解与共情推理能力",
+      "url": "https://huggingface.co/papers/2610.01780",
+      "summary": "研究团队构建了全球首个涵盖数月真实连续对话的基准数据集 RealCompanion，旨在系统评估大语言模型跨越长时间跨度的个性理解与心理状态推断能力。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation",
+      "title_zh": "MotorMind 论文：基于通用视觉语言模型的零样本机器人实体操作支架架构",
+      "url": "https://huggingface.co/papers/2609.38078",
+      "summary": "清华与斯坦福学者提出 MotorMind 框架，通过空间几何脚手架引导 VLM 解析三维物理世界指令，实现具身智能机器人在未见场景下的零样本灵巧抓取。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite",
+      "title_zh": "递归自重写论文：通过反思迭代轨迹大幅拓展复杂多步任务泛化边界",
+      "url": "https://huggingface.co/papers/2610.02826",
+      "summary": "提出一种名为递归自重写 (Recursive Self-Rewrite) 的新型后训练策略，让智能体在代码编写与复杂数学推理中通过多轮反思重构实现指数级解空间探索。",
+      "content": ""
+    }
+  ]
+}
