@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-07",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "tester-army/e2e",
+      "title_zh": "E2E 新一代全平台端到端自动化测试框架",
+      "url": "https://github.com/tester-army/e2e",
+      "summary": "专为 Web 与移动端应用打造的新一代端到端自动化测试框架，提供统一的跨端测试 API 与极致的执行速度。",
+      "content": "Next generation e2e testing framework for web and mobile app. Stars: 6281, Stars today: 1725",
+      "stars": "6281"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "mattpocock/skills",
+      "title_zh": "Skills 针对专业软件工程师的智能体技能库",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "由知名工程师 Matt Pocock 开源的智能体专业技能库，提取自其生产环境代理配置，为 AI 编程助手赋能高级工程能力。",
+      "content": "Skills for Real Engineers. Straight from my .agents directory. Stars: 278104, Stars today: 889",
+      "stars": "278104"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "earthtojake/text-to-cad",
+      "title_zh": "Text-to-CAD 自然语言转三维工程参数化模型工具",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "summary": "赋予 AI 智能体计算机辅助设计 (CAD) 超能力，支持将自然语言提示词直接转换为高精度 3D 参数化 CAD 工程模型。",
+      "content": "Give your agent CAD superpowers. Generate 3D parametric CAD models from text. Stars: 17962, Stars today: 619",
+      "stars": "17962"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "boykopovar/AnyPS5",
+      "title_zh": "AnyPS5 主机可执行文件跨平台移植辅助工具",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "summary": "用于将 PS5 原生可执行文件自动化移植与运行在 Linux 和 Windows 系统的跨平台逆向与兼容性转换工具。",
+      "content": "Tool for automatic PS5 executables porting to Linux and Windows. Stars: 6468, Stars today: 949",
+      "stars": "6468"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "pbakaus/impeccable",
+      "title_zh": "Impeccable 提升智能体设计能力的现代设计语言规范",
+      "url": "https://github.com/pbakaus/impeccable",
+      "summary": "一套专为 AI 智能体设计的现代设计语言与规范，帮助编码代理在生成前端应用时产出更高审美水准的界面体验。",
+      "content": "The design language that makes your AI harness better at design. Stars: 77673, Stars today: 616",
+      "stars": "77673"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "thedotmack/claude-mem",
+      "title_zh": "Claude-Mem 跨会话智能体持久化记忆上下文管理工具",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "为各类 AI 智能体打造的跨会话持久化上下文系统，自动捕获、压缩并唤回交互历史与项目记忆。",
+      "content": "Persistent Context Across Sessions for Every Agent – Capture, compress and recall. Stars: 97155, Stars today: 534",
+      "stars": "97155"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "ayghri/i-have-adhd",
+      "title_zh": "i-have-adhd 聚焦核心答案的智能体提示词优化插件",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "summary": "专为解决 AI 编码助手长篇大论、掩盖关键结论而设计的 Skill 技能，强制智能体直入主题并给出精炼直接的答案。",
+      "content": "A skill to stop your coding agent from burying the answer. Always get to the point. Stars: 54388, Stars today: 326",
+      "stars": "54388"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "morluto/rea",
+      "title_zh": "Rea 智能体驱动的全自动化逆向工程分析工具",
+      "url": "https://github.com/morluto/rea",
+      "summary": "通过 AI 智能体对各类应用程序进行逆向工程分析，覆盖从上层应用交互行为一直到底层二进制协议的全链路逆向。",
+      "content": "Reverse engineer anything with agents, from app behavior down to binary protocols. Stars: 9295, Stars today: 2956",
+      "stars": "9295"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "deepseek-ai/DeepGEMM",
+      "title_zh": "DeepGEMM 深度求索开源的高效 GPU 基础线性代数内核库",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "summary": "深度求索 (DeepSeek) 开源的现代 GPU GEMM 矩阵乘法核心库，采用简洁高效的设计优化大语言模型的计算吞吐与内存效率。",
+      "content": "DeepGEMM: clean and efficient BLAS kernel library on GPU. Stars: 8685, Stars today: 199",
+      "stars": "8685"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "DuarteSantos8/openGym",
+      "title_zh": "openGym 开源自托管健身与体重追踪系统",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "summary": "支持自托管的健身管理与体重记录开源平台，提供健身计划制定、训练日志记录以及身体数据可视化追踪功能。",
+      "content": "Self-hosted gym & body-weight tracker — plan routines, log workouts, and track progress. Stars: 5660, Stars today: 1419",
+      "stars": "5660"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Nobel Prize in Physics 2026: Francis Halzen",
+      "title_zh": "2026 年诺贝尔物理学奖授予弗朗西斯·哈尔岑（南极冰立方中微子天文台领军人）",
+      "url": "https://news.ycombinator.com/item?id=49976265",
+      "summary": "2026 年诺贝尔物理学奖揭晓，授予冰立方 (IceCube) 中微子天文台首席科学家 Francis Halzen，以表彰其在探测宇宙超高能中微子领域的开创性贡献。",
+      "content": "HN Score: 511, Comments: 168"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "title_zh": "Gleam 语言宣布不再转译为 Erlang 源码，改为直出 BEAM 字节码",
+      "url": "https://news.ycombinator.com/item?id=49975619",
+      "summary": "类型安全语言 Gleam 迎来重大编译器架构演进，新版不再通过生成中间 Erlang 源码进行构建，而是直接编译为 BEAM 平台目标，大幅缩短编译耗时并精简构建链路。",
+      "content": "HN Score: 288, Comments: 122"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+      "title_zh": "派拉蒙天空之舞完成与华纳兄弟探索价值 1110 亿美元的历史性合并",
+      "url": "https://news.ycombinator.com/item?id=49983703",
+      "summary": "好莱坞传媒巨头重磅整合尘埃落定，Paramount Skydance 与 Warner Bros. Discovery 完成高达 1110 亿美元合并交易，重塑流媒体与影视娱乐行业格局。",
+      "content": "HN Score: 149, Comments: 213"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Benchmark in Milliseconds",
+      "title_zh": "毫秒级基准测试：探讨超短周期性能测试的方法与误差",
+      "url": "https://news.ycombinator.com/item?id=49967427",
+      "summary": "文章深入剖析了执行毫秒级甚至亚毫秒级软件性能基准测试时的挑战，包括时钟抖动、CPU 降频调度以及如何设计更科学的微观性能评估策略。",
+      "content": "HN Score: 126, Comments: 36"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "The Early History of Smalltalk (1993)",
+      "title_zh": "Smalltalk 早期发展历史回顾（1993 年阿兰·凯经典论文）",
+      "url": "https://news.ycombinator.com/item?id=49979845",
+      "summary": "计算机图灵奖得主 Alan Kay 1993 年回顾 Smalltalk 语言诞生与面向对象思想演进的经典文献重新在 Hacker News 引发深度探讨。",
+      "content": "HN Score: 109, Comments: 64"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Decisions API is in public beta",
+      "title_zh": "Decisions API 开启公开公测：为工程系统提供结构化决策治理平台",
+      "url": "https://news.ycombinator.com/item?id=49984025",
+      "summary": "旨在规范和追踪工程架构重大决策的 Decisions API 进入公开测试阶段，帮助团队以机器可读方式沉淀和同步软件决策链路。",
+      "content": "HN Score: 100, Comments: 35"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill",
+      "title_zh": "因加拿大合法拦截访问法案，多伦多知名 VPN 服务商拟将业务迁出加拿大",
+      "url": "https://news.ycombinator.com/item?id=49982471",
+      "summary": "加拿大拟推行的合法监听与数据留存新法案引发隐私担忧，多伦多本地 VPN 厂商宣布将退出加拿大本土管辖区，以守护用户加密通信隐私。",
+      "content": "HN Score: 85, Comments: 36"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "OpenSSH 10.6",
+      "title_zh": "OpenSSH 10.6 正式发布，带来安全加固与抗量子加密算法改进",
+      "url": "https://news.ycombinator.com/item?id=49983791",
+      "summary": "基础网络安全组件 OpenSSH 迎来 10.6 版本更新，持续推进混合抗量子密钥交换协议支持，并修复了若干潜在安全问题与兼容性改进。",
+      "content": "HN Score: 77, Comments: 14"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Mathematics of Geothermal Energy",
+      "title_zh": "地热能源背后的数学物理建模与热流分析",
+      "url": "https://news.ycombinator.com/item?id=49977819",
+      "summary": "深度探讨地热能勘探与开采过程中涉及的热传导方程、多孔介质流体力学数学建模及其在可再生能源领域的工程应用价值。",
+      "content": "HN Score: 67, Comments: 37"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "title_zh": "Mistral 发布 1 万亿参数大模型 Mistral Large 4，全面挑战开源与商业旗舰",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "summary": "法国 AI 实验室 Mistral AI 正式推出新一代多模态旗舰模型 Mistral Large 4，参数规模达到万亿级，在推理性能、代码编写与多模态理解上与头部商业闭源模型展开正面竞争。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "title_zh": "AI 算力基础设施独角兽 Lambda 筹资 40 亿美元，估值达 145 亿美元备战 IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "summary": "由英伟达支持的 AI GPU 云计算服务商 Lambda 正在 IPO 前完成高达 40 亿美元的新一轮融资，投前估值攀升至 145 亿美元，加速全球 AI 算力集群扩张。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "title_zh": "AI 智能体普及面临新瓶颈：互联网网站普遍升级反爬与封禁策略",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "summary": "随着自主 AI 代理在购物、订票等日常工作流中广泛应用，各大商业网站与数字平台纷纷加码反机器人验证与防爬盾，如何建立安全合规的智能体访问协议成为行业痛点。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Google is about to remove free access to Gemini Flash and Pro",
+      "title_zh": "谷歌拟收紧 Gemini 免费额度：10 月 9 日起免费用户仅限使用 Flash Lite",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "summary": "谷歌宣布调整 Gemini 服务权益，自 10 月 9 日起免费用户将不再享有 Gemini Flash 和 Pro 模型的调用权限，免费版仅限使用轻量版 Flash Lite 模型。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "title_zh": "Hark 发布主打端侧隐私的全新 AI 个人助理系统",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "summary": "AI 实验室 Hark 推出一款面向未来的个人助理系统，强调本地端侧处理与隐私保护优先，旨在为用户提供完全受控的安全智能陪伴体验。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "title_zh": "Mirror Particle 正在构建模拟人类行为的智能体'世界模型'",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "summary": "前沿初创团队 Mirror Particle 致力于构建人类行为与决策维度的通用世界模型，用于更精准地预测复杂社交与群体交互动向。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "title_zh": "Anthropic 推出初创扶持计划：赠送一年 Claude Team 会员与千元 API 额度",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "summary": "Anthropic 面向初创企业开放专项赋能计划，提供为期一年的免费 Claude Team 团队协作服务及 1000 美元 Token API 额度，吸引更多新兴团队在其生态构建智能体应用。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "title_zh": "OpenAI 在 GitHub 开源新一批长周期数学难题的高难度解题方案",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "summary": "OpenAI 在 GitHub 仓库公布了其未公开发布的新一代前沿推理模型解出的一系列长周期数学难题方案，展示了 AI 在形式化数学证明与深层理论推导中的全新能力。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "title_zh": "开源办公套件 LibreOffice 声明：'无 AI 植入'是其保护用户隐私的特色功能",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "summary": "主流开源办公套件 LibreOffice 官方表示，其不会在默认软件中强制捆绑任何云端 AI 功能，将坚持纯本地、无数据上传的简洁文档处理体验视作产品核心竞争力。",
+      "content": ""
+    }
+  ]
+}
