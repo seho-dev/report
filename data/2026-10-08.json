@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-08",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "morluto/rea",
+      "title_zh": "Rea 智能体驱动的全平台逆向工程分析框架",
+      "url": "https://github.com/morluto/rea",
+      "summary": "基于 AI 智能体的通用逆向工程工具，能够自动化分析从高层应用行为到底层原生二进制机器码的全栈逻辑。",
+      "content": "Reverse engineer anything with agents, from app behavior down to native binaries. Stars: 14920, Stars today: 4655",
+      "stars": "14920"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "mattpocock/skills",
+      "title_zh": "Skills 针对专业软件工程师的智能体技能库",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "由知名开发者 Matt Pocock 开源的智能体专业技能库，提取自其实际生产环境配置，全面强化 AI 编程助手的能力。",
+      "content": "Skills for Real Engineers. Straight from my .agents directory. Stars: 279560, Stars today: 1403",
+      "stars": "279560"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "boykopovar/AnyPS5",
+      "title_zh": "AnyPS5 主机可执行文件跨平台移植辅助工具",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "summary": "用于将 PS5 原生可执行文件自动化移植与适配至 Linux 和 Windows 系统的跨平台逆向转换与兼容层工具。",
+      "content": "Tool for automatic PS5 executables porting to Linux and Windows. Stars: 10491, Stars today: 2716",
+      "stars": "10491"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "ayghri/i-have-adhd",
+      "title_zh": "i-have-adhd 防冗长唠叨的极简智能体技能插件",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "summary": "针对注意力缺陷与快节奏阅读优化的智能体技能，强制 AI 编程助手直奔核心结论，杜绝层层铺垫与废话输出。",
+      "content": "A skill to stop your coding agent from burying the answer. ADHD-friendly output. Stars: 55092, Stars today: 619",
+      "stars": "55092"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "cathrynlavery/diagram-design",
+      "title_zh": "Diagram-Design 出版级跨智能体架构图表生成库",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "面向 Claude Code、Codex 等主流智能体的专业图表设计库，内置 42 种图表类型，输出纯净独立的 SVG 与 HTML 渲染代码。",
+      "content": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. Stars: 44942, Stars today: 825",
+      "stars": "44942"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "addyosmani/agent-skills",
+      "title_zh": "Agent-Skills 生产级工程代理技能集",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "Google 知名工程师 Addy Osmani 推出的高质量工程技能规范，专为自动化编程智能体定制可靠的代码架构与评审流程。",
+      "content": "Production-grade engineering skills for AI coding agents. Stars: 102794, Stars today: 677",
+      "stars": "102794"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "EpicGames/raddebugger",
+      "title_zh": "RAD Debugger 现代原生多进程图形化调试器",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "summary": "Epic Games 开源的原生用户态多进程图形调试工具，主打极致响应速度与现代化的交互式调用栈分析能力。",
+      "content": "A native, user-mode, multi-process, graphical debugger. Stars: 7854, Stars today: 90",
+      "stars": "7854"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "thedotmack/claude-mem",
+      "title_zh": "Claude-Mem 跨会话通用智能体持久记忆系统",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "捕获会话期间代理的所有操作与上下文，通过 AI 压缩提炼并在未来会话中动态回注，支持主流编程智能体生态。",
+      "content": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions. Stars: 97699, Stars today: 578",
+      "stars": "97699"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "manaflow-ai/cmux",
+      "title_zh": "cmux 专为 AI 编程助手打造的多任务垂直标签终端",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "summary": "基于 Ghostty 打造的开源 macOS 智能终端，支持垂直标签页与即时通知，专为高并发运行多个 AI 代理优化工作流。",
+      "content": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Stars: 27830, Stars today: 44",
+      "stars": "27830"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "trycua/cua",
+      "title_zh": "CUA 计算机自动化操作 2.0 评测与驱动框架",
+      "url": "https://github.com/trycua/cua",
+      "summary": "提供开源驱动程序、跨操作系统工作集群以及系统级基准测试，推动下一代 AI 计算机使用能力的训练与评估。",
+      "content": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training and evaluation. Stars: 28733, Stars today: 228",
+      "stars": "28733"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Margaret Hamilton, who led software development for the Apollo program, has died",
+      "title_zh": "阿波罗登月计划软件开发先驱 Margaret Hamilton 逝世",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "summary": "领导阿波罗计划机载飞行软件工程的计算机先驱、软件工程一词的奠基人 Margaret Hamilton 去世，享年 90 岁。",
+      "content": "HN Score: 387, Comments: 41"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Shipping JPEG XL in Chrome",
+      "title_zh": "谷歌 Chrome 浏览器正式启用 JPEG XL 新一代图像格式",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "summary": "Chrome 团队宣布正式支持下一代高压缩率、无损与宽色域图像格式 JPEG XL，显著减少网络传输带宽并提升网页加载体验。",
+      "content": "HN Score: 471, Comments: 303"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "title_zh": "2026 年诺贝尔化学奖揭晓：授予不对称催化与手性放大先驱",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "summary": "瑞典皇家科学院将 2026 年诺贝尔化学奖授予 Henri B. Kagan 和 Kenso Soai，以表彰其在不对称合成与不对称自催化领域的开创性贡献。",
+      "content": "HN Score: 288, Comments: 53"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "title_zh": "开发者基于经典准系统 Commodore 64 键帽照片复刻复古字体",
+      "url": "https://github.com/szabadkai/c64-keyboard-font/",
+      "summary": "开源项目通过对经典 C64 键盘实体键帽的高清摄影采样与轮廓提取，高保真还原了 80 年代经典的计算机字符排版风格。",
+      "content": "HN Score: 372, Comments: 62"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "title_zh": "Bigwords.page：将任意屏幕变为大字展示板的极简网页应用",
+      "url": "https://bigwords.page/",
+      "summary": "完全零依赖、零后端服务的单页应用，直接通过 URL 哈希存储与渲染大号文本，方便任何设备瞬间充当指示标牌。",
+      "content": "HN Score: 319, Comments: 102"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Navier–Stokes Lost in Translation",
+      "title_zh": "纳维-斯托克斯方程翻译迷思：流体力学基础数学文献探究",
+      "url": "https://arxiv.org/abs/2610.08144",
+      "summary": "数学家与科学史学者撰写论文，梳理早期流体力学奠基性法语文献翻译为现代英语时产生的关键数学概念偏差与演变历史。",
+      "content": "HN Score: 232, Comments: 150"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Anti-patterns in software blogging",
+      "title_zh": "技术博客写作的反模式与避坑思考",
+      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+      "summary": "资深开发者总结软件工程博客创作中常见的负面模式，如过度追求搜索引擎优化、缺乏个人实践观点以及机器生成水文等问题。",
+      "content": "HN Score: 197, Comments: 110"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
+      "title_zh": "PSP 平台《战神》被静态重编译为 WebAssembly 并在浏览器流畅运行",
+      "url": "https://github.com/snuri00/psp-web-recomp",
+      "summary": "逆向工程开发者通过将 PSP 原生 MIPS 机器指令静态重编译为 C++ 与 WASM，成功在现代 Web 浏览器中高帧率运行主机级 3D 游戏。",
+      "content": "HN Score: 150, Comments: 79"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+      "title_zh": "Visa、万事达与多家巨头银行因涉嫌反竞争刷卡手续费面临新一轮诉讼",
+      "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+      "summary": "多国商户联合对支付巨头和大型发卡行发起集体诉讼，指控其长期联合操纵商户刷卡费率并阻碍公平市场竞争。",
+      "content": "HN Score: 463, Comments: 323"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "title_zh": "Nous Research 估值达到 15 亿美元，正式面向企业用户推出自主智能体系统",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "summary": "开源大模型与智能体先锋 Nous Research 完成新一轮融资估值达 15 亿美元，并全面上线面向企业商业场景的自主 AI 代理解决方案。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+      "title_zh": "OpenAI 为 ChatGPT 推出 Intelligent UI 动态界面更新：原生集成图表、按钮与交互组件",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "summary": "OpenAI 发布全新 Intelligent UI 架构，使模型响应摆脱纯文本限制，可直接生成实时交互式图表、可视化仪表板与动态操作卡片。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Claude Haiku 5.5",
+      "title_zh": "Anthropic 正式发布 Claude Haiku 5.5 轻量级极速模型",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "summary": "Anthropic 推出新一代轻量旗舰模型 Claude Haiku 5.5，在保持极低延迟与极低成本的同时，编程与长文本推理能力大幅超越前代。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "title_zh": "微软宣布全面增强 Windows 智能副驾 Copilot：赋予更深度的系统与本地文件操控权限",
+      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "summary": "微软在秋季发布会上展示下一代 Copilot 深度系统集成能力，允许 AI 代理安全执行跨应用操作、智能检索本地数据并协助用户管理日常工作流。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Sharing AI progress in mathematics",
+      "title_zh": "OpenAI 宣布在高等数学与形式化定理证明领域取得关键突破并开源成果",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "summary": "OpenAI 发布最新研究进展，展示大模型在解决复杂前沿数学难题与自动化验证方面的跃升，并在 GitHub 上公开了大量验证代码与解题集。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "title_zh": "谷歌上线 SynthID 专属平台：支持全方位检测与核验 AI 生成多媒体水印",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "summary": "谷歌面向公众发布 SynthID 独立核验工具网站，允许用户快速识别并检测文本、音频以及图像中嵌入的隐形 AI 水印标识。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "title_zh": "Meta 旗下创意创作智能体应用 Muse 登陆 iPad 平台",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "summary": "Meta 紧跟移动端上线步伐，为 iPad 推出经过大屏专属适配的 Muse 创意 AI 助手，深度结合 Apple Pencil 提供手绘与提示词双模协作。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+      "title_zh": "谷歌投资数百万美元支持扎克伯格旗下生物实验室构建 AI 虚拟细胞模型",
+      "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "summary": "谷歌与 Chan Zuckerberg Biohub 达成深度科研合作，注资推动利用超级计算集群与大模型模拟人类细胞全生命周期的前沿计算生物学工程。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+      "title_zh": "“iPod 之父” Tony Fadell 深度复盘初代 AI 随身硬件失败原因与未来机遇",
+      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+      "summary": "著名硬件设计师 Tony Fadell 剖析首批 AI 独立硬件的交互与续航硬伤，指出未来 AI 硬件应当专注于边缘计算以及与人类现有工具的无感融合。",
+      "content": ""
+    }
+  ]
+}
