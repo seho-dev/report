@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-09",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "boykopovar/AnyPS5",
+      "title_zh": "AnyPS5 自动化 PS5 可执行文件跨平台移植工具",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "summary": "用于将 PS5 平台可执行文件自动移植并适配至 Linux 和 Windows 系统的自动化转换工具。",
+      "content": "Tool for automatic PS5 executables porting to Linux and Windows. Stars: 15608, Stars today: 4669",
+      "stars": "15608"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "cathrynlavery/diagram-design",
+      "title_zh": "Diagram Design 面向 AI 编程助手的图表架构设计规范",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "专为 Claude Code、Codex 和 GitHub Copilot 打造的出版级图表与系统架构设计提示词及排版规范。",
+      "content": "Editorial diagram design for Claude Code, Codex, GitHub Copilot. Stars: 46293, Stars today: 1160",
+      "stars": "46293"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "morluto/rea",
+      "title_zh": "Rea 智能体驱动的全平台逆向工程分析框架",
+      "url": "https://github.com/morluto/rea",
+      "summary": "基于 AI 智能体的通用逆向工程工具，能够自动化分析从高层应用行为到底层原生二进制机器码的全栈逻辑。",
+      "content": "Reverse engineer anything with agents, from app behavior down to native binaries. Stars: 25869, Stars today: 7738",
+      "stars": "25869"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "mattpocock/skills",
+      "title_zh": "Skills 工程师实战 AI 代理专业技能集合",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "面向专业软件工程师的 AI Agent 技能库，汇集了从实战生产环境中沉淀出的各类代理工作流与扩展能力。",
+      "content": "Skills for Real Engineers. Straight from my .agents directory. Stars: 281042, Stars today: 1774",
+      "stars": "281042"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "thedotmack/claude-mem",
+      "title_zh": "Claude Mem 智能体跨会话持久化上下文记忆系统",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "为各类智能体提供跨会话持久记忆能力，能够无缝捕获、压缩历史交互信息并在后续会话中精准注入。",
+      "content": "Persistent Context Across Sessions for Every Agent – Capture, compress, and inject memory seamlessly. Stars: 98446, Stars today: 670",
+      "stars": "98446"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "EpicGames/raddebugger",
+      "title_zh": "RAD Debugger 原生跨进程图形化调试器",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "summary": "由 Epic Games 开源的原生用户态、多进程高性能图形化调试器，具备极速响应与清晰视图。",
+      "content": "A native, user-mode, multi-process, graphical debugger. Stars: 8100, Stars today: 279",
+      "stars": "8100"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "anthropics/knowledge-work-plugins",
+      "title_zh": "Anthropic 知识工作者专属官方插件集",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "Anthropic 官方开源插件库，旨在为分析师、研究员和专业知识工作者提供自动分析和办公提效工具。",
+      "content": "Open source repository of plugins primarily intended for knowledge workers. Stars: 27521, Stars today: 392",
+      "stars": "27521"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "storytold/artcraft",
+      "title_zh": "ArtCraft 面向艺术家与开发者的创意思维引擎",
+      "url": "https://github.com/storytold/artcraft",
+      "summary": "专为数字艺术家、设计师和创意开发者构建的意图驱动创作引擎，加速艺术生成与交互构思。",
+      "content": "ArtCraft is an intentional crafting engine for artists, designers and coders. Stars: 7846, Stars today: 2103",
+      "stars": "7846"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "liquidslr/system-design-notes",
+      "title_zh": "系统设计面试权威指南学习笔记精选",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "summary": "基于畅销书《系统设计面试内幕指南》整理的精选架构笔记与核心分布式系统考点梳理。",
+      "content": "Notes of the book System Design Interview - An Insider's Guide. Stars: 24592, Stars today: 393",
+      "stars": "24592"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "earthtojake/text-to-cad",
+      "title_zh": "Text to CAD 基于扩散模型的文本生成机械工程模型",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "summary": "利用扩散生成模型将自然语言提示词直接转化为标准机械 CAD 工程模型的开源深度学习方案。",
+      "content": "Generate mechanical CAD models from text prompts using diffusion models. Stars: 18467, Stars today: 512",
+      "stars": "18467"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Trump administration is suspending Microsoft from a green card program",
+      "title_zh": "特朗普政府暂停微软参与永久居留绿卡认证项目",
+      "url": "https://news.ycombinator.com/item?id=45519801",
+      "summary": "美国劳工部与移民监管机构暂停微软参与 PERM 绿卡申请通道，对科技巨头外籍员工签证带来重大变动。",
+      "content": "HN Score: 802, Comments: 1379"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "title_zh": "Whistle 仅需 16.9MB 体积的高性能超轻量语音转文字模型",
+      "url": "https://news.ycombinator.com/item?id=45520144",
+      "summary": "Cactus Compute 推出超轻量级语音转文字模型 Whistle，体积仅 16.9MB，能够在端侧低功耗设备上极速运行。",
+      "content": "HN Score: 474, Comments: 110"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "title_zh": "业内为何对 DeepSeek 4.1 Flash 的突围反响平淡？深度思考其技术震撼",
+      "url": "https://news.ycombinator.com/item?id=45521305",
+      "summary": "深入探讨 DeepSeek 4.1 Flash 模型的推理性价比与架构革新，分析为何西方科技界尚未充分意识到其颠覆性。",
+      "content": "HN Score: 347, Comments: 296"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "title_zh": "给 Opus 5.5 一个提示词和六小时：完整可视化《看不见的城市》",
+      "url": "https://news.ycombinator.com/item?id=45521980",
+      "summary": "研究者向 Claude 3.5/Opus 5.5 给出单一提示词并允许自主深度思考六小时，生成了卡尔维诺文学名作《看不见的城市》全景可视化项目。",
+      "content": "HN Score: 343, Comments: 175"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "title_zh": "男子发现父母家的智能咖啡机在 10 天内消耗了 1TB 流量",
+      "url": "https://news.ycombinator.com/item?id=45520556",
+      "summary": "一名网络工程师排查家庭路由时震惊发现一台联网智能咖啡机因固件死循环在短短十天内消耗了上太字节数据流量。",
+      "content": "HN Score: 334, Comments: 203"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "title_zh": "我雇插画师画了我的房子：如今它成了我的 Home Assistant 可视化控制台",
+      "url": "https://news.ycombinator.com/item?id=45521672",
+      "summary": "作者请专业插画师为自己房屋绘制精美等轴测透视图，并将其无缝接入开源智能家居系统 Home Assistant 交互看板中。",
+      "content": "HN Score: 323, Comments: 42"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "The Slow Formation of Durable Software",
+      "title_zh": "长寿软件的缓慢演化之道：耐用工程的构建哲学",
+      "url": "https://news.ycombinator.com/item?id=45520891",
+      "summary": "探讨那些历经数十年依然稳健运行的软件系统，剖析耐用性、保守架构决策以及对抗快速迭代熵变的设计原则。",
+      "content": "HN Score: 247, Comments: 109"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Beauty in DVD Menus",
+      "title_zh": "DVD 菜单交互界面的艺术美学与怀旧设计",
+      "url": "https://news.ycombinator.com/item?id=45521455",
+      "summary": "回顾 2000 年代早期 DVD 光盘菜单界面中那些匠心独运的微交互动画、环境音效与动态图形设计艺术。",
+      "content": "HN Score: 245, Comments: 144"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Yes, and: The collaborative philosophy behind HTML and modern web design",
+      "title_zh": "Yes, and 原则：现代 Web 演进与组件架构背后的协作哲学",
+      "url": "https://news.ycombinator.com/item?id=45522103",
+      "summary": "借用即兴喜剧中的“Yes, and”接纳思维，探讨现代 Web 标准、渐进增强与轻量级交互框架的演进路径。",
+      "content": "HN Score: 114, Comments: 49"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "title_zh": "Anthropic 推出针对开源项目的免费 AI 安全漏洞扫描服务",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "summary": "Anthropic 正式推出面向主流开源软件项目的自动化安全审计计划，利用 Claude 大模型主动检测开源代码库中的深层安全隐患与漏洞。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "title_zh": "被解雇的 OpenAI 安全研究员反驳违纪指控，警告安全审查遭遇寒蝉效应",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "summary": "多名此前离开 OpenAI 的资深对齐与安全研究员公开发声，反驳管理层的指控并呼吁行业警惕在商业化扩张中牺牲安全底线的风险。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B in 10 months",
+      "title_zh": "知名大模型评测平台 LMSYS Chatbot Arena 估值 10 个月内翻倍达 31 亿美元",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "summary": "全球最具权威性的大语言模型盲测竞技场 LMSYS Arena 完成新一轮战略融资，估值在十个月内近乎翻倍达到 31 亿美元。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "OpenAI's revenue is reportedly $20 billion less than previously projected",
+      "title_zh": "媒体报道称 OpenAI 年度实际营收比此前高调预期低 200 亿美元",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "summary": "最新财务调查披露 OpenAI 虽然增速依旧迅猛，但因巨额算力基建折旧与部分企业级订阅未达预期，营收预估出现显著修正。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "title_zh": "谷歌为 Gemini 全面引入自主智能体能力，首波落地企业工作流",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "summary": "谷歌宣布将完整的多步骤自主行动（Agentic AI）能力整合进 Gemini 平台，支持企业用户自动完成复杂的数据整合、跨软件协同操作。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Goodfire says its new 'inside-out' monitors catch rogue AI agents at a fraction of the cost",
+      "title_zh": "Goodfire 发布“由内而外”智能体监控技术，以极低成本拦截失控代理",
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "summary": "AI 运行时可解释性初创团队 Goodfire 推出轻量监控架构，可在智能体执行敏感操作前直接从内部表征层检测出失控偏离行为。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Google's AI note-taking app transcribes your meetings completely offline",
+      "title_zh": "谷歌 AI 会议纪要应用实现完全离线端侧高保真语音转录",
+      "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+      "summary": "谷歌发布全新端侧会议纪要利器，完全不需要联网或上传云端即可在本地芯片上以极高准确率实时转录多人会议录音。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "title_zh": "《今日美国》母公司甘尼特正式对 OpenAI 发起版权侵权诉讼",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "summary": "出版巨头 Gannett 代表《今日美国》及旗下数百家地方新闻媒体在联邦法院起诉 OpenAI，指控其未经授权批量盗用新闻报道训练模型。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Natura's $99 smart ring puts AI agents on your finger",
+      "title_zh": "Natura 推出售价 99 美元的智能指环，将 AI 智能体佩戴于指尖",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "summary": "硬件公司 Natura 推出百元级日常穿戴智能指环，内置微型传感器与自然手势交互，让用户能随时随地与随身 AI 代理低调对话。",
+      "content": ""
+    }
+  ]
+}
