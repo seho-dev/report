@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-10",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "morluto/rea",
+      "title_zh": "Rea 基于 AI Agent 的端到端逆向工程工具",
+      "url": "https://github.com/morluto/rea",
+      "summary": "利用智能体对软件与系统进行自动化逆向工程，覆盖应用运行时行为分析到底层指令分析的全流程。",
+      "content": "Reverse engineer anything with agents, from app behavior down to machine instructions. Stars: 45373, Stars today: 14927",
+      "stars": "45373"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "boykopovar/AnyPS5",
+      "title_zh": "AnyPS5 自动化 PS5 可执行文件跨平台移植工具",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "summary": "用于将 PS5 平台原生可执行文件自动反编译并适配移植至 Linux 和 Windows 系统的实用工具。",
+      "content": "Tool for automatic PS5 executables porting to Linux and Windows. Stars: 22221, Stars today: 5868",
+      "stars": "22221"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "mattpocock/skills",
+      "title_zh": "Skills 面向工程师的高实用性 AI Agent 技能库",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "专为真实软件工程环境打造的 Agent 技能集合，直接提取自一线开发者的 .agents 配置规范。",
+      "content": "Skills for Real Engineers. Straight from my .agents directory. Stars: 282647, Stars today: 1687",
+      "stars": "282647"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "cathrynlavery/diagram-design",
+      "title_zh": "Diagram Design 面向 AI 编程助手的架构图表设计规范",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "专为 Claude Code、Codex 和 GitHub Copilot 设计的出版级架构图与技术流程图生成规范指南。",
+      "content": "Editorial diagram design for Claude Code, Codex, GitHub Copilot. Stars: 47837, Stars today: 1739",
+      "stars": "47837"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "alibaba/open-code-review",
+      "title_zh": "Open Code Review 阿里巴巴高并发实战代码审查平台",
+      "url": "https://github.com/alibaba/open-code-review",
+      "summary": "阿里巴巴开源的智能化代码评审工具，经过超大规模业务验证，具备高安全、高性能与轻量化架构。",
+      "content": "Secure, fast, efficient, battle-tested at Alibaba's scale. Stars: 45183, Stars today: 326",
+      "stars": "45183"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "anthropics/knowledge-work-plugins",
+      "title_zh": "Knowledge Work Plugins 知识工作自动化插件合集",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "Anthropic 官方开源的知识工作自动化插件库，助力企业与个人知识工作者提升办公生产力与协作效率。",
+      "content": "Open source repository of plugins primarily intended for knowledge work. Stars: 28238, Stars today: 709",
+      "stars": "28238"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "BerriAI/litellm",
+      "title_zh": "LiteLLM 超高速轻量级多模型 AI 网关服务",
+      "url": "https://github.com/BerriAI/litellm",
+      "summary": "采用 Rust 核心打造并提供 Python SDK 的超轻量 AI 网关，统一调用主流大模型并提供负载均衡与监控能力。",
+      "content": "The fastest, litest AI Gateway. Rust core with Python SDK. Stars: 60650, Stars today: 95",
+      "stars": "60650"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "addyosmani/agent-skills",
+      "title_zh": "Agent Skills 生产级 AI 编码智能体技能集",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "Google 工程总监 Addy Osmani 出品的生产级工程技能库，赋能主流 AI 编程智能体遵循最佳工程实践。",
+      "content": "Production-grade engineering skills for AI coding agents. Stars: 103971, Stars today: 436",
+      "stars": "103971"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "storytold/artcraft",
+      "title_zh": "ArtCraft 面向艺术家与设计师的创作工艺引擎",
+      "url": "https://github.com/storytold/artcraft",
+      "summary": "为数字艺术家与设计师打造的意图驱动创作引擎，提供精细化笔触控制与程序化视觉生成支持。",
+      "content": "ArtCraft is an intentional crafting engine for artists, designers. Stars: 11404, Stars today: 3752",
+      "stars": "11404"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "Robbyant/lingbot-map",
+      "title_zh": "LingBot-Map 几何感知的多模态三维地图表征框架",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "summary": "ECCV 2026 最佳论文候选项目，提出融合几何结构感知与多模态表征的大规模 3D 地图构建与理解框架。",
+      "content": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric-Aware 3D Map Representation. Stars: 17687, Stars today: 110",
+      "stars": "17687"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Cloudflare acquires Deno",
+      "title_zh": "Cloudflare 正式宣布收购 JavaScript 运行时 Deno",
+      "url": "https://news.ycombinator.com/item?id=50019911",
+      "summary": "边缘云计算巨头 Cloudflare 正式收购现代 JavaScript/TypeScript 运行时 Deno，以强化其无服务器边缘计算生态与开发者体验。",
+      "content": "HN Score: 1020, Comments: 528"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Sorry, I'm in a meeting",
+      "title_zh": "抱歉，我正在开会：职场无效会议文化的反思",
+      "url": "https://news.ycombinator.com/item?id=50018088",
+      "summary": "一篇关于当代软件工程与知识团队会议过载现象的深度分析，探讨日历拥堵如何扼杀深度思考与工程生产力。",
+      "content": "HN Score: 725, Comments: 227"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Our $445M Series D",
+      "title_zh": "初创企业宣布完成 4.45 亿美元 D 轮融资",
+      "url": "https://news.ycombinator.com/item?id=50020014",
+      "summary": "技术基础设施服务商披露完成 4.45 亿美元 D 轮巨额融资，将加速全球数据分布与云上开发者基础设施拓展。",
+      "content": "HN Score: 565, Comments: 248"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Theranos.world",
+      "title_zh": "Theranos.world：像素级还原血检丑闻公司内幕的交互式网站",
+      "url": "https://news.ycombinator.com/item?id=50009295",
+      "summary": "开发者通过极具细节的交互式网页模拟了当年 Theranos 总部与创始人办公室，用黑色幽默重现硅谷史上最大丑闻。",
+      "content": "HN Score: 549, Comments: 199"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Triple-A Minesweeper",
+      "title_zh": "3A 级扫雷游戏：将经典街机游戏重构为现代大作",
+      "url": "https://news.ycombinator.com/item?id=50022292",
+      "summary": "独立开发者运用现代 3D 渲染与物理引擎重构经典扫雷游戏，带来媲美 3A 大作的粒子特效与沉浸式交互玩法。",
+      "content": "HN Score: 533, Comments: 102"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+      "title_zh": "2026 年诺贝尔和平奖授予纳瓦内瑟姆·皮莱",
+      "url": "https://news.ycombinator.com/item?id=50018420",
+      "summary": "挪威诺贝尔委员会宣布将 2026 年诺贝尔和平奖授予前联合国人权事务高级专员皮莱，表彰其在国际人权与正义领域的长期奉献。",
+      "content": "HN Score: 430, Comments: 220"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "title_zh": "博主自制车牌识别摄像头反向追踪警车后遭警方上门盘查",
+      "url": "https://news.ycombinator.com/item?id=50026555",
+      "summary": "一名技术博主仿制了 Flock 警用智能摄像头系统用于记录警车巡逻轨迹，随后引发当地执法部门登门询问与隐私法律争议。",
+      "content": "HN Score: 346, Comments: 187"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Keyboard differences between Windows and Macs",
+      "title_zh": "深度对比 Windows 与 Mac 键盘布局及按键逻辑演变史",
+      "url": "https://news.ycombinator.com/item?id=50015515",
+      "summary": "从硬件历史、修饰键设计与操作系统事件派发机制出发，详细剖析苹果与微软键盘布局在三十年间的根本差异。",
+      "content": "HN Score: 320, Comments: 259"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Germany transforms former coal mines into Europe's largest lake landscape",
+      "title_zh": "德国将昔日露天煤矿改造成欧洲最大的人工湖泊风景区",
+      "url": "https://news.ycombinator.com/item?id=50021540",
+      "summary": "德国卢萨蒂亚地区历经数十年生态修复，将废弃的大型露天煤矿群成功注水转变为互联的人工湖泊与绿色生态旅游区。",
+      "content": "HN Score: 175, Comments: 95"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
+      "title_zh": "Anthropic Claude 支持通过动态工作流并行调度多达 1000 个 AI 智能体",
+      "url": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/",
+      "summary": "Anthropic 推出全新多智能体协同机制，支持 Claude 同时编排与管理多达上千个子智能体，实现超大规模分布式推理与自动化任务协作。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+      "title_zh": "数学界直呼疯狂：OpenAI 最新数学推理模型生成的证明需数年才能完全消化",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009120/openai-math-breakthrough-mathematicians-reaction",
+      "summary": "OpenAI 发布的最新数学攻坚模型输出了数十篇极度复杂的定理自动证明，多位国际顶尖数学家表示需要数年时间进行同行评议与严格验证。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "title_zh": "非文本 AI 模型 Jev 开发商发布仅数周估值即飙升至 75 亿美元",
+      "url": "https://techcrunch.com/2026/10/09/jev-maker-typesafe-ai-7-5b-valuation/",
+      "summary": "专注于原生非文本（多模态空间物理逻辑）AI 模型的初创公司 Typesafe AI 刚刚完成新一轮融资，公司估值在推出模型数周内即突破 75 亿美元。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "title_zh": "Anthropic AI 误向费城警方提供虚假命案线索引发执法争议",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008892/anthropic-ai-hallucination-philadelphia-police-unsolved-homicide",
+      "summary": "在一次关于旧案分析的实际测试中，Anthropic 大模型产生了严重的幻觉，虚构了杀人案线索并导致警方误派警力调查，引发公众对 AI 辅助司法的担忧。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "title_zh": "尼康显微摄影大赛获奖作品因使用生成式 AI 伪造微观动态遭取消资格",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008985/nikon-small-world-in-motion-ai-disqualified",
+      "summary": "全球知名微观摄影赛事 Nikon Small World 评审团核查发现，某高名次动态视频作品系使用生成式 AI 伪造微观细胞运动，赛事组委会已正式取消其获奖资格。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Anthropic's Claude Science creates the first complete ultraviolet map of the sky",
+      "title_zh": "Anthropic Claude Science 成功构建首张完整天体全天紫外光谱图",
+      "url": "https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/",
+      "summary": "天文学家结合专用科研大模型 Claude Science，对哈勃与空间望远镜数十年的紫外线巡天海量异构数据进行了融合重构，输出了人类首个全天完整紫外图谱。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+      "title_zh": "SpaceXAI 投资 150 万美元算力资源支持争议性 Linux 发行版 Omarchy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008776/spacexai-omarchy-linux-compute-backing",
+      "summary": "SpaceX 旗下 AI 团队宣布为面向极致自主智能体设计的无沙箱 Linux 发行版 Omarchy 提供价值 150 万美元的高性能计算集群配额支持。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "title_zh": "爆红 AI 智能体 Instinct 遭遇挑战：能否抵挡 Muse 的强力竞争？",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008654/instinct-ai-agent-muse-competition-survival",
+      "summary": "曾经在社交媒体引起巨大轰动的主动式个人智能体 Instinct，在遭遇来自新一代系统级 Agent 原生框架 Muse 的正面竞争后面临产品形态大考。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse",
+      "title_zh": "AI 自动化数学证明突破引发以太坊社区对钱包椭圆加密安全期的热议",
+      "url": "https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/",
+      "summary": "大模型在离散对数与高阶代数领域的推理突破，促使以太坊密码学核心研究团队紧急评估现有曲线加密体系面对 AI 辅助破解时的防线与后量子迁移周期。",
+      "content": ""
+    }
+  ]
+}
