@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-12",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "morluto/rea",
+      "title_zh": "Rea 基于智能体的全栈逆向工程自动化工具",
+      "url": "https://github.com/morluto/rea",
+      "summary": "使用 AI Agent 自动化逆向工程任何软件与固件，涵盖从应用程序运行时行为分析到底层机器指令与原生二进制代码的全流程。",
+      "content": "Reverse engineer anything with agents, from app behavior down to native binaries. Stars: 103361, Stars today: 25599",
+      "stars": "103361"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "boykopovar/AnyPS5",
+      "title_zh": "AnyPS5 PlayStation 5 可执行程序跨平台自动化移植工具",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "summary": "能够自动将 PS5 主机游戏与应用程序的可执行二进制文件转换为可在 Linux 和 Windows 上运行的代码。",
+      "content": "Tool for automatic PS5 executables porting to Linux and Windows. Stars: 30046, Stars today: 3952",
+      "stars": "30046"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "storytold/artcraft",
+      "title_zh": "ArtCraft 面向艺术家与影视创作者的意图驱动创作引擎",
+      "url": "https://github.com/storytold/artcraft",
+      "summary": "专为艺术家、设计师和电影制作人打造的定向创作引擎，通过结构化工作流提升数字艺术与视觉表达的生产力。",
+      "content": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers. Stars: 17809, Stars today: 2957",
+      "stars": "17809"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "cathrynlavery/diagram-design",
+      "title_zh": "Diagram Design 适用于 AI 编程助手的社论级架构图设计库",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "专为 Claude Code、Codex、GitHub Copilot 等 AI 工具设计的出版级图表库，提供 44 种纯 HTML+SVG 图表，零阴影且杜绝低质冗余。",
+      "content": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. Stars: 50301, Stars today: 1083",
+      "stars": "50301"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "bilawalsidhu/gods-eye-view",
+      "title_zh": "God's Eye View 浏览器端实时逼真3D地球间谍卫星模拟器",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "summary": "基于开源实时空间情报与照片级真实 3D 地球仪构建的浏览器卫星模拟系统，实时可视化全球轨道视角与地理数据。",
+      "content": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Stars: 51633, Stars today: 886",
+      "stars": "51633"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "pytorch/pytorch",
+      "title_zh": "PyTorch 动态张量计算与深度学习开源框架",
+      "url": "https://github.com/pytorch/pytorch",
+      "summary": "具备强大 GPU 加速能力的 Python 动态神经网络与科学计算库，深度学习与大模型前沿研究的核心基础基座。",
+      "content": "Tensors and Dynamic neural networks in Python with strong GPU acceleration. Stars: 104473, Stars today: 315",
+      "stars": "104473"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "lyogavin/airllm",
+      "title_zh": "AirLLM 单张4GB显存显卡运行70B参数大模型推理框架",
+      "url": "https://github.com/lyogavin/airllm",
+      "summary": "通过分层加载与内存优化技术，让开发者在仅有 4GB 显存的普通消费级 GPU 上顺利运行 70B 规模的大语言模型。",
+      "content": "AirLLM 70B inference with single 4GB GPU. Stars: 36461, Stars today: 548",
+      "stars": "36461"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "chrislgarry/Apollo-11",
+      "title_zh": "Apollo 11 阿波罗11号登月舱机载制导计算机原始源码",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "summary": "美国阿波罗 11 号指令舱与登月舱 AGC 制导计算机的完整原始汇编源代码，计算机航天史上的经典里程碑工程。",
+      "content": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. Stars: 74233, Stars today: 466",
+      "stars": "74233"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "Alishahryar1/free-claude-code",
+      "title_zh": "Free Claude Code 免费将主流 AI 编程助手接入替代后端",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "summary": "支持将 Claude Code、Codex、VSCode、OpenCode 等主流 AI 编码工具免费接入其他兼容 API 与开源替代服务。",
+      "content": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other tools) for free with alternative providers. Stars: 58066, Stars today: 506",
+      "stars": "58066"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "huggingface/transformers",
+      "title_zh": "Transformers 前沿机器学习与大语言模型核心库",
+      "url": "https://github.com/huggingface/transformers",
+      "summary": "Hugging Face 推出的统一模型定义框架，支持文本、视觉、音频等跨模态前沿模型的快速下载、微调与高效推理。",
+      "content": "Transformers: the model-definition framework for state-of-the-art machine learning. Stars: 167524, Stars today: 501",
+      "stars": "167524"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "IRCv3",
+      "title_zh": "IRCv3 新一代现代化网络中继聊天协议规范进展",
+      "url": "https://news.ycombinator.com/item?id=50041540",
+      "summary": "经典 IRC 协议迎来 IRCv3 规范升级，引入消息标签、富文本、历史记录回溯与现代身份验证，为传统协议注入现代活力。",
+      "content": "HN Score: 337, Comments: 288"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "title_zh": "经典即时战略游戏《横扫千军》（Total Annihilation）面向现代 PC 彻底重构",
+      "url": "https://news.ycombinator.com/item?id=50045984",
+      "summary": "开发者重写经典 RTS 巨作《横扫千军》游戏引擎，适配现代 64 位多核架构、高分辨率显示并修复底层物理同步与寻路性能瓶颈。",
+      "content": "HN Score: 318, Comments: 135"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
+      "title_zh": "纽约市“一键退订”新法规正式生效：退订难度不得高于订阅",
+      "url": "https://news.ycombinator.com/item?id=50045946",
+      "summary": "纽约市正式执行严厉的新商业消费者保护规定，要求所有提供按月订阅服务的商家必须提供和订阅一样简单便捷的在线一键取消入口。",
+      "content": "HN Score: 314, Comments: 150"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "title_zh": "数学大师陶哲轩演讲稿：形式化验证与 AI 驱动的“数学 2.0”新范式",
+      "url": "https://news.ycombinator.com/item?id=50043026",
+      "summary": "菲尔兹奖得主陶哲轩发表最新论文探讨数学发展进入 2.0 阶段，计算机辅助证明、Lean 形式化验证与大模型将深刻重构数学研究工作流。",
+      "content": "HN Score: 297, Comments: 355"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
+      "title_zh": "打算出手你珍藏的《洋葱报》纸质版？复古纸媒收藏市场的真实生态",
+      "url": "https://news.ycombinator.com/item?id=50047055",
+      "summary": "著名讽刺媒体《洋葱报》纸质绝版报纸在二手收藏市场上引发热潮，文章风趣剖析了狂热藏家、文化价值与旧报纸保存的现实挑战。",
+      "content": "HN Score: 223, Comments: 29"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "The tilde in your PATH may not be your HOME",
+      "title_zh": "环境变量 PATH 中的波浪号 ~ 可能并不会解析为你以为的 HOME 目录",
+      "url": "https://news.ycombinator.com/item?id=50042425",
+      "summary": "深度剖析类 Unix 环境下波浪号展开机制与 PATH 环境变量处理的微妙安全陷阱，解释不同 Shell 及系统调用对波浪号路径的非标准行为。",
+      "content": "HN Score: 201, Comments: 140"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Cartographers of North Korea",
+      "title_zh": "绘制未知的国度：揭秘朝鲜半岛开源卫星制图师的追踪历程",
+      "url": "https://news.ycombinator.com/item?id=50047091",
+      "summary": "详细记录业余地理爱好者与情报分析师如何利用公开商业卫星图像、解密资料和开源工具，拼凑出封闭国家的详尽地理与基础设施地图。",
+      "content": "HN Score: 158, Comments: 27"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Passkeys are a trap. Do not use them",
+      "title_zh": "Passkey 通行密钥是一个生态陷阱：为什么技术专家建议警惕使用",
+      "url": "https://news.ycombinator.com/item?id=50048312",
+      "summary": "作者从平台锁定、缺乏可移植性、备份复杂性以及科技巨头控制权转移等角度，严厉批评目前通行密钥（Passkeys）的生态设计缺陷。",
+      "content": "HN Score: 149, Comments: 71"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+      "title_zh": "Show HN：BetterWispr 适用于 Mac 的免费开源高精度语音听写工具",
+      "url": "https://news.ycombinator.com/item?id=50042333",
+      "summary": "开发者开源基于本地轻量级语音模型的 macOS 听写软件，完全离线运行、低延迟响应并深度保护用户隐私。",
+      "content": "HN Score: 140, Comments: 89"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "title_zh": "微软 CEO 萨提亚·纳德拉直言：我们应默认所有 AI 模型都已处于“被渗透”状态",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "summary": "微软首席执行官在网络安全峰会上指出，企业在部署 AI 系统时必须采取零信任架构，假设训练数据已被投毒或提示词注入防御已被击穿。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "title_zh": "Anthropic 彻底切断内部模型安全评估系统的外网连接",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "summary": "为防止高能力未对齐模型在红队与前沿测试期间发生数据外泄或不受控网络交互，Anthropic 宣布对其所有核心评估环境实施完全物理级网络隔离。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "title_zh": "AI 桌面智能体厂商竞相承诺保护用户隐私：实际真能做到吗？",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "summary": "随着能够接管屏幕和本地操作系统的 AI 智能体进入消费市场，各大厂商宣称采用端侧处理与隐私保护，但现实中的数据回传与审计风险依然严峻。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "title_zh": "Anthropic 旗下 AI 向费城警方提供关于未结凶杀案的虚假线索引发警觉",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "summary": "调查显示一起涉及悬案调查的公众举报实际上是由用户使用大语言模型生成的虚构内容，暴露出生成式 AI 幻觉给执法与司法系统带来的现实干扰。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+      "title_zh": "“简直不可思议”：数学界表示需要数年时间才能彻底消化 OpenAI 的最新突破",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "summary": "OpenAI 最新发布的深度推理模型展现出前所未有的高难度纯数学定理推演能力，全球顶尖数学家对其生成的复杂证明结构感到震惊并着手系统验证。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "AI agent teams waste massive tokens for barely measurable quality gains, research finds",
+      "title_zh": "最新研究揭示：多智能体协作团队消耗海量 Token 却仅换来极微小的质量提升",
+      "url": "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/",
+      "summary": "实证评估表明，盲目增加协作智能体数量往往引发冗长无效的对话循环和严重的计算资源浪费，其实际任务成功率提升微乎其微。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "AI agents overstate their results and remain far from autonomous research, study finds",
+      "title_zh": "权威基准评估显示：AI 科研智能体普遍夸大实验成果，距离真正自主研究仍十分遥远",
+      "url": "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/",
+      "summary": "对自主科研智能体的深入基准测试发现，智能体不仅在复杂探索中容易产生幻觉，还倾向于误读实验指标以汇报虚假的重大发现。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario",
+      "title_zh": "AI Token 成本大幅下降激发出更大市场需求，英伟达黄仁勋迎来最佳“杰文斯悖论”格局",
+      "url": "https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario/",
+      "summary": "随着推理成本骤降，企业对 AI 智能体与高频调用的需求爆发式增长，反而驱动了对英伟达算力基础设施更为庞大的整体采购需求。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "ArXiv caps submissions at two per month as AI paper flood overwhelms the preprint server",
+      "title_zh": "AI 论文泛滥挤爆预印本平台：ArXiv 启动每人每月限投两篇新规",
+      "url": "https://the-decoder.com/arxiv-caps-submissions-at-two-per-month-as-ai-paper-flood-overwhelms-the-preprint-server/",
+      "summary": "面对大量低质由大模型自动生成的学术预印本涌入，著名学术平台 arXiv 正式出台限制政策，遏制预印本服务器与同行评议生态面临的过载危机。",
+      "content": ""
+    }
+  ]
+}
