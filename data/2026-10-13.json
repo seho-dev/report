@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-13",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "morluto/rea",
+      "title_zh": "REA通用AI逆向工程智能体",
+      "url": "https://github.com/morluto/rea",
+      "summary": "基于AI智能体的通用逆向工程工具，能够自动化分析从高层应用行为到底层原生二进制代码的各类程序结构。",
+      "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": "155681"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "bilawalsidhu/gods-eye-view",
+      "title_zh": "God's Eye View浏览器间谍卫星模拟器",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "summary": "在浏览器中运行的高拟真间谍卫星模拟器，接入真实空间数据，在照片级3D地球模型上实现实时开源空间情报分析。",
+      "content": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": "53617"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "mksglu/context-mode",
+      "title_zh": "Context-Mode AI编程上下文窗口优化引擎",
+      "url": "https://github.com/mksglu/context-mode",
+      "summary": "针对AI编程智能体的上下文窗口优化方案，通过沙箱化工具输出实现98%的数据压缩，持久化会话记忆，并通过MCP与钩子在17个平台执行智能路由。",
+      "content": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": "27269"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "storytold/artcraft",
+      "title_zh": "ArtCraft艺术家与影视创作者意图化制作引擎",
+      "url": "https://github.com/storytold/artcraft",
+      "summary": "专为视觉艺术家、设计师与电影制片人打造的意图驱动型创作引擎，辅助高质量视觉内容构建与流程把控。",
+      "content": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "stars": "21913"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "open-webui/open-webui",
+      "title_zh": "Open WebUI多模型交互式AI界面",
+      "url": "https://github.com/open-webui/open-webui",
+      "summary": "用户友好的自托管AI交互界面，支持Ollama、OpenAI API等多种后端，提供丰富的对话管理与多模态特性。",
+      "content": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "stars": "154967"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "cathrynlavery/diagram-design",
+      "title_zh": "Diagram Design出版级图表架构设计库",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "面向Claude Code、Codex、GitHub Copilot等AI助手的出版级图表设计规范，涵盖44种图表类型，采用自包含HTML与SVG，无多余阴影与杂乱结构。",
+      "content": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "52555"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "lyogavin/airllm",
+      "title_zh": "AirLLM单显卡大模型极速分层推理框架",
+      "url": "https://github.com/lyogavin/airllm",
+      "summary": "支持在单块4GB显存显卡上分层运行高达2.8T参数大语言模型的推理框架，突破硬件算力瓶颈。",
+      "content": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "stars": "37503"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "microsoft/BitNet",
+      "title_zh": "微软BitNet 1比特超低精度LLM官方推理框架",
+      "url": "https://github.com/microsoft/BitNet",
+      "summary": "微软官方开源的1比特大语言模型推理框架，大幅降低推理功耗与显存占用，推动极速模型本地化部署。",
+      "content": "Official inference framework for 1-bit LLMs",
+      "stars": "40896"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "Alishahryar1/free-claude-code",
+      "title_zh": "Free Claude Code多端免费AI编程环境接入套件",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "summary": "支持在终端、IDE、移动端及浏览器原生会话中免费接入多种AI编码环境（Claude Code、Codex、OpenCode等），支持多模型与语音交互。",
+      "content": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "stars": "59083"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "debpalash/VoiceStudio",
+      "title_zh": "VoiceStudio开源本地语音克隆与制作工作台",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "完全开源且支持本地运行的ElevenLabs替代品，提供646种语言的声音克隆、声音设计、视频配音、听写转录与有声书制作功能。",
+      "content": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "60379"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "title_zh": "Codex CLI默认在后台安装常驻且自动更新的守护进程",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "summary": "开发者在OpenAI Codex命令行工具中发现其默认会在系统后台安装常驻守护进程并静默自动更新，引发社区关于权限控制与隐私安全的激烈讨论。",
+      "content": "HN Score: 421, Comments: 222"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "title_zh": "黑客发起网络攻击触发欧洲多地超市冷柜自动除霜",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "summary": "欧洲多国连锁超市的物联网温控冷藏系统遭遇前所未有的网络攻击，黑客远程开启冷柜自动除霜功能，导致大量冷鲜食品变质，配送与标价系统亦受波及。",
+      "content": "HN Score: 386, Comments: 612"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "A Modern Web App in C",
+      "title_zh": "用纯C语言编写现代Web应用程序实战",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "summary": "作者分享了使用纯C语言构建轻量、极速且内存安全的现代全栈Web应用的架构设计、路由分发与性能优化经验。",
+      "content": "HN Score: 356, Comments: 155"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "title_zh": "Show HN：通过静态重编译将PS2游戏移植至WebAssembly在浏览器运行",
+      "url": "https://github.com/snuri00/ps2-web-recomp",
+      "summary": "开发者开源了PS2经典游戏的静态重编译工具链，将MIPS架构机器码转换为WebAssembly，使PS2经典大作能够零插件流畅运行在现代网页浏览器中。",
+      "content": "HN Score: 258, Comments: 140"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Citroen revives the 2CV for an electric age",
+      "title_zh": "雪铁龙为纯电时代复活经典国民神车2CV",
+      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "summary": "雪铁龙宣布将历史上标志性的经典微型车2CV进行现代化纯电动重构，保留实用简约设计哲学并融入现代智能电池技术。",
+      "content": "HN Score: 246, Comments: 297"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "title_zh": "将WiFi 7路由器改装为320Msps超高速软件定义无线电（SDR）接收机",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "summary": "硬件黑客开源了固件改造方案，利用WiFi 7路由器的射频前端与高速基带芯片，直接提取320Msps采样率的未加工IQ数据，打造超低成本宽带SDR。",
+      "content": "HN Score: 242, Comments: 60"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Type-safe HTML templating in Zig",
+      "title_zh": "在Zig语言中利用编译期计算实现类型安全的HTML模板渲染",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "summary": "深入剖析如何使用Zig语言的comptime强大特性构建无开销、强类型且防范XSS注入漏洞的现代化HTML模板引擎。",
+      "content": "HN Score: 236, Comments: 84"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Secret of Orange Cats Revealed After 60-Year Search",
+      "title_zh": "历经60年科学探索：生物学家终于揭示橘猫橙色毛皮的基因奥秘",
+      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+      "summary": "科学家定位到了决定家猫橙色毛色的关键性染色体突变基因，揭开了这一自1960年代困扰遗传学界半个多世纪的表型谜团。",
+      "content": "HN Score: 217, Comments: 171"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+      "title_zh": "《超级马力欧64》制作秘史：任天堂传奇程序员Giles Goddard访谈全记录",
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "summary": "重新发掘整理的2001年珍贵访谈，详细揭秘任天堂首款3D平台跳跃神作马力欧64的物理引擎研发、操作手感调试与N64硬件极限挑战。",
+      "content": "HN Score: 211, Comments: 83"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Meta's new frontier model Muse Wonder Full breaks into the AI top tier",
+      "title_zh": "Meta推出新一代前沿基座大模型Muse Wonder Full跻身全球AI第一梯队",
+      "url": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/",
+      "summary": "Meta正式发布前沿多模态大模型Muse Wonder Full，在基准测试中展现出比肩行业顶尖模型的多模态感知与推理能力，标志着开源阵营重大突破。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "title_zh": "微软推出新一代自研Maia 300 AI芯片以降低对英伟达GPU的依赖",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "summary": "微软加速推进其定制自研AI加速芯片Maia 300的云端部署，计划到2027年实现吉瓦级集群规模，进一步优化大规模推理与训练成本。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots",
+      "title_zh": "Sakana AI自改进模型解题与判别能力显著提升，但在自身盲区上仍难自我纠正",
+      "url": "https://the-decoder.com/sakana-ais-self-improving-model-gets-better-at-solving-and-judging-but-cant-catch-its-own-blind-spots/",
+      "summary": "Sakana AI最新研究展示了具备自主评估和解题循环的模型能力，但研究发现当模型陷入底层逻辑认知盲区时，自我强化反而会放大幻觉。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Clearing chat history helps AI agents find better solutions",
+      "title_zh": "最新研究显示适时清空历史对话记录有助于AI智能体探索出更优解决方案",
+      "url": "https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/",
+      "summary": "最新多智能体实验表明，过长的历史上下文会导致模型产生认知固化并陷入局部最优解，定期修剪或重置对话上下文能大幅提升复杂任务求解成功率。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "White House reverses course and restores UK AI Safety Institute's access to frontier models",
+      "title_zh": "白宫调整政策恢复英国AI安全研究所对前沿大模型的评测准入权限",
+      "url": "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/",
+      "summary": "美英两国在人工智能安全评估领域达成新一轮合作共识，白宫撤回了先前的准入限制，重新允许英国机构在模型发布前进行深度安全测试。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Anthropic's Andrej Karpathy says \"the external world has seen the preview\" of what AI can actually do",
+      "title_zh": "Andrej Karpathy发表演讲：外界目前所见AI能力仅仅只是未来的冰山一角",
+      "url": "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/",
+      "summary": "知名AI科学家Andrej Karpathy公开表示，当前的AI产品形态与自动化水平只是技术预览版，随着全自主智能体系统成熟，未来几年的变革将远超预期。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+      "title_zh": "Google DeepMind数学模型AlphaProof Nexus成功攻克数十道未解难题并通过同行评审",
+      "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/",
+      "summary": "Google DeepMind研发的AlphaProof Nexus系统在形式化数学证明领域取得重大进展，其证明的多项前沿数学猜想正式通过学术期刊顶级同行评审。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "AI coding agents generate more code, but not more software",
+      "title_zh": "Ars Technica深度调研：AI编程智能体生成了更多代码，但并未交付更多成型软件",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "summary": "行业实证研究发现，尽管开发团队采用AI代码生成工具后提交的代码行数激增，但实际生产环境中交付并稳定运行的业务软件系统并未按同等比例增加。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "GLM-Legal: Zhipu AI launches specialized legal foundation model",
+      "title_zh": "智谱AI正式发布GLM-Legal专业法律垂直基座大模型",
+      "url": "https://z.ai/blog/glm-legal",
+      "summary": "智谱AI针对司法审判、法律检索与合同风控等专业场景定制发布GLM-Legal大模型，大幅提升复杂法律条文理解与长文本司法论证分析水准。",
+      "content": ""
+    }
+  ]
+}
