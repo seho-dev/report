@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-14",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "morluto/rea",
+      "title_zh": "REA通用AI逆向工程智能体",
+      "url": "https://github.com/morluto/rea",
+      "summary": "基于AI智能体的通用逆向工程工具，能够自动化分析从高层应用行为到底层原生二进制代码的各类程序结构。",
+      "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": "206340"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "bilawalsidhu/gods-eye-view",
+      "title_zh": "God's Eye View浏览器间谍卫星模拟器",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "summary": "在浏览器中运行的高拟真间谍卫星模拟器，接入真实空间数据，在照片级3D地球模型上实现实时开源空间情报分析。",
+      "content": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": "55336"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "debpalash/VoiceStudio",
+      "title_zh": "VoiceStudio全本地开源声音克隆与制作工作台",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "完全本地运行的ElevenLabs开源替代方案，支持646种语言的声音克隆、声音设计、视频配音、听写转录与有声书制作。",
+      "content": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "63194"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "mksglu/context-mode",
+      "title_zh": "Context-Mode AI编程智能体上下文窗口优化引擎",
+      "url": "https://github.com/mksglu/context-mode",
+      "summary": "针对AI编程智能体的上下文窗口优化方案，通过沙箱化工具输出实现98%的数据压缩，持久化会话记忆，并通过MCP与钩子在17个平台执行智能路由。",
+      "content": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": "28212"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "cathrynlavery/diagram-design",
+      "title_zh": "Diagram Design代码智能体编辑级架构图设计库",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "专为Claude Code、Codex、GitHub Copilot等AI编程助手打造的排版级图表设计规范与模板，内置44种自包含HTML+SVG图表类型，告别阴影与Mermaid粗糙质感。",
+      "content": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "54069"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "vercel-labs/skills",
+      "title_zh": "Vercel Skills开放智能体技能管理工具",
+      "url": "https://github.com/vercel-labs/skills",
+      "summary": "Vercel开源的AI智能体技能包管理与分发CLI工具，支持一键安装和调用跨平台Agent技能拓展。",
+      "content": "The open agent skills tool - npx skills",
+      "stars": "34479"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "lyogavin/airllm",
+      "title_zh": "AirLLM单张4GB显卡超大模型本地推理库",
+      "url": "https://github.com/lyogavin/airllm",
+      "summary": "革命性超轻量推理框架，能够在单张仅4GB显存的消费级显卡上加载并运行高达2.8T参数的巨型大语言模型。",
+      "content": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "stars": "38304"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "storytold/artcraft",
+      "title_zh": "ArtCraft艺术家与影视创作者意图化制作引擎",
+      "url": "https://github.com/storytold/artcraft",
+      "summary": "专为视觉艺术家、设计师与电影制片人打造的意图驱动型创作引擎，辅助高质量视觉内容构建与流程把控。",
+      "content": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "stars": "25600"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "xtool-org/xtool",
+      "title_zh": "Xtool跨平台Xcode替代与iOS构建工具",
+      "url": "https://github.com/xtool-org/xtool",
+      "summary": "跨平台的Xcode替代工具，允许开发者在Linux、Windows和macOS上通过SwiftPM编译、构建并部署iOS应用程序。",
+      "content": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "stars": "9322"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "Alishahryar1/free-claude-code",
+      "title_zh": "Free Claude Code全免费模型免Key编程适配器",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "summary": "使Claude Code、Codex、OpenCode等10余款顶尖AI编程智能体能够无缝使用100%免费模型，零API密钥门槛且无使用次数限制。",
+      "content": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other AI coding agents) with 100% free models. Zero API keys. Unlimited usage.",
+      "stars": "60211"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "title_zh": "Rust借用检查器中潜伏11年的不健全性缺陷被发现",
+      "url": "https://news.ycombinator.com/item?id=50069499",
+      "summary": "安全研究员在Rust编译器的核心机制借用检查器中发现了长达11年历史的漏洞，揭示了生命周期推断与并发安全约束中的深层设计隐患。",
+      "content": "HN Score: 656, Comments: 366"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Apple HomeView",
+      "title_zh": "苹果推出智能家居显示终端Apple HomeView",
+      "url": "https://news.ycombinator.com/item?id=50071017",
+      "summary": "苹果正式发布智能家居中枢硬件Apple HomeView，配备磁吸底座与环境感知交互，主打隐私优先的家庭自动化控制中心。",
+      "content": "HN Score: 637, Comments: 760"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Firefox Enterprise",
+      "title_zh": "Mozilla正式发布Firefox企业版与集中管理套件",
+      "url": "https://news.ycombinator.com/item?id=50070302",
+      "summary": "Mozilla针对政企组织推出强化的Firefox Enterprise方案，提供开箱即用的组策略配置、强化安全基线以及长效支持分支。",
+      "content": "HN Score: 618, Comments: 254"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Redesigning source control at Anthropic",
+      "title_zh": "Anthropic重构大模型时代的企业级版本控制系统",
+      "url": "https://news.ycombinator.com/item?id=50073633",
+      "summary": "Anthropic工程团队分享如何重构其单体代码库与版本管理架构，以应对万亿级模型权重、训练检查点及海量代码智能体的超高频并发操作。",
+      "content": "HN Score: 481, Comments: 480"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "title_zh": "Ledger证实硬件钱包失窃事件源于物理植入间谍芯片",
+      "url": "https://news.ycombinator.com/item?id=50054092",
+      "summary": "硬件冷钱包巨头Ledger调查确认，多起资产被盗事件系供应链中被植入物理恶意芯片，能够拦截助记词并在联网时静默外传。",
+      "content": "HN Score: 378, Comments: 297"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Thunderbird for iOS",
+      "title_zh": "开源邮件客户端Thunderbird正式登陆iOS平台",
+      "url": "https://news.ycombinator.com/item?id=50072913",
+      "summary": "老牌开源跨平台邮件与日历客户端Thunderbird发布首个官方iOS测试版本，承诺零广告、无数据追踪并支持端到端加密。",
+      "content": "HN Score: 317, Comments: 128"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "New Apple TV 4K",
+      "title_zh": "苹果发布全新升级版Apple TV 4K电视盒子",
+      "url": "https://news.ycombinator.com/item?id=50071310",
+      "summary": "苹果更新了Apple TV 4K产品线，搭载更新一代Apple芯片并强化Thread/Matter网关能力，进一步整合家庭影音与交互体验。",
+      "content": "HN Score: 272, Comments: 521"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "title_zh": "基于闲置Apple Silicon设备构建的动态分布式虚拟GPU云",
+      "url": "https://news.ycombinator.com/item?id=50070593",
+      "summary": "研究者开源了一种分布式计算调度网络，能够将局域网内闲置的Mac设备统一虚拟化为支持Metal统一内存的池化GPU推理算力网络。",
+      "content": "HN Score: 216, Comments: 91"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "title_zh": "Show HN: Guitoro——用电脑键盘模拟弹奏吉他的网页乐器",
+      "url": "https://news.ycombinator.com/item?id=50077020",
+      "summary": "开发者在HN发布趣味WebAudio应用Guitoro，将普通电脑键盘按键映射为琴弦与和弦指法，实现无需外接设备的逼真吉他扫弦伴奏体验。",
+      "content": "HN Score: 209, Comments: 78"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Google finally releases Gemini 4 Argon",
+      "title_zh": "谷歌正式全球发布新一代最强前沿模型Gemini 4 Argon",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "summary": "谷歌全面推送Gemini 4 Argon前沿多模态大模型，在复杂逻辑推理、机器人端到端控制以及长上下文综合分析方面实现大幅跃升。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "title_zh": "OpenAI员工涉嫌在公司高管会议室安装窃听设备被捕",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "summary": "一名OpenAI内部员工因涉嫌在旧金山总部核心高管会议室私自植入秘密录音设备而被执法部门正式逮捕并起诉。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Shopify opens its catalog up to more AI agents",
+      "title_zh": "Shopify向AI智能体全面开放商品目录与自主采购接口",
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "summary": "电商巨头Shopify推出新一代智能体商业接口，允许第三方AI Agent直接检索全平台商品目录、评估库存并在授权下执行自动化下单。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "title_zh": "Xbox官方成立实验团队探索AI驱动的经典游戏跨平台移植",
+      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "summary": "微软Xbox部门设立专项实验室，运用大模型反编译与动态代码生成技术，将老旧游戏资产与底层架构智能化重构移植至现代硬件。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Character.ai will shut down if no buyer emerges, capping a fall from $2.7 billion Google deal to bankruptcy",
+      "title_zh": "Character.ai申请破产保护：若无买家接盘将面临彻底关闭",
+      "url": "https://the-decoder.com/character-ai-will-shut-down-if-no-buyer-emerges-capping-a-fall-from-2-7-billion-google-deal-to-bankruptcy/",
+      "summary": "明星AI对话平台Character.ai正式依据美国破产法第11章申请破产保护，若短期内未达成收购协议将终止运营，昔日估值超27亿美元神话宣告落幕。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation",
+      "title_zh": "Anthropic部署防蒸馏机制将Claude思维链被盗率降低99%",
+      "url": "https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/",
+      "summary": "Anthropic针对产业级模型蒸馏攻击推出主动防御技术，通过扰动输出与思维链指纹追踪，将竞品窃取推理Token的有效性削减高达99%。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "406 scientists demand AI models be cut off from the internet immediately",
+      "title_zh": "406名顶尖科学家发表联名信呼吁立即切断前沿AI模型的直接互联网访问",
+      "url": "https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/",
+      "summary": "来自全球高校与科研机构的406位学者签署联合呼吁，警告自主前沿模型在未受严格安全隔离的情况下联网存在巨大的自主复制与失控风险。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+      "title_zh": "Google Play支持通过自然语言AI编程生成个人专属Android应用",
+      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+      "summary": "谷歌Play商店上线全新个人专属构建功能，普通用户可借助自然语言交互由AI自动生成并在安卓手机上安全运行个性化定制小程序。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "title_zh": "运通发布AI智能体支付安全框架以防止未授权资金交易",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "summary": "美国运通推出面向自主AI代理的资金安全凭据体系，结合动态额度批准与双向生物识别认证，严防智能体在自主交易中产生非预期消费。",
+      "content": ""
+    }
+  ]
+}
