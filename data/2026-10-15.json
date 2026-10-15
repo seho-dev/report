@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-15",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "morluto/rea",
+      "title_zh": "REA全能逆向智能体框架",
+      "url": "https://github.com/morluto/rea",
+      "summary": "基于智能体自动化逆向工程任意程序，涵盖应用行为分析乃至固件深度逆向。",
+      "content": "Reverse engineer anything with agents, from app behavior down to firmware",
+      "stars": "241118"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "debpalash/VoiceStudio",
+      "title_zh": "VoiceStudio本地语音克隆与TTS工作室",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "开源完全本地运行的ElevenLabs替代方案，支持高保真文本转语音与极速声音克隆。",
+      "content": "VoiceStudio is the open-source, fully-local ElevenLabs alternative. Realistic text-to-speech with voice cloning.",
+      "stars": "66274"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "mksglu/context-mode",
+      "title_zh": "Context-Mode智能体上下文窗口优化器",
+      "url": "https://github.com/mksglu/context-mode",
+      "summary": "针对AI编程智能体的上下文窗口优化工具，通过沙盒隔离上下文减少80%的Token浪费。",
+      "content": "Context window optimization for AI coding agents. Sandboxes context and reduces token waste by 80%.",
+      "stars": "29096"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "nvm-sh/nvm",
+      "title_zh": "NVM多版本Node管理脚本",
+      "url": "https://github.com/nvm-sh/nvm",
+      "summary": "符合POSIX标准的Bash脚本工具，便于在系统中轻松管理和无缝切换多个Node.js版本。",
+      "content": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "stars": "95446"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "title_zh": "Scientific-Agent-Skills科研智能体技能库",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "summary": "专为研究人员打造的智能体技能库，帮助普通AI智能体转化为具备自主科研能力的AI科学家。",
+      "content": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for researchers.",
+      "stars": "49308"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "HKUDS/CLI-Anything",
+      "title_zh": "CLI-Anything软件命令行智能体原生化框架",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "香港大学数据智能实验室开源框架，将1000多种常用软件工具封装为面向AI智能体的CLI接口。",
+      "content": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: 1,000+ software tools wrapped as CLIs for AI Agents",
+      "stars": "52471"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "ifixai-ai/iFixAi",
+      "title_zh": "iFixAi独立智能体审计框架",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "summary": "用于独立审计与验证AI智能体的开源工具，支持人工或智能体自测发现行为与对齐缺陷。",
+      "content": "Independent Auditing of AI Agents. Run by human or the agent itself to find alignment bugs.",
+      "stars": "27361"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "vxcontrol/pentagi",
+      "title_zh": "PentaGI全自主AI渗透测试系统",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "summary": "全自主AI智能体渗透测试平台，能够自动化端到端执行复杂的红蓝对抗与网络安全攻防任务。",
+      "content": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks.",
+      "stars": "29410"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "rust-lang/rust",
+      "title_zh": "Rust系统级编程语言官方仓库",
+      "url": "https://github.com/rust-lang/rust",
+      "summary": "专注于内存安全、并发性能与零成本抽象的现代系统级通用编程语言官方源码仓库。",
+      "content": "Empowering everyone to build reliable and efficient software.",
+      "stars": "120011"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "xtool-org/xtool",
+      "title_zh": "XTool跨平台iOS开发与打包工具",
+      "url": "https://github.com/xtool-org/xtool",
+      "summary": "跨平台Xcode替代方案，支持在Linux和Windows环境下构建与部署iOS应用，摆脱macOS依赖。",
+      "content": "Cross-platform Xcode replacement. Build and deploy iOS apps from Linux and Windows without macOS.",
+      "stars": "10773"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "How Amazon pushes up prices all across the Internet",
+      "title_zh": "亚马逊如何推高整个互联网的商品价格",
+      "url": "https://news.ycombinator.com/item?id=50084757",
+      "summary": "深入调查揭示亚马逊通过价格平价协议和反折扣算法迫使第三方卖家提高全网售价，抑制市场竞争。",
+      "content": "HN Score: 694, Comments: 588"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+      "title_zh": "Iosevka开源等宽编程字体新版发布",
+      "url": "https://news.ycombinator.com/item?id=50084240",
+      "summary": "广受欢迎的高定制开源等宽字体系列，专为代码编写与终端界面设计，提供无衬线与粗衬线风格。",
+      "content": "HN Score: 693, Comments: 286"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Passkeys are not a trap",
+      "title_zh": "通行密钥Passkeys不是供应商锁定陷阱",
+      "url": "https://news.ycombinator.com/item?id=50088935",
+      "summary": "安全工程师深度剖析Passkeys标准规范与导出协议演进，驳斥生态锁定论调并肯定其对无密码登录的价值。",
+      "content": "HN Score: 431, Comments: 606"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Google is silently linking your phone number across all signed-in accounts",
+      "title_zh": "谷歌被曝静默关联用户所有登录账户中的手机号",
+      "url": "https://news.ycombinator.com/item?id=50090349",
+      "summary": "安全隐私分析发现谷歌在多账户切换时静默交叉同步并关联用户手机号码，引发个人隐私泄露质疑。",
+      "content": "HN Score: 348, Comments: 92"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Do dentists know what they're doing?",
+      "title_zh": "牙医真的知道自己在做什么吗：牙科循证医学审视",
+      "url": "https://news.ycombinator.com/item?id=50050553",
+      "summary": "医学社群对牙科临床治疗标准与循证医学差异展开热烈讨论，审视过度医疗与诊断主观性。",
+      "content": "HN Score: 344, Comments: 271"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "title_zh": "保加利亚Starlink地面站起火疑遭遇跨国破坏",
+      "url": "https://news.ycombinator.com/item?id=50092730",
+      "summary": "继波兰关键通信设施遭破坏后，星链位于保加利亚的地面站发生火灾，欧洲卫星基础设施安全受到广泛关注。",
+      "content": "HN Score: 263, Comments: 196"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "title_zh": "Go 1.27版本大幅优化HTTP/1连接复用机制",
+      "url": "https://news.ycombinator.com/item?id=50090369",
+      "summary": "Go语言最新网络库深入改进HTTP/1长连接复用逻辑，减少高并发场景下的握手开销与端口耗尽问题。",
+      "content": "HN Score: 186, Comments: 30"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "title_zh": "Pg_vectorsearch：性能超越IVFFlat与HNSW的Postgres向量索引",
+      "url": "https://news.ycombinator.com/item?id=50086165",
+      "summary": "新型PostgreSQL向量检索插件，在多维向量相似度检索性能上显著超越主流pgvector索引结构。",
+      "content": "HN Score: 184, Comments: 47"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Phloem: Git history grown like a slime mold",
+      "title_zh": "Phloem：模拟黏菌生长机制的Git分支历史可视化工具",
+      "url": "https://news.ycombinator.com/item?id=50054465",
+      "summary": "采用仿生学算法将复杂的Git提交图与分支网络可视化为有机黏菌网络，带来全新代码演进视角。",
+      "content": "HN Score: 75, Comments: 19"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Google says self-improving AI isn't anywhere close",
+      "title_zh": "谷歌发布前沿研究称自主自我迭代进化AI短期内无法实现",
+      "url": "https://the-decoder.com/google-says-self-improving-ai-isnt-anywhere-close/",
+      "summary": "谷歌研究团队撰文指出，当前模型缺乏闭环认知验证环境，自我改进AI在技术理论与算力上限上仍存在遥远鸿沟。",
+      "content": "Google says self-improving AI isn't anywhere close"
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it",
+      "title_zh": "安全研究人员成功定位并对话网络野生失控智能体集群",
+      "url": "https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/",
+      "summary": "网络安全专家在公网捕获并渗透一套自动化巡航的野化AI智能体网络，首次实现与失控自运行智能体集群实时沟通。",
+      "content": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it"
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn't safe for kids",
+      "title_zh": "美国八州联合起诉OpenAI指控ChatGPT未成年人保护不力",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "summary": "美国八个州总检察长联手对OpenAI提起诉讼，指责ChatGPT在心理健康诱导和青少年内容过滤机制上存在严重安全漏洞。",
+      "content": "Eight states sue OpenAI, saying ChatGPT isn't safe for kids"
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs",
+      "title_zh": "英伟达黄仁勋承诺在欧洲投资20亿美元并向英国AI安全实验室捐赠2.5亿算力",
+      "url": "https://the-decoder.com/nvidias-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs/",
+      "summary": "黄仁勋在欧洲科技峰会上宣布巨额主权AI基础设施投资方案，重点扶持泛欧算力生态与前沿安全对齐评测。",
+      "content": "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs"
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "title_zh": "麦肯锡在求职面试中引入高拟真AI模拟客户进行实战对抗",
+      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "summary": "全球顶级咨询公司麦肯锡全面改版招聘流程，让候选人与性格刁钻的生成式AI虚拟客户实时对垒以评估应变能力。",
+      "content": "McKinsey is making job applicants spar with a fake AI client"
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "YouTube sticks new labels on AI-generated songs",
+      "title_zh": "YouTube全面上线AI生成音乐强制合规标签",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+      "summary": "YouTube针对流媒体中激增的AI合成音乐实施全链路标识规范，保护原创音乐版权并规范AI音频分发。",
+      "content": "YouTube sticks new labels on AI-generated songs"
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "title_zh": "Apate部署卧底AI智能体主动入局被骗以收集黑产情报",
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "summary": "网络安全创新公司Apate利用高仿真AI智能体扮演受害者故意陷入电信诈骗链路，实时瓦解跨国诈骗团伙话术与支付渠道。",
+      "content": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence"
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "title_zh": "微软推出全新机器学习气象模型显著提升极端天气预报精度",
+      "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "summary": "微软发布新一代气象预测AI架构，相比传统动力学数值气象预报模型提速百倍且预警准确率大幅跃升。",
+      "content": "Microsoft has a new machine learning tool to improve weather forecasts"
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "title_zh": "职场AI即时通讯应用Zenzap获4400万美元融资挑战WhatsApp",
+      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "summary": "企业级AI通信平台Zenzap完成新一轮巨额融资，旨在通过深度集成的多智能体协同助手彻底替代企业微信与WhatsApp。",
+      "content": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace"
+    }
+  ]
+}
