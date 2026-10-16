@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-16",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "morluto/rea",
+      "title_zh": "REA智能体全能逆向工程框架",
+      "url": "https://github.com/morluto/rea",
+      "summary": "基于智能体自动化逆向工程任意程序，涵盖应用行为分析、协议逆向乃至原生二进制深度反编译。",
+      "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": "269441"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "anthropics/claude-plugins-official",
+      "title_zh": "Anthropic官方Claude Code插件目录",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "summary": "由Anthropic官方维护的高质量Claude Code编码助手插件与工具扩展集合。",
+      "content": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": "39058"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "title_zh": "科学研究智能体技能库",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "summary": "将任意AI智能体转化为AI科学家的顶尖科研技能库，覆盖前沿科学计算、数据推演与论文分析。",
+      "content": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": "50444"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "JuliusBrussee/caveman",
+      "title_zh": "Caveman编程智能体极简提示词代理",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "summary": "通过极度精简的提示词与代理机制大幅削减编码智能体的Token消耗与上下文开销。",
+      "content": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": "112522"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "debpalash/VoiceStudio",
+      "title_zh": "VoiceStudio开源本地语音克隆工作台",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "全开源、完全本地运行的ElevenLabs替代方案，支持极速声音克隆与多语种高保真语音合成。",
+      "content": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "69033"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "obra/superpowers",
+      "title_zh": "Superpowers智能体技能开发框架",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一套行之有效的智能体技能开发框架与软件工程方法论，为编码智能体注入超级工程能力。",
+      "content": "An agentic skills framework & software development methodology that works.",
+      "stars": "299870"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "ruvnet/ruflo",
+      "title_zh": "Ruflo分布式多智能体集群调度框架",
+      "url": "https://github.com/ruvnet/ruflo",
+      "summary": "元老级智能体运行框架，支持部署智能多玩家蜂群，高效协同多模型与并发工作流。",
+      "content": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": "75101"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "mksglu/context-mode",
+      "title_zh": "Context-Mode编程智能体上下文窗口优化工具",
+      "url": "https://github.com/mksglu/context-mode",
+      "summary": "面向AI编码智能体的上下文优化利器，通过工具输出沙箱化实现高达98%的上下文占用缩减。",
+      "content": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": "29785"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "NationalSecurityAgency/ghidra",
+      "title_zh": "NSA Ghidra软件逆向分析套件",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "summary": "美国国家安全局开源的强大软件逆向工程框架，提供反汇编、反编译与深度二进制分析能力。",
+      "content": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": "88719"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "affaan-m/ECC",
+      "title_zh": "ECC智能体运行时性能优化系统",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "全套智能体性能调优方案，整合技能模块、直觉反应机制、长短期记忆与安全约束组件。",
+      "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "280349"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Things to know when you get cancer",
+      "title_zh": "确诊癌症后需要了解的关键指南",
+      "url": "https://news.ycombinator.com/item?id=50093568",
+      "summary": "一位患者在确诊癌症后撰写的心路历程与实用医疗应对指南，涵盖心态调整、就医抉择与生活照护。",
+      "content": "HN Score: 1850, Comments: 442"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "title_zh": "采用拟物化设计的Linux Wayland桌面环境",
+      "url": "https://news.ycombinator.com/item?id=50103338",
+      "summary": "开发者为Linux Wayland打造的复古拟物化风格桌面，重现经典质感界面并保持轻量流畅。",
+      "content": "HN Score: 471, Comments: 190"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "title_zh": "AdFection漏洞分析：定向广告沦为零点击雇佣间谍软件入侵渠道",
+      "url": "https://news.ycombinator.com/item?id=50101813",
+      "summary": "公民实验室深入调查报告，揭示广告定位网络被利用成为向特定目标精准投放零点击间谍软件的投递渠道。",
+      "content": "HN Score: 364, Comments: 531"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "title_zh": "原本只想下载系统镜像，最后却写出了内核漏洞利用代码",
+      "url": "https://news.ycombinator.com/item?id=50070625",
+      "summary": "安全研究员讲述在尝试下载路由器固件镜像时意外发现系统底层漏洞并完成全链条内核提权的逆向全过程。",
+      "content": "HN Score: 344, Comments: 169"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "I know why the mathematicians weep",
+      "title_zh": "我理解数学家们为何而悲鸣",
+      "url": "https://news.ycombinator.com/item?id=50103630",
+      "summary": "Derek Thompson撰文探讨AI推理模型在纯数学前沿领域的爆发式突破，以及对传统数学家研究范式与职业认同带来的深远冲击。",
+      "content": "HN Score: 334, Comments: 544"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Steam Client is now faster than Epic's new vibe coded launcher",
+      "title_zh": "Steam客户端性能实测已超越Epic采用AI辅助重构的新启动器",
+      "url": "https://news.ycombinator.com/item?id=50105635",
+      "summary": "基准测试显示Valve持续打磨的原生Steam客户端在启动速度和内存开销上均大幅超越Epic使用AI代码生成的新版启动器。",
+      "content": "HN Score: 269, Comments: 270"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "title_zh": "开源固件Libreboot 26.10发布：正式支持UEFI与Chromebook设备",
+      "url": "https://news.ycombinator.com/item?id=50102923",
+      "summary": "知名开源固件项目Libreboot推出代号“不祥之橄榄”的大版本更新，引入现代化UEFI引导支持并扩展多款Chromebook兼容性。",
+      "content": "HN Score: 249, Comments: 144"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Celebrating 70 Years of Fortran",
+      "title_zh": "庆祝科学计算先驱语言Fortran诞生70周年",
+      "url": "https://news.ycombinator.com/item?id=50104726",
+      "summary": "计算机科学界回顾Fortran语言70年演进史，探讨其在现代超级计算和数值模拟领域依然不可替代的性能优势与生命力。",
+      "content": "HN Score: 204, Comments: 93"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "What I Self-Host",
+      "title_zh": "一位资深开发者的家庭私有化自建服务清单与架构心得",
+      "url": "https://news.ycombinator.com/item?id=50109715",
+      "summary": "博主系统盘点了自己多年运行的家庭服务器架构，详细分享了包括文件同步、智能家居和自托管媒体库在内的实用服务配置。",
+      "content": "HN Score: 192, Comments: 100"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race",
+      "title_zh": "Meta发布Muse Spark Open开源模型，全面迎战Qwen、GLM与Kimi",
+      "url": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/",
+      "summary": "Meta正式推出参数量达8160亿的原生多模态开源权重模型Muse Spark Open，旨在全球开源大模型竞赛中夺回主导权。",
+      "content": "Meta's Muse Spark Open is a new open-weight model with 816 billion parameters that processes text, images, and audio natively."
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM",
+      "title_zh": "Black Forest Labs发布开源生图模型FLUX 3 Klein：仅需8GB显存即可在消费级显卡流畅运行",
+      "url": "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/",
+      "summary": "开源图像生成先锋团队发布56亿参数的轻量级模型FLUX 3 Image Klein，将前沿生图门槛降低至普及型消费级显卡。",
+      "content": "Black Forest Labs has released FLUX 3 Image Klein, a 5.6-billion-parameter open-weights image model that runs efficiently on consumer GPUs with 8 GB of VRAM."
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
+      "title_zh": "谷歌发布Gemini 4 Argon全能机器人模型：单模型统一环境感知、仿真与实体控制",
+      "url": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/",
+      "summary": "谷歌推出全新具身智能基础模型Gemini 4 Argon，可直接根据草图或照片实时生成物理仿真环境并精确控制实体机器人完成复杂操作。",
+      "content": "Google announces Gemini 4 Argon, an all-in-one multimodal model designed for robotics control, environment simulation from sketches, and live manipulation."
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
+      "title_zh": "英伟达推出Nemotron 3.5 Super VL开源模型：专为企业级全天候长周期智能体打造",
+      "url": "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/",
+      "summary": "英伟达发布1200亿参数的开源多模态模型，深度优化长程推理与工具调用延迟，专为企业级复杂自动化任务提供全天候持续运行支持。",
+      "content": "Nvidia releases Nemotron 3.5 Super VL, a 120-billion-parameter open multimodal model optimized for continuous autonomous enterprise agent workflows."
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models",
+      "title_zh": "美国银行调动4000人修复Anthropic Mythos等AI模型扫出的底层代码漏洞",
+      "url": "https://the-decoder.com/bank-of-america-puts-4000-people-on-fixing-vulnerabilities-uncovered-by-anthropics-mythos-and-other-ai-models/",
+      "summary": "金融巨头紧急动员数千名工程师与外部承包商，针对前沿AI大模型自主深度挖掘出的大量遗留系统安全隐患展开地毯式修复。",
+      "content": "Bank of America mobilizes 4,000 engineers and contractors to remediate enterprise code vulnerabilities uncovered by Anthropic Mythos and next-gen AI inspection tools."
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "GPT-6-Astra solves 49 of 50 physics research problems at .40 apiece",
+      "title_zh": "GPT-6-Astra成功解出50道前沿物理未解难题中的49道，单题计算成本仅需2.4美元",
+      "url": "https://the-decoder.com/gpt-6-astra-solves-49-of-50-physics-research-problems-at-2-40-apiece/",
+      "summary": "在严苛的理论物理新基准测试TheoPhysEval中，GPT-6-Astra展现出惊人的科学推理与数学推演效率，远超人类专家平均解题速度。",
+      "content": "On the TheoPhysEval benchmark, GPT-6-Astra successfully solves 49 out of 50 unpublished theoretical physics research problems with exceptional compute efficiency."
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "title_zh": "OpenAI ChatGPT桌面客户端新增Chrome浏览器标签页深度感知功能",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "summary": "ChatGPT现可直接读取用户在Google Chrome浏览器中打开的活动标签页，无需手动复制粘贴即可针对正在浏览的网页进行实时问答与分析。",
+      "content": "OpenAI rolls out deeper Google Chrome browser tab integration, allowing ChatGPT desktop app to directly read active web tabs with user permission."
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "title_zh": "Anthropic向AI安全评估机构METR开放员工级核心模型内部访问权限",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "summary": "Anthropic开创行业安全先河，授予外部第三方评测机构内部员工级别权限，以便对前沿大模型进行无死角的风险评估与对齐审计。",
+      "content": "Anthropic grants METR safety evaluators unprecedented internal employee-level access to audit frontier model training and safety evaluations."
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "AI agents are coming to Rivian’s cars",
+      "title_zh": "Rivian宣布将为旗下电动汽车全面引入定制化多模态AI智能体",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "summary": "电动车制造商Rivian公布下一代座舱交互路线图，将原生集成定制AI智能体，覆盖动态全景路线规划、车辆实时故障自诊与全域语音交互。",
+      "content": "Rivian announces plans to embed custom multimodal AI agents into its electric vehicle platform for navigation, vehicle diagnostics, and cabin intelligence."
+    }
+  ]
+}
