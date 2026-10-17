@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-17",
+  "reports": [
+    {
+      "id": "gh-1",
+      "title": "d3/d3",
+      "title_zh": "D3",
+      "url": "https://github.com/d3/d3",
+      "summary": "通过 SVG、Canvas 和 HTML 将数据生动化呈现。",
+      "content": "Bring data to life with SVG, Canvas and HTML.",
+      "stars": "113761"
+    },
+    {
+      "id": "gh-2",
+      "title": "sansan0/TrendRadar",
+      "title_zh": "趋势雷达",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "summary": "AI 驱动的舆情与趋势监测工具，聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "content": "AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts. 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！🎯 集合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "stars": "62957"
+    },
+    {
+      "id": "gh-3",
+      "title": "projectdiscovery/nuclei",
+      "title_zh": "核子",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "summary": "Nuclei 是一个快速、可定制的漏洞扫描器，由全球安全社区驱动，基于简单的 YAML 语法，使你能够协作处理互联网上的 trending 漏洞。它帮助你在应用、API、网络、DNS 和云配置中查找 trending 漏洞。",
+      "content": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "stars": "32072"
+    },
+    {
+      "id": "gh-4",
+      "title": "AnalogJ/scrutiny",
+      "title_zh": "审查",
+      "url": "https://github.com/AnalogJ/scrutiny",
+      "summary": "硬盘 S.M.A.R.T 监控、历史趋势与实际故障阈值",
+      "content": "Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds",
+      "stars": "8342"
+    },
+    {
+      "id": "gh-5",
+      "title": "dropwizard/metrics",
+      "title_zh": "指标",
+      "url": "https://github.com/dropwizard/metrics",
+      "summary": "捕获 JVM 和应用级别的指标，让你了解正在发生的事情。",
+      "content": ":chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.",
+      "stars": "7844"
+    },
+    {
+      "id": "hn-1",
+      "title": "Tesla Roadster",
+      "title_zh": "特斯拉敞篷跑车",
+      "url": "https://www.tesla.com/roadster",
+      "summary": "HN Score: 1118, Comments: 2027",
+      "content": "HN Score: 1118, Comments: 2027",
+      "stars": ""
+    },
+    {
+      "id": "ai-1",
+      "title": "mlabonne/llm-course",
+      "title_zh": "大语言模型课程",
+      "url": "https://github.com/mlabonne/llm-course",
+      "summary": "掌握大型语言模型（LLMs）的课程，包含路线图和Colab笔记本。",
+      "content": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+      "stars": "83642"
+    }
+  ]
+}
