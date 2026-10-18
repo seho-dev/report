@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-18",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "d3/d3",
+      "title_zh": "使用SVG、Canvas和HTML使数据栩栩如生。: BAR_CHART:: CHART_WITH_UPWARDS_TREND:: TADA:",
+      "url": "https://github.com/d3/d3",
+      "summary": "使用SVG、Canvas和HTML使数据栩栩如生。: BAR_CHART:: CHART_WITH_UPWARDS_TREND:: TADA:",
+      "content": "Language: Shell, Stars: 113767, Topics: chart, charts, d3, data-visualization, svg, visualization"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "sansan0/TrendRadar",
+      "title_zh": "⭐人工智能驱动的舆论和趋势监控，提供多平台聚合、RSS和智能警报。你的AI🎯 告别信息过载，聚合多平台热点 + 舆情监控助手与热点筛选工具RSS 订阅，支持关键词精准筛选。 AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "summary": "⭐人工智能驱动的舆论和趋势监控，提供多平台聚合、RSS和智能警报。你的AI🎯 告别信息过载，聚合多平台热点 + 舆情监控助手与热点筛选工具RSS 订阅，支持关键词精准筛选。 AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "content": "Language: Python, Stars: 62986, Topics: ai, bark, data-analysis, docker, hot-news, llm, mail, mcp, mcp-server, news, ntfy, python, rss, trending-topics, wechat, wework"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "projectdiscovery/nuclei",
+      "title_zh": "Nuclei是一款快速、可定制的漏洞扫描器，由全球安全社区提供支持，构建在一个简单的基于YAML的DSL之上，使协作能够解决互联网上的流行漏洞。它可帮助您查找应用程序、API、网络、DNS和云配置中的漏洞。",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "summary": "Nuclei是一款快速、可定制的漏洞扫描器，由全球安全社区提供支持，构建在一个简单的基于YAML的DSL之上，使协作能够解决互联网上的流行漏洞。它可帮助您查找应用程序、API、网络、DNS和云配置中的漏洞。",
+      "content": "Language: Go, Stars: 32088, Topics: attack-surface, cve-scanner, dast, hacktoberfest, nuclei-engine, security, security-scanner, subdomain-takeover, vulnerability-assessment, vulnerability-detection, vulnerability-scanner"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "AnalogJ/scrutiny",
+      "title_zh": "硬盘S.M.A.R.T监控、历史趋势和真实世界故障阈值",
+      "url": "https://github.com/AnalogJ/scrutiny",
+      "summary": "硬盘S.M.A.R.T监控、历史趋势和真实世界故障阈值",
+      "content": "Language: Go, Stars: 8343, Topics: "
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "dropwizard/metrics",
+      "title_zh": ": chart_with_upwards_trend ：捕获JVM和应用程序级别的指标。所以你知道发生了什么。",
+      "url": "https://github.com/dropwizard/metrics",
+      "summary": ": chart_with_upwards_trend ：捕获JVM和应用程序级别的指标。所以你知道发生了什么。",
+      "content": "Language: Java, Stars: 7845, Topics: dropwizard-metrics, java, metrics, metrics-library"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "davidteather/TikTok-Api",
+      "title_zh": "Python中的非官方TikTok API包装器",
+      "url": "https://github.com/davidteather/TikTok-Api",
+      "summary": "Python中的非官方TikTok API包装器",
+      "content": "Language: Python, Stars: 6695, Topics: api, download-tiktoks, hacktoberfest, python, tik, tiktok, tiktok-api, tiktok-automation, tiktok-compilations, tiktok-downloader, tiktok-python, tiktok-scraper, tiktok-signature, tiktok-trending-page, tiktokapi, tok, trending"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "facebookresearch/Kats",
+      "title_zh": "KATS是一个分析时间序列数据的工具包，是一个轻量级、易于使用、可通用和可扩展的框架，用于执行时间序列分析，从了解关键统计数据和特征、检测变化点和异常到预测未来趋势。",
+      "url": "https://github.com/facebookresearch/Kats",
+      "summary": "KATS是一个分析时间序列数据的工具包，是一个轻量级、易于使用、可通用和可扩展的框架，用于执行时间序列分析，从了解关键统计数据和特征、检测变化点和异常到预测未来趋势。",
+      "content": "Language: Python, Stars: 6501, Topics: "
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "aalhour/C-Sharp-Algorithms",
+      "title_zh": ": books:: chart_with_upwards_trend: C #中标准数据结构和算法的即插即用类库项目",
+      "url": "https://github.com/aalhour/C-Sharp-Algorithms",
+      "summary": ": books:: chart_with_upwards_trend: C #中标准数据结构和算法的即插即用类库项目",
+      "content": "Language: C#, Stars: 6167, Topics: algorithms, binary-trees, csharp, data-structures, graph, graph-algorithms, hashing, hashing-algorithms, heaps, queues, searching, searching-algorithms, sorting, sorting-algorithms, tree, tree-algorithms"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "drawrowfly/tiktok-scraper",
+      "title_zh": "TikTok Scraper。下载视频帖子，收集用户/趋势/主题标签/音乐源元数据，标志URL等。",
+      "url": "https://github.com/drawrowfly/tiktok-scraper",
+      "summary": "TikTok Scraper。下载视频帖子，收集用户/趋势/主题标签/音乐源元数据，标志URL等。",
+      "content": "Language: TypeScript, Stars: 5220, Topics: "
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "QasimWani/LeetHub",
+      "title_zh": "自动将您的leetcode解决方案同步到您的github帐户-前5大热门GitHub存储库",
+      "url": "https://github.com/QasimWani/LeetHub",
+      "summary": "自动将您的leetcode解决方案同步到您的github帐户-前5大热门GitHub存储库",
+      "content": "Language: JavaScript, Stars: 4360, Topics: chrome, chrome-extension, coding-interviews, github, github-api, javascript, leetcode, leethub, portfolio"
+    },
+    {
+      "id": "hn-16582136",
+      "type": "hn",
+      "title": "Stephen Hawking has died",
+      "title_zh": "斯蒂芬·霍金去世",
+      "url": "http://www.bbc.com/news/uk-43396008",
+      "summary": "斯蒂芬·霍金去世",
+      "content": "HN Score: 6015, Comments: 436"
+    },
+    {
+      "id": "hn-11116274",
+      "type": "hn",
+      "title": "A Message to Our Customers",
+      "title_zh": "致客户的信息",
+      "url": "http://www.apple.com/customer-letter/",
+      "summary": "致客户的信息",
+      "content": "HN Score: 5771, Comments: 967"
+    },
+    {
+      "id": "hn-38309611",
+      "type": "hn",
+      "title": "OpenAI's board has fired Sam Altman",
+      "title_zh": "OpenAI董事会解雇了Sam Altman",
+      "url": "https://openai.com/blog/openai-announces-leadership-transition",
+      "summary": "OpenAI董事会解雇了Sam Altman",
+      "content": "HN Score: 5710, Comments: 2530"
+    },
+    {
+      "id": "hn-39865810",
+      "type": "hn",
+      "title": "Backdoor in upstream xz/liblzma leading to SSH server compromise",
+      "title_zh": "上游xz/liblzma中的后门导致SSH服务器受损",
+      "url": "https://www.openwall.com/lists/oss-security/2024/03/29/4",
+      "summary": "上游xz/liblzma中的后门导致SSH服务器受损",
+      "content": "HN Score: 4549, Comments: 1849"
+    },
+    {
+      "id": "hn-41002195",
+      "type": "hn",
+      "title": "CrowdStrike Update: Windows Bluescreen and Boot Loops",
+      "title_zh": "CrowdStrike更新： Windows蓝屏和启动循环",
+      "url": "https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/",
+      "summary": "CrowdStrike更新： Windows蓝屏和启动循环",
+      "content": "HN Score: 4489, Comments: 3859"
+    },
+    {
+      "id": "hn-3078128",
+      "type": "hn",
+      "title": "Steve Jobs has passed away.",
+      "title_zh": "史蒂夫·乔布斯去世了。",
+      "url": "http://www.apple.com/stevejobs/",
+      "summary": "史蒂夫·乔布斯去世了。",
+      "content": "HN Score: 4338, Comments: 363"
+    },
+    {
+      "id": "hn-37011324",
+      "type": "hn",
+      "title": "Bram Moolenaar has died",
+      "title_zh": "Bram Moolenaar去世了",
+      "url": "https://groups.google.com/g/vim_announce/c/tWahca9zkt4",
+      "summary": "Bram Moolenaar去世了",
+      "content": "HN Score: 4310, Comments: 428"
+    },
+    {
+      "id": "hn-31261533",
+      "type": "hn",
+      "title": "Mechanical Watch",
+      "title_zh": "机械腕表",
+      "url": "https://ciechanow.ski/mechanical-watch/",
+      "summary": "机械腕表",
+      "content": "HN Score: 4298, Comments: 413"
+    },
+    {
+      "id": "hn-24872911",
+      "type": "hn",
+      "title": "YouTube-dl has received a DMCA takedown from RIAA",
+      "title_zh": "YouTube-dl已收到RIAA的数字千年版权法案（ DMCA ）删除",
+      "url": "https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md",
+      "summary": "YouTube-dl已收到RIAA的数字千年版权法案（ DMCA ）删除",
+      "content": "HN Score: 4240, Comments: 1443"
+    },
+    {
+      "id": "hn-47340079",
+      "type": "hn",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "title_zh": "请勿发布生成/AI编辑的评论。HN用于人与人之间的对话",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "summary": "请勿发布生成/AI编辑的评论。HN用于人与人之间的对话",
+      "content": "HN Score: 4229, Comments: 1668"
+    }
+  ]
+}
