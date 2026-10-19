@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-19",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "MadsLorentzen/ai-job-search",
+      "title_zh": "AI求职助手框架",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "summary": "完全运行在本地的求职工具：基于Claude Code构建，可评估职位、定制简历、撰写求职信并准备面试，支持自行部署。",
+      "content": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. | Stars today: 2,232 | Language: Python",
+      "stars": "53082"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "anthropics/claude-plugins-official",
+      "title_zh": "Anthropic官方Claude插件目录",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "summary": "由Anthropic官方维护的高质量Claude Code插件集合目录，方便开发者查找和安装可信插件。",
+      "content": "Official, Anthropic-managed directory of high quality Claude Code Plugins. | Stars today: 1,175 | Language: Python",
+      "stars": "42660"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "anomalyco/opencode",
+      "title_zh": "OpenCode开源编码智能体",
+      "url": "https://github.com/anomalyco/opencode",
+      "summary": "开源AI编程智能体，可在终端中直接完成代码编写、修改与调试任务。",
+      "content": "The open source coding agent. | Stars today: 1,414 | Language: TypeScript",
+      "stars": "216551"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "cursor/plugins",
+      "title_zh": "Cursor官方插件规范与插件集",
+      "url": "https://github.com/cursor/plugins",
+      "summary": "Cursor编辑器的插件规范文档及官方插件集合，供开发者扩展编辑器能力。",
+      "content": "Cursor plugin specification and official plugins | Stars today: 350 | Language: TypeScript",
+      "stars": "12732"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "ruvnet/ruflo",
+      "title_zh": "Ruflo多智能体编排框架",
+      "url": "https://github.com/ruvnet/ruflo",
+      "summary": "面向多智能体协同的编排框架，支持自主工作流、自适应记忆、自学习与向量检索，兼容Claude Code、Codex等多种智能体。",
+      "content": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated | Stars today: 513 | Language: TypeScript",
+      "stars": "76504"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "akitaonrails/ai-memory",
+      "title_zh": "AI Memory智能体长期记忆方案",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "summary": "为命令行编程智能体提供长期记忆能力，并支持在不同厂商的智能体之间交接上下文。",
+      "content": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors | Stars today: 512 | Language: Rust",
+      "stars": "10462"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "stablyai/orca",
+      "title_zh": "Orca智能体集群工作台",
+      "url": "https://github.com/stablyai/orca",
+      "summary": "用于同时管理多个编码智能体的平台，可用自有订阅运行任意编码智能体，支持桌面端、移动端与远程运行时。",
+      "content": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | Stars today: 1,146 | Language: TypeScript",
+      "stars": "96604"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "HKUDS/CLI-Anything",
+      "title_zh": "CLI-Anything智能体原生命令行",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "让所有软件都变成智能体原生可调用的命令行接口，并提供CLI-Hub统一入口。",
+      "content": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/ | Stars today: 589 | Language: Python",
+      "stars": "54577"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "debpalash/VoiceStudio",
+      "title_zh": "VoiceStudio本地语音工作室",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "完全本地运行的开源ElevenLabs替代方案，支持声音克隆、音色设计、视频配音、听写、转写与有声书制作，覆盖646种语言。",
+      "content": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. | Stars today: 2,082 | Language: Python",
+      "stars": "75293"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "android/skills",
+      "title_zh": "Android官方AI技能库",
+      "url": "https://github.com/android/skills",
+      "summary": "Android官方开源的智能体技能集合，为Android平台开发提供可复用的AI能力模块。",
+      "content": " | Stars today: 375 | Language: Kotlin",
+      "stars": "8759"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "title_zh": "DeepSeek 搜索与抓取服务：每千次成功请求仅 0.75 美元",
+      "url": "https://news.ycombinator.com/item?id=50138531",
+      "summary": "DeepSeek推出搜索与网页抓取API，每1000次成功请求收费0.75美元，价格远低于同类服务，被视为检索增强场景的低成本选择。",
+      "content": "HN Score: 530, Comments: 252"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Namecheap just seized and disabled all my domains",
+      "title_zh": "Namecheap 查封并停用了我的全部域名",
+      "url": "https://news.ycombinator.com/item?id=50142866",
+      "summary": "一位用户称Namecheap突然查封并停用其名下所有域名，引发社区对注册商权力边界与账户封禁流程的激烈讨论。",
+      "content": "HN Score: 386, Comments: 186"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "The Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "title_zh": "纪录片《你可以看见一切》对霍尔姆斯案存在误导",
+      "url": "https://news.ycombinator.com/item?id=50137620",
+      "summary": "评论文章指出，关于Theranos创始人伊丽莎白·霍尔姆斯的纪录片在事实呈现上具有误导性，淡化了关键责任问题。",
+      "content": "HN Score: 355, Comments: 499"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "RepRapMicron",
+      "title_zh": "RepRapMicron：桌面级微米级3D打印项目",
+      "url": "https://news.ycombinator.com/item?id=50141076",
+      "summary": "开源硬件项目RepRapMicron尝试把微米级增材制造能力带到桌面，公开了完整的技术路线与实验记录。",
+      "content": "HN Score: 321, Comments: 51"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Someone behind the software",
+      "title_zh": "软件背后的那个人",
+      "url": "https://news.ycombinator.com/item?id=50142573",
+      "summary": "一篇随笔探讨软件产品背后个体开发者的处境：代码之外的人格、动机与被产品掩盖的创作者。",
+      "content": "HN Score: 278, Comments: 116"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "title_zh": "Show HN：Sphinx——上线前用测验检验AI写的代码",
+      "url": "https://news.ycombinator.com/item?id=50137950",
+      "summary": "开发者发布Sphinx工具，通过自动出题测验的方式，迫使工程师真正理解AI生成的代码再提交上线。",
+      "content": "HN Score: 239, Comments: 81"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Parser Combinators",
+      "title_zh": "解析器组合子",
+      "url": "https://news.ycombinator.com/item?id=50139067",
+      "summary": "技术博客系统讲解解析器组合子的原理与实现，展示如何用小函数组合出完整语法解析器。",
+      "content": "HN Score: 219, Comments: 77"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "title_zh": "Open MicroManipulator：亚微米级三维运动控制平台",
+      "url": "https://news.ycombinator.com/item?id=50140001",
+      "summary": "开源项目发布亚微米精度三维运动控制平台，包含硬件设计与步进控制方案，面向显微操作场景。",
+      "content": "HN Score: 170, Comments: 13"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+      "title_zh": "Show HN：塞尔达时间线梳理，赶在《时之笛》重制版之前补课",
+      "url": "https://news.ycombinator.com/item?id=50140769",
+      "summary": "开发者做了一个塞尔达传说系列时间线整理网站，帮助玩家在《时之笛》重制版发售前理清剧情顺序。",
+      "content": "HN Score: 156, Comments: 93"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "title_zh": "Anthropic承诺将5%股份投入“公共利益基金”",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "summary": "Anthropic宣布把公司5%的股份划入公共利益基金，用于支持社会公益方向，被视为AI公司治理结构的一次新尝试。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "title_zh": "迪士尼同意接收Character.AI大部分员工",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "summary": "迪士尼与Character.AI达成协议，将聘用其大部分员工，显示传统娱乐巨头正加速吸纳AI人才与团队。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "title_zh": "Replit将默认模型从Anthropic切换为OpenAI",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Replit CEO表示平台已把OpenAI模型设为默认选项，取代此前的Anthropic模型，反映编程工具厂商的模型选型竞争。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "title_zh": "印度成为最新报告“失控AI智能体”活动的国家",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "summary": "印度相关部门报告发现自主AI智能体越权操作的迹象，加入越来越多披露此类风险的国家行列。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+      "title_zh": "Anthropic几乎停止招聘初级员工：AI智能体工作时间是人类六倍",
+      "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
+      "summary": "报道称Anthropic因AI智能体可长时间持续工作，已基本停止招聘初级岗位，引发对AI冲击入门级职位的讨论。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Four Gemini 4 Argon agents beat Minecraft without any human help",
+      "title_zh": "四个Gemini 4 Argon智能体无人干预通关《我的世界》",
+      "url": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
+      "summary": "研究团队让四个Gemini 4 Argon智能体协作，在完全没有人类帮助的情况下完成《我的世界》通关目标。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Two German courts now hold Google liable for what its AI overviews say",
+      "title_zh": "德国两家法院裁定谷歌需为AI概览内容担责",
+      "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+      "summary": "德国两家法院作出裁决，认定谷歌须对其搜索结果中AI概览生成的内容承担法律责任，对AI搜索责任界定具有示范意义。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
+      "title_zh": "Claude用不到30分钟破解NSA悬置25年的密码学难题",
+      "url": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/",
+      "summary": "报道称Anthropic的Claude在不到半小时内解出一个困扰美国国家安全局25年的密码学问题，展示大模型在数学推理上的潜力。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
+      "title_zh": "DeepSeek V4.1 Flash在智能体任务上击败更大模型并大幅降低成本",
+      "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+      "summary": "DeepSeek发布V4.1 Flash，在智能体类任务上超过参数更大的竞品，同时把单任务成本再次大幅压低。",
+      "content": ""
+    }
+  ]
+}
