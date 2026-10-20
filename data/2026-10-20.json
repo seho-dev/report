@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-20",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "MadsLorentzen/ai-job-search",
+      "title_zh": "AI本地求职申请框架",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "summary": "完全运行在本地的AI求职助手：基于Claude Code构建，可智能评估招聘需求、定制简历、生成求职信并辅助面试准备。",
+      "content": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. | Language: Python",
+      "stars": "57166"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "anomalyco/opencode",
+      "title_zh": "OpenCode开源编码智能体",
+      "url": "https://github.com/anomalyco/opencode",
+      "summary": "全开源终端AI编码智能体，可自主进行代码编写、重构与问题排查。",
+      "content": "The open source coding agent. | Stars today: 1,311 | Language: TypeScript",
+      "stars": "217782"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "akitaonrails/ai-memory",
+      "title_zh": "AI智能体长效记忆管理工具",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "summary": "为编码智能体CLI设计的长期记忆管理方案，智能筛选并向大模型提供精准的上下文。",
+      "content": "Solution for long term memory for agent coding CLIs and to feed LLMs with just the right context | Stars today: 1,691 | Language: Ruby",
+      "stars": "11321"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "Comfy-Org/ComfyUI",
+      "title_zh": "ComfyUI节点式扩散模型界面与后端",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "summary": "功能强大且模块化的扩散模型图形界面、API及后端系统，采用节点流程图交互。",
+      "content": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | Stars today: 1,223 | Language: Python",
+      "stars": "139696"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "ruvnet/ruflo",
+      "title_zh": "Ruflo多智能体集群协同部署框架",
+      "url": "https://github.com/ruvnet/ruflo",
+      "summary": "智能体协作编排框架，可在数分钟内部署具备内置协同、企业级安全与可观测推理的多AI智能体集群。",
+      "content": "The original agent harness. Deploy intelligent multi-player AI agent swarms in minutes with built-in coordination, enterprise security, and observable reasoning. | Stars today: 1,029 | Language: TypeScript",
+      "stars": "77172"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "stablyai/orca",
+      "title_zh": "Orca多编码智能体协同平台",
+      "url": "https://github.com/stablyai/orca",
+      "summary": "面向GitHub Copilot、Devin、Claude Code等多智能体集群的协同编程工作台。",
+      "content": "Orca is the place for working with a fleet of agents (e.g. GitHub Copilot, Devin, Claude Code) together to write code. | Stars today: 814 | Language: TypeScript",
+      "stars": "98237"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "headroomlabs-ai/headroom",
+      "title_zh": "Headroom极速大模型上下文压缩工具",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "summary": "在工具输出、日志、文件和RAG知识库切片送入大模型上下文窗口前进行极速无损压缩，零依赖且耗时小于1毫秒。",
+      "content": "Compress tool outputs, logs, files, and RAG chunks before they hit your LLM context window. Drop-in, zero dependencies, <1ms. | Stars today: 1,123 | Language: Rust",
+      "stars": "76231"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "withmarbleapp/os-taxonomy",
+      "title_zh": "软件与系统开源分类法目录",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "summary": "针对现代软件架构与系统的结构化开源分类标准与定义库。",
+      "content": "Open Source Taxonomy for Software and Systems | Stars today: 284 | Language: JavaScript",
+      "stars": "6105"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "Kruk2/jasna",
+      "title_zh": "Jasna视频智能画质修复工具",
+      "url": "https://github.com/Kruk2/jasna",
+      "summary": "基于深度学习的视频修复增强工具，可用于老旧或低质视频的超分辨率与降噪优化。",
+      "content": "Video restoration tool | Stars today: 498 | Language: Python",
+      "stars": "2878"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "HKUDS/CLI-Anything",
+      "title_zh": "CLI-Anything软件原生智能体化基准平台",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "香港大学推出的开源基准与适配框架，致力于将100多种常见软件转化为原生支持AI智能体调用的CLI接口。",
+      "content": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: Open CLI Agent Benchmark for 100+ Software | Stars today: 642 | Language: Python",
+      "stars": "55221"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Wine ported to OpenBSD",
+      "title_zh": "Wine成功移植至OpenBSD系统",
+      "url": "https://news.ycombinator.com/item?id=50152307",
+      "summary": "开发者将Windows兼容层Wine成功移植到以安全性著称的OpenBSD操作系统上，社区就其内存安全与驱动兼容展开热烈讨论。",
+      "content": "HN Score: 485, Comments: 162"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "It's still ok to enjoy programming",
+      "title_zh": "享受编程的乐趣依然值得坚持",
+      "url": "https://news.ycombinator.com/item?id=50134472",
+      "summary": "作者反思在AI辅助编码泛滥的当下，程序员依然有权利享受动手编写代码的纯粹创造快感与成就感。",
+      "content": "HN Score: 404, Comments: 385"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "I built a drone with only one motor [video]",
+      "title_zh": "仅用单个电机制作的自主飞行无人机视频演示",
+      "url": "https://news.ycombinator.com/item?id=50150089",
+      "summary": "硬件工程师展示其利用精巧的被动气动机械控制与单无刷电机实现受控飞行的无人机实验。",
+      "content": "HN Score: 341, Comments: 65"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Alternatives to animal testing are finally taking off",
+      "title_zh": "动物实验的替代技术终于迎来蓬勃发展",
+      "url": "https://news.ycombinator.com/item?id=50150927",
+      "summary": "基于器官芯片、类器官培育以及计算机仿真模型等新技术正逐步取代传统的医药动物实验。",
+      "content": "HN Score: 309, Comments: 92"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Starcraft: Ashfall",
+      "title_zh": "星际争霸社区自制战役模组：落灰",
+      "url": "https://news.ycombinator.com/item?id=50147233",
+      "summary": "星际争霸社区发布大型自制剧情战役《Ashfall》，为经典RTS注入全新的机制与分支战役叙事。",
+      "content": "HN Score: 277, Comments: 96"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Android apps running native on macOS",
+      "title_zh": "在macOS平台原生运行Android应用的开源项目",
+      "url": "https://news.ycombinator.com/item?id=50154624",
+      "summary": "通过ARM架构指令级直通与系统调用转换，无需传统笨重虚拟机即可在Mac上高效运行安卓应用。",
+      "content": "HN Score: 241, Comments: 114"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "title_zh": "Let's Encrypt新增两个远程探测节点以增强域名校验安全",
+      "url": "https://news.ycombinator.com/item?id=50150809",
+      "summary": "免费SSL证书颁发机构Let's Encrypt宣布部署更多多视角验证网络，有效防范BGP劫持与局部DNS投毒风险。",
+      "content": "HN Score: 238, Comments: 76"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "The reverts will continue until morale improves",
+      "title_zh": "工程文化杂谈：回滚将一直持续直到士气提升",
+      "url": "https://news.ycombinator.com/item?id=50156206",
+      "summary": "资深工程师探讨大型软件仓库中激进回滚损坏代码的必要性，以及建立严格CI准入门槛对团队心理安全感的积极影响。",
+      "content": "HN Score: 179, Comments: 30"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "title_zh": "Plex媒体服务器高危漏洞遭在野利用植入挖矿木马",
+      "url": "https://news.ycombinator.com/item?id=50152321",
+      "summary": "安全机构监测到黑客正大规模利用未修复的Plex媒体服务漏洞入侵家庭服务器，部署隐蔽加密货币挖矿程序。",
+      "content": "HN Score: 139, Comments: 65"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "title_zh": "亚马逊推出全新TorchNeuron开发工具全力向英伟达发起挑战",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "summary": "亚马逊AWS发布升级版TorchNeuron工具链，大幅降低大模型向Trainium芯片迁移的门槛，直接对抗英伟达CUDA生态垄断。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "title_zh": "AI算力提供商Nscale与Anthropic洽谈高达450亿美元算力大单",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "summary": "欧洲绿色算力基础设施商Nscale正与Anthropic推进价值450亿美元的AI算力集群部署合作谈判。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "title_zh": "黑客针对开源AI编码工具OpenCode发起攻击盗刷API额度",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "summary": "攻击者通过恶意依赖包和配置劫持手段，入侵OpenCode用户环境并盗用其Claude与OpenAI付费API额度。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "title_zh": "微软安全报告指出前沿AI智能体行为酷似内部威胁且不可盲目信任",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "summary": "微软安全团队发布前沿研究报告，警告自主AI智能体一旦获得企业内部系统访问权限，其越权与失控风险不亚于恶意的内部员工。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+      "title_zh": "AI算力巨头CoreWeave的庞大债务正引发全行业连带担忧",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "summary": "以英伟达GPU资产为抵押大举举债的CoreWeave面临偿债压力，其高杠杆运作模式引发华尔街对AI算力泡沫的警惕。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "title_zh": "白帽黑客利用AI智能体大军成功渗透多家大型制造企业系统",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "summary": "安全研究人员组建自主协同的AI黑客智能体集群，在授权渗透测试中迅速发现并攻破约翰迪尔与SharkNinja的安全防线。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Websites are closing their doors to AI agents",
+      "title_zh": "全球互联网网站纷纷升级防御机制阻挡AI自主智能体访问",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "summary": "随着自主Agent网络抓取和交互激增，各大内容网站与电商平台正紧急加筑WAF防火墙并修订服务条款以全面封禁AI Agent。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Timestral: Mistral's time-series foundation models",
+      "title_zh": "Mistral发布Timestral时序预测基础大模型",
+      "url": "https://news.ycombinator.com/item?id=50150434",
+      "summary": "开源AI先锋Mistral AI推出首个专注于时间序列分析与预测的大规模基础模型Timestral，赋能工业与金融时序场景。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "MiniMax M3.1 Flash",
+      "title_zh": "MiniMax发布M3.1 Flash极速大模型",
+      "url": "https://news.ycombinator.com/item?id=50154540",
+      "summary": "国内大模型厂商MiniMax推出轻量超高速版本M3.1 Flash，大幅优化推理延迟与上下文处理成本。",
+      "content": ""
+    }
+  ]
+}
