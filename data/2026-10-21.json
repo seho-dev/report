@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-21",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "MadsLorentzen/ai-job-search",
+      "title_zh": "AI本地智能求职申请框架",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "summary": "完全在本地设备运行的AI求职助手：基于Claude Code构建，可自动评估岗位匹配度、定制简历、撰写求职信并进行面试演练。",
+      "content": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. | Stars today: 3,861 | Language: Python",
+      "stars": "60498"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "cloudflare/security-audit-skill",
+      "title_zh": "Cloudflare安全审计智能体技能",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "Cloudflare开源的多阶段代码安全审计Agent技能库，提供经独立验证的机器可读漏洞评估与审查结果。",
+      "content": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | Stars today: 1,712 | Language: JavaScript",
+      "stars": "34139"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "stablyai/orca",
+      "title_zh": "Orca多智能体协同运行平台",
+      "url": "https://github.com/stablyai/orca",
+      "summary": "支持多智能体集群协同工作的运行环境，支持Grok Bot、Claude Code等，可在桌面、移动端及远程环境中运行自定义编码Agent。",
+      "content": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | Stars today: 1,565 | Language: TypeScript",
+      "stars": "99706"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "DietrichGebert/ponytail",
+      "title_zh": "Ponytail极简主义AI编码助手",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "让AI Agent像资深老程序员一样思考的极简工具：秉持“最好的代码是不写的代码”理念，避免过度设计与无用代码。",
+      "content": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | Stars today: 1,208 | Language: JavaScript",
+      "stars": "169603"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "Comfy-Org/ComfyUI",
+      "title_zh": "ComfyUI模块化扩散模型图形界面",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "summary": "最强大、模块化的扩散模型节点式GUI、API与后端引擎，提供极致性能的本地推理能力与高度灵活的生图工作流。",
+      "content": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. | Stars today: 1,206 | Language: Python",
+      "stars": "140733"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "ruvnet/ruflo",
+      "title_zh": "Ruflo分布式多智能体编排套件",
+      "url": "https://github.com/ruvnet/ruflo",
+      "summary": "专为构建复杂AI智能体集群设计的底层框架，支持多Agent协作、自主工作流编排、自适应记忆学习以及原生集成Claude Code与Hermes。",
+      "content": "The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated | Stars today: 684 | Language: TypeScript",
+      "stars": "77827"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "Graphify-Labs/graphify",
+      "title_zh": "Graphify代码库知识图谱构建工具",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "summary": "将任何代码库连同其文档、SQL架构、配置文件转换为可查询知识图谱的工具，基于本地AST确定性解析，无需向量数据库即可精准导航。",
+      "content": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. | Stars today: 802 | Language: Python",
+      "stars": "130210"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "anomalyco/opencode",
+      "title_zh": "OpenCode开源终端AI编码智能体",
+      "url": "https://github.com/anomalyco/opencode",
+      "summary": "全开源的命令行AI编码助手，能够深度理解项目结构并自主完成端到端代码编写、重构与漏洞修复任务。",
+      "content": "The open source coding agent. | Stars today: 1,240 | Language: TypeScript",
+      "stars": "218889"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "msitarzewski/agency-agents",
+      "title_zh": "Agency-Agents全能AI数字化机构",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "summary": "开箱即用的AI团队Agent库，涵盖前端开发专家、社区运营、创意策划与架构审查等细分角色，具备独立流程与验证交付能力。",
+      "content": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | Stars today: 562 | Language: Shell",
+      "stars": "162325"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "headroomlabs-ai/headroom",
+      "title_zh": "Headroom智能体上下文压缩中间件",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "summary": "在大模型接收前深度压缩工具输出、日志、文件和RAG知识块，为编码Agent减少20%Token消耗，JSON压缩达60%-95%且不降精度。",
+      "content": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. | Stars today: 549 | Language: Python",
+      "stars": "76740"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "EMudhra Intermediate CA Compromise",
+      "title_zh": "EMudhra数字证书中间CA机构密钥泄露事件调查",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "summary": "知名数字证书颁发机构eMudhra的中级证书颁发机构（CA）私钥发生安全泄露，引发业界对全球Web公钥信任基础设施的深度担忧。",
+      "content": "HN Score: 585, Comments: 305"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "SimCity, but with Permits",
+      "title_zh": "SimCity许可证版：真实的官僚模拟城市小游戏",
+      "url": "https://permit.petercai.com/",
+      "summary": "一款致敬模拟城市的网页独立游戏，讽刺性地引入繁杂的行政审批流程与建筑许可证限制，展示现实规划中令人抓狂的官僚成本。",
+      "content": "HN Score: 478, Comments: 256"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Apple broke an essential presentation feature of iPads",
+      "title_zh": "苹果更新意外破坏iPad关键演示功能",
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "summary": "哈佛学者发文痛批最新系统更新破坏了iPad原本极其稳定的外接屏幕独立演示视图，严重影响高校教师与演讲者的教学日常。",
+      "content": "HN Score: 471, Comments: 245"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
+      "title_zh": "Facebook主页被曝每月发布超两条外链需强制付费订阅",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "summary": "Meta开始针对公共主页测试严苛的新政策：非付费创作者每月仅限分享两条外部网站链接，引发独立开发者与媒体运营者强烈抗议。",
+      "content": "HN Score: 403, Comments: 363"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "title_zh": "MicroG：谷歌专有安卓用户空间服务的开源自由重构",
+      "url": "https://github.com/microg/GmsCore/wiki",
+      "summary": "MicroG核心组件更新，以自由开源方式完整克隆Google Play核心服务API，帮助脱离谷歌生态的隐私用户顺畅运行绝大多数安卓应用。",
+      "content": "HN Score: 377, Comments: 94"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Tsrs: A Port of TypeScript to Rust",
+      "title_zh": "Tsrs：Cloudflare将TypeScript移植至Rust的极速编译器",
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "summary": "Cloudflare技术博客披露其将TypeScript编译器完全移植至Rust的成果Tsrs，在冷启动速度与类型检查吞吐量上取得了数量级飞跃。",
+      "content": "HN Score: 335, Comments: 153"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+      "title_zh": "谷歌云欧洲区严重故障导致多家主要银行及金融服务瘫痪",
+      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "summary": "Google Cloud突发基础设施级宕机，导致汇丰、Revolut、苏格兰银行等欧洲顶级金融机构的关键在线业务与支付通道发生大规模中断。",
+      "content": "HN Score: 319, Comments: 165"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Ofcom concedes defeat in 4chan case",
+      "title_zh": "英国监管机构Ofcom在针对4chan的管辖权诉讼中承认败诉",
+      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "summary": "英国通信管理局（Ofcom）正式撤销了要求4chan遵守在线安全法监管的执法程序，因海外无管辖实体在法律管辖层面上无法强制执行。",
+      "content": "HN Score: 310, Comments: 212"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "How I got over 300 Tor exit nodes removed",
+      "title_zh": "安全研究员揭秘如何推动下线300多个Tor恶意出口节点",
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "summary": "网络安全从业者详述通过长周期流量分析识别暗中篡改流量、注入恶意代码的黑客出口中继节点，并协同Tor目录授权机构成功将其清退的过程。",
+      "content": "HN Score: 304, Comments: 74"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations",
+      "title_zh": "ElevenLabs发布两款专为实时AI对话设计的端到端语音大模型",
+      "url": "https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations/",
+      "summary": "ElevenLabs推出两款次世代Speech-to-Speech语音转换模型，实现超低延迟的自然语音双向对话，彻底摆脱传统TTS拼接生硬感。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model",
+      "title_zh": "DeepSeek开源DeepInfer超高性能大模型推理引擎",
+      "url": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
+      "summary": "DeepSeek正式开源驱动其低成本极速大模型的自研推理框架DeepInfer，在多卡吞吐量与长文本显存优化上实现突破性提升。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
+      "title_zh": "Mistral AI发布实时全语音智能体技术栈Voxtral 3",
+      "url": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/",
+      "summary": "欧洲AI独角兽Mistral推出端到端语音智能体框架Voxtral 3，整合多模态实时听觉理解、自主决策与高质量语音生成，延迟低至百毫秒级。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "ChatGPT now lets you lock your chats",
+      "title_zh": "ChatGPT上线聊天记录隐私锁定保护功能",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "summary": "OpenAI为ChatGPT新增独立的对话锁定与隐私隐藏选项，用户可单独对包含个人敏感信息或机密事项的会话进行加密防护。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "OpenAI acquires startup Orchestra Bio to beef up its biotech business",
+      "title_zh": "OpenAI收购生物技术初创公司Orchestra Bio拓展AI制药",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "summary": "OpenAI宣布收购生命科学AI公司Orchestra，将其团队与底层算法并入Rosalind生命科学研究大模型项目，加速计算生物学布局。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "title_zh": "谷歌联手亚马逊发力PyTorch迁移工具围剿英伟达生态",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "summary": "谷歌与亚马逊相继推出专为PyTorch开发者打造的无缝迁移套件（如TorchTPU），大幅降低AI应用脱离Nvidia CUDA生态的迁移门槛。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "title_zh": "Anthropic推动AI安全立法提案：潜在致死50人以上模型将被禁止发布",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "summary": "Anthropic向美国监管机构提出针对性安全法案草案，明确将具有制造大规模伤亡或生物武器潜在风险的前沿模型纳入强制安全封锁范畴。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "title_zh": "谷歌Gemini个人AI助手将全面深度融入车载智能系统",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "summary": "谷歌宣布将个性化Gemini智能助理引入Android Auto及原生车载系统，结合用户日历、日程偏好与行车路况提供主动式多模态服务。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+      "title_zh": "Adobe Lightroom移动版上线AI一键睁眼智能照片修复",
+      "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+      "summary": "Adobe宣布移动版Lightroom支持生成式AI“眨眼修复”，用户只需轻点一下即可自然替换闭眼表情，大幅提升合影出片成功率。",
+      "content": ""
+    }
+  ]
+}
