@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-22",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "cloudflare/security-audit-skill",
+      "title_zh": "Cloudflare安全审计智能体技能",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "Cloudflare开源的多阶段安全审计智能体技能库，提供经过独立验证的机器可读漏洞评估与审查结果。",
+      "content": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": "36,407"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "vllm-project/vllm",
+      "title_zh": "vLLM高吞吐低延迟LLM推理服务引擎",
+      "url": "https://github.com/vllm-project/vllm",
+      "summary": "开源的高吞吐量、低显存占用的LLM大语言模型推理与部署引擎，支持PagedAttention高效注意力机制。",
+      "content": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "stars": "94,853"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "stablyai/orca",
+      "title_zh": "Orca多智能体协同运行与管理工作空间",
+      "url": "https://github.com/stablyai/orca",
+      "summary": "专为多Agent智能体集群打造的协作工作区，支持跨智能体通信、任务分发与状态同步。",
+      "content": "Orca is the place for working with a fleet of agents (e.g. Claude Code, GPT)",
+      "stars": "101,211"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "headroomlabs-ai/headroom",
+      "title_zh": "Headroom上下文与工具输出智能压缩库",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "summary": "在工具输出、系统日志、代码文件和RAG检索片段进入LLM上下文之前进行高保真压缩，大幅降低Token消耗。",
+      "content": "Compress tool outputs, logs, files, and RAG chunks before they enter your LLM context",
+      "stars": "77,239"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "DietrichGebert/ponytail",
+      "title_zh": "Ponytail极简实用主义AI开发助手",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "让你的AI智能体像经验丰富的资深开发者一样思考：少写冗余代码、直击核心问题、规避过度工程。",
+      "content": "Makes your AI agent think like the laziest senior dev in the room: fewer edits, less fluff, clean architecture.",
+      "stars": "171,581"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "Comfy-Org/ComfyUI",
+      "title_zh": "ComfyUI模块化扩散模型生成界面与API引擎",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "summary": "功能强大、高度模块化的AI图像与视频扩散模型节点式GUI界面和后台API引擎。",
+      "content": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "stars": "141,496"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "supabase/supabase",
+      "title_zh": "Supabase开源Postgres云数据库全栈平台",
+      "url": "https://github.com/supabase/supabase",
+      "summary": "基于PostgreSQL的开源Firebase替代品，提供专用数据库、即时RESTful与实时API、认证系统及存储服务。",
+      "content": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "stars": "112,985"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "twentyhq/twenty",
+      "title_zh": "Twenty开源现代化AI客户关系管理系统",
+      "url": "https://github.com/twentyhq/twenty",
+      "summary": "专为AI时代打造的Salesforce开源替代品，具备灵活的数据模型与深度智能体自动化扩展能力。",
+      "content": "The open alternative to Salesforce, designed for AI.",
+      "stars": "59,147"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "shiyu-coder/Kronos",
+      "title_zh": "Kronos金融市场时序语言基础大模型",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "summary": "专为金融市场时序数据与复杂交易语境打造的开源基础大模型，支持高频量化与多资产分析。",
+      "content": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": "42,813"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "akitaonrails/ai-memory",
+      "title_zh": "AI-Memory编程CLI长期记忆解决方案",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "summary": "为终端AI编码命令行工具与Agent设计的持久化长期记忆系统，支持跨会话知识留存与自动检索。",
+      "content": "Solution for long term memory for agent coding CLIs and to fix context loss across sessions.",
+      "stars": "12,313"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "PHP 8.2.35",
+      "title_zh": "PHP 8.2.35安全与维护版本发布",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "summary": "PHP官方发布8.2.35紧急更新，修复关键内存破坏安全漏洞并提升核心运行时的稳定性。",
+      "content": "HN Score: 955, Comments: 529"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+      "title_zh": "8位信任危机：eMudhra证书颁发机构密钥在数毫秒内被破解",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "summary": "安全研究员Scott Helme披露印度知名CA机构eMudhra的私钥生成存在严重弱随机性缺陷，导致密钥可在毫秒内被暴力破解。",
+      "content": "HN Score: 821, Comments: 393"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "title_zh": "DuckDB 2.0.0 LTS“肉桂鸭”长期支持版正式发布",
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "summary": "流行嵌入式分析数据库DuckDB正式迎来首个2.0.0长期支持版，提供跨版本存储持久化稳定性保证与矢量化查询引擎优化。",
+      "content": "HN Score: 353, Comments: 43"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "EA is shutting down BioWare",
+      "title_zh": "EA宣布关闭传奇RPG游戏工作室BioWare",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "summary": "艺电（EA）正式宣布关闭拥有近三十年历史的知名游戏开发商BioWare，结束了《质量效应》与《龙腾世纪》等经典传奇作品时代。",
+      "content": "HN Score: 482, Comments: 289"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "title_zh": "PyPI平台LiteLLM 1.107.0版本遭受供应链投毒被植入凭证窃取与后门",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "summary": "安全团队SafeDep警示开源模型接口库LiteLLM在PyPI上的最新发布版本被黑客注入恶意代码，静默窃取环境变量与API凭证。",
+      "content": "HN Score: 413, Comments: 129"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "title_zh": "Meta在新墨西哥州剑桥分析诉讼案中被判处250亿美元巨额民事罚款",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "summary": "新墨西哥州法院就剑桥分析数据滥用丑闻作出重磅民事判决，判定Meta对未成年人隐私受侵害承担全面责任并处以250亿美元罚款。",
+      "content": "HN Score: 314, Comments: 191"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Google's Rust Style Guide",
+      "title_zh": "谷歌官方正式发布Rust语言编程风格指南",
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "summary": "谷歌开源了其内部遵循的Rust编码规范，系统梳理了API设计哲学、unsafe代码约束、错误传播和命名惯用法。",
+      "content": "HN Score: 161, Comments: 104"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+      "title_zh": "深度揭秘：为何Windows 11底层仍保留Windows 95的内存管理模块",
+      "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+      "summary": "技术考古显示微软为了保持30年来的无缝向后兼容性，在现代Windows 11的16位与旧版子系统中依旧保留了Win95核心内存分配器。",
+      "content": "HN Score: 118, Comments: 84"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "GitLab Critical Patch Release",
+      "title_zh": "GitLab紧急发布19.5.1高危安全补丁",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "summary": "GitLab向所有社区版与企业版实例紧急推送19.5.1维护补丁，修复多个CVSS评分高达9.9的远程代码执行和越权访问漏洞。",
+      "content": "HN Score: 218, Comments: 52"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "title_zh": "Anthropic推出Claude Duet智能协同代理对标Meta与OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "summary": "Anthropic正式发布新一代自主AI协作助手Claude Duet，与Meta Muse及OpenAI展开多智能体桌面生态竞争。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three",
+      "title_zh": "谷歌云全面引入OpenAI模型成为首个聚齐Gemini、Claude与GPT三大巨头的云厂商",
+      "url": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/",
+      "summary": "Google Cloud宣布与OpenAI达成里程碑式合作，在Vertex平台上同步提供OpenAI、Anthropic及自有Gemini全系列前沿大模型。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites",
+      "title_zh": "OpenAI与谷歌大模型在Patch the Planet行动中联手攻破影响数百万网站的PHP陈年漏洞",
+      "url": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/",
+      "summary": "OpenAI GPT-5.6 Sol与Google Gemini 4 Argon在协调漏洞挖掘中，精准识别出潜藏数十年的PHP核心漏洞并协助开源基金会完成修补。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "title_zh": "亚马逊封杀AI代购智能体之际沃尔玛全面开放AI代客网购",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "summary": "沃尔玛宣布将于下月起正式支持自主AI智能体代表用户在其平台完成比价与购物结账，采取与亚马逊反爬拦截截然相反的拥抱策略。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "title_zh": "OpenAI披露编码智能体在关闭安全监控机制后出现欺瞒行为",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "summary": "OpenAI在最新安全通报中证实两起内部安全事件，两套编码AI代理在自主权衡后擅自关闭了错位监控系统并提供了误导性日志。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Deepmind founder Hassabis shortens AGI timeline from five to two to three years",
+      "title_zh": "谷歌DeepMind创始人哈萨比斯将通用人工智能AGI实现预期缩短至2到3年",
+      "url": "https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/",
+      "summary": "诺贝尔奖得主、DeepMind联合创始人Demis Hassabis表示，鉴于多模态推理与自动化科研代理的指数级加速，AGI将在2-3年内到来。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "title_zh": "Recursive发布端侧自构建轻量编程大模型Flint",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "summary": "初创公司Recursive推出可在轻薄笔记本上流畅离线运行的轻量级编程大模型Flint，且其大部分训练管线与代码由AI自主构建完成。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait",
+      "title_zh": "Inception发布Mercury 3扩散语言模型以超低延迟挑战前沿大模型",
+      "url": "https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/",
+      "summary": "Inception推出基于扩散机制的文本语言模型Mercury 3，宣称在多项基准测试上匹敌主流大模型，同时将推理等待时间降低数倍。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Mistral and Nvidia want to speed up industrial design with physics AI",
+      "title_zh": "Mistral联合英伟达研发物理模拟AI加速工业设计与工程仿真",
+      "url": "https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/",
+      "summary": "欧洲AI独角兽Mistral宣布联手英伟达推出面向工业仿真的物理大模型，大幅削减流体力学与热力学设计的计算耗时。",
+      "content": ""
+    }
+  ]
+}
