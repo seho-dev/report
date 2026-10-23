@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-23",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "php/php-src",
+      "title_zh": "PHP编程语言官方源码解释器",
+      "url": "https://github.com/php/php-src",
+      "summary": "PHP语言的核心C语言源码实现，负责语法解析、执行引擎及核心扩展库。",
+      "content": "The PHP Interpreter",
+      "stars": "41,140"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "anthropics/knowledge-work-plugins",
+      "title_zh": "Anthropic知识工作类插件开源库",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "Anthropic为知识工作场景量身打造的开源插件合集，增强大模型在专业办公场景的自动化处理能力。",
+      "content": "Open source repository of plugins primarily intended for knowledge work tasks.",
+      "stars": "31,571"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "DietrichGebert/ponytail",
+      "title_zh": "Ponytail高级开发思维AI智能体提示词框架",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "一套让AI智能体模拟老牌资深架构师“极简务实”思考方式的提示词与工作流框架，拒绝过度设计。",
+      "content": "Makes your AI agent think like the laziest senior dev in the team.",
+      "stars": "173,428"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "cloudflare/security-audit-skill",
+      "title_zh": "Cloudflare编码智能体安全审计技能库",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "Cloudflare推出的多阶段安全审计技能库，专为编码智能体设计，提供深入且结构化的漏洞扫描与排查。",
+      "content": "A coding-agent skill for multi-phase security audits with deep inspection.",
+      "stars": "39,519"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "Graphify-Labs/graphify",
+      "title_zh": "Graphify代码库全要素知识图谱构建工具",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "summary": "将任意代码库连同文档、SQL架构、配置文件转换为统一知识图谱，供开发者与AI轻松导航。",
+      "content": "Turn any codebase, with its docs, SQL schemas, configs, and APIs into a unified knowledge graph.",
+      "stars": "132,921"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "supabase/supabase",
+      "title_zh": "Supabase开源Postgres开发者后端平台",
+      "url": "https://github.com/supabase/supabase",
+      "summary": "开源的Firebase替代方案，为开发者提供开箱即用的Postgres数据库、实时订阅、身份认证及边缘计算函数。",
+      "content": "The Postgres development platform. Supabase gives you a dedicated Postgres database.",
+      "stars": "113,474"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "fastapi/fastapi",
+      "title_zh": "FastAPI现代高性能Python网络框架",
+      "url": "https://github.com/fastapi/fastapi",
+      "summary": "基于Python标准类型提示的高性能Web框架，开发效率极高，并自动生成交互式API文档。",
+      "content": "FastAPI framework, high performance, easy to learn, fast to code, ready for production.",
+      "stars": "103,727"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "luongnv89/claude-howto",
+      "title_zh": "Claude Code可视化实例实战指南",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "summary": "以丰富图解和实操案例为主的Claude Code指南，涵盖从基础命令行用法到高级自主代理架构的全套流程。",
+      "content": "A visual, example-driven guide to Claude Code — from basic commands to advanced agentic architecture.",
+      "stars": "43,174"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "Meloong-Git/PCL",
+      "title_zh": "PCL我的世界Plain Craft极简启动器",
+      "url": "https://github.com/Meloong-Git/PCL",
+      "summary": "备受欢迎的Minecraft模块化游戏启动器，具备极佳的动画交互设计与便捷的模组/整合包管理能力。",
+      "content": "Minecraft launcher Plain Craft Launcher (PCL).",
+      "stars": "8,682"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "vllm-project/vllm",
+      "title_zh": "vLLM大模型高吞吐内存高效推理服务引擎",
+      "url": "https://github.com/vllm-project/vllm",
+      "summary": "采用PagedAttention技术的超高吞吐量与高显存利用率LLM分布式推理与部署框架。",
+      "content": "A high-throughput and memory-efficient inference and serving engine for LLMs.",
+      "stars": "95,150"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "title_zh": "隐私DNS解析服务商Quad9宣布退出法国",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "summary": "受法国版权裁决与过度监管要求影响，全球知名无日志隐私DNS解析机构Quad9宣布关闭在法国的服务器节点。",
+      "content": "HN Score: 949, Comments: 343"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "title_zh": "数字证书认证机构eMudhra宣布退出全球SSL/TLS证书业务",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "summary": "印度的全球性CA机构eMudhra在经历根证书信任危机后，正式宣布退出面向全球的公开信任SSL/TLS证书市场。",
+      "content": "HN Score: 905, Comments: 617"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Jailbreaking the Switch 2",
+      "title_zh": "任天堂Switch 2游戏主机遭安全研究员成功越狱",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "summary": "黑客通过旧款游戏兼容模式的内存溢出漏洞与AI逆向工程辅助，成功在次世代Switch 2上执行了未授权代码。",
+      "content": "HN Score: 693, Comments: 242"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "title_zh": "美国女子因他人冒名开设的Cash App账户面临六年监禁",
+      "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+      "summary": "因身份信息被盗用于开设Cash App涉诈账户，一名未涉案女子被警方错误拘留三夜并遭严重指控，引发金融实名核验质疑。",
+      "content": "HN Score: 440, Comments: 435"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "title_zh": "安全研究员致歉：在不知情情况下提前泄露了PHP远程代码执行漏洞信息",
+      "url": "https://news.ycombinator.com/item?id=50193416",
+      "summary": "一位安全研究员在HN上发帖说明由于沟通误解而提前公开了PHP关键高危远程代码执行漏洞细节，并向社区郑重致歉。",
+      "content": "HN Score: 338, Comments: 138"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "What’s getting pwned right now",
+      "title_zh": "pwn.watch实时网络攻击与受害系统态势监控平台",
+      "url": "https://pwn.watch/",
+      "summary": "一个可视化实时展现全球正被攻破的服务器、漏洞利用链及失陷主机的网络空间安全情报监控项目。",
+      "content": "HN Score: 329, Comments: 152"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "title_zh": "开源项目实现在安卓设备上完整运行iOS 16.5固件",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "summary": "hackios-xnu-kernel项目通过深度定制Linux内核与XNU微内核转译层，成功在旗舰安卓手机上引导了原生iOS系统镜像。",
+      "content": "HN Score: 308, Comments: 118"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "A farewell to Arc browser",
+      "title_zh": "告别Arc浏览器：曾经颠覆网页交互的先锋走向终局",
+      "url": "https://arc.net/",
+      "summary": "The Browser Company宣布正式将研发重心转向下一代AI产品，经典的Arc浏览器逐步进入维护停更状态。",
+      "content": "HN Score: 220, Comments: 201"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "title_zh": "比earcut更高效：仅用489毫秒完成370万个地图多边形剖分",
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "summary": "Globus分享了一种针对大规模地理GIS多边形三角剖分的极速算法，相比行业标准earcut实现数倍性能飞跃。",
+      "content": "HN Score: 197, Comments: 36"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "title_zh": "1Password推出AI智能体委托免密安全登录技术",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "summary": "1Password发布全新权限授权机制，允许AI智能体代用户执行跨网站自动化操作，且全程对智能体遮蔽用户原始明文密码。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Canva releases its first image generation model",
+      "title_zh": "Canva发布首款自研设计预规划图像生成模型",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "设计巨头Canva推出自研图像大模型，突破传统直接绘图方式，在渲染像素前先进行版式与排版构思，大幅提升商业设计可用性。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "title_zh": "微软苏莱曼称其AI在复杂病症诊断上已超越全科医生",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "summary": "微软AI负责人苏莱曼披露其医疗大模型在复杂罕见病例诊断中超越全科医师，并正全面推进医疗超级智能研究。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "title_zh": "英伟达开源OpenShell：自主AI代理集群的安全私有化运行环境",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "summary": "英伟达正式开源OpenShell框架，为企业级大规模自主AI代理集群提供安全隔离沙箱、私有数据访问边界以及严密的执行监控。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "title_zh": "Anthropic研究显示大模型正大幅推进大规模软件形式化验证",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "summary": "Anthropic最新研究展示，利用大语言模型辅助编写形式化证明与逻辑规格说明，能以极低成本对底层关键代码进行严密数学验证。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "title_zh": "OpenAI筹备IPO前新一轮300亿美元融资，估值达1.25万亿美元",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "summary": "消息称OpenAI正在就IPO前的巨额融资进行深入沟通，计划筹集300亿美元资金，将公司整体估值推升至破纪录的1.25万亿美元。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "title_zh": "Uber全员三万名员工全面接入ChatGPT Work企业智能套件",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "summary": "网约车巨头Uber宣布将其全球3万名正式员工全面接入OpenAI的ChatGPT Work，将其深度集成至日常运营、客服及内部研发流程中。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "title_zh": "深度求索DeepSeek在受到新限制后逆势完成150亿美元融资",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "summary": "国产AI领军企业DeepSeek据悉已完成规模达150亿美元的新一轮融资，将全力投入下一代原生开源大模型训练集群的搭建。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+      "title_zh": "Meta畅想智能体互联未来：让你的AI助理与我的AI对接交互",
+      "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "summary": "扎克伯格在财报说明中描绘了Meta的下一代社交网络构想：基于Muse的个人AI智能体网络将代表人类自主完成沟通、购物与日程协同。",
+      "content": ""
+    }
+  ]
+}
