@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-24",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "cloudflare/security-audit-skill",
+      "title_zh": "Cloudflare安全审计技能",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "Cloudflare开源的一款编码智能体技能，支持多阶段安全审计，产出可独立核验、机器可读的审计结果。",
+      "content": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": "42093"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "php/php-src",
+      "title_zh": "PHP解释器源码",
+      "url": "https://github.com/php/php-src",
+      "summary": "PHP官方解释器核心源码仓库，包含PHP语言的运行时与标准库实现。",
+      "content": "The PHP Interpreter",
+      "stars": "41557"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "anthropics/knowledge-work-plugins",
+      "title_zh": "Anthropic知识工作插件集",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "Anthropic开源的插件仓库，主要面向知识工作者在Claude Cowork中使用。",
+      "content": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": "32199"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "NVIDIA/OpenShell",
+      "title_zh": "NVIDIA OpenShell智能体运行时",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "summary": "NVIDIA推出的安全、私密的自主AI智能体运行时环境。",
+      "content": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": "18767"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "Renhuai123/ziwei-doushu",
+      "title_zh": "紫微斗数开源排盘引擎",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "summary": "基于倪海厦《天纪》体系的开源紫微斗数排盘引擎，含完整排盘算法、四化系统、格局知识库与古籍原文数据。",
+      "content": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "stars": "6843"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "SnailSploit/Claude-Red",
+      "title_zh": "Claude-Red攻防技能库",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "summary": "面向Claude技能系统的精选攻击性安全技能库，每个技能是结构化的SKILL.md文件，为SQL注入、Shellcode、EDR绕过、漏洞利用开发等攻击面提供专家级方法论。",
+      "content": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "stars": "8464"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "OpenBMB/VoxCPM",
+      "title_zh": "VoxCPM2无分词器语音合成",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "summary": "面壁智能开源的无分词器TTS模型，支持多语言语音生成、创意音色设计与高保真音色克隆。",
+      "content": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars": "40244"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "nodejs/node",
+      "title_zh": "Node.js运行时",
+      "url": "https://github.com/nodejs/node",
+      "summary": "Node.js官方JavaScript服务端运行时仓库。",
+      "content": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "stars": "122853"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "baidu/Unlimited-OCR",
+      "title_zh": "百度Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "summary": "百度开源的OCR文字识别项目，主打长文档与复杂版面的高精度识别。",
+      "content": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "stars": "28286"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "TauricResearch/TradingAgents",
+      "title_zh": "TradingAgents多智能体交易框架",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "summary": "基于大语言模型的多智能体金融交易研究框架，模拟分析师、研究员与交易员协作决策。",
+      "content": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "113392"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "title_zh": "本地维基百科：只收录步行半小时内的地点",
+      "url": "https://news.ycombinator.com/item?id=50202285",
+      "summary": "一个只覆盖你周边步行半小时范围内地点的“本地维基百科”项目，把社区知识落到身边街区。",
+      "content": "HN Score: 1201, Comments: 223"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "title_zh": "今天我们攻破了预定目标：iPhone",
+      "url": "https://news.ycombinator.com/item?id=50211474",
+      "summary": "安全研究团队披露攻破iPhone的完整过程，讲述从设想到实际拿下目标设备的技术路径。",
+      "content": "HN Score: 707, Comments: 467"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "title_zh": "Kimi K3.1 Pro 与 K3.1 Pro 高速版发布",
+      "url": "https://news.ycombinator.com/item?id=50212065",
+      "summary": "月之暗面发布Kimi K3.1 Pro及其高速版本，讨论集中在推理能力提升与响应速度的取舍。",
+      "content": "HN Score: 658, Comments: 420"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Apple Music 404 Not Found",
+      "title_zh": "Apple Music 出现 404 Not Found 故障",
+      "url": "https://news.ycombinator.com/item?id=50207910",
+      "summary": "Apple Music服务出现大面积404错误，用户无法正常访问曲库与播放页面。",
+      "content": "HN Score: 517, Comments: 178"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "title_zh": "加拿大人反对C-22法案的时间所剩无几",
+      "url": "https://news.ycombinator.com/item?id=50202114",
+      "summary": "加拿大C-22法案征求意见期临近截止，批评者认为该法案将扩大监控与执法权限。",
+      "content": "HN Score: 292, Comments: 150"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "title_zh": "谷歌称可能用Gmail和Google相册数据定向投放广告",
+      "url": "https://news.ycombinator.com/item?id=50214218",
+      "summary": "谷歌更新政策表述，称可能利用Gmail与Google Photos中的用户数据来做广告定向。",
+      "content": "HN Score: 228, Comments: 109"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "The Real Kevin Bacon",
+      "title_zh": "真实的凯文·贝肯",
+      "url": "https://news.ycombinator.com/item?id=50169499",
+      "summary": "一篇追溯演员凯文·贝肯真实经历与“六度分隔”文化现象的文章。",
+      "content": "HN Score: 222, Comments: 65"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "title_zh": "Dessa：号称史上最逼真的全双工语音模型",
+      "url": "https://news.ycombinator.com/item?id=50213925",
+      "summary": "Dessa发布全双工语音模型，主打自然打断、低延迟与高度拟真的对话体验。",
+      "content": "HN Score: 186, Comments: 80"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "UUIDv7 doesn't have the properties you think it does",
+      "title_zh": "UUIDv7 并不具备你以为的那些特性",
+      "url": "https://news.ycombinator.com/item?id=50211746",
+      "summary": "技术文章指出UUIDv7在排序性、时钟回拨与分布式唯一性上常被误解的实际表现。",
+      "content": "HN Score: 102, Comments: 87"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "title_zh": "OpenAI 现已在不联网环境下训练前沿模型",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "summary": "OpenAI宣布前沿模型训练过程完全断网，理由是联网训练带来“重大风险”，以防模型在训练中接触不可控外部内容。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "title_zh": "Block 推出“尬聊型”AI 模型",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "summary": "杰克·多西旗下Block发布一款对话风格刻意笨拙、像新朋友一样的AI模型，主打更自然的人际交流感。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "title_zh": "Meta 因出版商反对AI抓取而推迟新商业条款",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "summary": "在出版商就AI内容抓取强烈反弹后，Meta推迟执行新的商业条款，继续就内容授权进行谈判。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "title_zh": "Canva 发布首个自研图像生成模型",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "summary": "Canva推出首个自研图像模型，可先生成设计方案再出图，把设计意图置于像素生成之前。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "title_zh": "1Password 让AI智能体代你登录却看不到密码",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "summary": "1Password推出新机制，允许AI智能体代替用户完成登录流程，同时不暴露用户的实际密码。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "title_zh": "OpenAI 拟在IPO前以1.25万亿美元估值融资300亿美元",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "summary": "OpenAI正筹备在上市前完成约300亿美元新融资，估值目标约1.25万亿美元。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
+      "title_zh": "Anthropic 称未发布模型能力更强且对齐更好",
+      "url": "https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/",
+      "summary": "Anthropic表示旗下一个尚未发布的模型在能力与对齐水平上同时超过Mythos 5.1，暗示下一代模型进展顺利。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
+      "title_zh": "谷歌为每个 Gemini 智能体分配独立微型虚拟机",
+      "url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
+      "summary": "谷歌推出Agent Compute Engine，为每个Gemini智能体提供硬件隔离的微型虚拟机，提升智能体运行的安全边界。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Only 13 percent of companies see real returns from AI, Gartner survey finds",
+      "title_zh": "Gartner调查：仅13%企业从AI获得真实回报",
+      "url": "https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/",
+      "summary": "Gartner调研显示只有13%的企业从AI投入中看到实质回报，多数项目仍停留在试点阶段。",
+      "content": ""
+    }
+  ]
+}
