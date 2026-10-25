@@ -1,0 +1,295 @@
+{
+  "date": "2026-10-25",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "description": "A tvOS-style launcher for Xiaomi, TCL and other China-market TVs. An ad-free clean desktop for Chinese TVs.",
+      "stars": "4359",
+      "title_zh": "Aerial TV - 中国电视的tvOS风格桌面",
+      "summary": "参照tvOS设计的中国电视桌面启动器，支持小米、TCL等中国市场电视，无广告，开机自动接管，提供简洁桌面。"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+      "stars": "4287",
+      "title_zh": "Free My TV - 快速无广告的智能电视主屏幕",
+      "summary": "面向Google TV、LG webOS和三星Tizen的快速无广告主屏幕，支持一键撤销。"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "JoasASantos/REA-Prompts",
+      "url": "https://github.com/JoasASantos/REA-Prompts",
+      "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+      "stars": "2077",
+      "title_zh": "REA-Prompts - 逆向工程任何东西的提示词",
+      "summary": "REAP - 提示词集合，帮助你使用REA（反向工程任何东西）来克隆或拆解任何程序，充分利用其功能。"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "EthanArbuckle/fairplay-decrypt",
+      "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+      "description": "Offline FairPlay App Store IPA decryption with independent key derivation",
+      "stars": "1952",
+      "title_zh": "FairPlay解密 - 离线App Store IPA解密",
+      "summary": "离线FairPlay App Store IPA解密，采用独立密钥派生。"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "ikow/php2shell-poc",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "stars": "1754",
+      "title_zh": "php2shell-PoC - PHP会话上传进度预认证RCE漏洞研究",
+      "summary": "CVE-2026-109618/109619 — 5条RCE攻击链加检测规则（Suricata、Sigma、ModSecurity）。PHP session.upload_progress预认证漏洞利用研究。"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "xevrion/hatchzip",
+      "url": "https://github.com/xevrion/hatchzip",
+      "description": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
+      "stars": "1695",
+      "title_zh": "Hatchzip - 就地提取大型压缩档案",
+      "summary": "就地提取大型压缩档案：存档随文件孵化而缩小，你只需要输出空间。支持ZIP、7z、tar、分卷存档。"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "wesbos/3d-model-anything",
+      "url": "https://github.com/wesbos/3d-model-anything",
+      "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+      "stars": "1640",
+      "title_zh": "3D Model Anything - iPhone LiDAR拍摄并重建可编辑Three.js房间",
+      "summary": "捕捉iPhone LiDAR和照片，重建可编辑的Three.js房间，并在浏览器中探索。"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "9bie/php2shell-bypass-aslr-exp",
+      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "stars": "1400",
+      "title_zh": "php2shell绕过ASLR漏洞利用",
+      "summary": "一个不需要修改官方版本、也不需要开启display_errors或limit_memory的php2shell漏洞利用。"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "openai/php2shell-checker",
+      "url": "https://github.com/openai/php2shell-checker",
+      "description": "No description available",
+      "stars": "1381",
+      "title_zh": "php2shell检查器 - OpenAI开源",
+      "summary": "暂无描述"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "oosexgang/hackios-xnu-kernel",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "description": "No description available",
+      "stars": "1283",
+      "title_zh": "HackiOS XNU内核 - 运行iOS内核",
+      "summary": "暂无描述"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "score": 75,
+      "descendants": 46,
+      "title_zh": "我们应更有雄心地构建软件",
+      "summary": "HN分数：75，评论：46"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "score": 356,
+      "descendants": 199,
+      "title_zh": "Show HN: 偷走我的比特币",
+      "summary": "HN分数：356，评论：199"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "score": 20,
+      "descendants": 11,
+      "title_zh": "美国在媒体、电影和艺术领域失去20万个岗位。AI占了多少？",
+      "summary": "HN分数：20，评论：11"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "score": 183,
+      "descendants": 140,
+      "title_zh": "Goose编程语言",
+      "summary": "HN分数：183，评论：140"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "score": 242,
+      "descendants": 160,
+      "title_zh": "Roku开发者仓库从GitHub迁移到GitLab",
+      "summary": "HN分数：242，评论：160"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "url": "https://missileer.watch",
+      "score": 99,
+      "descendants": 63,
+      "title_zh": "收听并阅读美国核力量紧急行动消息，收音机频率11175千赫兹",
+      "summary": "HN分数：99，评论：63"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Small Programs and Languages",
+      "url": "https://ratfactor.com/cards/pl-small",
+      "score": 18,
+      "descendants": 0,
+      "title_zh": "小程序与语言",
+      "summary": "HN分数：18，评论：0"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "SpeedCrunch 1.1",
+      "url": "https://www.speedcrunch.org/",
+      "score": 57,
+      "descendants": 8,
+      "title_zh": "SpeedCrunch 1.1",
+      "summary": "HN分数：57，评论：8"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Full Disk Encryption on Fedora with TPM2",
+      "url": "https://www.apalrd.net/posts/2026/ent_luks/",
+      "score": 22,
+      "descendants": 29,
+      "title_zh": "TPM2与Fedora的全盘加密",
+      "summary": "HN分数：22，评论：29"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "url": "https://de.numista.com/9866",
+      "score": 85,
+      "descendants": 25,
+      "title_zh": "圣海伦娜5便士硬币展示约190岁的象龟乔纳森",
+      "summary": "HN分数：85，评论：25"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "desc": "<![CDATA[From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.]]>",
+      "title_zh": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "<![CDATA[From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.]]>"
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Block’s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "desc": "<![CDATA[Block said that the voice model can run locally on a MacBook M4 Max]]>",
+      "title_zh": "Block’s new voice model sounds eerily human",
+      "summary": "<![CDATA[Block said that the voice model can run locally on a MacBook M4 Max]]>"
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "desc": "<![CDATA[A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nea",
+      "title_zh": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "<![CDATA[A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nea"
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "desc": "<![CDATA[We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.]]>",
+      "title_zh": "这些顶级AI智能体可以在你的短信中运行",
+      "summary": "<![CDATA[We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.]]>"
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "desc": "<![CDATA[OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. ]]>",
+      "title_zh": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "summary": "<![CDATA[OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. ]]>"
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "desc": "<![CDATA[The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command. ]]>",
+      "title_zh": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "summary": "<![CDATA[The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command. ]]>"
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+      "desc": " <![CDATA[A new model suggests Mars may host ice-forming physics never directly observed before.]]> ",
+      "title_zh": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "summary": " <![CDATA[A new model suggests Mars may host ice-forming physics never directly observed before.]]> "
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+      "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+      "desc": " <![CDATA[The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.]]> ",
+      "title_zh": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+      "summary": " <![CDATA[The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.]]> "
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+      "desc": " <![CDATA[\"We have the mandate, we have the resources, and the support from our stakeholders.\"]]> ",
+      "title_zh": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+      "summary": " <![CDATA[\"We have the mandate, we have the resources, and the support from our stakeholders.\"]]> "
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+      "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+      "desc": " <![CDATA[Pentagon memo: Insider trading gives US enemies key intel on military operations.]]> ",
+      "title_zh": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+      "summary": " <![CDATA[Pentagon memo: Insider trading gives US enemies key intel on military operations.]]> "
+    }
+  ]
+}
