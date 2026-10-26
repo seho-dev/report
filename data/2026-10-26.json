@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-26",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "makecindy/cindy",
+      "title_zh": "Cindy - 开源即用型全自动AI代理",
+      "url": "https://github.com/makecindy/cindy",
+      "summary": "一款开源、开箱即用的自主AI Agent，强调“想到就能做到”，能够独立协助用户执行复杂任务与自动化工作流。",
+      "content": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": "4833"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "Nutlope/hallmark",
+      "title_zh": "Hallmark - 面向编程Agent的反AI廉价感设计规范",
+      "url": "https://github.com/Nutlope/hallmark",
+      "summary": "专为Claude Code、Cursor和Codex打造的设计规则库，旨在避免AI生成粗制滥造、千篇一律的UI界面，提升前端美学质感。",
+      "content": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": "33709"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "debpalash/VoiceStudio",
+      "title_zh": "VoiceStudio - 开源全本地化AI语音工作站",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "完全在本地运行的ElevenLabs开源替代品，支持声音克隆、声音设计、视频配音、听写转录及有声书制作，覆盖多达646种语言。",
+      "content": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "86762"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "pbakaus/impeccable",
+      "title_zh": "Impeccable - 赋能AI生成高级界面的设计语言系统",
+      "url": "https://github.com/pbakaus/impeccable",
+      "summary": "一套专为AI代理定制的设计语言规范体系，帮助大语言模型在生成用户界面和网页时遵循专业设计师的美学标准与交互原则。",
+      "content": "The design language that makes your AI harness better at design.",
+      "stars": "87666"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "pollen-robotics/microduck",
+      "title_zh": "microduck - 开源微型双足步行鸭子机器人",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "summary": "Pollen Robotics开源的一款超轻量小型双足机器人，外形酷似小鸭子，提供完整的3D打印结构文件与步态控制源码。",
+      "content": "A Tiny biped duck robot 🦆",
+      "stars": "11613"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "TauricResearch/TradingAgents",
+      "title_zh": "TradingAgents - 多智能体大模型量化金融交易框架",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "summary": "基于多智能体协作机制的LLM金融量化交易系统，模拟交易员、风控官与分析师的角色分工，实现自主市场分析与决策。",
+      "content": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "114576"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "Renhuai123/ziwei-doushu",
+      "title_zh": "紫微斗数开源排盘引擎 - 传统数术计算系统",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "summary": "基于倪海厦《天纪》理论体系打造的紫微斗数开源排盘程序，包含完整的星盘排布算法、四化推演系统及传统古籍格局知识库。",
+      "content": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "stars": "7530"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "JetBrains/thinkrail",
+      "title_zh": "Thinkrail - JetBrains推出的轻量化AI氛围编码IDE",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "summary": "JetBrains打造的新一代轻量级代码编辑器，深度融合AI能力并根据开发者的工作习惯进行动态个性化定制，主打流畅自然的编程氛围。",
+      "content": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "stars": "1688"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "coollabsio/coolify",
+      "title_zh": "Coolify - 开源可自托管的PaaS云平台",
+      "url": "https://github.com/coollabsio/coolify",
+      "summary": "Vercel、Heroku与Netlify的开源替代品，支持在自有服务器上极速部署静态页面、数据库、全栈应用及超过360种一键式集成服务。",
+      "content": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "stars": "64350"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "cloudflare/security-audit-skill",
+      "title_zh": "Cloudflare安全审计Skill - 编码代理多阶段代码审计插件",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "Cloudflare开源的代码审查智能体插件，支持多阶段漏洞挖掘与自动化验证，并生成可被机器解析的安全审计报告。",
+      "content": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": "46835"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Root shell on Samsung TV",
+      "title_zh": "黑客成功攻破三星智能电视获得Root终端权限",
+      "url": "https://news.ycombinator.com/item?id=50218633",
+      "summary": "安全研究人员成功挖掘出三星智能电视系统的底层漏洞，实现了在电视系统上获取完整Root Shell权限，引发广泛热议。",
+      "content": "HN Score: 758, Comments: 566"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "We should be more ambitious with the software we build",
+      "title_zh": "Dan Luu深度反思：当今软件开发应当拥有更宏大的野心",
+      "url": "https://news.ycombinator.com/item?id=50225695",
+      "summary": "资深工程师Dan Luu发文剖析现代软件行业的保守现状，呼吁工程师不应安于做琐碎拼凑，而应着眼于解决真正具有长远价值的工程难题。",
+      "content": "HN Score: 736, Comments: 678"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "title_zh": "十年前的传统卷积神经网络在皮肤癌诊断上击败最新前沿大模型",
+      "url": "https://news.ycombinator.com/item?id=50233779",
+      "summary": "最新医学研究发现，十年前经过专门微调的小型CNN视觉模型在皮肤癌早期筛查的准确率上依然稳胜参数量庞大的当代前沿多模态大语言模型。",
+      "content": "HN Score: 387, Comments: 184"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "title_zh": "开源开发者发声：拒绝网络审查，邀约FOSDEM 2027共筑开放互联网",
+      "url": "https://news.ycombinator.com/item?id=50233929",
+      "summary": "欧洲开源社群开发者发表公开倡议，反对日益严苛的中心化网络监管与审查法案，号召全球开发者齐聚FOSDEM共同守护去中心化自由网络。",
+      "content": "HN Score: 364, Comments: 180"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "title_zh": "俄勒冈警方为一名涉事警员的公开执法记录向当地媒体开出250万美元天价查询费",
+      "url": "https://news.ycombinator.com/item?id=50234232",
+      "summary": "当地独立新闻机构依据信息公开法申请某警员的违纪调查档案，却被警方开出250万美元的审查整理费用作为阻碍调查的手段。",
+      "content": "HN Score: 350, Comments: 86"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Dolly Parton's Imagination Library",
+      "title_zh": "传奇歌手多莉·帕顿的“想象力图书馆”儿童公益赠书计划",
+      "url": "https://news.ycombinator.com/item?id=50234474",
+      "summary": "多莉·帕顿创立的儿童阅读公益项目迄今已为全球数百万低收入家庭儿童免费寄送数亿本适龄书籍，其长期社会价值获得社区高度赞誉。",
+      "content": "HN Score: 327, Comments: 56"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "title_zh": "学生普遍滥用AI写作业，加州大学伯克利分校数学教授宣布放弃课后作业评分",
+      "url": "https://news.ycombinator.com/item?id=50233304",
+      "summary": "伯克利数学系教授表示，由于生成式AI能完美解答绝大部分数学作业题目，课后习题评分已失去考核意义，教学重心将彻底转向闭卷考查。",
+      "content": "HN Score: 184, Comments: 267"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "title_zh": "Overgrown浏览器插件：让绿色爬山虎蔓延侵蚀你长期搁置的网页标签",
+      "url": "https://news.ycombinator.com/item?id=50197108",
+      "summary": "一款富有创意的开源Chrome扩展，当某个网页标签被闲置遗忘超过一定时间，页面边缘就会生长出植物藤蔓，以此提醒用户清理标签页。",
+      "content": "HN Score: 104, Comments: 28"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Active incident at Dreamhost forcing password reset",
+      "title_zh": "知名主机商Dreamhost突发安全事件，紧急要求所有用户重置密码",
+      "url": "https://news.ycombinator.com/item?id=50231166",
+      "summary": "老牌云托管服务商DreamHost监测到异常未授权访问，出于预防安全措施强制要求受影响的所有账户立即重置凭证与API密钥。",
+      "content": "HN Score: 103, Comments: 37"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "title_zh": "OpenAI全面转向物理断网的隔离环境训练前沿AI模型",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "summary": "出于最高级别的AI安全防护与数据防泄漏考量，OpenAI已对其下一代前沿大模型的训练集群实施严格的物理级无互联网隔离运行策略。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "title_zh": "Cerebras成功部署万亿参数规模前沿AI大模型",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "summary": "晶圆级芯片巨头Cerebras宣布通过其超大面积晶圆芯片集群，成功实现了万亿参数前沿模型的超高速分布式推理与即时响应。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "title_zh": "xAI旗下Grok发布全流程AI生成电影《奥德赛》前7分钟成片",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "马斯克旗下xAI展示了其在端到端AI影视制作上的突破，公开了首部完全由大模型编剧、分镜、生成与配音的长篇影片《奥德赛》开场片段。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "title_zh": "Reddit开源板块出台激进新规：全面禁止AI生成内容及非英语发言",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "summary": "Reddit最大的开源社区r/opensource为抵制垃圾PR和AI灌水，宣布永久封禁所有AI生成的代码与讨论帖，引发开源圈对于技术包容性的激烈争论。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "title_zh": "阿波罗资管首席经济学家：绝大多数部署AI的企业迄今未见实际财务回报",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "知名金融机构Apollo发布宏观研究指出，尽管企业在AI基础设施上投入巨资，但大多数非科技企业的生产力提升未能转化为净利润增长。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Google’s AI search changes upended online publishing",
+      "title_zh": "谷歌AI概览全面改版搜索结果，引发全球在线出版行业生态震荡",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "summary": "谷歌在搜索引擎顶部普及的AI Overviews直接抽取并呈现答案，导致主流内容媒体和独立博主的引流点击率断崖式下滑，出版界商业模式面临严峻挑战。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "title_zh": "OpenAI与Anthropic数月内将模型API价格狂降80%的底层竞争逻辑分析",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "summary": "知名AI研究员Max Woolf发文深度拆解两大多模态模型巨头近期激进的价格战，分析新型量化加速、KV缓存优化以及争夺开发者生态的关键动因。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "title_zh": "Jack Dorsey旗下Block发布全新全双工拟人化语音模型Dessa",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "summary": "Block公司推出具有突破性真实感的实时语音模型Dessa，能够模拟人类日常对话中的微小语气迟疑、吞音与情绪反馈，听感惊人地自然逼真。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "title_zh": "美国宾夕法尼亚州立法：强制所有AI生成的商业广告必须附带显著标识",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "summary": "宾州正式签署通过反欺诈AI广告法案，要求企业与创作者在发布由生成式AI制作的图像、音频及视频推广内容时必须明确标示，违者将面临重罚。",
+      "content": ""
+    }
+  ]
+}
