@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-27",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "Nutlope/hallmark",
+      "title_zh": "Hallmark - 面向AI编程Agent的高质感防廉价设计规范",
+      "url": "https://github.com/Nutlope/hallmark",
+      "summary": "专为Claude Code、Cursor和Codex打造的设计规则与风格指南，旨在消除AI生成代码千篇一律、粗制滥造的廉价视觉风格，提升前端质感。",
+      "content": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": "36255"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "TauricResearch/TradingAgents",
+      "title_zh": "TradingAgents - 多智能体LLM金融量化交易框架",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "summary": "基于多智能体大语言模型的金融交易与投研框架，通过让多个专业Agent协同分析行情、执行风控策略并达成自动化量化交易。",
+      "content": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "116064"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "JetBrains/thinkrail",
+      "title_zh": "Thinkrail - JetBrains轻量级AI氛围编码IDE",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "summary": "JetBrains推出的轻量级现代化代码编辑器，深度整合AI编程伙伴与自适应工作流，专注提供流畅随心的AI氛围编程体验。",
+      "content": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "stars": "2871"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "makecindy/cindy",
+      "title_zh": "Cindy - 开源开箱即用的自主AI智能体",
+      "url": "https://github.com/makecindy/cindy",
+      "summary": "开源开箱即用的AI Agent，主打“想到就能做到”，可自主调用系统工具完成端到端任务流与个人自动化工作。",
+      "content": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": "6437"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "affaan-m/ECC",
+      "title_zh": "ECC - AI智能体底层执行与性能优化系统",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "面向Claude Code、Codex、Cursor等编程智能体的高性能执行框架，集成了技能注入、本能反应、长效记忆与安全防护机制。",
+      "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "289819"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "pbakaus/impeccable",
+      "title_zh": "Impeccable - 让AI更懂美学与工程的设计语言",
+      "url": "https://github.com/pbakaus/impeccable",
+      "summary": "一套专门用来教导AI模型理解高级设计语言与视觉规范的工具，帮助各类AI Agent生成更具高级感与规范性的界面代码。",
+      "content": "The design language that makes your AI harness better at design.",
+      "stars": "89159"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "NVIDIA/SkillSpector",
+      "title_zh": "SkillSpector - 英伟达AI智能体技能安全审查工具",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "summary": "英伟达开源的Agent技能安全扫描器，可在安装前检测Claude Code、Codex及MCP技能中的漏洞、恶意模式、提示词注入与数据外泄风险。",
+      "content": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "stars": "22164"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "pollen-robotics/microduck",
+      "title_zh": "Microduck - 开源微型双足小鸭机器人",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "summary": "Pollen Robotics开源的微型双足仿生鸭子机器人，结构精致小巧，提供完整的硬件设计与运动步态控制源码。",
+      "content": "A Tiny biped duck robot 🦆",
+      "stars": "12395"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "nightly-labs/openbot",
+      "title_zh": "OpenBot - 本地优先的常驻AI队友桌面工作空间",
+      "url": "https://github.com/nightly-labs/openbot",
+      "summary": "面向本地开发者的AI协同桌面工作台，支持并行调度Codex、Claude与Grok等模型，提供专属工作区、任务队列、文件共享与浏览器操控能力。",
+      "content": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "stars": "1457"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "Panniantong/Agent-Reach",
+      "title_zh": "Agent-Reach - 赋予AI智能体浏览全网数据的零成本工具",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "summary": "为AI Agent打通全网信息的轻量命令行工具，支持免API费读取与检索Twitter、Reddit、YouTube、GitHub、B站与小红书等平台内容。",
+      "content": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": "103545"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "title_zh": "微软面向近四分之一员工提供自愿买断离职方案",
+      "url": "https://news.ycombinator.com/item?id=50245524",
+      "summary": "微软宣布向多达6万名美国员工提供自愿买断计划，涉及近四分之一的员工规模，反映出大型科技企业在AI转型浪潮中加速重组劳动力结构。",
+      "content": "HN Score: 702, Comments: 604"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "title_zh": "知名学者Sebastian Raschka推出从零构建推理模型视频教程",
+      "url": "https://news.ycombinator.com/item?id=50245138",
+      "summary": "机器学习专家Sebastian Raschka发布了全新的免费开源视频课程，详细拆解从架构设计到训练过程、完整从零实现大模型推理能力的工程细节。",
+      "content": "HN Score: 522, Comments: 79"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Birdwatching rewires the brain and slows cognitive decline",
+      "title_zh": "神经科学研究发现观鸟活动可重塑大脑并延缓认知衰退",
+      "url": "https://news.ycombinator.com/item?id=50215997",
+      "summary": "BBC报道神经科学最新研究成果：观鸟不仅能够提升专注力与多感官协同感知，还能促进大脑神经可塑性，显著延缓老年时期的认知功能退化。",
+      "content": "HN Score: 495, Comments: 193"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "title_zh": "瑞士全境1:1体素级地理数字孪生项目",
+      "url": "https://news.ycombinator.com/item?id=50240922",
+      "summary": "基于开源几何库Manifold3D与国家地理遥感高程数据，开发者将瑞士全境4.1万平方公里以1:1体素方块在网页端完整渲染再现。",
+      "content": "HN Score: 455, Comments: 213"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "CSS-Tricks has a new owner",
+      "title_zh": "老牌前端技术网站CSS-Tricks正式易主",
+      "url": "https://news.ycombinator.com/item?id=50245831",
+      "summary": "曾被DigitalOcean收购的传奇前端技术博客CSS-Tricks宣布更换所有权，新团队承诺恢复高质量技术文章更新与社区独立运营。",
+      "content": "HN Score: 363, Comments: 85"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+      "title_zh": "泄露录音显示监控厂商Flock CEO向警方声称公众抵制纯属虚构",
+      "url": "https://news.ycombinator.com/item?id=50248005",
+      "summary": "智能车牌识别监控摄像头巨头Flock在警务私享闭门会中的录音遭泄露，CEO轻描淡写地将民间隐私保护人士的抗议斥为不存在的杂音。",
+      "content": "HN Score: 268, Comments: 155"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Blaise Pascal invented fixed route public transport (2024)",
+      "title_zh": "数学大师布莱兹·帕斯卡早在17世纪便发明了固定线路公共交通",
+      "url": "https://news.ycombinator.com/item?id=50200152",
+      "summary": "历史溯源长文回顾法国著名数学家与哲学家帕斯卡在1662年创办巴黎固定路线五苏马车系统的历史，展现了现代公共交通体系的雏形。",
+      "content": "HN Score: 256, Comments: 135"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "title_zh": "探寻仍能在Windows 11系统上原生运行的最古老图形界面程序",
+      "url": "https://news.ycombinator.com/item?id=50248055",
+      "summary": "开发者深度测试了Windows自1.0时代的各类古老软件，展示了微软在Windows 11中惊人的三四十年向下二进制兼容性工程成就。",
+      "content": "HN Score: 247, Comments: 153"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Pharo 14",
+      "title_zh": "现代纯面向对象编程语言环境Pharo 14正式发布",
+      "url": "https://news.ycombinator.com/item?id=50241925",
+      "summary": "继承Smalltalk血统的沉浸式纯面向对象动态开发环境Pharo发布14.0大版本，带来重构的即时编译器、增强的调试器与现代化UI套件。",
+      "content": "HN Score: 233, Comments: 59"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "title_zh": "OpenAI公布三大科学研究突破并推出高校学者合作新模式",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "summary": "OpenAI宣布在数学定理证明与物理模拟领域取得重大突破，并正式推出与苏黎世联邦理工等高校学术机构深度协同的新合作机制。",
+      "content": "OpenAI has announced three scientific breakthroughs in mathematics and physics, while launching a new institutional framework to collaborate directly with university researchers."
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic officially files for its public debut with record revenue and energy commitments",
+      "title_zh": "Anthropic正式提交美股IPO申请并公布破纪录营收与能源承诺",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "summary": "Anthropic正式向美国SEC递交S-1招股书启动上市进程，披露其惊人的ARR增长势头，以及为支持AI算力扩张而在清洁能源与电网上的宏大投资。",
+      "content": "Anthropic has officially filed its S-1 prospectus with the SEC, detailing unprecedented revenue growth alongside heavy capital commitments to power the next generation of generative AI models."
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
+      "title_zh": "OpenAI推出GPT-6.1 Terra：API价格腰斩且基准测试表现逼近大模型",
+      "url": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
+      "summary": "OpenAI发布全新紧凑型主力模型GPT-6.1 Terra，不仅将API调用成本降低了50%，在逻辑推理和代码生成基准上甚至追平了此前的旗舰大模型。",
+      "content": "OpenAI launched GPT-6.1 Terra, halving developer API costs while closing the benchmark performance gap with frontier-scale flagship systems."
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "title_zh": "SpaceX与阿波罗达成400亿美元GPU算力融资协议",
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "summary": "SpaceX与资管巨头Apollo完成价值高达400亿美元的GPU专项融资，用于在大规模星链卫星通信网络与太空超算数据中心中部署前沿AI算力。",
+      "content": "SpaceX has secured a monumental $40 billion financing arrangement with Apollo to fund custom GPU deployments and AI-native orbital computing infrastructure."
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "title_zh": "xAI旗下Grok发布前7分钟完全由AI生成的史诗科幻短片《奥德赛》",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "xAI展示了其在全流程生成式视频与音频合成上的最新技术成果，发布了长达7分钟、画质细腻且镜头连贯的端到端AI生成科幻电影短片。",
+      "content": "xAI showcases generative cinematic generation by streaming the opening seven minutes of 'Odyssey', an end-to-end multimodal production rendered by Grok."
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Researchers find six patterns that make AI text so exhausting to read",
+      "title_zh": "科研人员总结使AI生成文本令人阅读疲劳的六大典型语言模式",
+      "url": "https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/",
+      "summary": "语言学与AI交叉研究团队揭示了AI生成内容的疲倦感根源，指出千篇一律的修辞排比、过度热情的口吻和空泛的总结构成了典型的AI语病。",
+      "content": "A linguistic study categorizes six pervasive stylistic quirks in modern LLM outputs that trigger cognitive fatigue and disengagement among human readers."
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit",
+      "title_zh": "Reddit开源社区全面禁发AI项目引发激烈争议并催生分裂社区",
+      "url": "https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/",
+      "summary": "拥有数百万开发者的开源版块因反感无底线的AI生成项目与低质PR而全面封禁AI话题，引发开源界广泛争议，部分开发者愤而建立独立社区。",
+      "content": "The r/opensource subreddit imposed a total moratorium on AI projects to combat automated spam, igniting intense community debate and the creation of rival forums."
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
+      "title_zh": "Meta拟抛售高达950亿美元股票以全力资助AI算力基础设施扩建",
+      "url": "https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/",
+      "summary": "Meta计划通过大规模股票出售筹集高达950亿美元巨资，用于采购下一代算力集群、自研芯片流片及建设吉瓦级AI专用清洁能源数据中心。",
+      "content": "Meta plans to raise up to $95 billion through equity offerings to bankroll massive data center developments, proprietary silicon, and gigawatt-scale power infrastructure."
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI",
+      "title_zh": "华尔街顶尖高频交易公司自建超算中心并重金注资AI芯片初创企业",
+      "url": "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/",
+      "summary": "华尔街量化巨头正将战场延伸至底层芯片与算力设施，通过亲自投资晶圆定制和微秒级超算中心，争夺AI实时高频交易中的毫秒优势。",
+      "content": "High-frequency trading firms are pouring capital directly into semiconductor startups and custom AI clusters to shave microseconds off algorithmic execution."
+    }
+  ]
+}
