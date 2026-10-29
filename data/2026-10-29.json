@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-29",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "JetBrains/thinkrail",
+      "title_zh": "JetBrains ThinkRail轻量级智能IDE",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "summary": "JetBrains推出的轻量级个性化IDE，支持与Pi进行代码氛围编程与深度定制开发。",
+      "content": "Vibe code with pi in a lightweight, real IDE that customises",
+      "stars": "5017"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "elayadesign/ai-design-skills",
+      "title_zh": "AI设计技能库与前端设计代理框架",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "summary": "专为UI/UX设计师和前端AI代理量身打造的设计系统、交互范式与设计技能合集。",
+      "content": "Curated AI design skills and UI/UX agent capabilities for software builders.",
+      "stars": "11089"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "obra/superpowers",
+      "title_zh": "Superpowers智能体技能框架与软件工程方法论",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "面向AI编码代理的核心技能框架与工程方法论，提供严密高效的自动化软件构建流程。",
+      "content": "An agentic skills framework & software development methodology",
+      "stars": "307424"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "HKUDS/DeepTutor",
+      "title_zh": "DeepTutor终身个性化AI导师系统",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "summary": "由香港大学团队开源的终身个性化AI导师，提供深度自适应教学与知识追踪能力。",
+      "content": "DeepTutor: Lifelong Personalized Tutoring.",
+      "stars": "47933"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "macro-inc/macro",
+      "title_zh": "Macro团队一体化协作工作空间",
+      "url": "https://github.com/macro-inc/macro",
+      "summary": "面向团队的下一代统一工作平台，整合邮件、即时通讯、协同文档与任务管理。",
+      "content": "Macro is a unified workspace for teams: email, chat, docs, tasks",
+      "stars": "5408"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "Nutlope/hallmark",
+      "title_zh": "Hallmark反AI粗劣设计指南与代码技能库",
+      "url": "https://github.com/Nutlope/hallmark",
+      "summary": "面向Claude Code、Cursor和Codex的高品质UI设计技能库，杜绝AI模板化审美疲劳。",
+      "content": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex",
+      "stars": "40673"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "pbakaus/impeccable",
+      "title_zh": "Impeccable编程代理设计语言系统",
+      "url": "https://github.com/pbakaus/impeccable",
+      "summary": "为自主编程代理打造的设计词汇与规范体系，助力AI编写美观、无瑕疵的用户界面。",
+      "content": "The design vocabulary for your coding agent. Steer with polish",
+      "stars": "92596"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "makecindy/cindy",
+      "title_zh": "Cindy开箱即用开源AI全能代理",
+      "url": "https://github.com/makecindy/cindy",
+      "summary": "开源的自主AI助手，开箱即用，能够深度接入各类日常工作流程并自主执行复杂任务。",
+      "content": "Consider it done. The open-source AI agent that works out of the box",
+      "stars": "8081"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "nightly-labs/openbot",
+      "title_zh": "OpenBot本地优先AI团队工作台",
+      "url": "https://github.com/nightly-labs/openbot",
+      "summary": "本地优先的桌面协作空间，用于部署和管理长效常驻的AI数字队友与多代理工作流。",
+      "content": "A local-first desktop workspace for persistent AI teammates.",
+      "stars": "3232"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "debpalash/VoiceStudio",
+      "title_zh": "VoiceStudio开源全本地语音合成与声音克隆平台",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "完全开源且支持本地私有化部署的高性能声音克隆与语音合成系统，对标ElevenLabs。",
+      "content": "VoiceStudio is the open-source, fully-local ElevenLabs alternative.",
+      "stars": "92975"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "title_zh": "苹果Git客户端仍默认信任已被攻破的eMudhra数字证书",
+      "url": "https://news.ycombinator.com/item?id=50271640",
+      "summary": "安全研究人员发现苹果系统自带的Git工具仍对已吊销并存在安全隐患的eMudhra证书保持信任，引发供应链安全隐患担忧。",
+      "content": "HN Score: 1021, Comments: 375"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "title_zh": "浏览器指纹追踪脚本为何在合成生物武器序列？",
+      "url": "https://news.ycombinator.com/item?id=50276998",
+      "summary": "开发者在分析网页指纹分析脚本时，意外发现其内存生成代码包含生物毒素合成序列，引发社区对隐蔽数据探测与安全审计的激烈讨论。",
+      "content": "HN Score: 735, Comments: 169"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Start Doing Graph Theory",
+      "title_zh": "动手实践图论：系统学习图论数学与工程应用",
+      "url": "https://news.ycombinator.com/item?id=50208960",
+      "summary": "一份广受欢迎的图论入门与进阶实践指南，强调通过可视化与编程实践直观掌握图算法及其数学本质。",
+      "content": "HN Score: 562, Comments: 123"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "title_zh": "新款MacBook Pro配备PROLED XDR触控显示屏传闻引热议",
+      "url": "https://news.ycombinator.com/item?id=50276940",
+      "summary": "科技社区热烈讨论苹果可能在下一代MacBook Pro上引入微米级PROLED屏幕与深度触控支持的技术架构与人机交互影响。",
+      "content": "HN Score: 476, Comments: 824"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "title_zh": "The Grid：麻省工厂级按需自动化制造PCB的巨型机器人系统",
+      "url": "https://news.ycombinator.com/item?id=50243060",
+      "summary": "麻省一家初创企业研发的巨型工业机器人The Grid，实现了电路板制造的全自动化柔性生产与即时交付。",
+      "content": "HN Score: 400, Comments: 193"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Emacs Turns 50",
+      "title_zh": "传奇编辑器Emacs迎来诞生50周年里程碑",
+      "url": "https://news.ycombinator.com/item?id=50273171",
+      "summary": "经典可扩展文本编辑器Emacs历经半个世纪依然生机盎然，开发者们集体回顾其对黑客文化、Lisp生态及自由软件运动的深远影响。",
+      "content": "HN Score: 393, Comments: 168"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "CNC Stone Carving",
+      "title_zh": "现代数控CNC石雕工艺与数字化几何雕刻探索",
+      "url": "https://news.ycombinator.com/item?id=50274409",
+      "summary": "工程师分享利用高精度CNC机床与刀具路径算法进行复杂石材立体浮雕与传统工艺结合的实战经验。",
+      "content": "HN Score: 389, Comments: 112"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Archive.today links going forward",
+      "title_zh": "网页归档服务Archive.today宣布链接重定向与解析新机制",
+      "url": "https://news.ycombinator.com/item?id=50275373",
+      "summary": "知名网页快照服务Archive.today就后续域名解析、反爬抗封锁策略及长期永久链接规范发布调整说明。",
+      "content": "HN Score: 182, Comments: 115"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "AlpineBSD",
+      "title_zh": "AlpineBSD：结合Alpine轻量哲学与BSD内核的新型操作系统",
+      "url": "https://news.ycombinator.com/item?id=50274251",
+      "summary": "开源开发者推出AlpineBSD实验项目，旨在将Alpine Linux的极简包管理体系与FreeBSD稳健内核进行有机融合。",
+      "content": "HN Score: 169, Comments: 152"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "title_zh": "谷歌发布Gemini 4 Carbon大模型：在网络安全防御能力上实现重大飞跃",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "summary": "谷歌正式推出前沿模型Gemini 4 Carbon，重点强化了漏洞挖掘、补丁生成及威胁情报防御等专业安全能力。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "title_zh": "语音AI新浪潮：英伟达发布支持40种语言的Nemotron开源转录大模型",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "summary": "英伟达开源Nemotron 3.5 Transcribe高精度语音转文本大模型，全面支持全球40种语言并开放权重。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "title_zh": "Anthropic推出企业级AI账单透视工具：全面展示算力投资回报细节",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "summary": "在筹备上市之际，Anthropic为企业客户上线精细化用量分析后台，透明呈现模型调用的任务归属与算力ROI表现。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "title_zh": "微软披露商业安排最新细节：已从OpenAI合作中获得100亿美元营收",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "summary": "微软财报首次清晰公布与OpenAI商业协议的丰厚回报，Azure算力转售及技术分成累计贡献已达百亿美元级别。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "title_zh": "随着AI代理重塑网络生态，谷歌向第三方应用开放Gemini与搜索互联接口",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "summary": "谷歌推出全新开发者连接平台，允许企业服务直接无缝融入Gemini智能交互与搜索体验，加速构建代理生态。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "title_zh": "面对传统搜索广告增速放缓，谷歌宣布在全球全面铺开AI搜索广告",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "summary": "Alphabet在第三季度财报中确认，正把由生成式AI驱动的上下文原生搜索广告推向全球所有主要市场。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "title_zh": "微软宣布终止智能电视上的Copilot AI助手支持",
+      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "summary": "在与三星和LG合作将Copilot引入电视大屏两年后，微软决定精简产品线，停止电视端AI助手的运营与功能更新。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "title_zh": "Chrome浏览器强化自动填充：引入Gemini智能检索Gmail订单与表单信息",
+      "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "summary": "Chrome智能自动填充功能全新升级，在用户授权下可跨应用检索Gmail中的航班、快递及订单信息并一键填单。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much more",
+      "title_zh": "Anthropic筹备IPO：风投获利丰厚，但最大赢家仍是持股过半的亚马逊",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "summary": "最新股权可转债披露显示，亚马逊在Anthropic前几轮融资中锁定了巨额优先权益，将在后者IPO时斩获百亿美元级超额回报。",
+      "content": ""
+    }
+  ]
+}
