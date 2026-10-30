@@ -1,0 +1,195 @@
+{
+  "date": "2026-10-30",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "obra/superpowers",
+      "title_zh": "Superpowers智能体技能框架与软件工程方法论",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "面向AI编码代理的核心技能框架与工程方法论，提供严密高效的自动化软件构建流程。",
+      "content": "An agentic skills framework & software development methodology that works.",
+      "stars": "308520"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "HKUDS/DeepTutor",
+      "title_zh": "DeepTutor终身个性化AI导师系统",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "summary": "由香港大学团队开源的终身个性化AI导师，提供深度自适应教学与知识追踪能力。",
+      "content": "DeepTutor: Lifelong Personalized Tutoring.",
+      "stars": "49995"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "pbakaus/impeccable",
+      "title_zh": "Impeccable编程代理设计语言系统",
+      "url": "https://github.com/pbakaus/impeccable",
+      "summary": "为自主编程代理打造的设计词汇与规范体系，助力AI编写美观、无瑕疵的用户界面。",
+      "content": "The design vocabulary for your coding agent. Steer with polish and bolder, revie...",
+      "stars": "95267"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "thedotmack/claude-mem",
+      "title_zh": "Claude Mem持久化上下文管理工具",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "为Claude Code等AI助手提供持久上下文捕获，跨会话保存一切相关信息。",
+      "content": "Persistent Context Across Sessions for Every Agent – Captures everything your agent needs.",
+      "stars": "104759"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "elayadesign/ai-design-skills",
+      "title_zh": "AI设计技能库与前端设计代理框架",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "summary": "专为UI/UX设计师和前端AI代理量身打造的设计系统、交互范式与设计技能合集。",
+      "content": "Curated AI design skills and UI/UX agent capabilities for software builders.",
+      "stars": "12114"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "Donchitos/Claude-Code-Game-Studios",
+      "title_zh": "Claude Code游戏开发工作室框架",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "summary": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, complete game production pipeline.",
+      "content": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, complete game production pipeline.",
+      "stars": "29148"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "CopilotKit/OpenBot",
+      "title_zh": "OpenBot开源AI同事：每个AI都有自己的电脑",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "summary": "开源AI同事团队，每个AI助手都拥有自己专属的浏览器、文件系统和电脑环境。",
+      "content": "Open-source AI coworkers that each get a computer of their own: a browser, files, and more.",
+      "stars": "8125"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "nightly-labs/openbot",
+      "title_zh": "OpenBot本地优先AI团队工作台",
+      "url": "https://github.com/nightly-labs/openbot",
+      "summary": "本地优先的桌面协作空间，用于部署和管理持久AI数字队友与多代理工作流。",
+      "content": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and more.",
+      "stars": "3858"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "JetBrains/thinkrail",
+      "title_zh": "JetBrains ThinkRail轻量级智能IDE",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "summary": "JetBrains推出的轻量级个性化IDE，支持与Pi进行AI原生代码编程与深度定制开发。",
+      "content": "Vibe code with pi in a lightweight, real IDE that customises itself around your workflow.",
+      "stars": "5988"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "milind-soni/OpenMausBot",
+      "title_zh": "OpenMausBot开源Grok Bot替代方案",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "summary": "开源的Grok Bot替代品，为AI机器人提供虚拟机器环境和完整的自主运行能力。",
+      "content": "Open-source Grok Bot alternative with a virtual machine that bots can use.",
+      "stars": "7455"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "title_zh": "Mistral发布Mistral Large 4模型权重开源",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "summary": "Mistral AI正式发布其旗舰大模型Mistral Large 4的开源权重，推动AI研究透明化。",
+      "content": "HN Score: 1153, Comments: 1146"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "title_zh": "AI智能体群体在Minecraft和Mindustry中协作实验",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "summary": "研究团队模拟让AI代理群体在沙盒游戏中进行复杂的多智能体协作与策略推理。",
+      "content": "HN Score: 115, Comments: 38"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Patrick Stewart has died",
+      "title_zh": "Patrick Stewart去世",
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "summary": "著名演员Patrick Stewart于今日去世，享年59岁。",
+      "content": "HN Score: 2195, Comments: 512"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "title_zh": "Binance遭黑客攻击盗窃56亿美元资金",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "summary": "一起高调的加密货币黑客攻击事件，涉及56亿美元的损失。",
+      "content": "HN Score: 566, Comments: 189"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "H.264 Is Magic (2016)",
+      "title_zh": "H.264编码技术：魔法般的视频压缩算法",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "summary": "从技术角度深度剖析H.264视频压缩标准为何能以有限码率实现高质量视频流。",
+      "content": "HN Score: 308, Comments: 98"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "title_zh": "谷歌发布Gemini 4 Carbon大模型：在网络安全防御上实现重大飞跃",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "summary": "谷歌正式推出前沿模型Gemini 4 Carbon，重点强化了漏洞挖掘、补丁生成及威胁情报防御等专业安全能力。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "title_zh": "Anthropic推出企业级AI账单透视工具",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "summary": "Anthropic在筹备上市之际，为企业客户上线精细化用量分析后台，透明呈现模型调用的任务归属与算力ROI表现。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "title_zh": "微软披露从OpenAI合作中获得100亿美元营收",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "summary": "微软财报首次清晰公布与OpenAI商业协议的丰厚回报，Azure算力转售及技术分成累计贡献已达百亿美元级别。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "title_zh": "你可以在Gemini聊天中直接生成和编辑Google Docs文件",
+      "url": "https://www.theverge.com/2026/10/30/gemini-google-docs",
+      "summary": "你可以在Gemini聊天中直接生成和编辑Google Docs文件，AI辅助办公进入新阶段。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title_zh": "AWS将成为万亿美元级企业，亚马逊CEO表示",
+      "url": "https://techcrunch.com/2026/10/30/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "summary": "亚马逊CEOAndy Jassy预测AWS业务规模将突破万亿美元，但当前正加大AI相关大额投资。",
+      "content": ""
+    }
+  ]
+}
