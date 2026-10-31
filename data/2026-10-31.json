@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-31",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "thedotmack/claude-mem",
+      "title_zh": "Claude记忆持久化插件",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "为各类AI智能体提供跨会话的持久上下文：自动记录智能体在会话中的所有操作，用AI压缩后把相关上下文注入后续会话，支持Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode等。",
+      "content": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "stars": "106204"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "milind-soni/OpenMausBot",
+      "title_zh": "OpenMausBot开源Grok机器人替代方案",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "summary": "开源的Grok Bot替代项目，为机器人配备可自主操作的虚拟机环境，让智能体能够像人一样在虚拟桌面中执行任务。",
+      "content": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "stars": "8609"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "pbakaus/impeccable",
+      "title_zh": "Impeccable设计语言工具",
+      "url": "https://github.com/pbakaus/impeccable",
+      "summary": "为编码智能体打造的设计词汇表：用polish和bolder指令引导打磨，用critique和audit做评审，在AI生成的粗糙产物上线前提前拦截问题。",
+      "content": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "stars": "97027"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "CopilotKit/OpenBot",
+      "title_zh": "OpenBot开源AI数字同事",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "summary": "开源的AI数字同事项目，每个智能体都拥有独立的计算机环境（浏览器、文件和工具），所有动作先决策后执行并留痕记录，支持接入任意AG-UI智能体。",
+      "content": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "stars": "8768"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "Renhuai123/ziwei-doushu",
+      "title_zh": "紫微斗数开源排盘引擎",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "summary": "紫微斗数开源排盘引擎，基于倪海厦《天纪》体系，包含完整排盘算法、四化系统、格局知识库与古籍原文数据。",
+      "content": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "stars": "11191"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "expo/skills",
+      "title_zh": "Expo官方AI智能体技能库",
+      "url": "https://github.com/expo/skills",
+      "summary": "面向Expo项目与Expo应用服务（EAS）的AI智能体技能合集，帮助智能体更好地理解和操作Expo生态的开发流程。",
+      "content": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "stars": "3890"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "macro-inc/macro",
+      "title_zh": "Macro一体化团队协作工作台",
+      "url": "https://github.com/macro-inc/macro",
+      "summary": "Macro是面向团队的统一工作台，把邮件、聊天、文档、任务、智能体、通话和CRM整合在一起，通过@关联和共享的AI记忆串联所有工作内容。",
+      "content": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "stars": "5861"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "mattpocock/skills",
+      "title_zh": "面向真实工程师的技能合集",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "来自作者.agents目录的实战技能合集，为真实工程项目中的AI辅助开发提供可直接复用的技能定义。",
+      "content": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": "307458"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "pingdotgg/t3code",
+      "title_zh": "T3 Code智能编程工具",
+      "url": "https://github.com/pingdotgg/t3code",
+      "summary": "pingdotgg团队推出的代码工具项目，面向TypeScript生态，探索AI辅助下的现代开发工作流。",
+      "content": "GitHub repository: pingdotgg/t3code",
+      "stars": "32722"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "HKUDS/DeepTutor",
+      "title_zh": "DeepTutor终身个性化AI导师",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "summary": "DeepTutor是港大数据智能实验室推出的终身个性化AI辅导系统，可根据学习者情况持续提供定制化的教学辅导。",
+      "content": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "stars": "51754"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "title_zh": "Claude Code 的 VS Code 扩展在 Cursor 插件市场被植入后门",
+      "url": "https://news.ycombinator.com/item?id=50300683",
+      "summary": "有开发者在 Cursor 插件市场上发现 Claude Code 的 VS Code 扩展存在恶意后门，引发对AI编程工具供应链安全的广泛担忧。",
+      "content": "HN Score: 732, Comments: 459"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "title_zh": "AI 并没有取代 SRE，而是在削弱他们的能力",
+      "url": "https://news.ycombinator.com/item?id=50305693",
+      "summary": "文章认为AI并未真正替代站点可靠性工程师，反而让工程师逐渐丧失深入排查与系统理解的核心技能，形成隐性风险。",
+      "content": "HN Score: 479, Comments: 355"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Northflank Breached",
+      "title_zh": "Northflank 遭到入侵",
+      "url": "https://news.ycombinator.com/item?id=50305025",
+      "summary": "云开发平台 Northflank 披露安全入侵事件，官方正在调查影响范围并通知受影响用户。",
+      "content": "HN Score: 340, Comments: 258"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "title_zh": "Azure 最薄弱的环节：五起完整的跨租户攻陷",
+      "url": "https://news.ycombinator.com/item?id=50301854",
+      "summary": "安全研究披露 Azure 环境中五起完整的跨租户攻击链，暴露出云平台隔离机制中的薄弱环节。",
+      "content": "HN Score: 257, Comments: 48"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "title_zh": "我最爱的 PowerMac 其实是一台任天堂 Wii",
+      "url": "https://news.ycombinator.com/item?id=50307190",
+      "summary": "作者把一台任天堂 Wii 改装成运行经典 Mac 环境的机器，讲述这段充满折腾乐趣的复古硬件改造经历。",
+      "content": "HN Score: 216, Comments: 55"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "The federated code forge",
+      "title_zh": "联邦式代码托管平台",
+      "url": "https://news.ycombinator.com/item?id=50305573",
+      "summary": "文章探讨联邦式代码协作平台的设计思路，如何让代码托管不再依赖单一中心化服务。",
+      "content": "HN Score: 214, Comments: 69"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "title_zh": "Florilegium：用 LaTeX 程序化生成花卉图案",
+      "url": "https://news.ycombinator.com/item?id=50305637",
+      "summary": "一个用 LaTeX 程序化绘制花卉图案的项目，展示了排版语言在生成艺术领域的意外潜力。",
+      "content": "HN Score: 202, Comments: 35"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Breaking the open web won't stop the bad bots",
+      "title_zh": "打破开放网络并不能阻止恶意爬虫",
+      "url": "https://news.ycombinator.com/item?id=50263837",
+      "summary": "文章反驳以封锁开放网络来对抗恶意机器人的思路，指出这只会伤害正常用户与开放生态，而恶意爬虫依然能找到出路。",
+      "content": "HN Score: 168, Comments: 72"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "title_zh": "通过 Jean-Luc Picard 舰长，Patrick Stewart 教会我们人的尺度",
+      "url": "https://news.ycombinator.com/item?id=50309647",
+      "summary": "一篇关于《星际迷航》与 Patrick Stewart 表演的文章，讨论 Picard 舰长这一角色如何诠释人性与尊严的衡量标准。",
+      "content": "HN Score: 157, Comments: 86"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "title_zh": "苹果智能 Apple Intelligence 将随 iOS 27.3 登陆中国",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "summary": "苹果的AI功能套件终于确定进入中国市场，将随 iOS 27.3 版本一同推出，补齐其在中国区的AI能力布局。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "title_zh": "Sam Altman：内存放在数据中心比放在你桌上更有价值",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "summary": "OpenAI CEO 表示把内存资源集中到数据中心比留在个人设备上更划算，折射出AI算力与硬件资源分配的新思路。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "title_zh": "谷歌的卫星AI服务器向地球传回首个响应",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "summary": "谷歌把AI数据中心送上卫星，并成功完成首次与地面的推理响应传输，验证了太空算力的可行性。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "title_zh": "教皇利奥呼吁为AI“解除武装”：机器是工具，不是人",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "summary": "教皇利奥公开呼吁对AI进行约束与“解除武装”，强调机器只是工具而非具备人格的主体。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "title_zh": "维基百科运营方：糟糕的AI版权裁决可能威胁开放网络",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "summary": "维基媒体基金会警告，一项不利的AI版权判决可能对开放网络与知识共享生态造成连锁冲击。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "title_zh": "Mistral 开源万亿参数模型权重，瞄准网络安全场景",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "summary": "法国AI公司 Mistral 发布其万亿参数模型的权重，重点面向网络安全领域应用，继续押注开放权重路线。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "title_zh": "Anthropic 上市前预计将被评级机构打上“垃圾级”标签",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "summary": "据英国金融时报报道，Anthropic 在IPO前预计会从信用评级机构获得较高的“垃圾级”评级，反映市场对其烧钱模式的担忧。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Cracks are emerging in the AI spending boom",
+      "title_zh": "AI 支出热潮开始出现裂缝",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "summary": "文章指出大规模AI基础设施投入的回报周期正在被质疑，资本市场的热情出现降温迹象。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "title_zh": "Meta 悄然上线 AI 时尚应用 Style Sketch",
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "summary": "Meta 低调推出一款名为 Style Sketch 的AI时尚应用，探索生成式AI在穿搭与造型场景中的落地。",
+      "content": ""
+    }
+  ]
+}
