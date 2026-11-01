@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-01",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "codecrafters-io/build-your-own-x",
+      "title_zh": "从零构建你的技术栈",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "summary": "通过从头重新创建你喜爱的技术来掌握编程技能",
+      "content": "Master programming by recreating your favorite technologies from scratch.",
+      "stars": "557898"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "sindresorhus/awesome",
+      "title_zh": "精选资源大全",
+      "url": "https://github.com/sindresorhus/awesome",
+      "summary": "关于各种有趣主题的精选列表集合",
+      "content": "😎 Awesome lists about all kinds of interesting topics",
+      "stars": "528029"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "public-apis/public-apis",
+      "title_zh": "免费公开 API 大全",
+      "url": "https://github.com/public-apis/public-apis",
+      "summary": "免费可用的公共 API 合集",
+      "content": "A collective list of free APIs",
+      "stars": "493824"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "freeCodeCamp/freeCodeCamp",
+      "title_zh": "freeCodeCamp 开源代码库",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "summary": "免费学习数学、编程和计算机科学的开源课程平台",
+      "content": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars": "458324"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "morluto/rea",
+      "title_zh": "Rea - 智能体逆向工程工具",
+      "url": "https://github.com/morluto/rea",
+      "summary": "利用智能体进行逆向工程，从应用行为深入到原生二进制",
+      "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": "415480"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "title_zh": "HackerTube：基于 HN 推荐视频构建的 YouTube 替代品",
+      "url": "https://news.ycombinator.com/item?id=50319510",
+      "summary": "根据 Hacker News 推荐的视频构建的类 YouTube 平台",
+      "content": "HN Score: 546, Comments: 201"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "title_zh": "TCP Use-After-Free 漏洞：CVE-2026-98432 / CVSS 9.8",
+      "url": "https://news.ycombinator.com/item?id=50319143",
+      "summary": "严重的 TCP 协议栈使用后释放漏洞，CVSS 评分 9.8",
+      "content": "HN Score: 277, Comments: 137"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "title_zh": "意大利农民在阁楼发现神秘种子并种植",
+      "url": "https://news.ycombinator.com/item?id=50320963",
+      "summary": "意大利农民在阁楼发现未知种子并尝试种植的故事",
+      "content": "HN Score: 57, Comments: 16"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "When Electric Cars Were for Women",
+      "title_zh": "当电动车还是女性的专属",
+      "url": "https://news.ycombinator.com/item?id=50321130",
+      "summary": "历史上电动汽车曾被视为女性专用交通工具的时期",
+      "content": "HN Score: 15, Comments: 2"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "It's the Memory Latency, Stupid",
+      "title_zh": "关键在于内存延迟",
+      "url": "https://news.ycombinator.com/item?id=50318720",
+      "summary": "深入分析内存延迟对系统性能的关键影响",
+      "content": "HN Score: 105, Comments: 34"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "title_zh": "算算账：我们如何接管 ChatGPT 账号",
+      "url": "https://news.ycombinator.com/item?id=50314699",
+      "summary": "深度分析 ChatGPT 账号被接管的安全漏洞与攻击手法",
+      "content": "HN Score: 298, Comments: 145"
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "title_zh": "Anthropic 封禁涉及大模型训练相关内容的用户",
+      "url": "https://news.ycombinator.com/item?id=50319358",
+      "summary": "Anthropic 对涉及大模型训练相关内容的用户采取封禁措施",
+      "content": "HN Score: 155, Comments: 59"
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "title_zh": "GPT-5.6 Sol 能在和平模式下通关 Factorio",
+      "url": "https://news.ycombinator.com/item?id=50318871",
+      "summary": "最新 GPT 模型展现出在 Factorio 游戏中自主游玩并通关的能力",
+      "content": "HN Score: 153, Comments: 168"
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Rea - Reverse engineer anything with agents",
+      "title_zh": "Rea - 利用智能体逆向工程任何事物",
+      "url": "https://github.com/morluto/rea",
+      "summary": "基于智能体的逆向工程工具，从应用行为分析到原生二进制分析",
+      "content": "Stars: 415480. Reverse engineer anything with agents, from app behavior down to native binaries."
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Superpowers - Agentic skills framework",
+      "title_zh": "Superpowers - 智能体技能框架",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "智能体技能框架与软件开发方法论，让 AI 智能体更强大",
+      "content": "Stars: 310053. An agentic skills framework & software development methodology that works."
+    }
+  ]
+}
