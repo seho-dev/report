@@ -1,0 +1,276 @@
+{
+  "date": "2026-11-03",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "vercel-labs/agent-desktop",
+      "title_zh": "Vercel Labs推出的AI智能体桌面操作系统与CLI工具",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "summary": "面向AI智能体的计算机使用CLI工具，使AI代理能够自动化操作桌面环境与系统任务。",
+      "content": "Computer use CLI for AI agents",
+      "stars": "9573"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "thedotmack/claude-mem",
+      "title_zh": "Claude-Mem跨会话智能体持久化上下文管理工具",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "为各类AI智能体提供跨会话持久化上下文管理，自动捕获、记忆并调用历史交互信息。",
+      "content": "Persistent Context Across Sessions for Every Agent – Capture",
+      "stars": "110722"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "D4Vinci/Scrapling",
+      "title_zh": "Scrapling全能型现代化网页爬虫与数据提取框架",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "summary": "高性能的自适应网页抓取框架，可高效绕过反爬机制并处理动态渲染页面的数据采集。",
+      "content": "The BEST Web Scraping framework that handles everything",
+      "stars": "92812"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "hyprwm/Hyprland",
+      "title_zh": "Hyprland动态平铺Wayland合成器",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "summary": "基于Wayland的高颜值、高度可定制的动态平铺窗口管理器，支持流畅动效与丰富视觉特效。",
+      "content": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor",
+      "stars": "39910"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "Donchitos/Claude-Code-Game-Studios",
+      "title_zh": "Claude Code游戏工作室多智能体自动化开发系统",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "summary": "将Claude Code打造成全功能游戏开发工作室，内置49个分工协同的AI智能体进行游戏全流程开发。",
+      "content": "Turn Claude Code into a full game dev studio — 49 AI agents",
+      "stars": "33525"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "FlashML-org/FreeToken",
+      "title_zh": "FreeToken桌面级数据中心规模大模型推理服务引擎",
+      "url": "https://github.com/FlashML-org/FreeToken",
+      "summary": "将数据中心级别的模型推理服务能力带到普通桌面端，大幅降低大模型本地部署和调用门槛。",
+      "content": "FreeToken brings datacenter-scale model serving to your desktop",
+      "stars": "16035"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "shiyu-coder/Kronos",
+      "title_zh": "Kronos金融市场语言与时序数据大模型",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "summary": "专为金融市场语言和复杂时序数据设计的开源基础模型，用于金融分析和市场预测。",
+      "content": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": "46006"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "kornia/kornia",
+      "title_zh": "Kornia空间AI与可微几何计算机视觉库",
+      "url": "https://github.com/kornia/kornia",
+      "summary": "基于PyTorch的经典与可微分计算机视觉算子库，专门针对空间计算与机器人视觉任务优化。",
+      "content": "Geometric Computer Vision Library for Spatial AI",
+      "stars": "12123"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "JustVugg/colibri",
+      "title_zh": "Colibri纯C/C++前沿混合专家模型MoE推理引擎",
+      "url": "https://github.com/JustVugg/colibri",
+      "summary": "采用纯C/C++实现的高性能混合专家模型（MoE）推理引擎，可在消费级消费硬件上运行前沿大模型。",
+      "content": "Run frontier MoE models on hardware you already own — pure C/C++",
+      "stars": "46515"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "mattpocock/skills",
+      "title_zh": "Skills工程化AI代码智能体实用技能库",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "面向真实软件工程场景的AI智能体技能集合，直接提取自.agents目录，提升智能体解决复杂代码任务的能力。",
+      "content": "Skills for Real Engineers. Straight from my .agents directory",
+      "stars": "310207"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "WTF Ubuntu?",
+      "title_zh": "开发者社区热议Ubuntu系统维护与更新决策争议",
+      "url": "https://news.ycombinator.com/item?id=50337608",
+      "summary": "HN社区对Ubuntu近期软件包决策与发行版演进方向展开激烈探讨，众多老牌Linux用户分享其迁移至Debian或Arch的经验。",
+      "content": "HN Score: 1262, Comments: 573"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "title_zh": "Subvocal无声人机交互工具：无需出声即可与电脑语音对话",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "summary": "开发者展示了一套基于次声与微肌电信号的无声人机交互工具，用户无需实际发出声音即可与电脑进行高效输入和对话。",
+      "content": "HN Score: 494, Comments: 269"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "If you love a website, back it up",
+      "title_zh": "如果你喜爱一个网站，请务必及时做好本地备份",
+      "url": "https://news.ycombinator.com/item?id=50336518",
+      "summary": "作者呼吁网民在数字时代对心爱的独立网站和优质内容进行自主离线归档，防范因服务器停运或域名过期而造成的内容流失。",
+      "content": "HN Score: 357, Comments: 89"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "title_zh": "严重Linux远程代码执行0day漏洞曝出近三周Ubuntu仍未发布修复补丁",
+      "url": "https://news.ycombinator.com/item?id=50341462",
+      "summary": "安全研究人员指出一个严重的Linux远程代码执行0day漏洞公开已近3周，而Ubuntu官方维护团队仍未向主流版本推送修复补丁。",
+      "content": "HN Score: 271, Comments: 52"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "US boy names that became girl names and vice versa",
+      "title_zh": "数据可视化：美国历史上跨越性别的名字演变趋势",
+      "url": "https://news.ycombinator.com/item?id=50339397",
+      "summary": "一项基于跨越百年的美国婴儿姓名登记数据分析，生动展示了男孩名字逐渐转变为女孩名字（及反向变迁）的文化与统计规律。",
+      "content": "HN Score: 257, Comments: 287"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "title_zh": "开发者全新改版Linux系统调用查询网站与检索API",
+      "url": "https://news.ycombinator.com/item?id=50334704",
+      "summary": "开发者对广受欢迎的Linux系统调用参考网站进行了全面改版，新增按内核版本、架构对比系统调用的结构化API及离线支持。",
+      "content": "HN Score: 200, Comments: 48"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+      "title_zh": "体素华沙：基于三维体素技术构建的波兰华沙市中心交互式地图",
+      "url": "https://news.ycombinator.com/item?id=50339221",
+      "summary": "创作者利用体素艺术与开源地理数据，构建了可交互漫游的华沙市中心3D数字孪生地图，展示了独特的轻量级三维渲染管线。",
+      "content": "HN Score: 193, Comments: 35"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Moving our warehouse off DuckDB",
+      "title_zh": "架构演进思考：我们将数据仓库从DuckDB迁移出去的实践与经验",
+      "url": "https://news.ycombinator.com/item?id=50338747",
+      "summary": "团队分享了在数据规模扩张和并发查询增长过程中，从单机嵌入式DuckDB迁移至分布式分析引擎的技术选型与踩坑复盘。",
+      "content": "HN Score: 150, Comments: 106"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "We halved DNS build delay and cut memory use by 85%",
+      "title_zh": "性能调优实战：我们如何将DNS构建延迟减半并将内存占用降低85%",
+      "url": "https://news.ycombinator.com/item?id=50337558",
+      "summary": "基础设施团队详述通过重构底层数据结构和高效紧凑二进制布局，大幅降低核心DNS生成延迟与内存消耗的性能调优过程。",
+      "content": "HN Score: 130, Comments: 44"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Astra can read and write weights to improve Qwen",
+      "title_zh": "Astra系统支持直接读写模型权重以显著增强Qwen模型表现",
+      "url": "https://news.ycombinator.com/item?id=50341174",
+      "summary": "研究团队公开了一种名为Astra的技术机制，能够直接在推理与微调过程中读写神经网络权重参数，使开源Qwen模型在复杂推理任务上获得大幅提升。",
+      "content": "HN Score: 1707, Comments: 550"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "title_zh": "Anthropic收紧Claude系统提示词限制其克隆受版权保护的游戏",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "summary": "Anthropic更新了Claude Code的系统提示词与安全过滤规则，严厉限制用户利用AI自动化工具直接复刻商业电子游戏的完整代码与资源。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "title_zh": "OpenAI推出电网保护计划倡导自建数据中心发电设施以减轻电网压力",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "summary": "OpenAI宣布启动电网保护者试点计划，拟为新建AI数据中心配套专属能源电厂，在用电高峰期回馈公共电网以保护周边居民用电。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "title_zh": "纽约时报起诉Brave浏览器涉嫌侵权抓取新闻内容并绕过付费墙供AI训练",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "summary": "纽约时报等多家权威媒体向Brave提起侵权诉讼，指控该浏览器利用其AI摘要与检索工具未经授权抓取付费墙背后的文章内容。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "title_zh": "奥特曼回应内存短缺：把RAM集中在云端数据中心比放在个人电脑上更高效",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "summary": "针对全球供应链内存芯片紧张问题，OpenAI首席执行官山姆·奥特曼表示算力与内存在集中式数据中心运行大模型能产生更大社会经济效益。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "title_zh": "OpenAI、谷歌与微软等AI巨头联手推行新型内容防爬虫标准化退出协议",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "summary": "多家前沿AI实验室与科技巨头联合宣布采纳一种新的元数据标记标准，允许内容发布商和创作者一键声明禁止其内容被抓取用于大模型训练。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "title_zh": "谷歌太阳捕手项目配备AI芯片的卫星成功从太空向地面回传首批计算结果",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "summary": "谷歌Suncatcher项目轨道卫星成功运行星载AI处理器并完成实时计算回传，验证了利用轨道太阳能直接支持天基边缘AI算力的可行性。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "title_zh": "Trajectory完成4500万美元融资致力于让非技术业务专家也能轻松训练AI模型",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "summary": "成立仅一年的AI初创企业Trajectory完成新一轮4500万美元融资，估值达3亿美元，其无代码平台旨在降低领域专家的模型微调门槛。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "title_zh": "Anthropic发出前沿警示：大模型已极度接近递归自我改进RSI临界点",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "summary": "Anthropic在最新技术分析中指出，AI辅助自身代码编写与训练设计的递归自我改进（RSI）拐点正在快速逼近，需提前确立严格的安全控制规范。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "title_zh": "42AI完成6250万美元融资正式亮相并发布能预测人类行为的创新世界模型",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "summary": "隐形状态创业公司42AI宣布获得6250万美元融资，推出了一种能够在复杂多智能体社会环境中高精度预测人类行为决策的大型世界模型。",
+      "content": ""
+    }
+  ]
+}
