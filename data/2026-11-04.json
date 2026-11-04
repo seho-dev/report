@@ -1,0 +1,276 @@
+{
+  "date": "2026-11-04",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "thedotmack/claude-mem",
+      "title_zh": "Claude-Mem跨会话AI智能体持久化上下文管理框架",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "为各类AI智能体提供跨会话持久化上下文管理系统，能够自动捕获、组织并记忆长期交互信息，有效解决上下文遗忘难题。",
+      "content": "Persistent Context Across Sessions for Every Agent – Capture",
+      "stars": "111871"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "vercel-labs/agent-desktop",
+      "title_zh": "Vercel Labs推出的AI智能体桌面操作系统与CLI工具",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "summary": "专为AI智能体设计的电脑操作CLI工具，支持智能体模拟屏幕交互与系统命令，自动化执行复杂桌面工作流。",
+      "content": "Computer use CLI for AI agents",
+      "stars": "12669"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "max-sixty/worktrunk",
+      "title_zh": "Worktrunk现代化Git工作树(worktree)管理CLI工具",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "summary": "专为高效分支切换与多任务并行设计的Git worktree命令行工具，极大简化隔离式开发环境的创建与清理。",
+      "content": "Worktrunk is a CLI for Git worktree management, designed for concurrent branching workflows",
+      "stars": "10467"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "JustVugg/colibri",
+      "title_zh": "Colibri前沿混合专家模型(MoE)分层推理引擎",
+      "url": "https://github.com/JustVugg/colibri",
+      "summary": "面向前沿大语言模型MoE架构的高效分层推理引擎，支持热切换与分层缓存，显著降低显存占用并提升高并发吞吐。",
+      "content": "A hierarchical inference engine for frontier MoE models: hot switching and tiering",
+      "stars": "47236"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "mattpocock/skills",
+      "title_zh": "Skills工程师实战AI智能体技能与Prompt模式库",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "资深工程师实战沉淀的AI智能体技能包集合，直接提取自生产环境的.agents目录，涵盖架构规划、重构和测试全流程。",
+      "content": "Skills for Real Engineers. Straight from my .agents directory",
+      "stars": "311419"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "p-e-w/heretic",
+      "title_zh": "Heretic免训练大语言模型定向权重修改工具",
+      "url": "https://github.com/p-e-w/heretic",
+      "summary": "一种无需重训练即可直接干涉和定向调整语言模型权重的技术框架，可精准修改模型内部激活和对齐限制。",
+      "content": "Training-free language model modification: Direct weight intervention and alignment removal",
+      "stars": "38768"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "floci-io/floci",
+      "title_zh": "Floci轻量开源永久免费的AWS本地云服务模拟器",
+      "url": "https://github.com/floci-io/floci",
+      "summary": "轻量级、开源且完全免费的AWS本地开发模拟器，提供LocalStack的高性能平替方案，支持离线测试云架构。",
+      "content": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "stars": "28742"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "Usagi-org/ai-goofish-monitor",
+      "title_zh": "基于Playwright与AI驱动的闲鱼智能监控与多任务管理系统",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "summary": "结合Playwright自动化与大模型分析的二手交易平台实时监控系统，内置可视化后台管理界面，实现高效行情筛选。",
+      "content": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI",
+      "stars": "16339"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "anomalyco/hex",
+      "title_zh": "Hex全平台本地高精度离线语音听写输入工具",
+      "url": "https://github.com/anomalyco/hex",
+      "summary": "支持macOS、Windows与Linux的本地语音听写软件，完全离线运行保护隐私，毫秒级流式转写体验极佳。",
+      "content": "Local voice dictation for mac, windows and linux",
+      "stars": "4564"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "D4Vinci/Scrapling",
+      "title_zh": "Scrapling全能型现代化自适应网页爬虫框架",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "summary": "高性能现代化网页抓取框架，支持自动处理动态渲染、绕过反爬虫校验，并提供简洁强大的数据提取接口。",
+      "content": "The BEST Web Scraping framework that handles everything from dynamic JS to anti-bot systems",
+      "stars": "94783"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "title_zh": "Postman被曝静默自动安装AI插件并尝试收集共享所有API接口数据",
+      "url": "https://news.ycombinator.com/item?id=50346399",
+      "summary": "开发者社区披露Postman在最新更新中默认静默加载AI扩展，并尝试向云端上传API请求与敏感数据，引发开发者的强烈隐私抗议。",
+      "content": "HN Score: 960, Comments: 313"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "title_zh": "技术社区打假：声称Astra能直接读写权重提升千问Qwen表现的帖子严重误导",
+      "url": "https://news.ycombinator.com/item?id=50348712",
+      "summary": "研究人员撰文深入分析揭露前日广为流传的AI权重热修补演示属于概念偷换，并没有真正实现运行期权重自我迭代优化。",
+      "content": "HN Score: 869, Comments: 189"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "title_zh": "硬核极客为了修改车载时钟时间逆向越狱了整套汽车导航系统",
+      "url": "https://news.ycombinator.com/item?id=50342981",
+      "summary": "一位车主因旧款车载系统时区调整功能锁死，不得不通过逆向固件、寻找CAN总线注入漏洞成功越狱整个车机娱乐导航系统。",
+      "content": "HN Score: 570, Comments: 226"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "title_zh": "开发者在个人笔记本上部署通义千问Qwen 3.8 27B实测模型权重自解析能力",
+      "url": "https://news.ycombinator.com/item?id=50344510",
+      "summary": "作者分享了在消费级笔记本上量化运行Qwen 27B模型的实验成果，探讨本地开源大模型在理解神经网络内部状态时的潜能与瓶颈。",
+      "content": "HN Score: 455, Comments: 142"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "title_zh": "技术讨论：若将现代国际象棋引擎移植到奔腾处理器能否在1996年击败卡斯帕罗夫？",
+      "url": "https://news.ycombinator.com/item?id=50341203",
+      "summary": "棋类算法专家通过算力换算与搜索算法效率对比，论证现代Stockfish引擎即便运行在奔腾133MHz硬件上也足以压制当年人类世界冠军。",
+      "content": "HN Score: 432, Comments: 203"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "title_zh": "AI爆发带来海量冷数据归档需求：富士胶片宣布磁带产能扩产5倍",
+      "url": "https://news.ycombinator.com/item?id=50343889",
+      "summary": "随着生成式AI训练与推理产生海量不可删除的历史日志，磁带存储凭借超低能耗与高可靠性迎来复兴，富士磁带产线全负荷扩产。",
+      "content": "HN Score: 353, Comments: 142"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "title_zh": "Stringman开源项目：仅需800美元打造房间级大范围机械臂抓取机器人",
+      "url": "https://news.ycombinator.com/item?id=50345120",
+      "summary": "机器人团队开源了基于绳索悬吊与视觉定位的机械抓手方案，以不足千元成本实现大范围物品分拣与搬运，极大降低学术研究门槛。",
+      "content": "HN Score: 322, Comments: 126"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Mac at Any Scale",
+      "title_zh": "企业级规模化部署Mac设备集群的运维架构与最佳工程实践",
+      "url": "https://news.ycombinator.com/item?id=50347650",
+      "summary": "大型科技公司基础架构团队系统总结了如何管理成千上万台macOS开发机与CI构建节点，覆盖MDM自动化、监控及安全治理。",
+      "content": "HN Score: 299, Comments: 170"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "title_zh": "苹果Safari 27.3版本引入全新自适应深色模式提升暗光浏览体验",
+      "url": "https://news.ycombinator.com/item?id=50340912",
+      "summary": "WebKit团队详细介绍了自适应深色模式算法，不仅能自动反转无深色样式的网页，还能智能识别图像与图表对比度避免视觉失真。",
+      "content": "HN Score: 206, Comments: 133"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+      "title_zh": "便携多功能黑客玩具Flipper One众筹开启：硬件全面升级并开放预购",
+      "url": "https://news.ycombinator.com/item?id=50339841",
+      "summary": "经典安全测试工具Flipper Zero的全新迭代版本Flipper One正式启动Kickstarter众筹，配备更强算力Linux核心与扩展无线频段。",
+      "content": "HN Score: 160, Comments: 74"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "title_zh": "Anthropic正在研发用于验证AI大模型真实身份的可信身份系统",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "summary": "针对API服务商伪造模型、套壳盗用等行业乱象，Anthropic提出基于加密签名与水印校验的数字凭证机制，确保AI模型响应不可篡改。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "title_zh": "OpenAI官方表示ChatGPT原生搜索量高速增长正在快速追赶谷歌搜索",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024890/openai-chatgpt-search-google-market-share",
+      "summary": "OpenAI最新运营数据表明，ChatGPT整合实时网络搜索后的日查询量激增，正在深刻重构用户获取即时信息与解决问题的搜索习惯。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "title_zh": "苹果开放Siri人工智能系统深度接入第三方应用程序API接口",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024888/apple-siri-ai-third-party-app-access",
+      "summary": "苹果在开发者测试版中全面扩展Apple Intelligence权限，允许Siri深入理解第三方应用上下文并在应用间跨软件调度执行自动化任务。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+      "title_zh": "苹果最新watchOS测试版上线常开型音频智能理解与环境感知功能",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024885/apple-watchos-audio-intelligence-always-on",
+      "summary": "watchOS新版利用低功耗神经网络协处理器实现全天候环境声学感知，能自动识别危险警报、睡眠呼吸异常及对话噪音场景。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+      "title_zh": "奈飞Netflix推出全新AI Discover发现标签页提供主题式智能片单推荐",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024881/netflix-ai-discover-tab-recommendations",
+      "summary": "Netflix测试基于生成式推荐引擎的探索界面，用户可以用自然语言描述心情或剧情偏好，由AI即时生成个性化动态片单组合。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Google is entirely disabling Search in schools that don’t want AI",
+      "title_zh": "谷歌在反对AI进校园的学区完全禁用谷歌搜索服务引发教育界热议",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024875/google-disabling-search-schools-no-ai",
+      "summary": "因AI Overviews搜索总结与传统网页搜索紧密绑定且无法单独彻底关闭，谷歌对部分禁止AI生成的K-12学校直接下线整个Google搜索功能。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "title_zh": "AI多模态推理云服务平台Fal完成新一轮融资估值翻倍达160亿美元",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-valuation-16b/",
+      "summary": "由于视频生成模型与图像扩散模型推理请求呈指数级爆发，主打极速无服务器推理的平台Fal营收狂飙，估值跃升至160亿美元。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "title_zh": "AI数据中心面临电网供电瓶颈：多家巨头采购退役航空喷气发动机现场发电",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "summary": "公用电网接入审批动辄等待数年，北美数个算力中心紧急部署改装航改型燃气轮机，利用航空喷气动力直接为高密度GPU集群独立供电。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "title_zh": "看好AI网络安全新机遇：知名风投机构Ballistic募集4.9亿美元新基金",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "summary": "随着AI驱动的自动化漏洞挖掘与深度伪造攻击加剧，网络安全专属风投Ballistic发起近5亿美元规模募资，重点布局防御性AI防御工具。",
+      "content": ""
+    }
+  ]
+}
