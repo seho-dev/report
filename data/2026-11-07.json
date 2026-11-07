@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-07",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "zed-industries/zed",
+      "title_zh": "Zed：高性能多人协作代码编辑器",
+      "url": "https://github.com/zed-industries/zed",
+      "summary": "由 Atom 与 Tree-sitter 创作者打造的高性能协作代码编辑器，主打极速响应体验。",
+      "content": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "stars": "93605"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "NVIDIA/auto-ontology",
+      "title_zh": "NVIDIA 自动本体：图谱语义推理框架",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "summary": "英伟达开源的 Python 框架，用于在数据之上构建语义化图谱推理层，支持确定性查询生成与更可解释的 LLM/Agent 工作流。",
+      "content": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "stars": "8988"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "rails/rails",
+      "title_zh": "Ruby on Rails 全栈开发框架",
+      "url": "https://github.com/rails/rails",
+      "summary": "Ruby on Rails 是经典的 Web 应用全栈开发框架，强调约定优于配置与开发效率。",
+      "content": "Ruby on Rails",
+      "stars": "59022"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "mpv-player/mpv",
+      "title_zh": "mpv：命令行多媒体播放器",
+      "url": "https://github.com/mpv-player/mpv",
+      "summary": "轻量、高度可配置的命令行媒体播放器，支持广泛的音视频格式与脚本扩展。",
+      "content": "🎥 Command line media player",
+      "stars": "37871"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "rust-lang/rust",
+      "title_zh": "Rust 编程语言",
+      "url": "https://github.com/rust-lang/rust",
+      "summary": "Rust 语言及其工具链，帮助所有人构建可靠且高效的软件。",
+      "content": "Empowering everyone to build reliable and efficient software.",
+      "stars": "121436"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "react/react",
+      "title_zh": "React 前端界面库",
+      "url": "https://github.com/react/react",
+      "summary": "用于构建 Web 与原生用户界面的声明式 JavaScript 库。",
+      "content": "The library for web and native user interfaces.",
+      "stars": "252248"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "angular/angular",
+      "title_zh": "Angular 前端框架",
+      "url": "https://github.com/angular/angular",
+      "summary": "谷歌主导的 Web 应用开发框架，帮助团队更有信心地交付大型前端应用。",
+      "content": "Deliver web apps with confidence 🚀",
+      "stars": "101353"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "symfony/symfony",
+      "title_zh": "Symfony PHP 框架",
+      "url": "https://github.com/symfony/symfony",
+      "summary": "成熟稳定的 PHP 组件化 Web 框架，广泛用于企业级后端开发。",
+      "content": "The Symfony PHP framework",
+      "stars": "31425"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "prometheus/prometheus",
+      "title_zh": "Prometheus 监控与时序数据库",
+      "url": "https://github.com/prometheus/prometheus",
+      "summary": "云原生监控系统与时间序列数据库，是 Kubernetes 生态的标准监控方案。",
+      "content": "The Prometheus monitoring system and time series database.",
+      "stars": "67176"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "google/skills",
+      "title_zh": "谷歌 Agent Skills 技能库",
+      "url": "https://github.com/google/skills",
+      "summary": "谷歌官方发布的产品与技术 Agent 技能集合，供 AI 编码代理调用谷歌各项能力。",
+      "content": "Agent Skills for Google products and technologies",
+      "stars": "22822"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Tesla to wind down Cybertruck production",
+      "title_zh": "特斯拉将逐步停产 Cybertruck 电动皮卡",
+      "url": "https://news.ycombinator.com/item?id=50391456",
+      "summary": "由于销量长期不佳，特斯拉宣布将逐步结束 Cybertruck 的生产，这款造型激进的皮卡最终未能打开主流市场。",
+      "content": "HN Score: 796, Comments: 1626"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Deus Ex",
+      "title_zh": "《杀出重围》游戏开发往事",
+      "url": "https://news.ycombinator.com/item?id=50393758",
+      "summary": "数字游戏历史专栏回顾 2000 年经典沉浸式模拟游戏《Deus Ex》的开发历程与设计理念。",
+      "content": "HN Score: 326, Comments: 165"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Gemini Omni 1.2 Flash",
+      "title_zh": "谷歌发布 Gemini Omni 1.2 Flash 模型",
+      "url": "https://news.ycombinator.com/item?id=50392118",
+      "summary": "谷歌开发者博客推出 Gemini Omni 1.2 Flash，主打低成本高速度的多模态推理能力。",
+      "content": "HN Score: 289, Comments: 215"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "title_zh": "让小型模型按需求助大模型，成本降四倍仍达同等准确率",
+      "url": "https://news.ycombinator.com/item?id=50397429",
+      "summary": "Hightouch 分享身份消解场景实践：让小模型在不确定时调用 Opus，实现约四倍成本下降下的同等判准准确率。",
+      "content": "HN Score: 282, Comments: 61"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "title_zh": "美国 FAA 计划 2028 年前淘汰空管系统中的软盘",
+      "url": "https://news.ycombinator.com/item?id=50388001",
+      "summary": "美国联邦航空管理局宣布将在 2028 年前逐步替换空中交通管制系统中仍在使用的软盘介质。",
+      "content": "HN Score: 257, Comments: 205"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "title_zh": "Anthropic IPO 认购方估值预期低至 1.1 万亿美元",
+      "url": "https://news.ycombinator.com/item?id=50394906",
+      "summary": "彭博社报道，在 AI 板块回调后，Anthropic 上市认购方对其估值预期被压低至最低约 1.1 万亿美元。",
+      "content": "HN Score: 202, Comments: 455"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "First steps in bare-metal programming using UEFI",
+      "title_zh": "用 UEFI 迈出裸机编程第一步",
+      "url": "https://news.ycombinator.com/item?id=50394855",
+      "summary": "一篇面向初学者的实践指南，介绍如何借助 UEFI 环境在没有操作系统的情况下编写并运行第一段裸机程序。",
+      "content": "HN Score: 170, Comments: 31"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "AI is dramatically accelerating AI research",
+      "title_zh": "AI 正在大幅加速 AI 自身的研究",
+      "url": "https://news.ycombinator.com/item?id=50397994",
+      "summary": "文章探讨 AI 系统如何被用于加速 AI 研究本身，分析这一自我强化循环带来的效率提升与潜在风险。",
+      "content": "HN Score: 164, Comments: 120"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "title_zh": "Firecracker 虚拟机逃逸漏洞分析（第二部分）",
+      "url": "https://news.ycombinator.com/item?id=50397219",
+      "summary": "安全团队披露 Firecracker 微虚拟机逃逸利用链的第二部分技术细节，涉及 AWS Lambda 隔离边界。",
+      "content": "HN Score: 144, Comments: 68"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "title_zh": "OpenAI 据称再融资 110 亿美元，估值达 1.25 万亿美元",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "summary": "据报道 OpenAI 完成额外 110 亿美元融资，公司估值升至约 1.25 万亿美元。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
+      "title_zh": "Ripple-65B Preview：完全 Apache 2.0 开源美国模型，代理编程表现强劲",
+      "url": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
+      "summary": "The Decoder 报道 Ripple-65B Preview 在代理式编程任务上表现优异，并以完全 Apache 2.0 许可开源。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "title_zh": "Underdog 展示 32MB 超小型语音模型",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "summary": "Underdog 演示了一个仅 32MB 的语音模型，展示端侧部署的极致轻量化方案。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "title_zh": "Claude 新增个人财务分析工具",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "summary": "Anthropic 为 Claude 推出个人财务功能，可分析用户的消费记录并给出财务建议。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "title_zh": "Meta 推出 Spaces：与 Muse 智能体协作的新方式",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "summary": "Meta 正式发布 Spaces 功能，让用户可以与自己的 Muse 智能体在专属空间中协同工作。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "title_zh": "Axiom Math 希望把 AI 垃圾挡在数学之外",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "summary": "Axiom Math 致力于用形式化方法确保 AI 生成的数学内容正确可信。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "title_zh": "Dropbox 以 3.5 亿美元收购 Tigris Data",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "summary": "Dropbox 收购数据基础设施公司 Tigris Data，以强化其 AI 相关存储与基础设施能力。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "title_zh": "Palo Alto Networks 洽谈以 5 亿美元收购 AI 智能体安全公司 Clutch",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "summary": "网安巨头 Palo Alto Networks 正洽谈收购专注 AI 代理安全的初创公司 Clutch，交易金额或达 5 亿美元。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "All the latest updates on AI data centers",
+      "title_zh": "AI 数据中心最新进展汇总",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "summary": "The Verge 汇总 AI 数据中心在能源、电力与地方政治层面的最新动态。",
+      "content": ""
+    }
+  ]
+}
