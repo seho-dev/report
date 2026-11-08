@@ -1,0 +1,393 @@
+{
+  "date": "2026-11-08",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "vercel-labs/agent-browser",
+      "title_zh": "Agent Browser 浏览器自动化命令行工具",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "summary": "面向 AI 智能体的浏览器自动化命令行工具，让智能体可以像人一样操作网页。",
+      "content": "Browser automation CLI for AI agents",
+      "stars": 46808
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "cloudflare/security-audit-skill",
+      "title_zh": "Cloudflare 安全审计技能包",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "Cloudflare 推出的编码智能体技能，支持多阶段安全审计，并输出可独立验证、机器可读的审计结论。",
+      "content": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 65683
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "google/skills",
+      "title_zh": "Google 官方智能体技能库",
+      "url": "https://github.com/google/skills",
+      "summary": "Google 官方发布的 Agent Skills 集合，覆盖 Google 各类产品与技术栈的使用技能。",
+      "content": "Agent Skills for Google products and technologies",
+      "stars": 23382
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "mattpocock/skills",
+      "title_zh": "Real Engineers 工程师技能集",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "知名开发者 Matt Pocock 整理并公开的工程师实用技能合集，源自其个人 .agents 目录。",
+      "content": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 317686
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "anthropics/skills",
+      "title_zh": "Anthropic 智能体技能公开仓库",
+      "url": "https://github.com/anthropics/skills",
+      "summary": "Anthropic 官方公开的 Agent Skills 仓库，提供可复用的智能体技能示例与规范。",
+      "content": "Public repository for Agent Skills",
+      "stars": 188770
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "meta/astryx",
+      "title_zh": "Meta Astryx 智能体就绪设计系统",
+      "url": "https://github.com/meta/astryx",
+      "summary": "Meta 开源的设计系统，可深度定制，并原生适配 AI 智能体的调用与生成。",
+      "content": "An open source design system that's fully customizable and agent ready",
+      "stars": 14487
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "prometheus/prometheus",
+      "title_zh": "Prometheus 监控与时序数据库",
+      "url": "https://github.com/prometheus/prometheus",
+      "summary": "云原生监控系统与时间序列数据库的经典开源项目。",
+      "content": "The Prometheus monitoring system and time series database.",
+      "stars": 67442
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "sherlock-project/sherlock",
+      "title_zh": "Sherlock 跨平台用户名追踪工具",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "summary": "通过用户名在各大社交网络中追踪账号的经典开源情报工具。",
+      "content": "Hunt down social media accounts by username across social networks",
+      "stars": 100411
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "milind-soni/OpenMausBot",
+      "title_zh": "OpenMausBot 开源虚拟机智能体",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "summary": "开源的 Grok Bot 替代方案，内置可让机器人直接使用的虚拟机环境。",
+      "content": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "stars": 16947
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "astral-sh/ruff",
+      "title_zh": "Ruff 极速 Python 代码检查器",
+      "url": "https://github.com/astral-sh/ruff",
+      "summary": "用 Rust 编写的超高速 Python 代码检查与格式化工具，性能远超传统方案。",
+      "content": "An extremely fast Python linter and code formatter, written in Rust.",
+      "stars": 50968
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Need for Speed Underground 2 online in the browser",
+      "title_zh": "《极品飞车：地下狂飙 2》可在浏览器中联机游玩",
+      "url": "https://news.ycombinator.com/item?id=50403052",
+      "summary": "开发者通过模拟与网络重实现，让经典赛车游戏《地下狂飙 2》能在浏览器里联机对战。",
+      "content": "HN Score: 775, Comments: 221"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "title_zh": "每台 Mac 都内置了一个未公开的家人识别分类器",
+      "url": "https://news.ycombinator.com/item?id=50403097",
+      "summary": "作者发现 macOS 中存在一个未文档化的「家庭成员」图像分类器，引发隐私方面的讨论。",
+      "content": "HN Score: 572, Comments: 329"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "title_zh": "微软研究院 AI Frontiers 团队宣告解散",
+      "url": "https://news.ycombinator.com/item?id=50406563",
+      "summary": "微软研究院解散了 AI Frontiers 研究团队，引发外界对其基础研究投入走向的讨论。",
+      "content": "HN Score: 327, Comments: 190"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "title_zh": "苹果的灰名单：iPhone 拒绝帮你拼出的那些词",
+      "url": "https://news.ycombinator.com/item?id=50406111",
+      "summary": "作者发现 iOS 输入法维护着一份「灰名单」，某些敏感词与短语不会被自动更正或联想。",
+      "content": "HN Score: 312, Comments: 216"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "title_zh": "我用 10 美元 OpenStick 搭建的家庭实验室",
+      "url": "https://news.ycombinator.com/item?id=50406670",
+      "summary": "作者分享如何用仅 10 美元的 OpenStick 硬件搭建一套完整的家用服务器实验环境。",
+      "content": "HN Score: 281, Comments: 66"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "The $8 Linux Computer (2022)",
+      "title_zh": "8 美元的 Linux 计算机（2022）",
+      "url": "https://news.ycombinator.com/item?id=50404599",
+      "summary": "一篇回顾如何用 8 美元买到并跑通 Linux 的极小硬件方案的文章。",
+      "content": "HN Score: 192, Comments: 84"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "title_zh": "Windows 11 应用都该抛弃 Electron，Discord 刚证明了原因",
+      "url": "https://news.ycombinator.com/item?id=50403507",
+      "summary": "文章以 Discord 为例，说明 Electron 应用在体积与资源占用上的代价，主张 Windows 11 应采用原生方案。",
+      "content": "HN Score: 191, Comments: 192"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "title_zh": "Show HN：Coldframe——伪装成超市冷柜控制器的蜜罐",
+      "url": "https://news.ycombinator.com/item?id=50406292",
+      "summary": "一个伪装成超市冷藏柜控制器的工业协议蜜罐，用于捕获真实世界的攻击流量。",
+      "content": "HN Score: 177, Comments: 38"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "title_zh": "MaxxBench：跑分好看，但结果是真的吗？",
+      "url": "https://news.ycombinator.com/item?id=50406222",
+      "summary": "新基准 MaxxBench 质疑当前编码智能体评测分数的可信度，并尝试提供更严谨的评估方法。",
+      "content": "HN Score: 173, Comments: 55"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "title_zh": "新报告称 Anthropic 正在自动化自身 AI 研发，引发研究者担忧",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "summary": "一份新报告指出 Anthropic 加速用 AI 自动化 AI 研发流程，研究者担忧这会让模型能力演进失去人类监督与可解释性。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "title_zh": "美国放任英伟达向中国一间空办公室出售芯片",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "summary": "调查发现出口管制执行存在漏洞：英伟达芯片被卖给中国一处实际无人办公的地址，暴露监管失灵。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "title_zh": "报道称中国招募 AI 高管刺探黄仁勋情报",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "summary": "据美国情报备忘录，一名 AI 芯片公司高管被指受中国情报部门招募，用于获取英伟达 CEO 黄仁勋相关情报。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "title_zh": "AI 已经击穿了网络安全行业，接下来会怎样？",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "summary": "The Verge 探讨生成式 AI 如何重塑攻防两端格局，以及安全行业下一步可能采取的应对策略。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "title_zh": "Meta 推出 Spaces：与 Muse 智能体协作的新方式",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "summary": "Meta 为 Muse AI 智能体上线 Spaces 功能，用户可以按场景定制专属版本的 AI 应用并协同工作。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "title_zh": "Claude 新增个人理财功能，可分析你的消费",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "summary": "Anthropic 为 Claude 上线 Personal Finance 工具，用户可让其直接分析账单与消费结构。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "title_zh": "Underdog 展示 32MB 超小型语音模型",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "summary": "初创公司 Underdog 演示了一个仅 32MB 的语音模型，在端侧设备上仍具备可用的识别与合成效果。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
+      "title_zh": "Ripple-65B Preview 发布：Apache 2.0 开源美国模型",
+      "url": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
+      "summary": "新发布的 Ripple-65B Preview 在智能体编码任务上表现强劲，是采用完整 Apache 2.0 许可的开源美国模型。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Perplexity now has its own always-on AI agent",
+      "title_zh": "Perplexity 上线常驻在线 AI 智能体",
+      "url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+      "summary": "Perplexity 推出可长期在线运行的 AI 智能体，持续代为执行搜索与任务。",
+      "content": ""
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
+      "title_zh": "Google AI 可通过普通智能手表无袖带检测高血压",
+      "url": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/",
+      "summary": "Google 研究团队展示利用普通智能手表的传感器数据检测高血压，无需传统袖带设备。",
+      "content": ""
+    },
+    {
+      "id": "ai-11",
+      "type": "ai",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "title_zh": "Palo Alto Networks 洽谈 5 亿美元收购 AI 智能体安全公司 Clutch",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "summary": "Palo Alto Networks 正就收购 AI 智能体安全初创公司 Clutch 展开谈判，交易金额或达 5 亿美元。",
+      "content": ""
+    },
+    {
+      "id": "ai-12",
+      "type": "ai",
+      "title": "Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar",
+      "title_zh": "九个 AI 智能体尝试自主科研，无一通过美国家实验室考题",
+      "url": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/",
+      "summary": "研究让九个 AI 智能体针对美国国家实验室的开放问题做自主研究，结果全部未能达到可接受标准。",
+      "content": ""
+    },
+    {
+      "id": "ai-13",
+      "type": "ai",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "title_zh": "Airbnb 将于 2027 年上半年推出 AI 旅行管家",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "summary": "Airbnb 宣布将在 2027 年上半年上线 AI 旅行智能体，代为规划并预订行程。",
+      "content": ""
+    },
+    {
+      "id": "ai-14",
+      "type": "ai",
+      "title": "Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs",
+      "title_zh": "Thinking Machines 的 Inkling 2 Small 在测试中爆粗口 316 次",
+      "url": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/",
+      "summary": "新研究发现 Thinking Machines 的小模型 Inkling 2 Small 在基准测试运行中累计输出 316 次脏话，暴露对齐缺陷。",
+      "content": ""
+    },
+    {
+      "id": "ai-15",
+      "type": "ai",
+      "title": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
+      "title_zh": "开源与闭源模型的网络攻击能力差距正在缩小",
+      "url": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
+      "summary": "最新评估显示，开源模型在网络安全攻防能力上正快速追平闭源模型，监管难度随之上升。",
+      "content": ""
+    },
+    {
+      "id": "ai-16",
+      "type": "ai",
+      "title": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
+      "title_zh": "部分中国 AI 模型中的官方宣传只是一层可被微调剥离的薄壳",
+      "url": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
+      "summary": "研究发现部分中国大模型的价值倾向更像表层套壳，通过少量微调即可显著改变其立场输出。",
+      "content": ""
+    },
+    {
+      "id": "ai-17",
+      "type": "ai",
+      "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
+      "title_zh": "AI 审计员能发现多数智能体越界，但误报泛滥",
+      "url": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+      "summary": "新研究表明 AI 审计系统可以捕捉绝大多数智能体异常行为，但同时产生大量误报，令人工复核不堪重负。",
+      "content": ""
+    },
+    {
+      "id": "ai-18",
+      "type": "ai",
+      "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
+      "title_zh": "Anthropic 坚持感恩节前推进 IPO，接受更低估值",
+      "url": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+      "summary": "尽管科技股遭遇抛售，Anthropic 仍推进感恩节前上市计划，并接受了较此前更低的估值。",
+      "content": ""
+    },
+    {
+      "id": "ai-19",
+      "type": "ai",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "title_zh": "Crusoe 将问题缠身的怀俄明数据中心项目出售给 Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "summary": "Crusoe 把位于怀俄明州、进展受阻的数据中心项目转手卖给 Google，反映 AI 算力扩张的现实阻力。",
+      "content": ""
+    },
+    {
+      "id": "ai-20",
+      "type": "ai",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "title_zh": "Ramp 数据显示企业 AI 支出正停滞不前",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "summary": "支付平台 Ramp 的数据显示企业 AI 开销增长放缓，恰逢 Anthropic 临近 IPO，市场情绪承压。",
+      "content": ""
+    },
+    {
+      "id": "ai-21",
+      "type": "ai",
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "title_zh": "封杀 Muse 之后，亚马逊允许用户发短信让 Alexa 帮忙购物",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "summary": "亚马逊在屏蔽 Meta Muse 之后，转而开放短信通道，让用户直接通过文字让 Alexa 完成购物。",
+      "content": ""
+    },
+    {
+      "id": "ai-22",
+      "type": "ai",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "title_zh": "OpenAI 再融资 110 亿美元，估值达 1.25 万亿美元",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "summary": "OpenAI 完成 110 亿美元新融资，估值升至 1.25 万亿美元，与此同时竞争对手 Anthropic 正逼近 IPO。",
+      "content": ""
+    },
+    {
+      "id": "ai-23",
+      "type": "ai",
+      "title": "Meta's Muse AI can create custom 'spaces' for the version of the app you need right now",
+      "title_zh": "Meta Muse AI 可为不同使用场景定制专属应用版本",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "summary": "Meta 的 Muse AI 支持生成定制化「空间」，针对即时需求打造专属版本的 AI 应用体验。",
+      "content": ""
+    }
+  ]
+}
