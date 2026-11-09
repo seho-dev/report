@@ -1,0 +1,330 @@
+{
+  "date": "2026-11-09",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "sherlock-project/sherlock",
+      "title_zh": "Sherlock社交媒体账号追踪工具",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "summary": "跨社交网络按用户名搜索并定位社交媒体账号的开源情报工具",
+      "content": "Hunt down social media accounts by username across social networks",
+      "stars": 103406
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "dsx-ai-factory/nvke",
+      "title_zh": "NVKE英伟达Kubernetes引擎",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "summary": "英伟达开源的GPU Kubernetes管理平面，用于裸金属环境调度GPU集群",
+      "content": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "stars": 834
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "milind-soni/OpenMausBot",
+      "title_zh": "OpenMausBot开源机器人",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "summary": "开源的Grok Bot替代方案，内置可被机器人操作的虚拟机环境",
+      "content": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "stars": 18215
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "anthropics/claude-quickstarts",
+      "title_zh": "Anthropic Claude快速上手项目集",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "summary": "帮助开发者用Claude API快速构建可部署应用的示例项目合集",
+      "content": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "stars": 19401
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "vercel-labs/agent-browser",
+      "title_zh": "Vercel智能体浏览器CLI",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "summary": "面向AI智能体的浏览器自动化命令行工具",
+      "content": "Browser automation CLI for AI agents",
+      "stars": 47559
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "meta/astryx",
+      "title_zh": "Meta Astryx设计系统",
+      "url": "https://github.com/meta/astryx",
+      "summary": "Meta开源的可完全自定义、面向智能体友好的设计系统",
+      "content": "An open source design system that's fully customizable and agent ready",
+      "stars": 16659
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "anthropics/skills",
+      "title_zh": "Anthropic智能体技能库",
+      "url": "https://github.com/anthropics/skills",
+      "summary": "Anthropic官方Agent Skills公开仓库，收录可复用的技能定义",
+      "content": "Public repository for Agent Skills",
+      "stars": 189605
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "google-deepmind/mujoco",
+      "title_zh": "DeepMind MuJoCo物理引擎",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "summary": "多关节动力学与接触仿真引擎，通用物理模拟器",
+      "content": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "stars": 16392
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "ranxianglei/billion-context",
+      "title_zh": "billion-context上下文压缩插件",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "summary": "上下文压缩插件，支持月级超长会话与小窗口省钱运行",
+      "content": "A context-compression plugin for month-long single sessions (billions of tokens), small context windows (a 100K context is enough) and token savings (5x fewer tokens).",
+      "stars": 5121
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "title_zh": "从零开始的AI工程教程",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "summary": "从零学习并动手构建AI工程项目的开源教程",
+      "content": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "stars": 77809
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "title_zh": "KetchUp：基于Rust与WebGPU的开源SketchUp替代品",
+      "url": "https://news.ycombinator.com/item?id=50418176",
+      "summary": "用Rust和WebGPU实现的开源三维建模工具，对标SketchUp",
+      "content": "HN Score: 66, Comments: 5"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "title_zh": "HN讨论：2026年11月你在做什么项目？",
+      "url": "https://news.ycombinator.com/item?id=50417407",
+      "summary": "Hacker News月度项目分享帖，开发者交流各自正在推进的工作",
+      "content": "HN Score: 85, Comments: 350"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Chimera Vocal Synth",
+      "title_zh": "Chimera人声合成器",
+      "url": "https://news.ycombinator.com/item?id=50418182",
+      "summary": "一款网页端人声合成工具，可实时合成歌唱声音",
+      "content": "HN Score: 35, Comments: 7"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "title_zh": "Dux：免费开源的Wayland桌面Shell",
+      "url": "https://news.ycombinator.com/item?id=50416053",
+      "summary": "自带文件管理器与主题定制的开源Wayland桌面环境",
+      "content": "HN Score: 162, Comments: 52"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Declarative Dragging",
+      "title_zh": "声明式拖拽交互方案",
+      "url": "https://news.ycombinator.com/item?id=50368481",
+      "summary": "介绍以声明式方式实现拖拽交互的前端技术方案",
+      "content": "HN Score: 276, Comments: 33"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "title_zh": "高盛要求银行家与交易员停用Claude Code",
+      "url": "https://news.ycombinator.com/item?id=50415628",
+      "summary": "高盛正从业务团队撤出Claude Code，反映金融机构对AI编码工具的合规顾虑",
+      "content": "HN Score: 542, Comments: 329"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "title_zh": "Outlook.com开始静默拒收未配置DMARC的域名邮件",
+      "url": "https://news.ycombinator.com/item?id=50416158",
+      "summary": "微软邮箱服务对缺少DMARC记录的域名实施静默拒收，邮件送达率面临新挑战",
+      "content": "HN Score: 200, Comments: 161"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "title_zh": "Paul Ford：Web已经足够",
+      "url": "https://news.ycombinator.com/item?id=50416456",
+      "summary": "作家Paul Ford撰文探讨开放Web的价值与未来走向",
+      "content": "HN Score: 49, Comments: 23"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "title_zh": "英伟达CEO黄仁勋就绯闻致员工内部信",
+      "url": "https://news.ycombinator.com/item?id=50418016",
+      "summary": "黄仁勋向全体员工发信回应个人关系争议，公司同时启动调查",
+      "content": "HN Score: 240, Comments: 236"
+    },
+    {
+      "id": "hn-10",
+      "type": "hn",
+      "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+      "title_zh": "Herb Sutter：当语言创造者与语言所有者严重分歧",
+      "url": "https://news.ycombinator.com/item?id=50418818",
+      "summary": "C++之父Herb Sutter关于语言治理分歧的论文",
+      "content": "HN Score: 5, Comments: 0"
+    },
+    {
+      "id": "hn-11",
+      "type": "hn",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "title_zh": "llama-modchip：无GPU在64GB内存跑284B DeepSeek",
+      "url": "https://news.ycombinator.com/item?id=50411961",
+      "summary": "开源项目演示用普通内存机器运行284B参数DeepSeek模型的方案",
+      "content": "HN Score: 343, Comments: 143"
+    },
+    {
+      "id": "hn-12",
+      "type": "hn",
+      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
+      "title_zh": "爱德华·霍普名作《夜游者》背后的故事",
+      "url": "https://news.ycombinator.com/item?id=50372838",
+      "summary": "讲述经典画作《夜游者》创作背景与艺术解读的文章",
+      "content": "HN Score: 59, Comments: 19"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "title_zh": "黄仁勋致英伟达全体员工备忘录全文",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "summary": "The Verge刊出黄仁勋就个人关系争议发给英伟达员工的完整内部信",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "title_zh": "英伟达调查黄仁勋与中国间谍的关系",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "summary": "英伟达董事会宣布就CEO与Megaspeed高管的关系启动独立调查",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Apple is racing to make Siri more agentic",
+      "title_zh": "苹果加速让Siri更具智能体能力",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "summary": "彭博社称苹果CEO施压AI负责人加快Siri路线图，以对标OpenAI与Meta的助手",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "title_zh": "猫王与Eminem版权方起诉Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "summary": "音乐版权方指控AI音乐公司Suno非法生成模仿知名艺人的歌曲与歌词",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "title_zh": "Anthropic用AI自动化AI研发引研究者担忧",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "summary": "METR报告称Anthropic模型自我改进速度约为一年前两倍，引发安全担忧",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "title_zh": "OpenAI估值达1.25万亿美元",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "summary": "OpenAI新一轮融资再募110亿美元，估值升至1.25万亿美元",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "title_zh": "Crusoe将怀俄明问题数据中心项目出售给谷歌",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "summary": "该交易凸显建设超大规模AI数据中心的现实挑战",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "title_zh": "Meta推出Spaces，与Muse智能体协作新方式",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "summary": "Meta为Muse智能体新增Spaces功能，提供新的AI助手交互形态",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "title_zh": "Ramp数据显示AI支出停滞，恰逢Anthropic临近IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "summary": "AI使用量持续上升但支出停涨，降价与成本控制或动摇高增长预期",
+      "content": ""
+    },
+    {
+      "id": "ai-10",
+      "type": "ai",
+      "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+      "title_zh": "Karpathy用一个周末打造精选视频平台",
+      "url": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
+      "summary": "Karpathy借助Claude与20年Hacker News数据，在周末做出精选视频平台",
+      "content": ""
+    },
+    {
+      "id": "ai-11",
+      "type": "ai",
+      "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
+      "title_zh": "实测：AI编码智能体近四分之三任务仍需人工返工",
+      "url": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
+      "summary": "真实场景测试显示AI编码智能体产出的代码仍需大量人工修正",
+      "content": ""
+    },
+    {
+      "id": "ai-12",
+      "type": "ai",
+      "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
+      "title_zh": "Anthropic坚持感恩节前IPO并接受更低估值",
+      "url": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+      "summary": "尽管科技股遭抛售，Anthropic仍推进上市进程并下调估值预期",
+      "content": ""
+    },
+    {
+      "id": "ai-13",
+      "type": "ai",
+      "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
+      "title_zh": "苦涩教训提出者对LLM规模化再提苦涩教训",
+      "url": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
+      "summary": "Richard Sutton对当前大模型靠算力扩张的路线提出质疑",
+      "content": ""
+    }
+  ]
+}
