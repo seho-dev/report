@@ -363,7 +363,7 @@
         </main>
 
         <footer>
-            <p>© 2026 技术日报 · <a href="#">关于</a></p>
+            <p>© 2026 技术日报 · <a href="#" target="_blank" rel="noopener noreferrer">关于</a></p>
         </footer>
     </div>
 
@@ -579,11 +579,24 @@
                 .trim();
         }
 
+        // 所有链接默认在新标签页打开
+        const linkRenderer = new marked.Renderer();
+        linkRenderer.link = function (token) {
+            // marked v12 传对象，旧版本传 (href, title, text)
+            const isLegacy = typeof token === 'string';
+            const href = isLegacy ? token : token.href;
+            const title = isLegacy ? arguments[1] : token.title;
+            const text = isLegacy ? arguments[2] : this.parser.parseInline(token.tokens);
+            const titleAttr = title ? ` title="${title}"` : '';
+            return `<a href="${href}"${titleAttr} target="_blank" rel="noopener noreferrer">${text}</a>`;
+        };
+
         function parseMarkdown(content) {
             if (!content) return '';
             return marked.parse(content, {
                 breaks: true,
-                gfm: true
+                gfm: true,
+                renderer: linkRenderer
             });
         }
 
