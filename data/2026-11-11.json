@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-11",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "meta/astryx",
+      "title_zh": "Meta开源AstrX设计系统",
+      "url": "https://github.com/meta/astryx",
+      "summary": "Meta开源的完全可定制、面向AI智能体的设计系统。",
+      "content": "An open source design system that's fully customizable and agent ready",
+      "stars": 22730
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "anthropics/skills",
+      "title_zh": "Anthropic官方Agent技能仓库",
+      "url": "https://github.com/anthropics/skills",
+      "summary": "Anthropic公开的Agent Skills仓库，收录可复用的智能体技能定义。",
+      "content": "Public repository for Agent Skills",
+      "stars": 192284
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "addyosmani/agent-skills",
+      "title_zh": "Addy Osmani的AI编码智能体技能集",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "面向AI编码智能体的生产级工程技能集合。",
+      "content": "Production-grade engineering skills for AI coding agents.",
+      "stars": 115135
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "anthropics/claude-quickstarts",
+      "title_zh": "Claude API快速入门示例集",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "summary": "一组帮助开发者用Claude API快速搭建可部署应用的项目合集。",
+      "content": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "stars": 20477
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "google-deepmind/mujoco",
+      "title_zh": "DeepMind MuJoCo物理仿真引擎",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "summary": "支持多关节接触动力学的通用物理仿真器。",
+      "content": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "stars": 17338
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "we-promise/sure",
+      "title_zh": "Sure开源个人理财应用",
+      "url": "https://github.com/we-promise/sure",
+      "summary": "面向所有人、由社区共同打造的开源个人财务应用。",
+      "content": "The personal finance app for everyone (by everyone)",
+      "stars": 11907
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "homeassistant-ai/ha-mcp",
+      "title_zh": "Home Assistant智能家居MCP服务",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "summary": "用Claude、ChatGPT等AI助手来配置和自动化Home Assistant。",
+      "content": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "stars": 6625
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "vercel-labs/agent-browser",
+      "title_zh": "Vercel智能体浏览器工具",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "summary": "Vercel Labs推出的面向AI智能体的浏览器自动化命令行工具。",
+      "content": "Browser automation CLI for AI agents",
+      "stars": 49184
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "sherlock-project/sherlock",
+      "title_zh": "Sherlock社交媒体账号追踪工具",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "summary": "通过用户名在各大社交网络中定位对应账号的开源情报工具。",
+      "content": "Hunt down social media accounts by username across social networks",
+      "stars": 108922
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "tokio-rs/topcoat",
+      "title_zh": "Tokio Topcoat Web框架",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "summary": "Tokio团队推出的开箱即用的Rust Web应用框架。",
+      "content": "A batteries-included framework for building web apps",
+      "stars": 6791
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Smart home devices should work without the internet",
+      "title_zh": "智能家居设备应当离线可用",
+      "url": "https://news.ycombinator.com/item?id=50441707",
+      "summary": "作者复盘自家智能家居一夜全线失灵的踩坑经历，主张设备必须具备本地可用能力，而不是强依赖云端。",
+      "content": "HN Score: 649, Comments: 230"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": ".name Grandfathered",
+      "title_zh": "“.name”域名被祖父条款保住",
+      "url": "https://news.ycombinator.com/item?id=50442736",
+      "summary": "开发者讲述自己早年注册的 .name 域名因历史祖父条款而保留下来的一段曲折经历。",
+      "content": "HN Score: 636, Comments: 140"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "title_zh": "Blender 5.3发布，原生支持高斯泼溅",
+      "url": "https://news.ycombinator.com/item?id=50442426",
+      "summary": "Blender 5.3正式发布，新增对高斯泼溅（Gaussian Splatting）的原生支持，并带来一批渲染与工作流改进。",
+      "content": "HN Score: 411, Comments: 58"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Val Town is winding down",
+      "title_zh": "Val Town宣布逐步关停",
+      "url": "https://news.ycombinator.com/item?id=50443427",
+      "summary": "在线脚本托管平台 Val Town 官方博客宣布即将停止运营，社区讨论云服务生命周期与数据迁移问题。",
+      "content": "HN Score: 278, Comments: 75"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Ableton Live 13",
+      "title_zh": "Ableton Live 13发布",
+      "url": "https://news.ycombinator.com/item?id=50439695",
+      "summary": "Ableton 发布 Live 13，音乐制作社区热议其新功能、性能表现与升级价值。",
+      "content": "HN Score: 263, Comments: 281"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "title_zh": "Synaptics专利主张导致DisplayLink驱动开发停摆",
+      "url": "https://news.ycombinator.com/item?id=50443824",
+      "summary": "LWN报道：Synaptics 的专利主张迫使 DisplayLink 驱动相关工作停止，引发对开源驱动与专利风险的讨论。",
+      "content": "HN Score: 263, Comments: 121"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+      "title_zh": "丰田Scion品牌复活，将在美国卖kei小卡车",
+      "url": "https://news.ycombinator.com/item?id=50445401",
+      "summary": "丰田宣布复活已停产的 Scion 子品牌，首款产品是在美国销售的日本 kei 级小型卡车，引发车迷热议。",
+      "content": "HN Score: 257, Comments: 181"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "What's new in the .NET 11 runtime",
+      "title_zh": ".NET 11运行时有哪些新变化",
+      "url": "https://news.ycombinator.com/item?id=50439284",
+      "summary": "微软官方文档梳理 .NET 11 运行时的新特性，涵盖 JIT、GC 与性能优化等方面的改进。",
+      "content": "HN Score: 234, Comments: 164"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "title_zh": "Show HN：让编码智能体告别2019年的JavaScript",
+      "url": "https://news.ycombinator.com/item?id=50443812",
+      "summary": "Google Chrome 团队开源 modern-web-guidance，帮助 AI 编码智能体生成基于现代 Web 原语的代码，而非老旧的 JS 写法。",
+      "content": "HN Score: 228, Comments: 64"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Google releases Gemini 4 Carbon with agent 'swarm' feature",
+      "title_zh": "谷歌发布Gemini 4 Carbon，带来智能体“集群”能力",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "summary": "谷歌正式推送 Gemini 4 Carbon，最大亮点是支持多个子智能体协同的“集群（swarm）”模式，可并行拆解复杂任务。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic has its own AI-powered office suite now",
+      "title_zh": "Anthropic推出自家的AI办公套件",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "summary": "Anthropic 发布面向办公场景的 AI 套件，涵盖文档、表格与白板等能力，直接对标微软与谷歌的办公 AI 产品。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "title_zh": "Anthropic确定IPO定价区间，隐含估值1.404万亿美元",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "summary": "Anthropic 将 IPO 发行价定在每股 70 至 78 美元区间，对应隐含估值约 1.404 万亿美元，成为史上规模最大的 AI 公司上市之一。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "title_zh": "OpenAI收购Sonder创始人创办的旅行创业公司Odessia",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "summary": "OpenAI 收购由 Sonder 创始人打造的旅行初创公司 Odessia，被视为其将 AI 智能体能力延伸至旅行预订等实际交易场景的动作。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "ChatGPT is getting verified AI 'Business Agents'",
+      "title_zh": "ChatGPT上线经过认证的AI“商业智能体”",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "summary": "OpenAI 为 ChatGPT 引入经过官方认证的企业级 Business Agents，商家可提供可信的智能体入口来处理咨询与交易。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "OpenAI, Anthropic face new oversight as New York's AI safety law takes effect",
+      "title_zh": "纽约AI安全法生效，OpenAI与Anthropic面临新监管",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "summary": "纽约州 AI 安全法正式生效，头部模型厂商需承担新的合规与披露义务，行业监管进入实质执行阶段。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "title_zh": "谷歌扩展AI硬件版图，推出两款专用芯片",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "summary": "谷歌发布两款新的专用 AI 芯片，进一步丰富自研 TPU 体系，覆盖训练与推理的不同负载需求。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Meta's AI agent Muse lands on Apple Watch and Android Wear OS",
+      "title_zh": "Meta的AI智能体Muse登陆Apple Watch与Wear OS",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "summary": "Meta 的 AI 助手 Muse 扩展到智能手表端，支持 Apple Watch 与 Android Wear OS，把智能体交互带到手腕上。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "title_zh": "美国正在赢得AI竞赛，黄仁勋差点搞砸",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "summary": "The Verge 评论文章讨论英伟达 CEO 黄仁勋与疑似中国间谍的绯闻风波，以及这起事件对中美 AI 竞争格局的潜在影响。",
+      "content": ""
+    }
+  ]
+}
