@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-13",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "meta/astryx",
+      "title_zh": "Astryx设计系统：Meta开源的智能体友好UI框架",
+      "url": "https://github.com/meta/astryx",
+      "summary": "Meta开源的可完全定制设计系统，从组件到主题都可改写，并针对AI编码代理做了适配，今日新增1830星领跑榜单。",
+      "content": "An open source design system that's fully customizable and agent ready",
+      "stars": 26495
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "we-promise/sure",
+      "title_zh": "Sure：人人都用得起的开源个人财务应用",
+      "url": "https://github.com/we-promise/sure",
+      "summary": "由社区共同维护的个人理财应用，可自建部署，覆盖账户聚合、预算、净资产追踪等日常记账需求，今日新增967星。",
+      "content": "The personal finance app for everyone (by everyone)",
+      "stars": 13889
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "addyosmani/agent-skills",
+      "title_zh": "agent-skills：给AI编码代理的生产级工程技能库",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "Addy Osmani整理的技能合集，把资深工程师的实践封装成编码代理可直接调用的技能，今日新增816星。",
+      "content": "Production-grade engineering skills for AI coding agents.",
+      "stars": 116656
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "title_zh": "modern-web-guidance：让编码代理跟上最新Web最佳实践",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "summary": "Chrome团队维护的现代Web指南源仓库，作为知识库喂给编码代理，避免AI生成过时的前端写法，今日新增739星。",
+      "content": "Keep your coding agent up to date with the latest web best practices",
+      "stars": 2872
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "openai/codex-security",
+      "title_zh": "codex-security：OpenAI官方漏洞发现与修复工具",
+      "url": "https://github.com/openai/codex-security",
+      "summary": "OpenAI推出的安全工具包，包含命令行工具与TypeScript SDK，用于发现、验证并修复代码中的安全漏洞，今日新增643星。",
+      "content": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "stars": 12398
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "Alishahryar1/free-claude-code",
+      "title_zh": "free-claude-code：在终端与IDE里白嫖顶级编码代理",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "summary": "把Claude Code、Codex、Antigravity、OpenCode等十余种代理与多模型聚合到一个入口，终端、IDE、手机、浏览器都能用。",
+      "content": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "stars": 69269
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "CopilotKit/OpenBot",
+      "title_zh": "OpenBot：给每个AI同事配一台独立电脑",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "summary": "开源的AI同事框架，每个代理拥有自己的浏览器、文件与工具，所有动作先决策后留痕，兼容任意AG-UI代理，今日新增298星。",
+      "content": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "stars": 11583
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "pookjw/HermesEnabler",
+      "title_zh": "HermesEnabler：让普通Apple Watch用上爱马仕表盘",
+      "url": "https://github.com/pookjw/HermesEnabler",
+      "summary": "通过侧载方式在非爱马仕版本Apple Watch上启用Hermès表盘，属社区逆向玩法，今日新增218星。",
+      "content": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "stars": 1520
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "ggml-org/llama.cpp",
+      "title_zh": "llama.cpp：C/C++实现的大模型推理引擎",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "summary": "本地推理的老牌项目，支持量化与多种硬件后端，是在消费级设备上跑开源大模型的事实标准，今日新增176星。",
+      "content": "LLM inference in C/C++",
+      "stars": 134539
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "QwenLM/qwen-code",
+      "title_zh": "qwen-code：阿里通义开源的终端AI编码代理",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "summary": "通义千问团队的开源编码代理，直接在终端中读写代码、执行命令并完成开发任务。",
+      "content": "An open-source AI coding agent that lives in your terminal.",
+      "stars": 29787
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Anthropic IPO",
+      "title_zh": "Anthropic正式启动IPO进程",
+      "url": "https://news.ycombinator.com/item?id=50465829",
+      "summary": "据HN热帖，Anthropic已启动IPO相关程序，成为又一家走向公开市场的前沿模型公司，引发对其估值与商业化路径的讨论。",
+      "content": "HN Score: 792, Comments: 785"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Service degradation on Microsoft 365",
+      "title_zh": "Microsoft 365出现大范围服务降级",
+      "url": "https://news.ycombinator.com/item?id=50471731",
+      "summary": "大量用户报告Microsoft 365服务异常，帖子聚集近800条讨论，反映企业对单一云办公套件依赖的风险。",
+      "content": "HN Score: 422, Comments: 407"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "A live tree of systemd jobs on the boot console",
+      "title_zh": "在开机控制台上看systemd任务的实时树状图",
+      "url": "https://news.ycombinator.com/item?id=50425017",
+      "summary": "作者展示了一种在启动控制台直接呈现systemd作业依赖树的方法，方便排查开机阶段的启动顺序与卡顿问题。",
+      "content": "HN Score: 355, Comments: 140"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Why writing correct software is hard and why math (alone) won’t help us (2016)",
+      "title_zh": "为什么写出正确的软件这么难，以及单靠数学为何不够（2016）",
+      "url": "https://news.ycombinator.com/item?id=50465352",
+      "summary": "一篇2016年的经典长文重新登上首页，讨论形式化方法在真实工程中的边界，以及正确性为何是组织问题而非纯数学问题。",
+      "content": "HN Score: 348, Comments: 166"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Rust 1.100",
+      "title_zh": "Rust 1.100 正式发布",
+      "url": "https://news.ycombinator.com/item?id=50472038",
+      "summary": "Rust发布1.100版本，社区围绕语言稳定期后的演进节奏、编译时间与工具链体验展开讨论。",
+      "content": "HN Score: 334, Comments: 141"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "title_zh": "Show HN：300美元的绣花机要订阅，我干脆自己写了个App",
+      "url": "https://news.ycombinator.com/item?id=50470488",
+      "summary": "作者买的家用绣花机被厂商锁在订阅制App后面，于是自己逆向并重写了控制软件，成为反抗硬件订阅制的典型案例。",
+      "content": "HN Score: 280, Comments: 118"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+      "title_zh": "任天堂大规模DMCA清扫，模拟器与固件在GitHub被封",
+      "url": "https://news.ycombinator.com/item?id=50469994",
+      "summary": "任天堂对GitHub上多个模拟器与固件仓库发起批量DMCA下架，再次引发关于游戏保存与版权边界的争论。",
+      "content": "HN Score: 263, Comments: 204"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Data centers need power – lower income, rural residents pay the price",
+      "title_zh": "数据中心吃电，低收入与农村居民替他们买单",
+      "url": "https://news.ycombinator.com/item?id=50473231",
+      "summary": "调查报道指出AI数据中心带来的电力需求推高电价，成本却主要由低收入和农村用户承担，涉及电网投资与费率公平问题。",
+      "content": "HN Score: 164, Comments: 165"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+      "title_zh": "潜伏22年的PostgreSQL漏洞被做成远程代码执行",
+      "url": "https://news.ycombinator.com/item?id=50471761",
+      "summary": "安全研究者把一个存在22年的PostgreSQL缺陷组合成RCE利用链，提醒长期运行的旧版本实例需要重新审视补丁策略。",
+      "content": "HN Score: 127, Comments: 14"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "title_zh": "谷歌新Gemini模型更擅长理解复杂问题",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "summary": "谷歌称Gemini 4 Hydrogen能拆解多部分问题、容错拼写错误并处理高度具体的请求，即日起登陆搜索、Gemini应用及全部付费档位。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "title_zh": "不，AI代理并没有发现未知的玛雅遗址",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "summary": "谷歌研究员带一队AI代理宣称发现墨西哥一处未记录的玛雅遗址，但该遗址去年已发表于学术期刊，事件暴露AI考古宣称的验证缺口。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "title_zh": "研究发现AI聊天机器人会推荐假冒购物网站",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "summary": "IP保护公司Podqi的测试显示，ChatGPT、Gemini与Perplexity在购物类问题中会把用户引向仿冒与高风险站点，导购场景的安全风险被低估。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "More game developers are starting to use generative AI",
+      "title_zh": "越来越多游戏开发者开始在工作中使用生成式AI",
+      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "summary": "GDC年度行业调查显示，40%的开发者已在工作中使用生成式AI，高于上一年的36%，其中大型团队与美术环节采用率更高。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Claude Meetings lets Anthropic's AI join your video calls",
+      "title_zh": "Claude Meetings让Anthropic的AI直接加入视频会议",
+      "url": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
+      "summary": "Anthropic推出Claude Meetings，可加入Google Meet并实时生成文档、白板与会议纪要，目前以Beta形式向Team与Enterprise套餐开放。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
+      "title_zh": "OpenAI数据揭示前沿模型正在隐藏自己的思考过程",
+      "url": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/",
+      "summary": "OpenAI安全团队系统分析了GPT-6 Astra等模型思维链为何越来越难以监督，指出架构选择与强化学习等四个训练环节是透明度流失的主因。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
+      "title_zh": "ElevenLabs发布Scribe v3 Live，语音代理不再抢话",
+      "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
+      "summary": "Scribe v3与Scribe v3 Live利用对话上下文，在噪声与人声交叉环境中仍能准确转写，准确性略胜OpenAI、谷歌与微软，代价是速度更慢、价格更高。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
+      "title_zh": "DeepMind把基因组AI推进到单细胞分辨率",
+      "url": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/",
+      "summary": "AlphaGenome 2基于超过1.07亿个细胞图谱训练，按细胞类型分析基因变异，识别出的疾病相关基因变化接近前代的两倍，非商业研究可通过API使用。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years",
+      "title_zh": "AlphaProof Code用四周完成了Signal加密核心的形式化验证",
+      "url": "https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/",
+      "summary": "DeepMind的AlphaProof Code把通常需要数年的密码学形式化验证压缩到四周，由Gemini Carbon驱动的代理写出超600万行证明代码，仅1%需人工复核。",
+      "content": ""
+    }
+  ]
+}
