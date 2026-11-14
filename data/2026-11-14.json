@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-14",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "modern-web-guidance-src",
+      "title_zh": "谷歌现代 Web 开发最佳实践指导库",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "summary": "Chrome 团队开源的最新 Web 最佳实践资料库，可让编码智能体随时掌握前沿 Web 开发规范。",
+      "content": "Keep your coding agent up to date with the latest web best practices",
+      "stars": "4810"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "sure",
+      "title_zh": "人人可用的开源个人理财应用",
+      "url": "https://github.com/we-promise/sure",
+      "summary": "面向所有人的个人理财应用，自托管、开源，主打隐私与数据自主。",
+      "content": "The personal finance app for everyone (by everyone)",
+      "stars": "14723"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "codex-security",
+      "title_zh": "OpenAI Codex 安全 CLI 与 SDK",
+      "url": "https://github.com/openai/codex-security",
+      "summary": "OpenAI 推出的 Codex 安全命令行工具与 TypeScript SDK，用于发现、验证并修复代码安全问题。",
+      "content": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "stars": "13122"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "daily_stock_analysis",
+      "title_zh": "LLM 驱动的多市场股票智能分析系统",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "summary": "基于大模型的多市场股票分析系统，整合多源行情与实时新闻，提供决策看板并支持零成本定时推送。",
+      "content": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": "71573"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "tailcat",
+      "title_zh": "Tailscale 版 netcat 网络工具",
+      "url": "https://github.com/tailscale/tailcat",
+      "summary": "类似 netcat，但数据走 Tailscale 的数据平面而非控制平面，适合点对点调试与传数据。",
+      "content": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "stars": "9445"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "Veyra-NRVideo",
+      "title_zh": "Windows 视频播放与采集增强工具",
+      "url": "https://github.com/Likely7/Veyra-NRVideo",
+      "summary": "面向 Windows 的高级视频播放与采集增强工具，宣称可借助超分与插帧技术提升游戏画面流畅度。",
+      "content": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+      "stars": "1615"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "open-code-review",
+      "title_zh": "阿里巴巴开源代码审查工具",
+      "url": "https://github.com/alibaba/open-code-review",
+      "summary": "阿里巴巴大规模实战验证的混合架构代码审查系统，兼顾速度与准确性。",
+      "content": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": "50591"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "plannotator",
+      "title_zh": "智能体协作规划与标注工作台",
+      "url": "https://github.com/backnotprop/plannotator",
+      "summary": "让你始终掌握智能体进展的工作台：塑造思路、做决策、制定计划并逐条标注反馈。",
+      "content": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "stars": "10442"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "buzz",
+      "title_zh": "Block 蜂群思维通信平台",
+      "url": "https://github.com/block/buzz",
+      "summary": "Block 公司推出的“蜂群思维”协作通信平台，让团队与智能体共享同一上下文。",
+      "content": "A hive mind communication platform",
+      "stars": "37294"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "uptime-kuma",
+      "title_zh": "Uptime Kuma 自托管监控面板",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "summary": "颜值在线的自托管服务监控工具，支持 HTTP、TCP、Ping 等多种探活方式与告警通知。",
+      "content": "A fancy self-hosted monitoring tool",
+      "stars": "93850"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "FAA issues national ground stop",
+      "title_zh": "美国联邦航空局发布全国航班停飞令",
+      "url": "https://news.ycombinator.com/item?id=50489641",
+      "summary": "FAA 因“特殊情况”下令全美航班暂时停飞，引发航空与通信连锁反应。",
+      "content": "HN Score: 1096, Comments: 665"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "LibreOffice actually works 365 days a year",
+      "title_zh": "LibreOffice 一年 365 天都能正常用",
+      "url": "https://news.ycombinator.com/item?id=50486482",
+      "summary": "LibreOffice 官方借微软大范围故障发声：开源办公套件全年无休，不依赖云端授权。",
+      "content": "HN Score: 796, Comments: 250"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "title_zh": "逆向工程我的 Coway 空气净化器以摆脱云端",
+      "url": "https://news.ycombinator.com/item?id=50474959",
+      "summary": "作者逆向自家空气净化器协议，把它从厂商云服务中解放出来，改为本地控制。",
+      "content": "HN Score: 654, Comments: 192"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Big tech is here to let us down",
+      "title_zh": "大厂就是来让我们失望的",
+      "url": "https://news.ycombinator.com/item?id=50489083",
+      "summary": "一篇反思文章：从近期大规模故障看，把关键基础设施托付给少数科技巨头有多脆弱。",
+      "content": "HN Score: 197, Comments: 172"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "title_zh": "价值 1140 万美元的英伟达硬件运输途中失踪",
+      "url": "https://news.ycombinator.com/item?id=50487864",
+      "summary": "一批价值 1140 万美元的英伟达设备在从加州运往德州途中离奇消失，物流安全再受质疑。",
+      "content": "HN Score: 268, Comments: 144"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "A technical vision for the Haskell ecosystem",
+      "title_zh": "Haskell 生态的技术愿景",
+      "url": "https://news.ycombinator.com/item?id=50484235",
+      "summary": "Haskell 社区发布技术愿景文档，讨论语言演进、工具链与生态治理方向。",
+      "content": "HN Score: 171, Comments: 78"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+      "title_zh": "学生用 iPad 打开 PowerPoint 要点 16 次",
+      "url": "https://news.ycombinator.com/item?id=50487522",
+      "summary": "一线教师吐槽：平板上的办公与教学软件层层设限，简单操作被复杂交互拖垮。",
+      "content": "HN Score: 250, Comments: 127"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "title_zh": "末日：公元 2026 年 11 月 13 日星期五",
+      "url": "https://news.ycombinator.com/item?id=50482379",
+      "summary": "一篇 1960 年的《科学》旧文重登热榜，其预言的人口崩溃日期恰好落在本周五。",
+      "content": "HN Score: 432, Comments: 301"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+      "title_zh": "巴西 Caixa 保险数据泄露影响 760 万客户",
+      "url": "https://news.ycombinator.com/item?id=50485295",
+      "summary": "巴西 Caixa 旗下保险业务发生数据泄露，760 万客户的姓名与税号等敏感信息外泄。",
+      "content": "HN Score: 161, Comments: 71"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "title_zh": "谷歌 Gemini 4 Hydrogen 升级搜索问答",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "summary": "谷歌称新一代 Gemini 4 Hydrogen 模型能更好理解复杂问题，AI 模式回答质量明显提升。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "title_zh": "OpenAI 用 ChatGPT Wallet 重做 AI 购物",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "summary": "OpenAI 推出 ChatGPT Wallet，让 AI 智能体可代用户在浏览器内完成下单与支付。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "title_zh": "Anthropic Claude Duet 智能体实测",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "summary": "记者体验 Claude 的 Duet 智能体：有点神经质，但在实际任务中意外地好用。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history",
+      "title_zh": "Anthropic IPO 超额认购 6 倍",
+      "url": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
+      "summary": "Anthropic 上市认购订单达发行量 6 倍，有望成为史上规模最大的 IPO。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "title_zh": "LangChain 估值达 30 亿美元",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "summary": "AI 智能体开发平台 LangChain 完成新融资，估值升至 30 亿美元，付费客户达 7000 家。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "OpenAI enters the cybersecurity market with two Daybreak products",
+      "title_zh": "OpenAI 携 Daybreak 进军网络安全市场",
+      "url": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/",
+      "summary": "OpenAI 推出 Daybreak 系列两款安全产品，正式切入企业网络安全赛道。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
+      "title_zh": "Meta Muse 开始代用户打电话",
+      "url": "https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/",
+      "summary": "Meta 的 AI 智能体 Muse 可代用户致电商户办理事务，但不少企业可能会直接挂断。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "title_zh": "ElevenLabs 推出会议记录与听写应用",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "summary": "ElevenLabs 发布面向团队的新应用 ElevenAI，把会议纪要生成与语音听写合二为一。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "title_zh": "美联航以安全风险为由封禁 AI 代理订票",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "summary": "美联航表示出于网络安全考虑，不允许客户使用 AI 智能体代订机票。",
+      "content": ""
+    }
+  ]
+}
