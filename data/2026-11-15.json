@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-15",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "backnotprop/plannotator",
+      "title_zh": "Plannotator：与 AI Agent 协作的规划批注工作台",
+      "url": "https://github.com/backnotprop/plannotator",
+      "summary": "一个让开发者始终留在环内的 Agent 协作工作台，可以塑形、决策、规划和批注，让 Agent 的每一步计划都可见可控。",
+      "content": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. (+408 stars today)",
+      "stars": "11106"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "title_zh": "Chrome 现代 Web 最佳实践指南源码",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "summary": "Google Chrome 团队维护的现代 Web 最佳实践知识库源码，专门用于给编码 Agent 补充最新、最准确的 Web 开发规范。",
+      "content": "Keep your coding agent up to date with the latest web best practices (+1,231 stars today)",
+      "stars": "6014"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "tradermonty/claude-trading-skills",
+      "title_zh": "Claude 量化交易技能包",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "summary": "面向股票投资者和交易员的 Claude Code 技能合集，覆盖市场分析、技术图表、持仓跟踪等投研工作流。",
+      "content": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. (+553 stars today)",
+      "stars": "4787"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "title_zh": "Chrome DevTools MCP 服务器",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "summary": "把 Chrome 开发者工具能力通过 MCP 协议暴露给编码 Agent，让 Agent 能真正调试浏览器页面与性能。",
+      "content": "Chrome DevTools for coding agents (+664 stars today)",
+      "stars": "56283"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "alibaba/open-code-review",
+      "title_zh": "阿里开源代码评审系统",
+      "url": "https://github.com/alibaba/open-code-review",
+      "summary": "阿里巴巴大规模生产环境验证过的代码评审系统，采用混合架构，兼顾安全、速度与效率。",
+      "content": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. (+893 stars today)",
+      "stars": "51415"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "QwenLM/qwen-code",
+      "title_zh": "通义 Qwen 终端编码 Agent",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "summary": "阿里通义团队开源、直接运行在终端里的 AI 编码 Agent，开箱即用地读写代码、执行命令。",
+      "content": "An open-source AI coding agent that lives in your terminal. (+64 stars today)",
+      "stars": "30326"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "dream-num/univer",
+      "title_zh": "Univer：可自建的 AI 办公套件 SDK",
+      "url": "https://github.com/dream-num/univer",
+      "summary": "一套文档与电子表格 SDK，把编辑、计算、协作能力集成进你自己的产品，用来搭建专属的 AI 办公平台。",
+      "content": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. (+495 stars today)",
+      "stars": "24476"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "ag-ui-protocol/ag-ui",
+      "title_zh": "AG-UI：Agent 与前端交互协议",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "summary": "Agent-User Interaction 协议，为前端应用定义了一套标准方式，把 Agent 的能力接入用户界面。",
+      "content": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. (+9 stars today)",
+      "stars": "17354"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "ashhart/TensorFold",
+      "title_zh": "TensorFold：跨 Metal/CUDA/Vulkan 的推理引擎",
+      "url": "https://github.com/ashhart/TensorFold",
+      "summary": "一个覆盖 Metal、CUDA 和 Vulkan 三大后端的 LLM 推理引擎，主打跨平台本地推理。",
+      "content": "LLM Inference Engine for Metal, CUDA and Vulkan. (+37 stars today)",
+      "stars": "2155"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "JuliusBrussee/caveman",
+      "title_zh": "Caveman：让 Agent 少说话省 Token",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "summary": "“能用少量 token 就别用一堆”——爆火的技能加代理方案，通过压缩 Agent 输出大幅削减 token 消耗与成本。",
+      "content": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. (+227 stars today)",
+      "stars": "120057"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "title_zh": "SpaceX 成功用发射塔捕获星舰，第 15 次试飞收官",
+      "url": "https://news.ycombinator.com/item?id=50500963",
+      "summary": "星舰第 15 次试飞以“筷子”机械臂成功捕获飞船结束，再次验证了完全可复用路线的关键动作。",
+      "content": "HN Score: 511, Comments: 314"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "title_zh": "Lovable 生成的应用泄露护照信息和超 20 万条私信",
+      "url": "https://news.ycombinator.com/item?id=50499017",
+      "summary": "安全研究者发现大量由 Lovable 生成的站点把数据库暴露在公网，泄露护照照片与二十多万条用户私信。",
+      "content": "HN Score: 585, Comments: 239"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "A family tree of software job titles",
+      "title_zh": "软件行业职位名称的家谱图",
+      "url": "https://news.ycombinator.com/item?id=50499038",
+      "summary": "一篇把工程师、SRE、平台、架构等软件岗位头衔梳理成“家族树”的文章，讲清这些称谓的来历与演化。",
+      "content": "HN Score: 182, Comments: 83"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "KDE: The documentary [video]",
+      "title_zh": "KDE 纪录片",
+      "url": "https://news.ycombinator.com/item?id=50496976",
+      "summary": "一部记录 KDE 桌面社区三十余年历史的纪录片，讲开源桌面环境如何在志愿者协作中长成今天的样子。",
+      "content": "HN Score: 360, Comments: 75"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "title_zh": "PyPI 新版项目页上线，安全信号更清晰",
+      "url": "https://news.ycombinator.com/item?id=50497892",
+      "summary": "PyPI 重新设计的项目页面正式上线，用更醒目的方式展示包的安全状态、维护者与发布信息。",
+      "content": "HN Score: 192, Comments: 86"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "title_zh": "有旧手机了，为什么还要买贵的树莓派？",
+      "url": "https://news.ycombinator.com/item?id=50440709",
+      "summary": "作者把闲置安卓手机改造成低成本家庭服务器，论证在很多场景下旧手机比树莓派更划算。",
+      "content": "HN Score: 484, Comments: 274"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "title_zh": "Show HN：用 200 行纯 Jax 实现 DeepSeek V3",
+      "url": "https://news.ycombinator.com/item?id=50497589",
+      "summary": "作者用约 200 行纯 Jax 代码复现了 DeepSeek V3 的推理流程，适合当作学习 MoE 与注意力实现的精简教材。",
+      "content": "HN Score: 146, Comments: 8"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Tech companies are trying to shift the concept of privacy again",
+      "title_zh": "科技公司又一次在悄悄改写“隐私”的定义",
+      "url": "https://news.ycombinator.com/item?id=50496602",
+      "summary": "评论文章指出科技巨头正通过重新定义“隐私”的话术，为更大规模的数据采集与广告定向铺路。",
+      "content": "HN Score: 434, Comments: 164"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Italy fines Meta $887M over Android users' data access",
+      "title_zh": "意大利因安卓用户数据访问问题对 Meta 罚款 8.87 亿美元",
+      "url": "https://news.ycombinator.com/item?id=50497009",
+      "summary": "意大利监管机构认定 Meta 在安卓端对用户数据的处理违反竞争规则，开出 8.87 亿美元罚单。",
+      "content": "HN Score: 306, Comments: 210"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "title_zh": "Claude 的 Duet Agent 上手体验：有点神经质，但意外好用",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "summary": "The Verge 实测 Anthropic 的 Claude Duet Agent，发现它偶尔显得“神经质”，但在真实任务中确实能替人省下不少操作。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "title_zh": "ChatGPT Wallet 上线：让 OpenAI 的 Dots Agent 替你下单",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "summary": "OpenAI 推出 ChatGPT Wallet，允许其 Dots 系列 Agent 在获得授权后直接帮用户完成购物与结账流程。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "title_zh": "AI Agent 创业公司 LangChain 估值达 30 亿美元",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "summary": "LangChain 在新一轮融资中估值达到 30 亿美元，继续稳坐 Agent 开发框架赛道的头部位置。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "title_zh": "ElevenLabs 新应用：把会议纪要与听写合二为一",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "summary": "ElevenLabs 推出面向团队的新应用，把会议记录与语音听写整合进同一套工作流，强化其语音 AI 产品矩阵。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "title_zh": "美联航以网络安全风险为由封禁 AI Agent 订票",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "summary": "美联航开始拦截由 AI Agent 发起的订票请求，理由是自动化代理带来的安全与欺诈风险难以管控。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+      "title_zh": "Anthropic CEO Amodei 承认“明年会发生什么充满巨大不确定性”",
+      "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+      "summary": "在下一轮融资前夕，Amodei 罕见公开表达对明年行业走向的强烈不确定，并谈及算力与商业模式压力。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+      "title_zh": "Gemini 4 Carbon 登顶 MathArena，但成本是 GPT-6.1 Sol 的 15 倍",
+      "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+      "summary": "谷歌 Gemini 4 Carbon 在数学推理基准 MathArena 上拿下第一，但单位任务成本高达竞品 GPT-6.1 Sol 的 15 倍。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+      "title_zh": "Runway 开源 Praxis-1：把视频模型变成机器人控制器",
+      "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+      "summary": "Runway 开源 Praxis-1，可将视频生成模型直接用作机器人控制策略，让视频 AI 迁移到真实物理操作。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
+      "title_zh": "Anthropic 推出面向制造业的 Claude，直连工厂软件",
+      "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+      "summary": "Anthropic 发布 Claude for Manufacturing，把模型直接接入工厂 MES 等工业软件，自动化生产与运维工作流。",
+      "content": ""
+    }
+  ]
+}
