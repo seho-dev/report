@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-16",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "dream-num/univer",
+      "title_zh": "梦数字/通用",
+      "url": "https://github.com/dream-num/univer",
+      "summary": "构建您自己的 AI 办公室，使用 Univer Office SDK，将编辑、计算、协作和文件处理带入您的产品，适用于人类和 AI 代理。",
+      "content": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.\n\nTypeScript 25,593 2,336 Built by 1,041 stars today",
+      "stars": "25593"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "ag-ui-protocol/ag-ui",
+      "title_zh": "AG-UI 协议/用户交互",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "summary": "AG-UI 协议：将代理引入前端应用程序，实现前端与代理的交互。",
+      "content": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.\n\nTypeScript 17,830 1,818 Built by 393 stars today",
+      "stars": "17830"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "alibaba/open-code-review",
+      "title_zh": "阿里巴巴/开放代码审查",
+      "url": "https://github.com/alibaba/open-code-review",
+      "summary": "阿里巴巴的安全、快速、高效的代码审查工具，集合了自动化流水线和 LLM 代理，提供精确的行级注释和多语言规则。",
+      "content": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\n\nGo 52,046 4,107 Built by 688 stars today",
+      "stars": "52046"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "Tencent/LoopForge",
+      "title_zh": "腾讯/循环构建",
+      "url": "https://github.com/Tencent/LoopForge",
+      "summary": "腾讯的自托管工作流程用于编排代码助手交付，包括 CodeBuddy、Codex 和 Claude Code。",
+      "content": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "stars": "1456"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "backnotprop/plannotator",
+      "title_zh": "背后注释器/批注器",
+      "url": "https://github.com/backnotprop/plannotator",
+      "summary": "工作区保持同步，掌握动态，规划，注释，审查代码，与团队共享，并通过单击向代理发送所有反馈。",
+      "content": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "stars": "11819"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Old Bitly Links Are Being Hijacked",
+      "title_zh": "旧 Bitly 链接被劫持",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "summary": "Bitly 链接被黑客劫持，导致用户被重定向到勒索网站。",
+      "content": "HN Score: 103, Comments: 54",
+      "stars": "103"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Preserving 30 Years of Salon Journalism",
+      "title_zh": "保存 30 年的 Salon 杂志记者作品",
+      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "summary": "通过 Internet Archive 保存 Salon 杂志 30 年的历史内容。",
+      "content": "HN Score: 30, Comments: 6",
+      "stars": "30"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "title_zh": "Protomaps: 自托管地图瓦片成本低廉且易于使用",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "summary": "Protomaps 让自托管地图瓦片变得廉价且易于使用。",
+      "content": "HN Score: 113, Comments: 31",
+      "stars": "113"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "A short explainer on how El Niño works [video]",
+      "title_zh": "简短解释如何运作厄尔尼诺 [视频]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "summary": "视频解释厄尔尼诺现象。",
+      "content": "HN Score: 152, Comments: 57",
+      "stars": "152"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Handwriting, as a Font",
+      "title_zh": "手写体作为字体",
+      "url": "https://ductus.sorenblank.com/",
+      "summary": "将手写体转换为可用字体。",
+      "content": "HN Score: 89, Comments: 20",
+      "stars": "89"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "LangChain Raises $300M to Enable Every Company to Own Their Intelligence",
+      "title_zh": "LangChain 融资 3 亿美元，让每家公司都拥有自己的智能",
+      "url": "https://www.businesswire.com/newsroom/industry/technology/artificial-intelligence",
+      "summary": "LangChain 宣布已筹集 3 亿美元，估值达到 30 亿美元，总融资额达 4.6 亿美元。",
+      "content": "",
+      "stars": "300000000"
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "OpenAI's new ChatGPT Wallet lets AI agents shop for you",
+      "title_zh": "OpenAI 推出新的 ChatGPT 钱包，让 AI 代理为您购物",
+      "url": "https://indianexpress.com/section/technology/artificial-intelligence/",
+      "summary": "OpenAI 推出新的 ChatGPT 钱包功能，允许 AI 代理代表用户进行购物。",
+      "content": "",
+      "stars": "n/a"
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Jensen Huang might return to Nvidia as CEO",
+      "title_zh": "黄仁勋可能重返英伟达担任首席执行官",
+      "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+      "summary": "据路透社报道，黄仁勋可能与盟友讨论重返英伟达担任首席执行官。",
+      "content": "",
+      "stars": "n/a"
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Anthropic brings Claude to Google Meet to tackle tasks live",
+      "title_zh": "Anthropic 将 Claude 引入 Google Meet，实时完成任务",
+      "url": "https://indianexpress.com/section/technology/artificial-intelligence/",
+      "summary": "Anthropic 宣布将 Claude 引入 Google Meet，用户可以在会议中实时让 AI 协助完成任务。",
+      "content": "",
+      "stars": "n/a"
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "OpenAI's new kill switch can stop 'rogue' AI models in 35 seconds",
+      "title_zh": "OpenAI 新推出的紧急停止开关可在 35 秒内停止失控的 AI 模型",
+      "url": "https://indianexpress.com/section/technology/artificial-intelligence/",
+      "summary": "OpenAI 推出新的紧急停止机制，可在 35 秒内停止失控的 AI 模型。",
+      "content": "",
+      "stars": "n/a"
+    }
+  ]
+}
