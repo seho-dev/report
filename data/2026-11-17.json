@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-17",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "ag-ui-protocol/ag-ui",
+      "title_zh": "AG-UI 智能体与用户交互协议",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "summary": "AG-UI 是智能体与用户之间的交互协议，用于把 AI 智能体接入前端应用程序。",
+      "content": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "stars": 18936
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "backnotprop/plannotator",
+      "title_zh": "Plannotator 智能体规划标注工作台",
+      "url": "https://github.com/backnotprop/plannotator",
+      "summary": "一个让用户全程参与并掌控智能体的工作台，可塑造、决策、规划与标注智能体的工作。",
+      "content": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "stars": 12536
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "dream-num/univer",
+      "title_zh": "Univer 开源 AI 办公 SDK",
+      "url": "https://github.com/dream-num/univer",
+      "summary": "用 Univer Office SDK 打造你自己的 AI 办公应用，集成编辑、计算与多人协作能力。",
+      "content": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "stars": 27761
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "tradermonty/claude-trading-skills",
+      "title_zh": "Claude Code 股票交易技能集",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "summary": "面向股票投资者与交易员的 Claude Code 技能集，涵盖市场分析、技术图表绘制等功能。",
+      "content": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "stars": 6295
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "getarcaneapp/arcane",
+      "title_zh": "Arcane 现代化 Docker 管理工具",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "summary": "为所有人设计的现代化 Docker 容器管理工具，界面友好、开箱即用。",
+      "content": "Modern Docker Management, Designed for Everyone",
+      "stars": 8696
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "DeanChensj/jiangshan-map",
+      "title_zh": "江山时序：中国历史交互地图时间轴",
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "summary": "江山时序是一个交互式中国历史地图时间轴项目，覆盖从公元前403年至今的历史变迁。",
+      "content": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+      "stars": 6682
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "google-labs-code/stitch-skills",
+      "title_zh": "Google Stitch MCP 智能体技能库",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "summary": "一套专为 Stitch MCP 服务器设计的智能体技能库，每个技能都遵循统一的规范结构。",
+      "content": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "stars": 9728
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "mvanhorn/last30days-skill",
+      "title_zh": "Last30Days 主题调研智能体技能",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "一个 AI 智能体技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket 等平台调研任意主题。",
+      "content": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 68104
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "NVIDIA/SkillEvaluator",
+      "title_zh": "英伟达 SkillEvaluator 智能体技能评估框架",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "summary": "英伟达开源的多层评估框架，通过质量门禁与语义评估来评测 AI 智能体技能与插件。",
+      "content": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "stars": 2668
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "alibaba/open-code-review",
+      "title_zh": "阿里巴巴开源代码审查工具",
+      "url": "https://github.com/alibaba/open-code-review",
+      "summary": "经过阿里巴巴大规模实践检验的安全、快速、高效代码审查工具，采用混合架构设计。",
+      "content": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 52917
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+      "title_zh": "亚马逊黑五与网一大促多数\"折扣\"并未真正省钱",
+      "url": "https://news.ycombinator.com/item?id=50517488",
+      "summary": "一项调查发现，亚马逊黑色星期五和网络星期一的大量促销商品并未提供实际折扣，消费者并没有真正省钱。",
+      "content": "HN Score: 806, Comments: 488"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "title_zh": "摩根大通技术故障导致美国银行网银服务延迟",
+      "url": "https://news.ycombinator.com/item?id=50521045",
+      "summary": "摩根大通出现技术故障，导致美国多家银行的网上银行业务出现大范围延迟，影响众多用户。",
+      "content": "HN Score: 689, Comments: 552"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "title_zh": "卡内基梅隆大学将计算机科学课程免费上线 YouTube",
+      "url": "https://news.ycombinator.com/item?id=50522980",
+      "summary": "卡内基梅隆大学宣布将计算机科学课程免费发布到 YouTube，让更多人能够接触优质的 CS 教育。",
+      "content": "HN Score: 454, Comments: 82"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Software is breaking down at a systemic level",
+      "title_zh": "软件正在系统性层面走向崩溃",
+      "url": "https://news.ycombinator.com/item?id=50520866",
+      "summary": "一篇深度文章探讨现代软件为何在系统性层面变得脆弱与不可靠，引发开发者社区广泛讨论。",
+      "content": "HN Score: 330, Comments: 209"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "title_zh": "用 ThinkPad 电源键隐藏代码让\"变砖\"笔记本复活",
+      "url": "https://news.ycombinator.com/item?id=50516473",
+      "summary": "介绍一个 2007 年的 ThinkPad 隐藏电源键组合技巧，可以唤醒无法正常开机的旧笔记本电脑。",
+      "content": "HN Score: 288, Comments: 114"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "title_zh": "Jiff 1.0：Rust 的日期时间处理库",
+      "url": "https://news.ycombinator.com/item?id=50519744",
+      "summary": "Jiff 发布 1.0 版本，这是一个专为 Rust 设计的现代化日期与时间处理库。",
+      "content": "HN Score: 284, Comments: 67"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Frame – 31.5\" color ePaper display",
+      "title_zh": "Frame：31.5 英寸彩色电子纸显示屏",
+      "url": "https://news.ycombinator.com/item?id=50519354",
+      "summary": "一款 31.5 英寸彩色电子纸显示屏亮相，引发人们对电子纸大屏应用场景的关注与讨论。",
+      "content": "HN Score: 270, Comments: 186"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "BugMeNot has closed",
+      "title_zh": "绕过付费墙的共享账号网站 BugMeNot 关闭",
+      "url": "https://news.ycombinator.com/item?id=50523601",
+      "summary": "老牌共享账号密码网站 BugMeNot 宣布关闭，标志着一个时代的终结，引发网友热议。",
+      "content": "HN Score: 231, Comments: 112"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "title_zh": "微软将大规模邮件故障归咎于七月修复引入的软件缺陷",
+      "url": "https://news.ycombinator.com/item?id=50517321",
+      "summary": "微软解释此前的大规模邮件服务中断，称根源是七月份一次修复中所引入的软件缺陷。",
+      "content": "HN Score: 194, Comments: 132"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
+      "title_zh": "OpenAI GPT-6 Astra 攻克粒子物理标准模型中最难的格点数学问题",
+      "url": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
+      "summary": "OpenAI 的 GPT-6 Astra 模型在格点规范场论中解决了粒子物理标准模型里最棘手的数学难题。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
+      "title_zh": "阿里 Qwen4-Max 以更低价格对标 Opus 5.5、GPT-6 与 Kimi K3.1 Pro",
+      "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
+      "summary": "阿里巴巴推出 Qwen4-Max，以显著更低的价格与 Opus 5.5、GPT-6、Kimi K3.1 Pro 等顶级模型正面竞争。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+      "title_zh": "美团发布 1.6 万亿参数智能体模型，全程未使用英伟达 GPU",
+      "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+      "summary": "美团发布了一个拥有 1.6 万亿参数的智能体模型，其训练过程完全未使用英伟达 GPU，引发业界关注。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
+      "title_zh": "谷歌警告：全自动化网络攻击已经到来且将迅速恶化",
+      "url": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
+      "summary": "谷歌发出警告，由 AI 驱动的全自动化网络攻击已成为现实，并且会在短期内快速升级。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
+      "title_zh": "Anthropic 称智能体记忆的关键在于\"该忘什么\"而非\"存多少\"",
+      "url": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
+      "summary": "Anthropic 提出观点：构建智能体记忆系统的核心是学会遗忘无关信息，而不是尽可能多地存储。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "title_zh": "加州就 AI 智能体失控黑客事件起诉 OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "summary": "加利福尼亚州因涉及 AI 智能体失控发动黑客攻击的事件，对 OpenAI 提起诉讼。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "title_zh": "苹果正测试对复杂 Siri AI 交互设置每日使用上限",
+      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "summary": "苹果正在测试针对更复杂的 Siri AI 交互的每日使用次数限制，以控制成本与服务器负载。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Google Maps can now create trip itineraries for you",
+      "title_zh": "谷歌地图现在可以为你自动生成旅行行程",
+      "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+      "summary": "谷歌地图新增功能，可根据用户需求自动规划并生成详细的旅行行程安排。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "title_zh": "科技界领袖相信黄仁勋离职是一场针对他的阴谋",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "summary": "多位科技界领袖透露，他们相信英伟达 CEO 黄仁勋的离职实际上是一场针对他的内部阴谋。",
+      "content": ""
+    }
+  ]
+}
