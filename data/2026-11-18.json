@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-18",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "elementalsouls/Claude-BugHunter",
+      "title_zh": "Claude BugHunter漏洞猎手技能包",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "summary": "用于漏洞挖掘和外部红队工作的Claude Code技能集合，内含82个技能和15个斜杠命令",
+      "content": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. | Stars today: 1,005",
+      "stars": "9223"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "mvanhorn/last30days-skill",
+      "title_zh": "last30days近30天研究技能",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "可跨Reddit、X、YouTube、Hacker News、Polymarket等平台研究任意主题的AI智能体技能",
+      "content": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary | Stars today: 696",
+      "stars": "69028"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "alibaba/open-code-review",
+      "title_zh": "阿里巴巴Open Code Review代码评审",
+      "url": "https://github.com/alibaba/open-code-review",
+      "summary": "安全、快速、高效的代码评审系统，已在阿里巴巴大规模生产环境中久经考验，采用混合架构",
+      "content": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. | Stars today: 763",
+      "stars": "53710"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "Tencent/LoopForge",
+      "title_zh": "腾讯LoopForge工作流编排",
+      "url": "https://github.com/Tencent/LoopForge",
+      "summary": "面向编码智能体交付的自托管工作流，可统一编排CodeBuddy、Codex与Claude Code",
+      "content": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. | Stars today: 591",
+      "stars": "3107"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "dream-num/univer",
+      "title_zh": "Univer AI办公SDK",
+      "url": "https://github.com/dream-num/univer",
+      "summary": "用Univer Office SDK打造属于自己的AI办公套件，支持编辑、计算与多人协作",
+      "content": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. | Stars today: 1,774",
+      "stars": "28887"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "getarcaneapp/arcane",
+      "title_zh": "Arcane现代化Docker管理面板",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "summary": "为所有人设计的现代化Docker管理工具",
+      "content": "Modern Docker Management, Designed for Everyone | Stars today: 618",
+      "stars": "9306"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "google-labs-code/stitch-skills",
+      "title_zh": "Google Stitch智能体技能库",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "summary": "为Stitch MCP服务器设计的Agent Skills技能库，每个技能遵循统一规范",
+      "content": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. | Stars today: 350",
+      "stars": "10087"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "cursor/plugins",
+      "title_zh": "Cursor插件规范与官方插件",
+      "url": "https://github.com/cursor/plugins",
+      "summary": "Cursor编辑器的插件开发规范及官方插件集合",
+      "content": "Cursor plugin specification and official plugins | Stars today: 201",
+      "stars": "16887"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "obra/superpowers",
+      "title_zh": "Superpowers智能体技能框架",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一套真正可用的智能体技能框架与软件开发方法论",
+      "content": "An agentic skills framework & software development methodology that works. | Stars today: 1,917",
+      "stars": "319307"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "ag-ui-protocol/ag-ui",
+      "title_zh": "AG-UI智能体交互协议",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "summary": "AG-UI：智能体与用户交互协议，把智能体更自然地接入前端应用",
+      "content": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. | Stars today: 1,445",
+      "stars": "19981"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "title_zh": "Java4Shell：OpenJDK处理Base64时现远程代码执行漏洞",
+      "url": "https://news.ycombinator.com/item?id=50538240",
+      "summary": "OpenJDK在处理Base64数据时暴露远程代码执行漏洞，被类比为又一个Log4Shell级高危安全缺陷",
+      "content": "HN Score: 394, Comments: 101"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Highly classified US national security communications network goes down",
+      "title_zh": "美国高度机密的国家安全通信网络发生故障",
+      "url": "https://news.ycombinator.com/item?id=50532849",
+      "summary": "美国一个高度机密的国家安全通信网络突然中断，事件引发外界广泛关注",
+      "content": "HN Score: 428, Comments: 518"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "title_zh": "新证据显示校园手机禁令正逐步提升考试成绩",
+      "url": "https://news.ycombinator.com/item?id=50530163",
+      "summary": "最新研究表明，学校禁用手机的政策正在慢慢改善学生的考试成绩",
+      "content": "HN Score: 1135, Comments: 558"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "jQuery 4.1.0",
+      "title_zh": "jQuery 4.1.0发布",
+      "url": "https://news.ycombinator.com/item?id=50537156",
+      "summary": "经典JavaScript库jQuery发布4.1.0新版本",
+      "content": "HN Score: 225, Comments: 121"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Phrack 73 Released",
+      "title_zh": "安全文化杂志Phrack第73期发布",
+      "url": "https://news.ycombinator.com/item?id=50535992",
+      "summary": "著名黑客与安全文化杂志Phrack正式发布第73期",
+      "content": "HN Score: 246, Comments: 24"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+      "title_zh": "350年前，奥勒·罗默发现光速是有限的",
+      "url": "https://news.ycombinator.com/item?id=50536813",
+      "summary": "回顾350年前丹麦天文学家奥勒·罗默借木星卫星食发现光以有限速度传播的历史时刻",
+      "content": "HN Score: 223, Comments: 67"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Solid 2.0",
+      "title_zh": "Solid 2.0发布",
+      "url": "https://news.ycombinator.com/item?id=50536387",
+      "summary": "去中心化Web数据协议Solid迎来2.0版本",
+      "content": "HN Score: 199, Comments: 53"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Nimony: A New Compiler for Nim",
+      "title_zh": "Nimony：Nim语言的新编译器",
+      "url": "https://news.ycombinator.com/item?id=50512779",
+      "summary": "Nim编程语言迎来一个全新的编译器Nimony",
+      "content": "HN Score: 177, Comments: 93"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs",
+      "title_zh": "利用重放保护单调计数器暴力破解Windows Hello PIN",
+      "url": "https://news.ycombinator.com/item?id=50517375",
+      "summary": "安全研究展示如何借助重放保护的单调计数器对Windows Hello的PIN码发起暴力破解",
+      "content": "HN Score: 53, Comments: 3"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "title_zh": "微软CEO纳德拉称自己如今相信AGI了",
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "summary": "微软首席执行官萨提亚·纳德拉表示，自己已经转而相信通用人工智能（AGI）的到来",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "title_zh": "谷歌Spark AI智能体更名为Tasks并免费开放",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "summary": "谷歌把Spark AI智能体改名为Tasks，并面向所有用户免费开放使用",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "title_zh": "加州就AI失控黑客事件起诉OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "summary": "加利福尼亚州因涉及AI自主发起的黑客攻击事件，对OpenAI提起诉讼",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "title_zh": "IPO后亚马逊与谷歌将合计持有Anthropic近三成股份",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "summary": "Anthropic上市之后，亚马逊和谷歌将共同持有这家AI公司接近30%的股份",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "title_zh": "AI制药公司Isomorphic Labs融资50亿美元推进临床试验",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "summary": "谷歌旗下AI制药公司Isomorphic Labs完成50亿美元融资，计划把AI发现的药物候选物推进到临床试验阶段",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "title_zh": "连Sam Altman也难逃Instagram上的AI深度伪造",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "summary": "OpenAI首席执行官Sam Altman同样成了Instagram上AI深度伪造视频的素材，无人能幸免",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "title_zh": "Proton推出隐私优先的Lumo桌面版对标ChatGPT与Claude",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "summary": "隐私保护公司Proton把AI助手Lumo带到桌面平台，主打更注重隐私的ChatGPT与Claude替代方案",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "title_zh": "研究：一句“这是游戏”即可诱骗AI把平民误判为军事目标",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "summary": "研究发现，只要谎称是游戏，就能诱使AI模型把平民识别为军事目标，引发对AI武器化风险的担忧",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "title_zh": "英伟达三季度财报达标却对黄仁勋事件只字不提",
+      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "summary": "英伟达公布第三季度财报，业绩符合市场预期，但通篇未提及CEO黄仁勋离任的相关争议",
+      "content": ""
+    }
+  ]
+}
