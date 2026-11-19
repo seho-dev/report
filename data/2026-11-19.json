@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-19",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "cursor/plugins",
+      "title_zh": "Cursor 官方插件仓库",
+      "url": "https://github.com/cursor/plugins",
+      "summary": "Cursor 编辑器的插件规范与官方插件集合。",
+      "content": "Cursor plugin specification and official plugins",
+      "stars": "17183"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "HKUDS/CLI-Anything",
+      "title_zh": "CLI-Anything 命令行智能体框架",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "CLI-Anything：让所有软件原生支持 AI 智能体，并提供 CLI-Hub 命令行工具枢纽。",
+      "content": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": "59719"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "mvanhorn/last30days-skill",
+      "title_zh": "Last30Days 信息检索技能",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "一款 AI 智能体技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket 等平台调研任意主题近 30 天的动态。",
+      "content": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": "69974"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "getarcaneapp/arcane",
+      "title_zh": "Arcane 现代化 Docker 管理面板",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "summary": "为所有人设计的现代化 Docker 管理工具。",
+      "content": "Modern Docker Management, Designed for Everyone",
+      "stars": "9781"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "NVIDIA/SkillEvaluator",
+      "title_zh": "英伟达 SkillEvaluator 技能评测框架",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "summary": "多层评测框架，通过质量门槛评估 AI 智能体技能与插件的质量。",
+      "content": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "stars": "3706"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "nvm-sh/nvm",
+      "title_zh": "nvm Node 版本管理器",
+      "url": "https://github.com/nvm-sh/nvm",
+      "summary": "Node Version Manager，兼容 POSIX 规范的 bash 脚本，用于在同一机器上管理多个 Node.js 版本。",
+      "content": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "stars": "96152"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "astral-sh/uv",
+      "title_zh": "uv 极速 Python 包管理器",
+      "url": "https://github.com/astral-sh/uv",
+      "summary": "用 Rust 编写的极速 Python 包与项目管理工具。",
+      "content": "An extremely fast Python package and project manager, written in Rust.",
+      "stars": "92218"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "google-research/paper-orchestra",
+      "title_zh": "谷歌 PaperOrchestra 论文写作框架",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "summary": "PaperOrchestra 是一个用于自动化 AI 研究论文写作的多智能体框架。",
+      "content": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "stars": "4252"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "google-labs-code/stitch-skills",
+      "title_zh": "谷歌 Stitch 智能体技能库",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "summary": "为 Stitch MCP 服务器设计的智能体技能库，每个技能遵循统一规范。",
+      "content": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "stars": "10391"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "sveltejs/svelte",
+      "title_zh": "Svelte 前端框架",
+      "url": "https://github.com/sveltejs/svelte",
+      "summary": "让所有人都能轻松上手 Web 开发的前端框架。",
+      "content": "web development for the rest of us",
+      "stars": "89626"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "title_zh": "Java4Shell：OpenJDK 处理 Base64 时的远程代码执行漏洞",
+      "url": "https://news.ycombinator.com/item?id=50538240",
+      "summary": "OpenJDK 在处理 Base64 编码数据时被发现存在远程代码执行（RCE）漏洞，波及面极广，登上 Hacker News 热榜。",
+      "content": "HN Score: 1151, Comments: 320"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Unauthenticated remote code execution in Nginx",
+      "title_zh": "Nginx 未授权远程代码执行漏洞",
+      "url": "https://news.ycombinator.com/item?id=50547374",
+      "summary": "Wiz 安全团队披露 Nginx 存在无需认证即可触发的远程代码执行漏洞，涉及 HTTP/2 处理，影响重大。",
+      "content": "HN Score: 1062, Comments: 483"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "title_zh": "Quad9 退出法国：矿井里的金丝雀",
+      "url": "https://news.ycombinator.com/item?id=50538994",
+      "summary": "Cloudflare 博客分析 Quad9 退出法国的意义，视其为欧洲网络隐私与监管环境恶化的预警信号。",
+      "content": "HN Score: 880, Comments: 427"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Inside Deutsche Bank",
+      "title_zh": "走进德意志银行",
+      "url": "https://news.ycombinator.com/item?id=50547620",
+      "summary": "一篇深度报道揭开德意志银行内部的运作方式、企业文化与权力博弈。",
+      "content": "HN Score: 524, Comments: 185"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "ID.me terms required for IRS sign-in",
+      "title_zh": "美国国税局登录被要求接受 ID.me 条款",
+      "url": "https://news.ycombinator.com/item?id=50540437",
+      "summary": "美国国税局（IRS）登录流程被指强制用户接受 ID.me 的服务条款，引发隐私与数据使用争议。",
+      "content": "HN Score: 491, Comments: 257"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+      "title_zh": "剑桥词典将「human」评为 2026 年度词汇",
+      "url": "https://news.ycombinator.com/item?id=50546914",
+      "summary": "在 AI 快速普及的背景下，剑桥词典将「human」（人类）选为 2026 年度词汇，折射出人们对人性与身份的思考。",
+      "content": "HN Score: 227, Comments: 166"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Scottish HTTP Codes",
+      "title_zh": "苏格兰版 HTTP 状态码",
+      "url": "https://news.ycombinator.com/item?id=50550062",
+      "summary": "一个幽默创意项目，用苏格兰口吻重新演绎各种 HTTP 状态码。",
+      "content": "HN Score: 228, Comments: 54"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "A Perfect SimCity",
+      "title_zh": "完美的模拟城市",
+      "url": "https://news.ycombinator.com/item?id=50504373",
+      "summary": "作者借《模拟城市》探讨理想城市规划的思考与实践。",
+      "content": "HN Score: 216, Comments: 121"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+      "title_zh": "KVM x86：模拟 INIT 时无条件重置 MMU 上下文（CVE-2026-99312）",
+      "url": "https://news.ycombinator.com/item?id=50548004",
+      "summary": "Linux KVM 内核补丁修复 x86 架构下模拟 INIT 指令时未重置 MMU 上下文的安全漏洞，编号 CVE-2026-99312。",
+      "content": "HN Score: 165, Comments: 113"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "title_zh": "马斯克称罢免黄仁勋如同把乔丹踢出球队",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "summary": "埃隆·马斯克为英伟达 CEO 黄仁勋发声，称罢免他就像把迈克尔·乔丹踢出球队一样荒唐。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "title_zh": "纳德拉预言 AI 智能体将重塑网络经济格局",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "summary": "微软 CEO 萨提亚·纳德拉预测，AI 智能体会重新洗牌互联网经济，改变流量与商业的分配方式。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "title_zh": "Anthropic 据报道将 IPO 定价为每股 83 美元",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "summary": "Anthropic 据报将 IPO 股价定为每股 83 美元，高于此前预期区间，其上市估值备受关注。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "title_zh": "黄仁勋离职后英伟达或将放弃中国市场",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "summary": "报道称在黄仁勋出局之后，英伟达正减少乃至放弃对华 AI 芯片业务。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "title_zh": "帕尔默·拉奇警告 AI 网络攻击已跑赢防御",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "summary": "Anduril 创始人帕尔默·拉奇警告，AI 驱动的网络攻击演进速度已超过防御能力，呼吁革新安全思路。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "title_zh": "谷歌搜索 AI 功能推出隐身模式",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "summary": "谷歌为搜索中的 AI 功能加入隐身模式，回应用户对隐私与数据记录的担忧。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+      "title_zh": "迪士尼《星球大战》新机器人借助 AI 与游客互动",
+      "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "summary": "迪士尼推出新一代《星球大战》电子动画角色，利用 AI 实现与游客的自然对话互动。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Will Wright’s next game uses AI to map your memories",
+      "title_zh": "Will Wright 新作游戏用 AI 绘制你的记忆地图",
+      "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+      "summary": "《模拟人生》之父 Will Wright 的新游戏借助 AI，把玩家的记忆转化为可探索的游戏地图。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "title_zh": "Felicis 领投 750 万美元押注 Unsiloed AI",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "summary": "Felicis 领投 750 万美元投资 Unsiloed AI，目标是让企业的非结构化文档能被 AI 智能体直接调用。",
+      "content": ""
+    }
+  ]
+}
