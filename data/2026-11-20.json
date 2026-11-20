@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-20",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "elementalsouls/Claude-BugHunter",
+      "title_zh": "Claude漏洞猎手技能包",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "summary": "一个用于漏洞挖掘与外部红队工作的Claude Code技能包",
+      "content": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. | Stars: 12488 | Stars today: 1,349",
+      "stars": "12488"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "obra/superpowers",
+      "title_zh": "Superpowers智能体技能框架",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一套智能体技能框架与软件开发方法论",
+      "content": "An agentic skills framework & software development methodology that works. | Stars: 322058 | Stars today: 2,028",
+      "stars": "322058"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "HKUDS/CLI-Anything",
+      "title_zh": "CLI-Anything命令行智能化框架",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "让所有软件原生支持智能体的命令行框架",
+      "content": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/ | Stars: 60534 | Stars today: 898",
+      "stars": "60534"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "jingyaogong/minimind",
+      "title_zh": "MiniMind轻量级大模型",
+      "url": "https://github.com/jingyaogong/minimind",
+      "summary": "两小时从零训练64M参数大模型的完整教程与代码",
+      "content": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. | Stars: 66839 | Stars today: 238",
+      "stars": "66839"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "cursor/plugins",
+      "title_zh": "Cursor官方插件仓库",
+      "url": "https://github.com/cursor/plugins",
+      "summary": "Cursor插件规范与官方插件集合",
+      "content": "Cursor plugin specification and official plugins | Stars: 17548 | Stars today: 384",
+      "stars": "17548"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "firecrawl/firecrawl",
+      "title_zh": "Firecrawl智能体抓取工具",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "summary": "为智能体提供搜索与抓取能力的知识基础设施",
+      "content": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. | Stars: 204180 | Stars today: 825",
+      "stars": "204180"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "nginx/nginx",
+      "title_zh": "NGINX开源官方仓库",
+      "url": "https://github.com/nginx/nginx",
+      "summary": "NGINX开源服务器的官方源代码仓库",
+      "content": "The official NGINX Open Source repository. | Stars: 32323 | Stars today: 73",
+      "stars": "32323"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "openvinotoolkit/openvino",
+      "title_zh": "OpenVINO推理优化工具包",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "summary": "用于优化与部署AI推理的开源工具包",
+      "content": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference | Stars: 11554 | Stars today: 246",
+      "stars": "11554"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "cathrynlavery/diagram-design",
+      "title_zh": "Diagram Design图表设计技能",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "面向Claude Code、Codex与Copilot的编辑级图表设计技能",
+      "content": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | Stars: 68619 | Stars today: 271",
+      "stars": "68619"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "mvanhorn/last30days-skill",
+      "title_zh": "Last30Days调研技能",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "跨Reddit、X、YouTube与Hacker News调研任意主题的智能体技能",
+      "content": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary | Stars: 70778 | Stars today: 954",
+      "stars": "70778"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Garage Door Spam",
+      "title_zh": "车库门垃圾信息泛滥",
+      "url": "https://news.ycombinator.com/item?id=50519231",
+      "summary": "一位开发者分享自家车库门遥控频段被垃圾信息干扰的离奇经历",
+      "content": "HN Score: 721, Comments: 306"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "title_zh": "英国政府被迫承认向苹果下达秘密加密令",
+      "url": "https://news.ycombinator.com/item?id=50562113",
+      "summary": "英国政府被迫承认曾向苹果公司下达秘密加密后门指令",
+      "content": "HN Score: 461, Comments: 200"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "title_zh": "Ruby2shell：Rails预认证远程代码执行漏洞",
+      "url": "https://news.ycombinator.com/item?id=50556287",
+      "summary": "影响默认Rails配置的预认证远程代码执行漏洞Ruby2shell技术分析",
+      "content": "HN Score: 377, Comments: 160"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Someone reported java4shell bug in September 2026",
+      "title_zh": "早在2026年9月就有人报告java4shell漏洞",
+      "url": "https://news.ycombinator.com/item?id=50558906",
+      "summary": "有人在2026年9月就报告了后来被称为java4shell的Java漏洞",
+      "content": "HN Score: 344, Comments: 90"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Everything you need to survive and rebuild society",
+      "title_zh": "重建社会所需的一切",
+      "url": "https://news.ycombinator.com/item?id=50560822",
+      "summary": "一份关于生存与重建社会所需知识资源的综合指南",
+      "content": "HN Score: 350, Comments: 186"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "SSD prices may begin to decline in the latter half of 2027",
+      "title_zh": "固态硬盘价格或于2027年下半年回落",
+      "url": "https://news.ycombinator.com/item?id=50557716",
+      "summary": "分析认为SSD固态硬盘价格可能在2027年下半年开始下降",
+      "content": "HN Score: 295, Comments: 225"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "What's New in PHP 8.6",
+      "title_zh": "PHP 8.6新特性",
+      "url": "https://news.ycombinator.com/item?id=50557870",
+      "summary": "PHP官方发布的8.6版本新特性说明",
+      "content": "HN Score: 267, Comments: 126"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Do not buy RAM, compress",
+      "title_zh": "别买内存，用压缩",
+      "url": "https://news.ycombinator.com/item?id=50557661",
+      "summary": "探讨通过压缩技术替代购买更多内存的方案",
+      "content": "HN Score: 239, Comments: 198"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "title_zh": "基于SQLite的分布式高性能对象存储",
+      "url": "https://news.ycombinator.com/item?id=50557537",
+      "summary": "介绍如何在SQLite之上构建分布式高性能对象存储",
+      "content": "HN Score: 251, Comments: 68"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "title_zh": "苹果招募工程师打造自研AI智能体",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "summary": "苹果正在招聘工程师开发自己的AI智能体",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Google is putting AI chats right on the homepage",
+      "title_zh": "谷歌将AI对话直接搬上搜索首页",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "summary": "谷歌正在把AI对话功能直接放到搜索主页上",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Gemini on Mac can now use your computer",
+      "title_zh": "Mac版Gemini现在可以操控你的电脑",
+      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "summary": "谷歌Gemini for Mac获得操控计算机的能力",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "title_zh": "ChatGPT推出实时听写转写功能",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "summary": "ChatGPT新增Live Dictation功能，可边说边转写",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "title_zh": "Meta新款Muse Charm设备或售价300美元",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "summary": "Meta即将推出的Muse Charm AI设备可能定价300美元",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "title_zh": "黄仁勋丑闻事件时间线梳理",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "梳理英伟达CEO黄仁勋相关丑闻的时间线",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "title_zh": "Anthropic IPO定价每股83美元高于预期区间",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "summary": "Anthropic将IPO价格定为每股83美元，高于此前预期区间",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "title_zh": "Palmer Luckey警告AI网络攻击已超防御速度",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "summary": "Palmer Luckey警告AI驱动的网络攻击正超越防御能力",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "title_zh": "纳德拉预测AI智能体将重塑网络经济",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "summary": "微软CEO纳德拉预测AI智能体会重新洗牌网络经济格局",
+      "content": ""
+    }
+  ]
+}
