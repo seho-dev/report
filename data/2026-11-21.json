@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-21",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "elementalsouls/Claude-BugHunter",
+      "title_zh": "Claude漏洞猎手技能包",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "summary": "一个用于漏洞挖掘与外部红队工作的Claude Code技能包",
+      "content": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. | Stars: 14215 | Stars today: 1,622",
+      "stars": "14215"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "obra/superpowers",
+      "title_zh": "Superpowers智能体技能框架",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一套智能体技能框架与软件开发方法论",
+      "content": "An agentic skills framework & software development methodology that works. | Stars: 322821 | Stars today: 890",
+      "stars": "322821"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "HKUDS/CLI-Anything",
+      "title_zh": "CLI-Anything命令行智能化框架",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "让所有软件原生支持智能体的命令行框架",
+      "content": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/ | Stars: 61364 | Stars today: 773",
+      "stars": "61364"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "jingyaogong/minimind",
+      "title_zh": "MiniMind大模型训练框架",
+      "url": "https://github.com/jingyaogong/minimind",
+      "summary": "两小时从零训练64M参数大模型的教程与代码",
+      "content": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. | Stars: 67675 | Stars today: 847",
+      "stars": "67675"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "cursor/plugins",
+      "title_zh": "Cursor插件规范与官方插件集",
+      "url": "https://github.com/cursor/plugins",
+      "summary": "Cursor编辑器的插件规范及官方插件集合",
+      "content": "Cursor plugin specification and official plugins | Stars: 17837 | Stars today: 299",
+      "stars": "17837"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "firecrawl/firecrawl",
+      "title_zh": "Firecrawl网络数据抓取工具",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "summary": "为智能体提供搜索与网页抓取的知识基础设施",
+      "content": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. | Stars: 205247 | Stars today: 1,241",
+      "stars": "205247"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "nginx/nginx",
+      "title_zh": "Nginx开源服务器",
+      "url": "https://github.com/nginx/nginx",
+      "summary": "官方NGINX开源仓库",
+      "content": "The official NGINX Open Source repository. | Stars: 32559 | Stars today: 246",
+      "stars": "32559"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "openvinotoolkit/openvino",
+      "title_zh": "OpenVINO推理优化工具套件",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "summary": "用于优化与部署AI推理的开源工具包",
+      "content": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference | Stars: 11783 | Stars today: 217",
+      "stars": "11783"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "cathrynlavery/diagram-design",
+      "title_zh": "图表设计技能包",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "面向Claude Code与Codex等编程助手的编辑级图表设计技能",
+      "content": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | Stars: 69269 | Stars today: 636",
+      "stars": "69269"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "mvanhorn/last30days-skill",
+      "title_zh": "近30天资讯研究技能",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "跨Reddit、X、YouTube与HN等平台研究任意主题的AI智能体技能",
+      "content": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary | Stars: 71431 | Stars today: 681",
+      "stars": "71431"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "title_zh": "Levent Alpoge声称证明了广义黎曼猜想",
+      "url": "https://news.ycombinator.com/item?id=50574968",
+      "summary": "数学家Levent Alpoge发布论文声称证明广义黎曼猜想，引发学界激烈讨论",
+      "content": "HN Score: 2284, Comments: 1548"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "title_zh": "不能用简单的话解释就是没真正理解",
+      "url": "https://news.ycombinator.com/item?id=50572355",
+      "summary": "一篇2017年的经典文章：真正的理解意味着能用通俗语言把复杂概念讲清楚",
+      "content": "HN Score: 604, Comments: 288"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "The Making of Oxygene",
+      "title_zh": "Oxygene语言的诞生",
+      "url": "https://news.ycombinator.com/item?id=50572822",
+      "summary": "回顾Oxygene编程语言的诞生历程与设计思想",
+      "content": "HN Score: 190, Comments: 72"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "title_zh": "为何iOS上至今没有非WebKit内核浏览器",
+      "url": "https://news.ycombinator.com/item?id=50575644",
+      "summary": "深度分析苹果对iOS浏览器内核的限制，以及第三方浏览器为何只能使用WebKit",
+      "content": "HN Score: 322, Comments: 190"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "We promoted developers into architects without informing them",
+      "title_zh": "我们把开发者提拔成架构师却没告知他们",
+      "url": "https://news.ycombinator.com/item?id=50579331",
+      "summary": "关于开发者被悄无声息推上架构师角色的团队管理反思",
+      "content": "HN Score: 253, Comments: 163"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "The G1 Garbage Collector",
+      "title_zh": "G1垃圾回收器",
+      "url": "https://news.ycombinator.com/item?id=50527444",
+      "summary": "深入解析JVM中G1垃圾收集器的设计与工作原理",
+      "content": "HN Score: 98, Comments: 53"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "title_zh": "DreamCoder：Mastering Emacs作者的编码工具与IDE",
+      "url": "https://news.ycombinator.com/item?id=50581110",
+      "summary": "由Mastering Emacs作者开发的编码工作台与集成开发环境",
+      "content": "HN Score: 70, Comments: 9"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Microsoft announces Windows Server 2028 with hardened security",
+      "title_zh": "微软发布强化安全性的Windows Server 2028",
+      "url": "https://news.ycombinator.com/item?id=50550430",
+      "summary": "微软宣布Windows Server 2028，重点加强默认安全防护能力",
+      "content": "HN Score: 64, Comments: 69"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Nasdaq erases all 2026 gains",
+      "title_zh": "纳斯达克抹去2026年全部涨幅",
+      "url": "https://news.ycombinator.com/item?id=50583254",
+      "summary": "美股科技板块回调，纳斯达克指数回吐今年迄今所有涨幅",
+      "content": "HN Score: 65, Comments: 21"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "title_zh": "特朗普威胁对迁往海外的AI数据中心征收重税",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "summary": "特朗普表示将对把AI数据中心建在美国以外的公司征收高额税负，以推动算力留在美国",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "title_zh": "Signal阻止Gemini与Siri读取你的屏幕",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "summary": "Signal新增防护，阻止AI助手读取用户屏幕上的聊天内容",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "title_zh": "苹果招聘工程师打造自研AI智能体",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "summary": "苹果发布招聘信息，招募工程师开发可自主操作Mac的AI智能体",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Meta’s Muse Charm might cost $300",
+      "title_zh": "Meta的Muse Charm AI设备或售价300美元",
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "summary": "Meta新款AI可穿戴设备Muse Charm的价格可能定为300美元",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Google is putting AI chats right on the homepage",
+      "title_zh": "谷歌把AI对话直接搬到搜索首页",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "summary": "谷歌在搜索主页显著位置加入AI对话入口，用户打开浏览器即可与AI交流",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Gemini on Mac can now use your computer",
+      "title_zh": "Mac版Gemini现在可以替你操作电脑",
+      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "summary": "谷歌为macOS版Gemini加入电脑操作能力，可代替用户执行桌面任务",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "title_zh": "黄仁勋丑闻持续发酵：事件时间线梳理",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "梳理英伟达CEO黄仁勋相关丑闻的来龙去脉与关键节点",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "title_zh": "微软CEO纳德拉解释为何要求6万员工离职",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "summary": "微软CEO萨提亚·纳德拉回应大规模人员调整，解释约6万名员工离开的原因",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Anthropic starts trading on Wall Street",
+      "title_zh": "Anthropic正式在华尔街挂牌交易",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "summary": "AI公司Anthropic登陆纳斯达克开始交易，成为近期最受关注的科技IPO之一",
+      "content": ""
+    }
+  ]
+}
