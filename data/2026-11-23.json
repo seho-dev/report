@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-23",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "elementalsouls/Claude-BugHunter",
+      "title_zh": "Claude-BugHunter 漏洞猎手技能包",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "summary": "用于漏洞挖掘和外部红队工作的 Claude Code 技能合集",
+      "content": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "stars": 17748
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "obra/superpowers",
+      "title_zh": "Superpowers 智能体技能框架",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一套智能体技能框架与软件开发方法论，让 AI 编码更强大",
+      "content": "An agentic skills framework & software development methodology that works.",
+      "stars": 324150
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "HKUDS/CLI-Anything",
+      "title_zh": "CLI-Anything 让所有软件原生支持智能体",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "让所有软件都能被智能体原生调用的命令行工具集，附带 CLI-Hub 枢纽",
+      "content": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 62766
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "jingyaogong/minimind",
+      "title_zh": "MiniMind 两小时从零训练大模型",
+      "url": "https://github.com/jingyaogong/minimind",
+      "summary": "两小时从零训练出 64M 参数大模型的完整教程与代码",
+      "content": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "stars": 68631
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "cursor/plugins",
+      "title_zh": "Cursor 官方插件",
+      "url": "https://github.com/cursor/plugins",
+      "summary": "Cursor 插件规范与官方插件集合",
+      "content": "Cursor plugin specification and official plugins",
+      "stars": 18430
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "firecrawl/firecrawl",
+      "title_zh": "Firecrawl 智能体数据抓取基础设施",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "summary": "让智能体更聪明的数据基础设施，提供搜索、抓取与爬取能力",
+      "content": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "stars": 207011
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "nginx/nginx",
+      "title_zh": "NGINX 官方开源仓库",
+      "url": "https://github.com/nginx/nginx",
+      "summary": "NGINX 开源项目的官方源码仓库",
+      "content": "The official NGINX Open Source repository.",
+      "stars": 32881
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "openvinotoolkit/openvino",
+      "title_zh": "OpenVINO 开源 AI 优化部署工具包",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "summary": "用于优化和部署 AI 推理的开源工具套件",
+      "content": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "stars": 12088
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "cathrynlavery/diagram-design",
+      "title_zh": "Diagram Design 图表设计技能",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "为 Claude Code、Codex、GitHub Copilot、Cursor 打造的编辑级图表设计技能",
+      "content": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 70281
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "mvanhorn/last30days-skill",
+      "title_zh": "Last30Days 近30天调研技能",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "跨 Reddit、X、YouTube、Hacker News 调研任意话题近 30 天动态的智能体技能",
+      "content": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 72692
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "title_zh": "丰田、日产与本田将统一零部件以降低成本",
+      "url": "https://news.ycombinator.com/item?id=50596133",
+      "summary": "三大日系车企计划标准化汽车零部件，借此降低生产成本并提升供应链效率。",
+      "content": "HN Score: 1172, Comments: 670"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "title_zh": "治疗胰腺癌的药物被誉为数十年来最大突破",
+      "url": "https://news.ycombinator.com/item?id=50582069",
+      "summary": "一款针对胰腺癌的新药被医学界称为近几十年来的重大突破，引发广泛关注。",
+      "content": "HN Score: 1339, Comments: 299"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Sandwich Simulator",
+      "title_zh": "三明治模拟器",
+      "url": "https://news.ycombinator.com/item?id=50594911",
+      "summary": "一款以制作三明治为主题的趣味网页小游戏，登上 Hacker News 热门。",
+      "content": "HN Score: 564, Comments: 198"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "title_zh": "GTA 6 鸟类图鉴：罪恶城与莱昂尼达的野生动物",
+      "url": "https://news.ycombinator.com/item?id=50602843",
+      "summary": "奥杜邦学会为 GTA 6 中的虚构地区编写鸟类野外指南，将游戏世界与现实生态结合。",
+      "content": "HN Score: 301, Comments: 123"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Open Social Web Alliance",
+      "title_zh": "开放社交网络联盟",
+      "url": "https://news.ycombinator.com/item?id=50600511",
+      "summary": "一个致力于推动去中心化、互通互联的开放社交网络新联盟宣告成立。",
+      "content": "HN Score: 209, Comments: 206"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Backblaze customers worried of personal data sale/sharing after policy update",
+      "title_zh": "Backblaze 用户担忧政策更新后个人数据被出售或共享",
+      "url": "https://news.ycombinator.com/item?id=50600435",
+      "summary": "云备份服务商 Backblaze 更新隐私政策后，用户担忧个人数据可能被出售或共享。",
+      "content": "HN Score: 141, Comments: 58"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "title_zh": "一座配有实时公交、飞机和船只的迷你旧金山",
+      "url": "https://news.ycombinator.com/item?id=50603589",
+      "summary": "爱好者打造的迷你旧金山微缩模型，里面有会运转的公交车、飞机与船只。",
+      "content": "HN Score: 100, Comments: 40"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
+      "title_zh": "自动化系统故障导致亚特兰大所有达美航班延误",
+      "url": "https://news.ycombinator.com/item?id=50603232",
+      "summary": "达美航空自动化系统出现故障，致使经亚特兰大机场的所有航班大面积延误。",
+      "content": "HN Score: 83, Comments: 33"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
+      "title_zh": "C++26 尘埃落定：2026 年 11 月 ISO C++ 会议纪要",
+      "url": "https://news.ycombinator.com/item?id=50600838",
+      "summary": "C++ 标准委员会 11 月会议 Trip Report，C++26 新标准特性最终敲定。",
+      "content": "HN Score: 58, Comments: 34"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "title_zh": "AI 声称破解 167 年历史的黎曼猜想，人类也给出了答案",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "summary": "AI 与人类数学家几乎同时给出黎曼猜想的解答，引发关于数学证明归属与验证的热议。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "title_zh": "Anthropic 七位创始人在创纪录 IPO 中套现近 20 亿美元",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "summary": "Anthropic 上市成为史上规模最大的 IPO 之一，七位创始人合计套现近 20 亿美元。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "title_zh": "英伟达 CEO 黄仁勋丑闻始末：一条时间线",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "围绕英伟达 CEO 黄仁勋与疑似中国间谍相关传闻的事件时间线，风波持续发酵。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "title_zh": "苹果或在研发可操控 Mac 的自家 AI 智能体",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "summary": "消息称苹果正在开发能够替用户操作 Mac 电脑的 AI 智能体，对标系统级自动化。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "title_zh": "谷歌赋予 Gemini 代替你操作 Mac 的能力",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "summary": "谷歌为 Gemini 增加操控 Mac 的功能，AI 可以直接在电脑上替用户完成任务。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "title_zh": "Meta 新款 Muse Charm 设备售价或为 300 美元",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "summary": "Meta 旗下新 AI 硬件 Muse Charm 设备预计定价约 300 美元，主打随身 AI 陪伴。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "title_zh": "特朗普威胁对将 AI 数据中心迁至海外的企业征收重税",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "summary": "特朗普放话将对把 AI 数据中心迁出美国的企业课以高额税款，以留住算力基础设施。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "title_zh": "Signal 阻止 Gemini 与 Siri 等 AI 读取你的屏幕",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "summary": "为应对 AI 监控威胁，Signal 开始限制 Gemini、Siri 等智能体读取手机屏幕内容。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Nvidia researchers argue huge AI context windows are a dead end",
+      "title_zh": "英伟达研究者认为超长 AI 上下文窗口是条死路",
+      "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+      "summary": "英伟达研究团队指出，一味追求超长上下文窗口并非 AI 发展的正确方向，属于死胡同。",
+      "content": ""
+    }
+  ]
+}
