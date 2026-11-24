@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-24",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "Claude-BugHunter",
+      "title_zh": "Claude-BugHunter漏洞猎手技能包",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "summary": "用于漏洞挖掘和外部红队工作的Claude Code技能集合，包含82项技能和15条 slash 命令，辅助自动化测试与渗透工作",
+      "content": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "stars": "19716"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "superpowers",
+      "title_zh": "Superpowers智能体技能框架",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一套智能体技能框架与软件开发方法论，提供可落地的工程实践与流程规范",
+      "content": "An agentic skills framework & software development methodology that works.",
+      "stars": "325037"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "CLI-Anything",
+      "title_zh": "CLI-Anything让所有软件原生支持智能体",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "让所有软件都具备智能体原生能力的开源项目，附CLI中心和软件接入方案",
+      "content": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": "63603"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "minimind",
+      "title_zh": "MiniMind两小时从零训练64M大模型",
+      "url": "https://github.com/jingyaogong/minimind",
+      "summary": "两小时从零开始训练64M参数大模型的中文开源项目，附完整教程与代码",
+      "content": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "stars": "69436"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "plugins",
+      "title_zh": "Cursor插件规范与官方插件",
+      "url": "https://github.com/cursor/plugins",
+      "summary": "Cursor编辑器的插件开发规范文档与官方维护的插件集合",
+      "content": "Cursor plugin specification and official plugins",
+      "stars": "18793"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "firecrawl",
+      "title_zh": "Firecrawl智能体数据抓取工具",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "summary": "为智能体提供知识基础设施，可搜索、抓取并访问550多个数据源的网页数据",
+      "content": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "stars": "207895"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "nginx",
+      "title_zh": "NGINX官方开源仓库",
+      "url": "https://github.com/nginx/nginx",
+      "summary": "高性能Web服务器NGINX的官方开源代码仓库",
+      "content": "The official NGINX Open Source repository.",
+      "stars": "33047"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "openvino",
+      "title_zh": "OpenVINO AI推理优化部署工具包",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "summary": "用于优化和部署AI推理的开源工具包，支持跨硬件加速与模型压缩",
+      "content": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "stars": "12276"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "diagram-design",
+      "title_zh": "Diagram Design图表设计技能",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "面向Claude Code、Codex、GitHub Copilot、Cursor等工具的编辑级图表设计指南",
+      "content": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "70949"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "last30days-skill",
+      "title_zh": "Last30Days近30天调研技能",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "跨Reddit、X、YouTube、HN、Polymarket等平台调研任意话题的AI智能体技能",
+      "content": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": "73423"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Ladybird is now in alpha",
+      "title_zh": "Ladybird浏览器进入Alpha阶段",
+      "url": "https://news.ycombinator.com/item?id=50614249",
+      "summary": "Ladybird独立浏览器项目发布Alpha版本，标志着这款从零构建的浏览器引擎迈入可测试阶段",
+      "content": "HN Score: 1308, Comments: 313"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "title_zh": "用互联网档案馆被遗忘视频搭建的免费替代电视网",
+      "url": "https://news.ycombinator.com/item?id=50606192",
+      "summary": "开发者利用互联网档案馆中被遗忘的海量视频资源，构建了一个免费的另类电视节目网络",
+      "content": "HN Score: 924, Comments: 160"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Apple removed my open-source app from EU App Stores after 9 years",
+      "title_zh": "苹果运营九年后将我的开源应用从欧盟App Store下架",
+      "url": "https://news.ycombinator.com/item?id=50616933",
+      "summary": "开发者控诉苹果在运营九年之后，将其开源应用从欧盟区App Store中移除",
+      "content": "HN Score: 466, Comments: 99"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Kagi Mail (public beta)",
+      "title_zh": "Kagi Mail邮件服务公测上线",
+      "url": "https://news.ycombinator.com/item?id=50615481",
+      "summary": "以隐私著称的搜索公司Kagi推出邮件服务Kagi Mail，目前进入公开测试阶段",
+      "content": "HN Score: 323, Comments: 254"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "title_zh": "航天器完成史上第二次进入水星轨道任务",
+      "url": "https://news.ycombinator.com/item?id=50587439",
+      "summary": "航天器成功抵达水星，成为历史上第二次进入水星轨道的探测任务",
+      "content": "HN Score: 277, Comments: 86"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "title_zh": "Nospeaker让MacBook触控板会说话",
+      "url": "https://news.ycombinator.com/item?id=50610318",
+      "summary": "通过触觉马达驱动MacBook触控板发声的创意项目，让触控板变成扬声器",
+      "content": "HN Score: 265, Comments: 156"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Nespresso's project to reduce grams of coffee per capsule",
+      "title_zh": "Nespresso减少每颗咖啡胶囊用量的项目",
+      "url": "https://news.ycombinator.com/item?id=50605479",
+      "summary": "Nespresso致力于降低单颗咖啡胶囊的咖啡克数，在品质与用料之间寻找平衡",
+      "content": "HN Score: 261, Comments: 274"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "The next circle of security hell",
+      "title_zh": "下一轮安全地狱",
+      "url": "https://news.ycombinator.com/item?id=50610334",
+      "summary": "关于软件安全困境持续恶化、漏洞与供应链风险层层叠加的深度分析",
+      "content": "HN Score: 232, Comments: 138"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "C++26 is done (again): ISO C++ meeting trip report",
+      "title_zh": "C++26尘埃落定：ISO C++会议技术报告",
+      "url": "https://news.ycombinator.com/item?id=50600838",
+      "summary": "ISO C++委员会会议纪要，梳理C++26标准最终定稿的新特性与取舍",
+      "content": "HN Score: 96, Comments: 86"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "title_zh": "特朗普为黄仁勋策划了一场高风险的回归",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "summary": "《纽约时报》深度报道特朗普如何介入并促成黄仁勋回归英伟达，这场高风险政治操作引发对企业治理与政府干预的广泛讨论",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "title_zh": "Anthropic推出Claude Ship代码智能体",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "summary": "Anthropic发布Claude Ship，可让AI智能体自主审查拉取请求、修复问题并批准代码变更，进一步自动化软件工程流程",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+      "title_zh": "AI编程智能体在模拟职场中完成率不足一成",
+      "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+      "summary": "研究显示AI编程智能体虽能轻松通过孤立测试，但在模拟真实工作场所中完成任务的比例不到十分之一，暴露能力与落地之间的落差",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
+      "title_zh": "GPT-6.2 Astra解出数学定理并自创证明策略",
+      "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
+      "summary": "GPT-6.2 Astra攻克了一道其他AI都无法破解的数学定理，并自行发明了新的证明策略，展现AI在数学推理上的突破",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "title_zh": "Google搜索AI模式接入Drive与Wallet",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "summary": "Google搜索的AI Mode现可调用用户的Drive和Wallet数据，提供更贴合个人情境的个性化回答",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "title_zh": "亚马逊75亿美元收购Decart的AI优化技术",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "summary": "亚马逊以75亿美元收购Decart的AI优化技术，为其即将销售的Trainium芯片补齐软件与效率优势",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "title_zh": "Signal限制手机截图以应对AI监控威胁",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "summary": "加密通讯应用Signal限制移动端截图功能，称其正面临AI监控带来的'生存性威胁'",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
+      "title_zh": "Z.ai推出7500亿参数旗舰模型跟进循环Transformer",
+      "url": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
+      "summary": "智谱Z.ai发布7500亿参数旗舰模型，跟进OpenAI的循环Transformer架构路线，加入新一代大模型竞争",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
+      "title_zh": "OpenAI更新ChatGPT提升复杂问题处理能力",
+      "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
+      "summary": "OpenAI升级ChatGPT，使其在处理复杂日常问题、网络搜索和图像任务时更加可靠",
+      "content": ""
+    }
+  ]
+}
