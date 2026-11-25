@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-25",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "elementalsouls/Claude-BugHunter",
+      "title_zh": "Claude-BugHunter 漏洞狩猎技能包",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "summary": "一套面向 Claude Code 的漏洞挖掘与外部红队技能包，包含 84 项技能、15 个斜杠命令，以及覆盖 24 类核心漏洞的 681 种已公开报告模式。",
+      "content": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "stars": "21432"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "obra/superpowers",
+      "title_zh": "Superpowers 智能体技能框架",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一个真正可用的智能体技能框架与软件开发方法论，帮助编码智能体更高效地完成开发任务。",
+      "content": "An agentic skills framework & software development methodology that works.",
+      "stars": "325782"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "HKUDS/CLI-Anything",
+      "title_zh": "CLI-Anything 让所有软件原生支持智能体",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "CLI-Anything 项目的目标是让所有软件都能被智能体原生调用，并提供 CLI-Hub 插件中心。",
+      "content": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": "64722"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "jingyaogong/minimind",
+      "title_zh": "MiniMind 两小时从零训练 64M 大模型",
+      "url": "https://github.com/jingyaogong/minimind",
+      "summary": "开源项目 MiniMind 支持在两小时内从零训练出一个 6400 万参数的大语言模型。",
+      "content": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "stars": "70159"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "cursor/plugins",
+      "title_zh": "Cursor 官方插件规范与插件集",
+      "url": "https://github.com/cursor/plugins",
+      "summary": "Cursor 编辑器的插件规范说明以及官方维护的插件集合。",
+      "content": "Cursor plugin specification and official plugins",
+      "stars": "19194"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "firecrawl/firecrawl",
+      "title_zh": "Firecrawl 智能体知识基础设施",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "summary": "为智能体打造的知识基础设施：通过一个 API 即可搜索、抓取并访问 550 多个数据提供方。",
+      "content": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "stars": "208915"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "nginx/nginx",
+      "title_zh": "NGINX 开源官方仓库",
+      "url": "https://github.com/nginx/nginx",
+      "summary": "NGINX 开源项目的官方代码仓库，高性能 Web 服务器与反向代理。",
+      "content": "The official NGINX Open Source repository.",
+      "stars": "33216"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "openvinotoolkit/openvino",
+      "title_zh": "OpenVINO AI 推理优化部署工具包",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "summary": "OpenVINO 是用于优化和部署 AI 推理的开源工具包，支持跨硬件加速。",
+      "content": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "stars": "12458"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "cathrynlavery/diagram-design",
+      "title_zh": "Diagram Design 图表设计技能",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "为 Claude Code、Codex、GitHub Copilot、Cursor 等编码智能体打造的编辑级图表设计技能，支持 52 种图表类型，输出自包含 HTML 与 SVG。",
+      "content": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "71998"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "mvanhorn/last30days-skill",
+      "title_zh": "Last30Days 近三十天资讯研究技能",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "一款 AI 智能体技能，可跨 Reddit、X、YouTube、HN、Polymarket 与网络检索任意主题，并综合生成有据可查的摘要。",
+      "content": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": "74184"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Ladybird is now in alpha",
+      "title_zh": "Ladybird 浏览器进入 Alpha 阶段",
+      "url": "https://news.ycombinator.com/item?id=50614249",
+      "summary": "独立浏览器项目 Ladybird 发布 Alpha 版本， mark 着从零构建的浏览器引擎迈向可用里程碑。",
+      "content": "HN Score: 2378, Comments: 593"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "title_zh": "用互联网档案馆被遗忘视频打造的免费电视网",
+      "url": "https://news.ycombinator.com/item?id=50606192",
+      "summary": "爱好者利用互联网档案馆中被遗忘的旧视频，搭建起一个免费的另类电视网络。",
+      "content": "HN Score: 1068, Comments: 181"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
+      "title_zh": "GTA 6 重编译项目在开发者在校期间被 GitHub 下架",
+      "url": "https://news.ycombinator.com/item?id=50622638",
+      "summary": "GTA 6 Recomp（Leonida）项目被 GitHub 下架，而其主要开发者当时还在上学，引发社区热议。",
+      "content": "HN Score: 332, Comments: 594"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Quad9 pulled their DNS service from France",
+      "title_zh": "Quad9 撤出法国 DNS 服务",
+      "url": "https://news.ycombinator.com/item?id=50625384",
+      "summary": "隐私 DNS 服务商 Quad9 将其 DNS 服务撤出法国，原因与当地法律合规压力有关。",
+      "content": "HN Score: 336, Comments: 169"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+      "title_zh": "微软在历史性大宕机后宣布进入紧急状态",
+      "url": "https://news.ycombinator.com/item?id=50631157",
+      "summary": "内部备忘录显示，在经历一次历史性大范围宕机之后，微软宣布进入紧急状态并全力排查。",
+      "content": "HN Score: 209, Comments: 187"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "The Spray Bottle",
+      "title_zh": "喷雾瓶",
+      "url": "https://news.ycombinator.com/item?id=50598555",
+      "summary": "一篇关于看似平凡的喷雾瓶背后工程原理与设计巧思的技术文章。",
+      "content": "HN Score: 327, Comments: 93"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Worshipping at the altar of Brendan Gregg",
+      "title_zh": "膜拜布兰登·格雷格的性能分析圣坛",
+      "url": "https://news.ycombinator.com/item?id=50626413",
+      "summary": "一篇致敬性能分析大师 Brendan Gregg 的文章，探讨其可观测性工具对工程界的影响。",
+      "content": "HN Score: 215, Comments: 40"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Cloudflare hides shortcomings of the underlying infrastructure",
+      "title_zh": "Cloudflare 掩盖底层基础设施缺陷遭质疑",
+      "url": "https://news.ycombinator.com/item?id=50632883",
+      "summary": "批评者指出 Cloudflare 通过其架构掩盖了底层基础设施的短板，引发对透明度的讨论。",
+      "content": "HN Score: 142, Comments: 96"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "An unclassified CIA system was breached in a cyberattack",
+      "title_zh": "中情局一套非涉密系统遭网络攻击入侵",
+      "url": "https://news.ycombinator.com/item?id=50634933",
+      "summary": "消息称美国中央情报局的一套非涉密系统在一次网络攻击中被攻破，再度引发政府机构安全担忧。",
+      "content": "HN Score: 83, Comments: 26"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
+      "title_zh": "Anthropic 推出 Claude Ship 让智能体自主审查修复代码",
+      "url": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
+      "summary": "Anthropic 推出 Claude Ship，可让 AI 智能体自主审查、修复并批准代码改动，进一步深入开发工作流。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "title_zh": "Anthropic 股价跌破 IPO 发行价，为 AI 初创企业敲响警钟",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "summary": "Anthropic 股价跌破首次公开募股发行价，被视为对 AI 初创企业估值前景的担忧信号。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+      "title_zh": "Anthropic MCP 软件开发工具包月下载量突破 7 亿",
+      "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+      "summary": "Anthropic 宣布 MCP 软件开发工具包月度下载量超过 7 亿次，并扩展协议以支持更自主的 AI 智能体。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "title_zh": "沃尔玛联手 Meta 把黑五优惠带入 AI 助手 Muse",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "summary": "沃尔玛与 Meta 合作，将黑色星期五购物优惠引入 Meta 的 AI 助手 Muse，探索智能体电商。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "title_zh": "亚马逊斥资 75 亿美元收购 Decart 的 AI 优化技术",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "summary": "亚马逊收购 Decart 的 AI 优化技术，交易金额约 75 亿美元，为其准备销售 Trainium 芯片铺路。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "title_zh": "谷歌搜索 AI 模式可调用云端硬盘与钱包数据",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "summary": "谷歌搜索的 AI 模式现在可以接入云端硬盘和钱包，从而提供更个性化的回答。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
+      "title_zh": "Anthropic 研究员为 AI 辅助的黎曼猜想证明辩护",
+      "url": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
+      "summary": "Anthropic 研究员坚持其 AI 辅助完成的黎曼猜想证明，同时承认在发布流程中犯下一些低级错误。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "title_zh": "Tidal 将封禁并清除数百万首 AI 生成曲目",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "summary": "随着 AI 生成内容泛滥，音乐流媒体 Tidal 宣布将封禁并移除数百万首 AI 生成曲目。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "title_zh": "黄仁勋在全员会上感谢白宫并称自己正在接受心理治疗",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "summary": "英伟达 CEO 黄仁勋在全员会议上感谢白宫，并透露自己正在接受心理治疗，回应近期风波。",
+      "content": ""
+    }
+  ]
+}
