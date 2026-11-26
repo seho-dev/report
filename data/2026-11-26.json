@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-26",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "elementalsouls/Claude-BugHunter",
+      "title_zh": "Claude BugHunter 漏洞猎手技能包",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "summary": "一套面向 Claude Code 的漏洞挖掘与外部红队技能合集，包含 85 个技能、16 个斜杠命令和 681 项发现记录。",
+      "content": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "stars": "22967"
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "obra/superpowers",
+      "title_zh": "Superpowers 智能体技能框架",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一个经过实践检验的智能体技能框架与软件开发方法论，帮助 AI 编码代理高效协作完成开发任务。",
+      "content": "An agentic skills framework & software development methodology that works.",
+      "stars": "326595"
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "HKUDS/CLI-Anything",
+      "title_zh": "CLI-Anything 让所有软件原生支持智能体",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "港大开源项目 CLI-Anything，通过 CLI-Hub 让各类软件都能被 AI 智能体原生调用与操作。",
+      "content": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": "65658"
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "jingyaogong/minimind",
+      "title_zh": "MiniMind 两小时从零训练 64M 大模型",
+      "url": "https://github.com/jingyaogong/minimind",
+      "summary": "一个从零开始、两小时内训练出 6400 万参数小型大语言模型的开源项目，适合学习与快速实验。",
+      "content": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "stars": "70929"
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "cursor/plugins",
+      "title_zh": "Cursor 官方插件仓库",
+      "url": "https://github.com/cursor/plugins",
+      "summary": "Cursor 编辑器的插件规范与官方插件集合，展示如何为 AI 编辑器扩展能力。",
+      "content": "Cursor plugin specification and official plugins",
+      "stars": "19523"
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "firecrawl/firecrawl",
+      "title_zh": "Firecrawl 智能体知识基础设施",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "summary": "为 AI 智能体提供搜索、抓取与访问 550 多个数据源的知识基础设施，让代理更聪明地获取网络信息。",
+      "content": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "stars": "210011"
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "nginx/nginx",
+      "title_zh": "Nginx 官方开源仓库",
+      "url": "https://github.com/nginx/nginx",
+      "summary": "NGINX 官方开源代码仓库，是全球广泛使用的高性能 Web 服务器与反向代理软件。",
+      "content": "The official NGINX Open Source repository.",
+      "stars": "33367"
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "openvinotoolkit/openvino",
+      "title_zh": "OpenVINO AI 推理优化部署工具包",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "summary": "英特尔开源的 AI 推理优化与部署工具包，可加速模型在各类硬件上的推理性能。",
+      "content": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "stars": "12650"
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "cathrynlavery/diagram-design",
+      "title_zh": "Diagram Design 图表设计技能库",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "为 Claude Code、Codex、GitHub Copilot、Cursor 等 AI 编码工具打造的编辑级图表设计技能，含 52 种图表样式。",
+      "content": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "73004"
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "mvanhorn/last30days-skill",
+      "title_zh": "Last30Days Skill 近30天研究技能",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "一个 AI 智能体技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket 和网络检索任意主题并综合生成报告。",
+      "content": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": "75090"
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "1Password Security Incident",
+      "title_zh": "1Password 安全事件",
+      "url": "https://news.ycombinator.com/item?id=50644817",
+      "summary": "1Password 披露了一起安全事件，社区围绕事件细节与影响展开热烈讨论。",
+      "content": "HN Score: 1046, Comments: 449"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "The matrix multiplication exponent is nine fourths [pdf]",
+      "title_zh": "矩阵乘法指数降至 9/4",
+      "url": "https://news.ycombinator.com/item?id=50637220",
+      "summary": "一篇新论文宣称将矩阵乘法的指数推进到 9/4，引发理论计算机社区对算法复杂度的广泛关注。",
+      "content": "HN Score: 1019, Comments: 568"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "title_zh": "绕过 iOS Safari 60 FPS 限制打造原生般流畅的 Web 应用",
+      "url": "https://news.ycombinator.com/item?id=50637890",
+      "summary": "开发者探索绕过 iOS Safari 的 60 帧限制，让 Web 应用获得接近原生的流畅动画体验。",
+      "content": "HN Score: 435, Comments: 144"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "title_zh": "Windows 响度均衡功能逆向工程并移植到 PipeWire",
+      "url": "https://news.ycombinator.com/item?id=50641171",
+      "summary": "有人对 Windows 的响度均衡算法进行逆向工程，并将其移植到 Linux 的 PipeWire 音频服务中。",
+      "content": "HN Score: 305, Comments: 172"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "title_zh": "每个仅 3 美元接管美国财政部子域名",
+      "url": "https://news.ycombinator.com/item?id=50638478",
+      "summary": "安全研究者发现可用极低价格接管美国财政部相关子域名，暴露出政府域名管理的配置隐患。",
+      "content": "HN Score: 226, Comments: 48"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "title_zh": "用 Lean 验证 Clojure 核心库发现未报告的错误",
+      "url": "https://news.ycombinator.com/item?id=50642939",
+      "summary": "作者用 Lean 形式化验证工具检查 Clojure 核心代码，找出若干此前未被报告的程序错误。",
+      "content": "HN Score: 172, Comments: 59"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "title_zh": "在浏览器中重温老款 Nvidia 与 ATI 技术演示",
+      "url": "https://news.ycombinator.com/item?id=50638503",
+      "summary": "Show HN 项目让上世纪的 Nvidia 与 ATI 显卡技术演示重新在浏览器里运行，充满复古趣味。",
+      "content": "HN Score: 330, Comments: 73"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "title_zh": "Nfs2root：Linux 内核 NFS 服务中潜藏 12 年的预认证远程 Root 漏洞",
+      "url": "https://news.ycombinator.com/item?id=50647161",
+      "summary": "研究者披露 Linux 内核 NFS 服务端一个存在长达 12 年的预认证远程提权至 Root 的严重漏洞。",
+      "content": "HN Score: 65, Comments: 19"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "In C++, = default and {} are not the same constructor",
+      "title_zh": "C++ 中 = default 与 {} 并非同一个构造函数",
+      "url": "https://news.ycombinator.com/item?id=50643199",
+      "summary": "文章剖析了 C++ 里使用 = default 与空花括号 {} 定义构造函数的细微差别，提醒开发者注意语义陷阱。",
+      "content": "HN Score: 100, Comments: 161"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "title_zh": "OpenAI 合并 Chat 与 Work，重度 ChatGPT 用户或更快触及用量上限",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "summary": "OpenAI 表示在将聊天与工作功能整合后，重度 ChatGPT 用户可能更早遇到使用额度限制。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "title_zh": "Character.AI 拍卖用户私密聊天记录计划遭多州检察长质疑",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "summary": "Character.AI 拟拍卖用户私人对话数据的方案引发美国多州检察长反对，隐私争议升级。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "title_zh": "AI 数据中心建设愈发困难，新型云厂商承压",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "summary": "随着电力与选址资源紧张，AI 数据中心建设难度上升，新兴云服务商（neocloud）首当其冲。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "Even the best AI agents struggle with everyday life",
+      "title_zh": "即便最先进的 AI 智能体也难以应对日常生活",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "summary": "最新评测显示，即便表现最好的 AI 智能体在处理日常琐事时仍然力不从心，暴露出实用化短板。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "title_zh": "AI 生成音乐泛滥，Tidal 将封禁并下架数百万首曲目",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "summary": "面对 AI 垃圾音乐大量涌入，音乐流媒体平台 Tidal 宣布将禁止并删除数百万首 AI 生成曲目。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
+      "title_zh": "AI 智能体已开始掌控 DeepMind 部分算力用于 Gemini 实验",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "summary": "谷歌 DeepMind 让 AI 智能体自主调配部分算力开展 Gemini 实验，但距离递归式自我改进仍有差距。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values",
+      "title_zh": "PrismML 将每个权重压缩至三种取值，把 54GB 语言模型缩减到 5.9GB",
+      "url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
+      "summary": "PrismML 通过把模型每个权重限制为仅三种可能值，将 54GB 的大语言模型压缩至 5.9GB，大幅降低存储需求。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
+      "title_zh": "Anthropic 将 Claude Artifacts 变成 macOS 与 Windows 独立桌面应用",
+      "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+      "summary": "Anthropic 把 Claude 的 Artifacts 功能升级为可在 macOS 和 Windows 上独立运行的桌面应用。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "title_zh": "谷歌定制 AI 视频流专利描绘出娱乐业的黯淡未来",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "summary": "谷歌一项关于定制 AI 视频信息流的专利曝光，引发外界对娱乐内容被算法主导的担忧。",
+      "content": ""
+    }
+  ]
+}
