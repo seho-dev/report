@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-27",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "elementalsouls/Claude-BugHunter",
+      "title_zh": "Claude-BugHunter 漏洞猎手技能包",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "summary": "一套用于漏洞挖掘与外部红队工作的 Claude Code 技能集合，包含 85 项技能和 16 条 slash 命令。",
+      "content": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "stars": 24538
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "obra/superpowers",
+      "title_zh": "Superpowers 智能体技能框架",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一套真正可用的智能体技能框架与软件开发方法论。",
+      "content": "An agentic skills framework & software development methodology that works.",
+      "stars": 327473
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "HKUDS/CLI-Anything",
+      "title_zh": "CLI-Anything 让所有软件原生支持智能体",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "让所有软件都具备智能体原生能力的项目，配套 CLI-Hub 命令行中心。",
+      "content": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 66343
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "jingyaogong/minimind",
+      "title_zh": "MiniMind 两小时从零训练 64M 大模型",
+      "url": "https://github.com/jingyaogong/minimind",
+      "summary": "用两小时从零开始训练出 64M 参数大模型的开源项目。",
+      "content": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "stars": 71615
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "cursor/plugins",
+      "title_zh": "Cursor 官方插件规范与插件集",
+      "url": "https://github.com/cursor/plugins",
+      "summary": "Cursor 编辑器插件规范以及官方插件集合。",
+      "content": "Cursor plugin specification and official plugins",
+      "stars": 19779
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "firecrawl/firecrawl",
+      "title_zh": "Firecrawl 智能体知识抓取基础设施",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "summary": "为智能体提供搜索、抓取与访问 550 多个数据源的知识基础设施。",
+      "content": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "stars": 210922
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "nginx/nginx",
+      "title_zh": "NGINX 开源官方仓库",
+      "url": "https://github.com/nginx/nginx",
+      "summary": "NGINX 开源项目的官方代码仓库。",
+      "content": "The official NGINX Open Source repository.",
+      "stars": 33520
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "openvinotoolkit/openvino",
+      "title_zh": "OpenVINO AI 推理优化部署工具套件",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "summary": "用于优化和部署 AI 推理的开源工具套件。",
+      "content": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "stars": 12815
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "cathrynlavery/diagram-design",
+      "title_zh": "Diagram Design 图表设计技能",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "面向 Claude Code、Codex、GitHub Copilot、Cursor 等工具的编辑级图表设计技能。",
+      "content": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 73831
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "mvanhorn/last30days-skill",
+      "title_zh": "Last30Days 智能体调研技能",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "一个跨 Reddit、X、YouTube、Hacker News 等平台调研任意主题的智能体技能。",
+      "content": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 75737
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "1Password Security Incident",
+      "title_zh": "1Password 安全事件",
+      "url": "https://news.ycombinator.com/item?id=50644817",
+      "summary": "1Password 披露了一起安全事件，引发了 Hacker News 社区对事件细节与影响的广泛讨论。",
+      "content": "HN Score: 1626, Comments: 702"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Intel One Mono font (2023)",
+      "title_zh": "Intel One Mono 等宽字体",
+      "url": "https://news.ycombinator.com/item?id=50653667",
+      "summary": "英特尔发布的开源等宽字体 One Mono，专为开发者打造，具备出色的可读性与字形设计。",
+      "content": "HN Score: 448, Comments: 234"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "Nextcloud Office Desktop app",
+      "title_zh": "Nextcloud Office 桌面应用",
+      "url": "https://news.ycombinator.com/item?id=50654289",
+      "summary": "Nextcloud 推出 Office 桌面应用，将在线办公套件带到桌面端，方便离线使用与协作。",
+      "content": "HN Score: 393, Comments: 201"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "Moat: OpenRouter replacement",
+      "title_zh": "Moat：OpenRouter 的替代方案",
+      "url": "https://news.ycombinator.com/item?id=50652184",
+      "summary": "Moat 是一个开源的 OpenRouter 替代项目，为大模型 API 路由提供新的选择。",
+      "content": "HN Score: 243, Comments: 135"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "title_zh": "YouTube 广告克星：播放广告时自动重新加载页面",
+      "url": "https://news.ycombinator.com/item?id=50657530",
+      "summary": "一个自动检测 YouTube 广告并重新加载页面的工具，引发热议。",
+      "content": "HN Score: 226, Comments: 304"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+      "title_zh": "RansomwareHelp 首席技术官因电信欺诈被起诉",
+      "url": "https://news.ycombinator.com/item?id=50657645",
+      "summary": "名为 RansomwareHelp 的公司首席技术官因电信欺诈罪名遭到起诉。",
+      "content": "HN Score: 188, Comments: 85"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
+      "title_zh": "IBM 要求 H-1B 与绿卡持有者三周内迁离美国或离职",
+      "url": "https://news.ycombinator.com/item?id=50658170",
+      "summary": "IBM 向 H-1B 签证与绿卡持有员工发出通知，要求三周内迁离美国或离开公司。",
+      "content": "HN Score: 114, Comments: 79"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "title_zh": "Show HN：浏览器标签页中运行三台 Linux 虚拟机，各跑不同浏览器",
+      "url": "https://news.ycombinator.com/item?id=50656036",
+      "summary": "一个在浏览器标签页中同时运行三台 Linux 虚拟机的项目，每台虚拟机运行不同的浏览器。",
+      "content": "HN Score: 108, Comments: 26"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+      "title_zh": "Rvoip 0.5：用 Rust 编写的完整 VoIP 协议栈",
+      "url": "https://news.ycombinator.com/item?id=50658632",
+      "summary": "Rvoip 0.5 发布，这是一个用 Rust 编写的完整 VoIP 协议栈。",
+      "content": "HN Score: 63, Comments: 14"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "title_zh": "美国 42 个州总检察长试图阻止 Character.AI 出售用户聊天记录",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "summary": "美国 42 个州的总检察长正采取行动，试图阻止 Character.AI 向第三方出售用户的聊天对话数据。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "title_zh": "谷歌定制 AI 视频流专利描绘出娱乐业的黯淡未来",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "summary": "谷歌申请的一项定制 AI 视频流专利引发担忧，被认为预示着娱乐行业令人担忧的未来图景。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "title_zh": "Nothing 首次完整展示其 AI 耳机与充电盒",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "summary": "Nothing 公司首次完整展示了其 AI 耳机以及配套充电盒的设计与功能。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "title_zh": "大卫·芬奇因新片疑似使用 AI 而遭抨击",
+      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "summary": "导演大卫·芬奇因最新电影被怀疑使用 AI 技术而受到舆论批评。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "Tidal will start banning AI-generated music next month",
+      "title_zh": "Tidal 下月起将封禁 AI 生成的音乐",
+      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "summary": "音乐流媒体平台 Tidal 宣布从下个月开始禁止 AI 生成的音乐内容。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+      "title_zh": "OpenAI 修复定价错误后，GPT-6.2 Astra 用户触达限额速度加快 40%",
+      "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+      "summary": "在 OpenAI 修复一处定价错误之后，GPT-6.2 Astra 用户达到使用限额的速度加快约 40%。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+      "title_zh": "微软详述国家支持的黑客如何利用 ARTEX AI 框架自动化网络攻击",
+      "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+      "summary": "微软发布报告，详细说明国家支持的黑客组织如何利用 ARTEX AI 框架来自动化网络攻击。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+      "title_zh": "美国出口管制收紧后，英伟达暂停向马来西亚、新加坡、泰国和印尼出货服务器",
+      "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+      "summary": "在美国出口管制进一步收紧后，英伟达暂停向马来西亚、新加坡、泰国和印度尼西亚交付服务器。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
+      "title_zh": "Anthropic 首席执行官达里奥·阿莫迪称让 AI 治理社会是个坏主意",
+      "url": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
+      "summary": "Anthropic 首席执行官达里奥·阿莫迪表示，让人工智能来治理社会并不是一个好主意。",
+      "content": ""
+    }
+  ]
+}
