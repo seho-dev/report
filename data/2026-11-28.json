@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-28",
+  "reports": [
+    {
+      "id": "gh-1",
+      "type": "github",
+      "title": "elementalsouls/Claude-BugHunter",
+      "title_zh": "Claude BugHunter 漏洞猎手技能包",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "summary": "一套面向 Claude Code 的漏洞挖掘与外部红队演习技能包，包含 85 项技能和 16 条斜杠命令。",
+      "content": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "stars": 26051
+    },
+    {
+      "id": "gh-2",
+      "type": "github",
+      "title": "obra/superpowers",
+      "title_zh": "Superpowers 智能体技能框架",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "一套切实可用的智能体技能框架与软件开发方法论。",
+      "content": "An agentic skills framework & software development methodology that works.",
+      "stars": 328291
+    },
+    {
+      "id": "gh-3",
+      "type": "github",
+      "title": "HKUDS/CLI-Anything",
+      "title_zh": "CLI-Anything 让所有软件原生支持智能体",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "CLI-Anything：让所有软件都能被智能体原生调用，附带 CLI-Hub 中心。",
+      "content": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 66990
+    },
+    {
+      "id": "gh-4",
+      "type": "github",
+      "title": "jingyaogong/minimind",
+      "title_zh": "MiniMind 两小时从零训练 64M 大模型",
+      "url": "https://github.com/jingyaogong/minimind",
+      "summary": "两小时从零训练出你的 64M 参数大模型，提供完整的中文大模型训练教程。",
+      "content": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "stars": 72202
+    },
+    {
+      "id": "gh-5",
+      "type": "github",
+      "title": "cursor/plugins",
+      "title_zh": "Cursor 官方插件仓库",
+      "url": "https://github.com/cursor/plugins",
+      "summary": "Cursor 编辑器插件规范与官方插件集合。",
+      "content": "Cursor plugin specification and official plugins",
+      "stars": 20011
+    },
+    {
+      "id": "gh-6",
+      "type": "github",
+      "title": "firecrawl/firecrawl",
+      "title_zh": "Firecrawl 智能体数据抓取基础设施",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "summary": "为智能体提供知识基础设施，支持搜索、抓取并访问 550 多个数据源。",
+      "content": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "stars": 211671
+    },
+    {
+      "id": "gh-7",
+      "type": "github",
+      "title": "nginx/nginx",
+      "title_zh": "NGINX 官方开源仓库",
+      "url": "https://github.com/nginx/nginx",
+      "summary": "NGINX 开源项目的官方代码仓库。",
+      "content": "The official NGINX Open Source repository.",
+      "stars": 33662
+    },
+    {
+      "id": "gh-8",
+      "type": "github",
+      "title": "openvinotoolkit/openvino",
+      "title_zh": "OpenVINO 开源 AI 推理优化工具套件",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "summary": "OpenVINO 是用于优化和部署 AI 推理的开源工具套件。",
+      "content": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "stars": 12949
+    },
+    {
+      "id": "gh-9",
+      "type": "github",
+      "title": "cathrynlavery/diagram-design",
+      "title_zh": "Diagram Design 图表设计技能",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "面向 Claude Code、Codex、GitHub Copilot、Cursor 等工具的编辑级图表设计技能。",
+      "content": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 74447
+    },
+    {
+      "id": "gh-10",
+      "type": "github",
+      "title": "mvanhorn/last30days-skill",
+      "title_zh": "Last30Days Skill 近30天热点调研技能",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "一个智能体技能，可跨 Reddit、X、YouTube、HN、Polymarket 等平台调研任意话题。",
+      "content": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 76353
+    },
+    {
+      "id": "hn-1",
+      "type": "hn",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "title_zh": "在热门购物网站发现利用 WebRTC 的信用卡盗刷脚本",
+      "url": "https://news.ycombinator.com/item?id=50668145",
+      "summary": "安全研究人员发现多个热门购物网站被植入利用 WebRTC 技术的信用卡信息盗刷脚本。",
+      "content": "HN Score: 395, Comments: 201"
+    },
+    {
+      "id": "hn-2",
+      "type": "hn",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "title_zh": "卡米尔·汗·穆塔兹：备受本土推崇却几乎不为外界所知的巴基斯坦建筑师",
+      "url": "https://news.ycombinator.com/item?id=50659841",
+      "summary": "一篇人物特写，讲述巴基斯坦建筑师卡米尔·汗·穆塔兹在本国广受赞誉却在国际上鲜为人知的经历。",
+      "content": "HN Score: 504, Comments: 129"
+    },
+    {
+      "id": "hn-3",
+      "type": "hn",
+      "title": "US Air Force's cloud computing platform hacked",
+      "title_zh": "报道称黑客攻破了美国空军旗舰云平台 Cloud One",
+      "url": "https://news.ycombinator.com/item?id=50666375",
+      "summary": "据报道，黑客成功入侵了美国空军旗舰级云计算平台 Cloud One，引发对军事云安全的担忧。",
+      "content": "HN Score: 317, Comments: 199"
+    },
+    {
+      "id": "hn-4",
+      "type": "hn",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "title_zh": "对形式化可验证的主流编程语言的需求",
+      "url": "https://news.ycombinator.com/item?id=50663089",
+      "summary": "文章探讨为何我们需要一门能够被形式化验证的主流编程语言，以提升软件的可靠性与安全性。",
+      "content": "HN Score: 307, Comments: 297"
+    },
+    {
+      "id": "hn-5",
+      "type": "hn",
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "title_zh": "Show HN：bouncemarket —— 弹球实时预测市场游戏",
+      "url": "https://news.ycombinator.com/item?id=50667726",
+      "summary": "一个围绕弹跳球展开的实时预测市场游戏，参与者可对弹球结果进行下注预测。",
+      "content": "HN Score: 320, Comments: 110"
+    },
+    {
+      "id": "hn-6",
+      "type": "hn",
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "title_zh": "求解离散对数问题的确定性亚指数时间算法 [论文]",
+      "url": "https://news.ycombinator.com/item?id=50665968",
+      "summary": "一篇学术论文提出求解离散对数问题的确定性亚指数时间算法，对密码学具有重要意义。",
+      "content": "HN Score: 202, Comments: 90"
+    },
+    {
+      "id": "hn-7",
+      "type": "hn",
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "title_zh": "DART 小行星偏转实验撞击影响的首批图像",
+      "url": "https://news.ycombinator.com/item?id=50657392",
+      "summary": "NASA 的 DART 小行星防御实验公布撞击后的首批图像，展示对小行星轨道偏转的实际效果。",
+      "content": "HN Score: 179, Comments: 54"
+    },
+    {
+      "id": "hn-8",
+      "type": "hn",
+      "title": "False computer-checked proofs",
+      "title_zh": "错误的计算机辅助证明",
+      "url": "https://news.ycombinator.com/item?id=50667989",
+      "summary": "文章讨论计算机辅助数学证明中出现错误的情况，以及由此引发的关于证明可靠性的思考。",
+      "content": "HN Score: 173, Comments: 75"
+    },
+    {
+      "id": "hn-9",
+      "type": "hn",
+      "title": "New York and California age gating rules go into effect in the new year",
+      "title_zh": "纽约和加州年龄验证新规将于新年生效",
+      "url": "https://news.ycombinator.com/item?id=50666279",
+      "summary": "美国纽约州和加利福尼亚州针对在线平台的用户年龄验证新规将在新的一年正式生效。",
+      "content": "HN Score: 184, Comments: 214"
+    },
+    {
+      "id": "ai-1",
+      "type": "ai",
+      "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+      "title_zh": "OpenAI 起诉苹果窃取商业秘密并胁迫共同供应商",
+      "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+      "summary": "OpenAI 对苹果提起诉讼，指控其窃取商业秘密，并涉嫌胁迫双方共用的供应商。",
+      "content": ""
+    },
+    {
+      "id": "ai-2",
+      "type": "ai",
+      "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+      "title_zh": "Meta 与 AMI Labs 三项研究支持杨立昆对 JEPA 世界模型的押注",
+      "url": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+      "summary": "来自 Meta 与 AMI Labs 的三项研究为杨立昆主张的 JEPA 世界模型路线提供了支持，挑战大语言模型的主流方向。",
+      "content": ""
+    },
+    {
+      "id": "ai-3",
+      "type": "ai",
+      "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+      "title_zh": "OpenAI 正在构建 Athena 数据平台以减少智能体臆测",
+      "url": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+      "summary": "OpenAI 正在打造名为 Athena 的数据平台，旨在减少 AI 智能体的猜测和幻觉，提升回答准确性。",
+      "content": ""
+    },
+    {
+      "id": "ai-4",
+      "type": "ai",
+      "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+      "title_zh": "SAP 计划裁员至少一万人以转向 AI",
+      "url": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+      "summary": "德国软件巨头 SAP 宣布计划裁减至少 10000 个岗位，以加速向人工智能领域转型。",
+      "content": ""
+    },
+    {
+      "id": "ai-5",
+      "type": "ai",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "title_zh": "42 州总检察长试图阻止 Character.AI 出售用户聊天记录",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "summary": "美国 42 个州的总检察长正联合行动，试图阻止 Character.AI 出售用户的私人聊天数据。",
+      "content": ""
+    },
+    {
+      "id": "ai-6",
+      "type": "ai",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "title_zh": "谷歌定制 AI 视频信息流专利描绘娱乐业的黯淡未来",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "summary": "谷歌一项关于定制 AI 视频信息流的专利引发担忧，被认为预示了娱乐行业令人忧虑的未来图景。",
+      "content": ""
+    },
+    {
+      "id": "ai-7",
+      "type": "ai",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "title_zh": "OpenAI 称重度 ChatGPT 用户将更快触及用量上限",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "summary": "OpenAI 表示，随着 Chat 与 Work 功能合并，重度 ChatGPT 用户可能会更早遇到用量限制。",
+      "content": ""
+    },
+    {
+      "id": "ai-8",
+      "type": "ai",
+      "title": "Even the best AI agents struggle with everyday life",
+      "title_zh": "即便最优秀的 AI 智能体也难以应对日常生活",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "summary": "研究表明，即便是当前最先进的 AI 智能体，在处理日常现实任务时仍然表现不佳。",
+      "content": ""
+    },
+    {
+      "id": "ai-9",
+      "type": "ai",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "title_zh": "Anthropic 股价跌破 IPO 发行价，为 AI 初创企业敲响警钟",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "summary": "Anthropic 的估值跌破首次公开募股价格，被视为对 AI 初创公司估值泡沫的一个警示信号。",
+      "content": ""
+    }
+  ]
+}
